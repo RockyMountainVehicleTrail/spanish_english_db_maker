@@ -1,0 +1,95 @@
+human_desc`ending`root`person`number`tense`mood`voice`extra`gender
+comer`````````
+com`````````
+present`digo`root`1`sing`present`indicative`active``
+indicative`dices`root`2`sing`present`indicative`active``
+`dices`root`3`sing`present`indicative`active``
+`decimos`root`1`plural`present`indicative`active``
+`decís`root`2`plural`present`indicative`active``
+`dicen`root`3`plural`present`indicative`active``
+`````````
+`````````
+past pasticiple`dicho`root```past```participle`
+`dicho`root``sing````participle adj`masc
+`dicha`root``sing````participle adj`fem
+`dichos`root``plural````participle adj`masc
+`dichas`root``plural````participle adj`fem
+`````````
+`````````
+`````````
+present part`diciendo`root```present```participle`
+`````````
+`````````
+past`decía`root`1`sing`imperfect`indicative`active``
+imperfect`decías`root`2`sing`imperfect`indicative`active``
+`decía`root`3`sing`imperfect`indicative`active``
+`decíamos`root`1`plural`imperfect`indicative`active``
+`decíais`root`2`plural`imperfect`indicative`active``
+`decían`root`3`plural`imperfect`indicative`active``
+`````````
+`````````
+`````````
+past`dije`root`1`sing`preterite / past definite`indicative`active``
+definite`dijiste`root`2`sing`preterite / past definite`indicative`active``
+preterite`dijo`root`3`sing`preterite / past definite`indicative`active``
+`dijimos`root`1`plural`preterite / past definite`indicative`active``
+`dijisteis`root`2`plural`preterite / past definite`indicative`active``
+`dijeron`root`3`plural`preterite / past definite`indicative`active``
+`````````
+`````````
+`````````
+future`diré`infinitive`1`sing`future`indicative`active``
+`dirás`infinitive`2`sing`future`indicative`active``
+`dirá`infinitive`3`sing`future`indicative`active``
+`diremos`infinitive`1`plural`future`indicative`active``
+`diréis`infinitive`2`plural`future`indicative`active``
+`dirán`infinitive`3`plural`future`indicative`active``
+`````````
+`````````
+`````````
+conditional`diría`infinitive`1`sing`conditional`indicative```
+`dirías`infinitive`2`sing`conditional`indicative```
+`diría`infinitive`3`sing`conditional`indicative```
+`diríamos`infinitive`1`plural`conditional`indicative```
+`diríais`infinitive`2`plural`conditional`indicative```
+`dirían`infinitive`3`plural`conditional`indicative```
+`````````
+`````````
+`````````
+present`diga`root`1`sing`present`subjunctive```
+subjunctive`digas`root`2`sing`present`subjunctive```
+`diga`root`3`sing`present`subjunctive```
+`digamos`root`1`plural`present`subjunctive```
+`digáis`root`2`plural`present`subjunctive```
+`digan`root`3`plural`present`subjunctive```
+`````````
+`````````
+`````````
+imperfect`dijese`root`1`sing`imperfect`subjunctive``se`
+subjunctive`dijeses`root`2`sing`imperfect`subjunctive``se`
+`dijese`root`3`sing`imperfect`subjunctive``se`
+`dijésemos`root`1`plural`imperfect`subjunctive``se`
+`dijeseis`root`2`plural`imperfect`subjunctive``se`
+`dijesen`root`3`plural`imperfect`subjunctive``se`
+`````````
+`````````
+`````````
+imperfect`dijera`root`1`sing`imperfect`subjunctive``ra`
+subjunctive`dijeras`root`2`sing`imperfect`subjunctive``ra`
+`dijera`root`3`sing`imperfect`subjunctive``ra`
+`dijéramos`root`1`plural`imperfect`subjunctive``ra`
+`dijerais`root`2`plural`imperfect`subjunctive``ra`
+`dijeran`root`3`plural`imperfect`subjunctive``ra`
+`````````
+`````````
+future`dijere`root`1`sing`future / hypothetical`subjunctive```
+subjunctive`dijeres`root`2`sing`future / hypothetical`subjunctive```
+`dijere`root`3`sing`future / hypothetical`subjunctive```
+`dijéremos`root`1`plural`future / hypothetical`subjunctive```
+`dijereis`root`2`plural`future / hypothetical`subjunctive```
+`dijeren`root`3`plural`future / hypothetical`subjunctive```
+`````````
+`````````
+`````````
+imperative`di``2`sing``imperative```
+`decid``2`plural``imperative```

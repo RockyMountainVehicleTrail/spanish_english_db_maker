@@ -1,0 +1,95 @@
+human_desc`ending`root`person`number`tense`mood`voice`extra`gender
+comer`````````
+com`````````
+present`vengo`root`1`sing`present`indicative`active``
+indicative`vienes`root`2`sing`present`indicative`active``
+`viene`root`3`sing`present`indicative`active``
+`venimos`root`1`plural`present`indicative`active``
+`venís`root`2`plural`present`indicative`active``
+`vienen`root`3`plural`present`indicative`active``
+`````````
+`````````
+past pasticiple`venido`root```past```participle`
+`venido`root``sing````participle adj`masc
+`venida`root``sing````participle adj`fem
+`venidos`root``plural````participle adj`masc
+`venidas`root``plural````participle adj`fem
+`````````
+`````````
+`````````
+present part`viniendo`root```present```participle`
+`````````
+`````````
+past`venía`root`1`sing`imperfect`indicative`active``
+imperfect`venías`root`2`sing`imperfect`indicative`active``
+`venía`root`3`sing`imperfect`indicative`active``
+`veníamos`root`1`plural`imperfect`indicative`active``
+`veníais`root`2`plural`imperfect`indicative`active``
+`venían`root`3`plural`imperfect`indicative`active``
+`````````
+`````````
+`````````
+past`vine`root`1`sing`preterite / past definite`indicative`active``
+definite`viniste`root`2`sing`preterite / past definite`indicative`active``
+preterite`vino`root`3`sing`preterite / past definite`indicative`active``
+`vinimos`root`1`plural`preterite / past definite`indicative`active``
+`vinisteis`root`2`plural`preterite / past definite`indicative`active``
+`vinieron`root`3`plural`preterite / past definite`indicative`active``
+`````````
+`````````
+`````````
+future`vendré`infinitive`1`sing`future`indicative`active``
+`vendrás`infinitive`2`sing`future`indicative`active``
+`vendrá`infinitive`3`sing`future`indicative`active``
+`vendremos`infinitive`1`plural`future`indicative`active``
+`vendréis`infinitive`2`plural`future`indicative`active``
+`vendrán`infinitive`3`plural`future`indicative`active``
+`````````
+`````````
+`````````
+conditional`vendría`infinitive`1`sing`conditional`indicative```
+`vendrías`infinitive`2`sing`conditional`indicative```
+`vendría`infinitive`3`sing`conditional`indicative```
+`vendríamos`infinitive`1`plural`conditional`indicative```
+`vendríais`infinitive`2`plural`conditional`indicative```
+`vendrían`infinitive`3`plural`conditional`indicative```
+`````````
+`````````
+`````````
+present`venga`root`1`sing`present`subjunctive```
+subjunctive`vengas`root`2`sing`present`subjunctive```
+`venga`root`3`sing`present`subjunctive```
+`vengamos`root`1`plural`present`subjunctive```
+`vengráis`root`2`plural`present`subjunctive```
+`vengan`root`3`plural`present`subjunctive```
+`````````
+`````````
+`````````
+imperfect`viniese`root`1`sing`imperfect`subjunctive``se`
+subjunctive`vinieses`root`2`sing`imperfect`subjunctive``se`
+`viniese`root`3`sing`imperfect`subjunctive``se`
+`viniésemos`root`1`plural`imperfect`subjunctive``se`
+`vinieseis`root`2`plural`imperfect`subjunctive``se`
+`viniesen`root`3`plural`imperfect`subjunctive``se`
+`````````
+`````````
+`````````
+imperfect`viniera`root`1`sing`imperfect`subjunctive``ra`
+subjunctive`vinieras`root`2`sing`imperfect`subjunctive``ra`
+`viniera`root`3`sing`imperfect`subjunctive``ra`
+`viniéramos`root`1`plural`imperfect`subjunctive``ra`
+`vinierais`root`2`plural`imperfect`subjunctive``ra`
+`vinieran`root`3`plural`imperfect`subjunctive``ra`
+`````````
+`````````
+future`viniere`root`1`sing`future / hypothetical`subjunctive```
+subjunctive`vinieres`root`2`sing`future / hypothetical`subjunctive```
+`viniere`root`3`sing`future / hypothetical`subjunctive```
+`viniéremos`root`1`plural`future / hypothetical`subjunctive```
+`viniereis`root`2`plural`future / hypothetical`subjunctive```
+`vinieren`root`3`plural`future / hypothetical`subjunctive```
+`````````
+`````````
+`````````
+imperative`ven``2`sing``imperative```
+`venid``2`plural``imperative```

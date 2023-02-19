@@ -1,0 +1,95 @@
+human_desc`ending`root`person`number`tense`mood`voice`extra`gender
+hablar   `````````
+habl`````````
+present`estoy`root`1`sing`present`indicative`active``
+indicative`estás`root`2`sing`present`indicative`active``
+`está`root`3`sing`present`indicative`active``
+`estamos`root`1`plural`present`indicative`active``
+`estáis`root`2`plural`present`indicative`active``
+`están`root`3`plural`present`indicative`active``
+`````````
+`````````
+past pasticiple`estado`root```past```participle`
+`estado`root``sing````participle adj`masc
+`estada`root``sing````participle adj`fem
+`estados`root``plural````participle adj`masc
+`estadas`root``plural````participle adj`fem
+`````````
+`````````
+`````````
+present part`estando`root```present```participle`
+`````````
+`````````
+past`estaba`root`1`sing`imperfect`indicative`active``
+imperfect`estabas`root`2`sing`imperfect`indicative`active``
+`estaba`root`3`sing`imperfect`indicative`active``
+`estábamos`root`1`plural`imperfect`indicative`active``
+`estabais`root`2`plural`imperfect`indicative`active``
+`estaban`root`3`plural`imperfect`indicative`active``
+`````````
+`````````
+`````````
+past`estuve`root`1`sing`preterite / past definite`indicative`active``
+definite`estuviste`root`2`sing`preterite / past definite`indicative`active``
+preterite`estuvo`root`3`sing`preterite / past definite`indicative`active``
+`estuvimos`root`1`plural`preterite / past definite`indicative`active``
+`estuvisteis`root`2`plural`preterite / past definite`indicative`active``
+`estuvieron`root`3`plural`preterite / past definite`indicative`active``
+`````````
+`````````
+`````````
+future`estaré`infinitive`1`sing`future`indicative`active``
+`estarás`infinitive`2`sing`future`indicative`active``
+`estará`infinitive`3`sing`future`indicative`active``
+`estaremos`infinitive`1`plural`future`indicative`active``
+`estaréis`infinitive`2`plural`future`indicative`active``
+`estarán`infinitive`3`plural`future`indicative`active``
+`````````
+`````````
+`````````
+conditional`estaría`infinitive`1`sing`conditional`indicative```
+`estarías`infinitive`2`sing`conditional`indicative```
+`estaría`infinitive`3`sing`conditional`indicative```
+`estaríamos`infinitive`1`plural`conditional`indicative```
+`estaríais`infinitive`2`plural`conditional`indicative```
+`estarian`infinitive`3`plural`conditional`indicative```
+`````````
+`````````
+`````````
+present`esté`root`1`sing`present`subjunctive```
+subjunctive`estés`root`2`sing`present`subjunctive```
+`esté`root`3`sing`present`subjunctive```
+`estemos`root`1`plural`present`subjunctive```
+`estéis`root`2`plural`present`subjunctive```
+`estén`root`3`plural`present`subjunctive```
+`````````
+`````````
+`````````
+imperfect`estuviese`root`1`sing`imperfect`subjunctive``se`
+subjunctive`estuvieses`root`2`sing`imperfect`subjunctive``se`
+`estuviese`root`3`sing`imperfect`subjunctive``se`
+`estuviésemos`root`1`plural`imperfect`subjunctive``se`
+`estuvieseis`root`2`plural`imperfect`subjunctive``se`
+`estuviesen`root`3`plural`imperfect`subjunctive``se`
+`````````
+`````````
+`````````
+imperfect`estuviera`root`1`sing`imperfect`subjunctive``ra`
+subjunctive`estuvieras`root`2`sing`imperfect`subjunctive``ra`
+`estuviera`root`3`sing`imperfect`subjunctive``ra`
+`estuviéramos`root`1`plural`imperfect`subjunctive``ra`
+`estuvierais`root`2`plural`imperfect`subjunctive``ra`
+`estuvieran`root`3`plural`imperfect`subjunctive``ra`
+`````````
+`````````
+future`estuviere`root`1`sing`future / hypothetical`subjunctive```
+subjunctive`estuvieres`root`2`sing`future / hypothetical`subjunctive```
+`estuviere`root`3`sing`future / hypothetical`subjunctive```
+`estuviéremos`root`1`plural`future / hypothetical`subjunctive```
+`estuviereis`root`2`plural`future / hypothetical`subjunctive```
+`estuvieren`root`3`plural`future / hypothetical`subjunctive```
+`````````
+`````````
+`````````
+imperative`está``2`sing``imperative```
+`estada``2`plural``imperative```

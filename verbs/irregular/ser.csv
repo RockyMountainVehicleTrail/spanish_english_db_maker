@@ -1,0 +1,95 @@
+human_desc`ending`root`person`number`tense`mood`voice`extra`gender
+hablar   `````````
+habl`````````
+present`soy`root`1`sing`present`indicative`active``
+indicative`eras`root`2`sing`present`indicative`active``
+`es`root`3`sing`present`indicative`active``
+`somos`root`1`plural`present`indicative`active``
+`sois`root`2`plural`present`indicative`active``
+`son`root`3`plural`present`indicative`active``
+`````````
+`````````
+past pasticiple`sido`root```past```participle`
+`sido`root``sing````participle adj`masc
+`sida`root``sing````participle adj`fem
+`sidos`root``plural````participle adj`masc
+`sidas`root``plural````participle adj`fem
+`````````
+`````````
+`````````
+present part`siendo`root```present```participle`
+`````````
+`````````
+past`era`root`1`sing`imperfect`indicative`active``
+imperfect`eras`root`2`sing`imperfect`indicative`active``
+`era`root`3`sing`imperfect`indicative`active``
+`éramos`root`1`plural`imperfect`indicative`active``
+`erais`root`2`plural`imperfect`indicative`active``
+`eran`root`3`plural`imperfect`indicative`active``
+`````````
+`````````
+`````````
+past`fuí`root`1`sing`preterite / past definite`indicative`active``
+definite`fuiste`root`2`sing`preterite / past definite`indicative`active``
+preterite`fué`root`3`sing`preterite / past definite`indicative`active``
+`fuimos`root`1`plural`preterite / past definite`indicative`active``
+`fuisteis`root`2`plural`preterite / past definite`indicative`active``
+`fueron`root`3`plural`preterite / past definite`indicative`active``
+`````````
+`````````
+`````````
+future`seré`infinitive`1`sing`future`indicative`active``
+`serás`infinitive`2`sing`future`indicative`active``
+`será`infinitive`3`sing`future`indicative`active``
+`seremos`infinitive`1`plural`future`indicative`active``
+`seréis`infinitive`2`plural`future`indicative`active``
+`serán`infinitive`3`plural`future`indicative`active``
+`````````
+`````````
+`````````
+conditional`sería`infinitive`1`sing`conditional`indicative```
+`serías`infinitive`2`sing`conditional`indicative```
+`sería`infinitive`3`sing`conditional`indicative```
+`seríamos`infinitive`1`plural`conditional`indicative```
+`seríais`infinitive`2`plural`conditional`indicative```
+`serían`infinitive`3`plural`conditional`indicative```
+`````````
+`````````
+`````````
+present`sea`root`1`sing`present`subjunctive```
+subjunctive`seas`root`2`sing`present`subjunctive```
+`sea`root`3`sing`present`subjunctive```
+`seamos`root`1`plural`present`subjunctive```
+`seáis`root`2`plural`present`subjunctive```
+`sean`root`3`plural`present`subjunctive```
+`````````
+`````````
+`````````
+imperfect`fuese`root`1`sing`imperfect`subjunctive``se`
+subjunctive`fueses`root`2`sing`imperfect`subjunctive``se`
+`fuese`root`3`sing`imperfect`subjunctive``se`
+`fuésemos`root`1`plural`imperfect`subjunctive``se`
+`fueseis`root`2`plural`imperfect`subjunctive``se`
+`fuesen`root`3`plural`imperfect`subjunctive``se`
+`````````
+`````````
+`````````
+imperfect`fuera`root`1`sing`imperfect`subjunctive``ra`
+subjunctive`fueras`root`2`sing`imperfect`subjunctive``ra`
+`fuera`root`3`sing`imperfect`subjunctive``ra`
+`fuéramos`root`1`plural`imperfect`subjunctive``ra`
+`fuerais`root`2`plural`imperfect`subjunctive``ra`
+`fueran`root`3`plural`imperfect`subjunctive``ra`
+`````````
+`````````
+future`fuere`root`1`sing`future / hypothetical`subjunctive```
+subjunctive`fueres`root`2`sing`future / hypothetical`subjunctive```
+`fuere`root`3`sing`future / hypothetical`subjunctive```
+`fuéremos`root`1`plural`future / hypothetical`subjunctive```
+`fuereis`root`2`plural`future / hypothetical`subjunctive```
+`fueren`root`3`plural`future / hypothetical`subjunctive```
+`````````
+`````````
+`````````
+imperative`sé``2`sing``imperative```
+`sed``2`plural``imperative```

@@ -1,0 +1,90 @@
+human_desc`ending`root`person`number`tense`mood`voice`extra`gender
+comer`````````
+com`````````
+present`puedo`root`1`sing`present`indicative`active``
+indicative`puedes`root`2`sing`present`indicative`active``
+`puedes`root`3`sing`present`indicative`active``
+`podemos`root`1`plural`present`indicative`active``
+`podeís`root`2`plural`present`indicative`active``
+`pueden`root`3`plural`present`indicative`active``
+`````````
+`````````
+past pasticiple`podido`root```past```participle`
+`podido`root``sing````participle adj`masc
+`podida`root``sing````participle adj`fem
+`podidos`root``plural````participle adj`masc
+`podidas`root``plural````participle adj`fem
+`````````
+`````````
+`````````
+present part`pudiendo`root```present```participle`
+`````````
+`````````
+past`podía`root`1`sing`imperfect`indicative`active``
+imperfect`podías`root`2`sing`imperfect`indicative`active``
+`podía`root`3`sing`imperfect`indicative`active``
+`podíamos`root`1`plural`imperfect`indicative`active``
+`podíais`root`2`plural`imperfect`indicative`active``
+`podían`root`3`plural`imperfect`indicative`active``
+`````````
+`````````
+`````````
+past`pude`root`1`sing`preterite / past definite`indicative`active``
+definite`pudiste`root`2`sing`preterite / past definite`indicative`active``
+preterite`pudo`root`3`sing`preterite / past definite`indicative`active``
+`pudimos`root`1`plural`preterite / past definite`indicative`active``
+`pudisteis`root`2`plural`preterite / past definite`indicative`active``
+`pudieron`root`3`plural`preterite / past definite`indicative`active``
+`````````
+`````````
+`````````
+future`podré`infinitive`1`sing`future`indicative`active``
+`podrás`infinitive`2`sing`future`indicative`active``
+`podrá`infinitive`3`sing`future`indicative`active``
+`podremos`infinitive`1`plural`future`indicative`active``
+`podréis`infinitive`2`plural`future`indicative`active``
+`podrán`infinitive`3`plural`future`indicative`active``
+`````````
+`````````
+`````````
+conditional`podría`infinitive`1`sing`conditional`indicative```
+`podrías`infinitive`2`sing`conditional`indicative```
+`podría`infinitive`3`sing`conditional`indicative```
+`podríamos`infinitive`1`plural`conditional`indicative```
+`podríais`infinitive`2`plural`conditional`indicative```
+`podrían`infinitive`3`plural`conditional`indicative```
+`````````
+`````````
+`````````
+present`pueda`root`1`sing`present`subjunctive```
+subjunctive`puedas`root`2`sing`present`subjunctive```
+`pueda`root`3`sing`present`subjunctive```
+`puedamos`root`1`plural`present`subjunctive```
+`puedáis`root`2`plural`present`subjunctive```
+`puedan`root`3`plural`present`subjunctive```
+`````````
+`````````
+`````````
+imperfect`pudiese`root`1`sing`imperfect`subjunctive``se`
+subjunctive`pudieses`root`2`sing`imperfect`subjunctive``se`
+`pudiese`root`3`sing`imperfect`subjunctive``se`
+`pudiésemos`root`1`plural`imperfect`subjunctive``se`
+`pudieseis`root`2`plural`imperfect`subjunctive``se`
+`pudiesen`root`3`plural`imperfect`subjunctive``se`
+`````````
+`````````
+`````````
+imperfect`pudiera`root`1`sing`imperfect`subjunctive``ra`
+subjunctive`pudieras`root`2`sing`imperfect`subjunctive``ra`
+`pudiera`root`3`sing`imperfect`subjunctive``ra`
+`pudiéramos`root`1`plural`imperfect`subjunctive``ra`
+`pudierais`root`2`plural`imperfect`subjunctive``ra`
+`pudieran`root`3`plural`imperfect`subjunctive``ra`
+`````````
+`````````
+future`pudiere`root`1`sing`future / hypothetical`subjunctive```
+subjunctive`pudieres`root`2`sing`future / hypothetical`subjunctive```
+`pudiere`root`3`sing`future / hypothetical`subjunctive```
+`pudiéremos`root`1`plural`future / hypothetical`subjunctive```
+`pudiereis`root`2`plural`future / hypothetical`subjunctive```
+`pudieren`root`3`plural`future / hypothetical`subjunctive```

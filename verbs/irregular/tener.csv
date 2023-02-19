@@ -1,0 +1,95 @@
+human_desc`ending`root`person`number`tense`mood`voice`extra`gender
+hablar   `````````
+habl`````````
+present`tengo`root`1`sing`present`indicative`active``
+indicative`teines`root`2`sing`present`indicative`active``
+`tiene`root`3`sing`present`indicative`active``
+`tenemos`root`1`plural`present`indicative`active``
+`tenéis`root`2`plural`present`indicative`active``
+`tienen`root`3`plural`present`indicative`active``
+`````````
+`````````
+past pasticiple`tenido`root```past```participle`
+`tenido`root``sing````participle adj`masc
+`tenida`root``sing````participle adj`fem
+`tenidos`root``plural````participle adj`masc
+`tenidas`root``plural````participle adj`fem
+`````````
+`````````
+`````````
+present part`teniendo`root```present```participle`
+`````````
+`````````
+past`tenía`root`1`sing`imperfect`indicative`active``
+imperfect`tenías`root`2`sing`imperfect`indicative`active``
+`tenía`root`3`sing`imperfect`indicative`active``
+`teníamos`root`1`plural`imperfect`indicative`active``
+`teníais`root`2`plural`imperfect`indicative`active``
+`tenían`root`3`plural`imperfect`indicative`active``
+`````````
+`````````
+`````````
+past`tuve`root`1`sing`preterite / past definite`indicative`active``
+definite`tuviste`root`2`sing`preterite / past definite`indicative`active``
+preterite`tuvo`root`3`sing`preterite / past definite`indicative`active``
+`tuvimos`root`1`plural`preterite / past definite`indicative`active``
+`tuvisteis`root`2`plural`preterite / past definite`indicative`active``
+`tuvieron`root`3`plural`preterite / past definite`indicative`active``
+`````````
+`````````
+`````````
+future`tendré`infinitive`1`sing`future`indicative`active``
+`tendrás`infinitive`2`sing`future`indicative`active``
+`tendrá`infinitive`3`sing`future`indicative`active``
+`tendremos`infinitive`1`plural`future`indicative`active``
+`tendréis`infinitive`2`plural`future`indicative`active``
+`tendrán`infinitive`3`plural`future`indicative`active``
+`````````
+`````````
+`````````
+conditional`tendría`infinitive`1`sing`conditional`indicative```
+`tendrías`infinitive`2`sing`conditional`indicative```
+`tendría`infinitive`3`sing`conditional`indicative```
+`tendríamos`infinitive`1`plural`conditional`indicative```
+`tendríais`infinitive`2`plural`conditional`indicative```
+`tendrían`infinitive`3`plural`conditional`indicative```
+`````````
+`````````
+`````````
+present`tenga`root`1`sing`present`subjunctive```
+subjunctive`tengas`root`2`sing`present`subjunctive```
+`tenga`root`3`sing`present`subjunctive```
+`tengamos`root`1`plural`present`subjunctive```
+`tengáis`root`2`plural`present`subjunctive```
+`tengan`root`3`plural`present`subjunctive```
+`````````
+`````````
+`````````
+imperfect`tuviese`root`1`sing`imperfect`subjunctive``se`
+subjunctive`tuvieses`root`2`sing`imperfect`subjunctive``se`
+`tuviese`root`3`sing`imperfect`subjunctive``se`
+`tuviésemos`root`1`plural`imperfect`subjunctive``se`
+`tuvieseis`root`2`plural`imperfect`subjunctive``se`
+`tuviesen`root`3`plural`imperfect`subjunctive``se`
+`````````
+`````````
+`````````
+imperfect`tuviera`root`1`sing`imperfect`subjunctive``ra`
+subjunctive`tuvieras`root`2`sing`imperfect`subjunctive``ra`
+`tuviera`root`3`sing`imperfect`subjunctive``ra`
+`tuviéramos`root`1`plural`imperfect`subjunctive``ra`
+`tuvierais`root`2`plural`imperfect`subjunctive``ra`
+`tuvieran`root`3`plural`imperfect`subjunctive``ra`
+`````````
+`````````
+future`tuviere`root`1`sing`future / hypothetical`subjunctive```
+subjunctive`tuvieres`root`2`sing`future / hypothetical`subjunctive```
+`tuviere`root`3`sing`future / hypothetical`subjunctive```
+`tuviéremos`root`1`plural`future / hypothetical`subjunctive```
+`tuviereis`root`2`plural`future / hypothetical`subjunctive```
+`tuvieren`root`3`plural`future / hypothetical`subjunctive```
+`````````
+`````````
+`````````
+imperative`ten``2`sing``imperative```
+`tened``2`plural``imperative```

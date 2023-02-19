@@ -1,0 +1,97 @@
+human_desc`ending`root`person`number`tense`mood`voice`extra`gender
+comer`````````
+com`````````
+present`veo`root`1`sing`present`indicative`active``
+indicative`ves`root`2`sing`present`indicative`active``
+`veo`root`3`sing`present`indicative`active``
+`vemos`root`1`plural`present`indicative`active``
+`veis`root`2`plural`present`indicative`active``
+`ven`root`3`plural`present`indicative`active``
+`````````
+`````````
+past pasticiple`visto`root```past```participle`
+`visto`root``sing````participle adj`masc
+`vista`root``sing````participle adj`fem
+`vistos`root``plural````participle adj`masc
+`vistas`root``plural````participle adj`fem
+`````````
+`````````
+`````````
+present part`viendo`root```present```participle`
+`````````
+`````````
+past`veía`root`1`sing`imperfect`indicative`active``
+imperfect`veías`root`2`sing`imperfect`indicative`active``
+`veía`root`3`sing`imperfect`indicative`active``
+`veíamos`root`1`plural`imperfect`indicative`active``
+`veíais`root`2`plural`imperfect`indicative`active``
+`veían`root`3`plural`imperfect`indicative`active``
+`````````
+`````````
+`````````
+past`ví`root`1`sing`preterite / past definite`indicative`active``
+definite`viste`root`2`sing`preterite / past definite`indicative`active``
+preterite`vió`root`3`sing`preterite / past definite`indicative`active``
+`vimos`root`1`plural`preterite / past definite`indicative`active``
+`visteis`root`2`plural`preterite / past definite`indicative`active``
+`vieron`root`3`plural`preterite / past definite`indicative`active``
+`````````
+`````````
+`````````
+future`veré`infinitive`1`sing`future`indicative`active``
+`verás`infinitive`2`sing`future`indicative`active``
+`verá`infinitive`3`sing`future`indicative`active``
+`veremos`infinitive`1`plural`future`indicative`active``
+`veréis`infinitive`2`plural`future`indicative`active``
+`verán`infinitive`3`plural`future`indicative`active``
+`````````
+`````````
+`````````
+conditional`vería`infinitive`1`sing`conditional`indicative```
+`verías`infinitive`2`sing`conditional`indicative```
+`vería`infinitive`3`sing`conditional`indicative```
+`veríamos`infinitive`1`plural`conditional`indicative```
+`veríais`infinitive`2`plural`conditional`indicative```
+`verían`infinitive`3`plural`conditional`indicative```
+`````````
+`````````
+`````````
+present`vea`root`1`sing`present`subjunctive```
+subjunctive`veas`root`2`sing`present`subjunctive```
+`vea`root`3`sing`present`subjunctive```
+`veamos`root`1`plural`present`subjunctive```
+`veáis`root`2`plural`present`subjunctive```
+`vean`root`3`plural`present`subjunctive```
+`````````
+`````````
+`````````
+imperfect`viese`root`1`sing`imperfect`subjunctive``se`
+subjunctive`vieses`root`2`sing`imperfect`subjunctive``se`
+`viese`root`3`sing`imperfect`subjunctive``se`
+`viésemos`root`1`plural`imperfect`subjunctive``se`
+`vieseis`root`2`plural`imperfect`subjunctive``se`
+`viesen`root`3`plural`imperfect`subjunctive``se`
+`````````
+`````````
+`````````
+imperfect`viera`root`1`sing`imperfect`subjunctive``ra`
+subjunctive`vieras`root`2`sing`imperfect`subjunctive``ra`
+`viera`root`3`sing`imperfect`subjunctive``ra`
+`viéramos`root`1`plural`imperfect`subjunctive``ra`
+`vierais`root`2`plural`imperfect`subjunctive``ra`
+`vieran`root`3`plural`imperfect`subjunctive``ra`
+`````````
+`````````
+future`viere`root`1`sing`future / hypothetical`subjunctive```
+subjunctive`vieres`root`2`sing`future / hypothetical`subjunctive```
+`viere`root`3`sing`future / hypothetical`subjunctive```
+`viéremos`root`1`plural`future / hypothetical`subjunctive```
+`viereis`root`2`plural`future / hypothetical`subjunctive```
+`vieren`root`3`plural`future / hypothetical`subjunctive```
+`````````
+`````````
+`````````
+imperative`ve`special`2`sing``imperative```
+`ved`special`2`plural``imperative```
+`````````
+`ver`special````infinitive`active``

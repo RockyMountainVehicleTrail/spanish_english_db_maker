@@ -1,0 +1,95 @@
+human_desc`ending`root`person`number`tense`mood`voice`extra`gender
+hablar   `````````
+habl`````````
+present`quiero`root`1`sing`present`indicative`active``
+indicative`quieres`root`2`sing`present`indicative`active``
+`quiere`root`3`sing`present`indicative`active``
+`quieremos`root`1`plural`present`indicative`active``
+`quieréis`root`2`plural`present`indicative`active``
+`quieren`root`3`plural`present`indicative`active``
+`````````
+`````````
+past pasticiple`querido`root```past```participle`
+`querido`root``sing````participle adj`masc
+`querida`root``sing````participle adj`fem
+`queridos`root``plural````participle adj`masc
+`queridas`root``plural````participle adj`fem
+`````````
+`````````
+`````````
+present part`queriendo`root```present```participle`
+`````````
+`````````
+past`quería`root`1`sing`imperfect`indicative`active``
+imperfect`querías`root`2`sing`imperfect`indicative`active``
+`quería`root`3`sing`imperfect`indicative`active``
+`queriamos`root`1`plural`imperfect`indicative`active``
+`queríais`root`2`plural`imperfect`indicative`active``
+`querían`root`3`plural`imperfect`indicative`active``
+`````````
+`````````
+`````````
+past`quise`root`1`sing`preterite / past definite`indicative`active``
+definite`quisiste`root`2`sing`preterite / past definite`indicative`active``
+preterite`quiso`root`3`sing`preterite / past definite`indicative`active``
+`quisimos`root`1`plural`preterite / past definite`indicative`active``
+`quisisteis`root`2`plural`preterite / past definite`indicative`active``
+`quisieron`root`3`plural`preterite / past definite`indicative`active``
+`````````
+`````````
+`````````
+future`querré`infinitive`1`sing`future`indicative`active``
+`querrás`infinitive`2`sing`future`indicative`active``
+`querrá`infinitive`3`sing`future`indicative`active``
+`querremos`infinitive`1`plural`future`indicative`active``
+`querréis`infinitive`2`plural`future`indicative`active``
+`querrán`infinitive`3`plural`future`indicative`active``
+`````````
+`````````
+`````````
+conditional`querria`infinitive`1`sing`conditional`indicative```
+`querrias`infinitive`2`sing`conditional`indicative```
+`querrias`infinitive`3`sing`conditional`indicative```
+`querríamos`infinitive`1`plural`conditional`indicative```
+`querríais`infinitive`2`plural`conditional`indicative```
+`querrían`infinitive`3`plural`conditional`indicative```
+`````````
+`````````
+`````````
+present`quiera`root`1`sing`present`subjunctive```
+subjunctive`quieras`root`2`sing`present`subjunctive```
+`quiera`root`3`sing`present`subjunctive```
+`queramos`root`1`plural`present`subjunctive```
+`queráis`root`2`plural`present`subjunctive```
+`quieran`root`3`plural`present`subjunctive```
+`````````
+`````````
+`````````
+imperfect`quisiese`root`1`sing`imperfect`subjunctive``se`
+subjunctive`quisieses`root`2`sing`imperfect`subjunctive``se`
+`quisiese`root`3`sing`imperfect`subjunctive``se`
+`quisiésemos`root`1`plural`imperfect`subjunctive``se`
+`quisieseis`root`2`plural`imperfect`subjunctive``se`
+`quisiesen`root`3`plural`imperfect`subjunctive``se`
+`````````
+`````````
+`````````
+imperfect`quisiera`root`1`sing`imperfect`subjunctive``ra`
+subjunctive`quisieras`root`2`sing`imperfect`subjunctive``ra`
+`quisiera`root`3`sing`imperfect`subjunctive``ra`
+`quisiéramos`root`1`plural`imperfect`subjunctive``ra`
+`quisierais`root`2`plural`imperfect`subjunctive``ra`
+`quisieran`root`3`plural`imperfect`subjunctive``ra`
+`````````
+`````````
+future`quisiere`root`1`sing`future / hypothetical`subjunctive```
+subjunctive`quisieres`root`2`sing`future / hypothetical`subjunctive```
+`quisiere`root`3`sing`future / hypothetical`subjunctive```
+`quisiéremos`root`1`plural`future / hypothetical`subjunctive```
+`quisiereis`root`2`plural`future / hypothetical`subjunctive```
+`quisieren`root`3`plural`future / hypothetical`subjunctive```
+`````````
+`````````
+`````````
+imperative`quiere``2`sing``imperative```
+`quiered``2`plural``imperative```

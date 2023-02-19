@@ -1,0 +1,95 @@
+human_desc`ending`root`person`number`tense`mood`voice`extra`gender
+comer`````````
+com`````````
+present`hago`root`1`sing`present`indicative`active``
+indicative`haces`root`2`sing`present`indicative`active``
+`haces`root`3`sing`present`indicative`active``
+`hacemos`root`1`plural`present`indicative`active``
+`habéis`root`2`plural`present`indicative`active``
+`han`root`3`plural`present`indicative`active``
+`````````
+`````````
+past pasticiple`habido`root```past```participle`
+`habido`root``sing````participle adj`masc
+`habida`root``sing````participle adj`fem
+`habidos`root``plural````participle adj`masc
+`habidas`root``plural````participle adj`fem
+`````````
+`````````
+`````````
+present part`habiendo`root```present```participle`
+`````````
+`````````
+past`hacía`root`1`sing`imperfect`indicative`active``
+imperfect`hacías`root`2`sing`imperfect`indicative`active``
+`hacía`root`3`sing`imperfect`indicative`active``
+`hacíamos`root`1`plural`imperfect`indicative`active``
+`hacíais`root`2`plural`imperfect`indicative`active``
+`hacían`root`3`plural`imperfect`indicative`active``
+`````````
+`````````
+`````````
+past`hice`root`1`sing`preterite / past definite`indicative`active``
+definite`hiciste`root`2`sing`preterite / past definite`indicative`active``
+preterite`hizo`root`3`sing`preterite / past definite`indicative`active``
+`hicimos`root`1`plural`preterite / past definite`indicative`active``
+`hicisteis`root`2`plural`preterite / past definite`indicative`active``
+`hiceron`root`3`plural`preterite / past definite`indicative`active``
+`````````
+`````````
+`````````
+future`haré`infinitive`1`sing`future`indicative`active``
+`harás`infinitive`2`sing`future`indicative`active``
+`hará`infinitive`3`sing`future`indicative`active``
+`haremos`infinitive`1`plural`future`indicative`active``
+`haréis`infinitive`2`plural`future`indicative`active``
+`harán`infinitive`3`plural`future`indicative`active``
+`````````
+`````````
+`````````
+conditional`haría`infinitive`1`sing`conditional`indicative```
+`harías`infinitive`2`sing`conditional`indicative```
+`haría`infinitive`3`sing`conditional`indicative```
+`haríamos`infinitive`1`plural`conditional`indicative```
+`haríais`infinitive`2`plural`conditional`indicative```
+`harían`infinitive`3`plural`conditional`indicative```
+`````````
+`````````
+`````````
+present`haga`root`1`sing`present`subjunctive```
+subjunctive`hagas`root`2`sing`present`subjunctive```
+`haga`root`3`sing`present`subjunctive```
+`hagamos`root`1`plural`present`subjunctive```
+`hagáis`root`2`plural`present`subjunctive```
+`hagan`root`3`plural`present`subjunctive```
+`````````
+`````````
+`````````
+imperfect`hiciese`root`1`sing`imperfect`subjunctive``se`
+subjunctive`hicieses`root`2`sing`imperfect`subjunctive``se`
+`hiciese`root`3`sing`imperfect`subjunctive``se`
+`hiciésemos`root`1`plural`imperfect`subjunctive``se`
+`hicieseis`root`2`plural`imperfect`subjunctive``se`
+`hiciesen`root`3`plural`imperfect`subjunctive``se`
+`````````
+`````````
+`````````
+imperfect`hiciera`root`1`sing`imperfect`subjunctive``ra`
+subjunctive`hicieras`root`2`sing`imperfect`subjunctive``ra`
+`hiciera`root`3`sing`imperfect`subjunctive``ra`
+`hiciéramos`root`1`plural`imperfect`subjunctive``ra`
+`hicierais`root`2`plural`imperfect`subjunctive``ra`
+`hicieran`root`3`plural`imperfect`subjunctive``ra`
+`````````
+`````````
+future`hiciere`root`1`sing`future / hypothetical`subjunctive```
+subjunctive`hicieres`root`2`sing`future / hypothetical`subjunctive```
+`hiciere`root`3`sing`future / hypothetical`subjunctive```
+`hiciéremos`root`1`plural`future / hypothetical`subjunctive```
+`hiciereis`root`2`plural`future / hypothetical`subjunctive```
+`hicieren`root`3`plural`future / hypothetical`subjunctive```
+`````````
+`````````
+`````````
+imperative`haz``2`sing``imperative```
+`haced``2`plural``imperative```
