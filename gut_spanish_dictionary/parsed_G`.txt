@@ -1,0 +1,8777 @@
+G, [dchi]`G, (je).`G, (ga).eng_section:G, [dchi]
+eng_word:G
+pos:none
+
+spanish:G, (je).
+spanish_word:G
+spanish_word:(je).
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$g$$, $$int$$,  $$g, (je).$$)
+    
+
+
+Gab, n. [gab]`Locuacidad.`Tabil, katabilan, taras, satsat.eng_section:Gab, n. [gab]
+eng_word:Gab
+pos:n:
+
+spanish:Locuacidad.
+spanish_word:Locuacidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gab$$, $$n$$,  $$locuacidad.$$)
+    
+
+
+Gab, v. [gab]`Charlar.`Magmatabil, sumatsat.eng_section:Gab, v. [gab]
+eng_word:Gab
+pos:v:
+
+spanish:Charlar.
+spanish_word:Charlar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gab$$, $$v$$,  $$charlar.$$)
+    
+
+
+Gabble, n. [gábl]`Algarabía.`Satsatan.eng_section:Gabble, n. [gábl]
+eng_word:Gabble
+pos:n:
+
+spanish:Algarabía.
+spanish_word:Algarabía.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gabble$$, $$n$$,  $$algarabía.$$)
+    
+
+
+Gabble, v. [gábl]`Charlar, parlotear.`Sumatsat, kumahig ng sálitaan.eng_section:Gabble, v. [gábl]
+eng_word:Gabble
+pos:v:
+
+spanish:Charlar, parlotear.
+spanish_word:Charlar
+spanish_word:parlotear.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gabble$$, $$v$$,  $$charlar, parlotear.$$)
+    
+
+
+Gable-end, n. [gábl-end]`Socarrén, alero.`Balisbisan.eng_section:Gable-end, n. [gábl-end]
+eng_word:Gable-end
+pos:n:
+
+spanish:Socarrén, alero.
+spanish_word:Socarrén
+spanish_word:alero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gable-end$$, $$n$$,  $$socarrén, alero.$$)
+    
+
+
+Gad, v. [gad]`Vagamundear, callejear.`Maggalâ, lumaboy.eng_section:Gad, v. [gad]
+eng_word:Gad
+pos:v:
+
+spanish:Vagamundear, callejear.
+spanish_word:Vagamundear
+spanish_word:callejear.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gad$$, $$v$$,  $$vagamundear, callejear.$$)
+    
+
+
+Gadder, n. [gádoer]`Vagamundo, callejero.`Galâ, libót, palaboy.eng_section:Gadder, n. [gádoer]
+eng_word:Gadder
+pos:n:
+
+spanish:Vagamundo, callejero.
+spanish_word:Vagamundo
+spanish_word:callejero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gadder$$, $$n$$,  $$vagamundo, callejero.$$)
+    
+
+
+Gad-fly, n. [gád-flay]`Tábano.`Bangaw.eng_section:Gad-fly, n. [gád-flay]
+eng_word:Gad-fly
+pos:n:
+
+spanish:Tábano.
+spanish_word:Tábano.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gad-fly$$, $$n$$,  $$tábano.$$)
+    
+
+
+Gaff, n. [gaf]`Arpon ó garfio grande.`Kalawit, panungkit.eng_section:Gaff, n. [gaf]
+eng_word:Gaff
+pos:n:
+
+spanish:Arpon ó garfio grande.
+spanish_phrase:Arpon ó garfio grande.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gaff$$, $$n$$,  $$arpon ó garfio grande.$$)
+    
+
+
+Gaffle, n. [gáfl]`Navaja de gallo.`Tarì.eng_section:Gaffle, n. [gáfl]
+eng_word:Gaffle
+pos:n:
+
+spanish:Navaja de gallo.
+spanish_phrase:Navaja de gallo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gaffle$$, $$n$$,  $$navaja de gallo.$$)
+    
+
+
+Gag, n. [gag]`Mordaza.`Sangkal, panipit.eng_section:Gag, n. [gag]
+eng_word:Gag
+pos:n:
+
+spanish:Mordaza.
+spanish_word:Mordaza.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gag$$, $$n$$,  $$mordaza.$$)
+    
+
+
+Gag, v. [gag]`Tapar la boca con mordaza.`Lagyan ng sangkal ang bibig.eng_section:Gag, v. [gag]
+eng_word:Gag
+pos:v:
+
+spanish:Tapar la boca con mordaza.
+spanish_phrase:Tapar la boca con mordaza.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gag$$, $$v$$,  $$tapar la boca con mordaza.$$)
+    
+
+
+Gage, n. [guedch]`Prenda; medida.`Sanglâ, lágak; panukat.eng_section:Gage, n. [guedch]
+eng_word:Gage
+pos:n:
+
+spanish:Prenda; medida.
+spanish_phrase:Prenda; medida.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gage$$, $$n$$,  $$prenda; medida.$$)
+    
+
+
+Gage, v. [guedch]`Empeñar alguna alhaja; medir.`Magsanglâ; sumukat.eng_section:Gage, v. [guedch]
+eng_word:Gage
+pos:v:
+
+spanish:Empeñar alguna alhaja; medir.
+spanish_phrase:Empeñar alguna alhaja; medir.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gage$$, $$v$$,  $$empeñar alguna alhaja; medir.$$)
+    
+
+
+Gaiety, n. [gaiéti]`Alegría.`Kasayahan.eng_section:Gaiety, n. [gaiéti]
+eng_word:Gaiety
+pos:n:
+
+spanish:Alegría.
+spanish_word:Alegría.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gaiety$$, $$n$$,  $$alegría.$$)
+    
+
+
+Gaily, adv. [guéili]`Alegremente.`Masayá.eng_section:Gaily, adv. [guéili]
+eng_word:Gaily
+pos:adv:
+
+spanish:Alegremente.
+spanish_word:Alegremente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gaily$$, $$adv$$,  $$alegremente.$$)
+    
+
+
+Gain, n. [gueín]`Ganancia, provecho, interes, lucro.`Pakinabang, tubò; panalunan.eng_section:Gain, n. [gueín]
+eng_word:Gain
+pos:n:
+
+spanish:Ganancia, provecho, interes, lucro.
+spanish_word:Ganancia
+spanish_word:provecho
+spanish_word:interes
+spanish_word:lucro.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gain$$, $$n$$,  $$ganancia, provecho, interes, lucro.$$)
+    
+
+
+Gain, v. [gueín]`Ganar.`Makinabang, magtubò, manalo.eng_section:Gain, v. [gueín]
+eng_word:Gain
+pos:v:
+
+spanish:Ganar.
+spanish_word:Ganar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gain$$, $$v$$,  $$ganar.$$)
+    
+
+
+Gainer, n. [guéner]`Ganador.`Ang nananalo.eng_section:Gainer, n. [guéner]
+eng_word:Gainer
+pos:n:
+
+spanish:Ganador.
+spanish_word:Ganador.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gainer$$, $$n$$,  $$ganador.$$)
+    
+
+
+Gainsay, v. [guensé]`Contradecir, negar.`Tumatwâ, kumailâ.eng_section:Gainsay, v. [guensé]
+eng_word:Gainsay
+pos:v:
+
+spanish:Contradecir, negar.
+spanish_word:Contradecir
+spanish_word:negar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gainsay$$, $$v$$,  $$contradecir, negar.$$)
+    
+
+
+Gait, n. [gueít]`Marcha, paso.`Lakad, hakbang.eng_section:Gait, n. [gueít]
+eng_word:Gait
+pos:n:
+
+spanish:Marcha, paso.
+spanish_word:Marcha
+spanish_word:paso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gait$$, $$n$$,  $$marcha, paso.$$)
+    
+
+
+Gaiter, n. [guétoer]`Polaina.`Polainas.eng_section:Gaiter, n. [guétoer]
+eng_word:Gaiter
+pos:n:
+
+spanish:Polaina.
+spanish_word:Polaina.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gaiter$$, $$n$$,  $$polaina.$$)
+    
+
+
+Gale, n. [gueíl]`Viento.`Hanging malamig.eng_section:Gale, n. [gueíl]
+eng_word:Gale
+pos:n:
+
+spanish:Viento.
+spanish_word:Viento.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gale$$, $$n$$,  $$viento.$$)
+    
+
+
+Gall, n. [gol]`Hiel.`Apdó.eng_section:Gall, n. [gol]
+eng_word:Gall
+pos:n:
+
+spanish:Hiel.
+spanish_word:Hiel.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gall$$, $$n$$,  $$hiel.$$)
+    
+
+
+Gall, v. [gol]`Desollar, acibarar.`Talupan ng balat.eng_section:Gall, v. [gol]
+eng_word:Gall
+pos:v:
+
+spanish:Desollar, acibarar.
+spanish_word:Desollar
+spanish_word:acibarar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gall$$, $$v$$,  $$desollar, acibarar.$$)
+    
+
+
+Gallant, adj. [gálant]`Galante, elegante.`Magandang ugalì, may asal mahal, makisig, magarà.eng_section:Gallant, adj. [gálant]
+eng_word:Gallant
+pos:adj:
+
+spanish:Galante, elegante.
+spanish_word:Galante
+spanish_word:elegante.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gallant$$, $$adj$$,  $$galante, elegante.$$)
+    
+
+
+Gallantry, n. [gálantri]`Galantería.`Pagmamagarà, pagmamakisig.eng_section:Gallantry, n. [gálantri]
+eng_word:Gallantry
+pos:n:
+
+spanish:Galantería.
+spanish_word:Galantería.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gallantry$$, $$n$$,  $$galantería.$$)
+    
+
+
+Gallery, n. [gáloeri]`Galería, corredor.`Galeryá.eng_section:Gallery, n. [gáloeri]
+eng_word:Gallery
+pos:n:
+
+spanish:Galería, corredor.
+spanish_word:Galería
+spanish_word:corredor.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gallery$$, $$n$$,  $$galería, corredor.$$)
+    
+
+
+Galley, n. [gáli]`Galera.`Kusinà ng sasakyan.eng_section:Galley, n. [gáli]
+eng_word:Galley
+pos:n:
+
+spanish:Galera.
+spanish_word:Galera.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$galley$$, $$n$$,  $$galera.$$)
+    
+
+
+Gallon, n. [gálon]`Galon, medida de líquidos.`Galón, takalan ng mga tunaw na bagay.eng_section:Gallon, n. [gálon]
+eng_word:Gallon
+pos:n:
+
+spanish:Galon, medida de líquidos.
+spanish_word:Galon
+spanish_phrase:medida de líquidos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gallon$$, $$n$$,  $$galon, medida de líquidos.$$)
+    
+
+
+Gallop, n. [gálop]`Galope.`Takbong paluksó-luksó.eng_section:Gallop, n. [gálop]
+eng_word:Gallop
+pos:n:
+
+spanish:Galope.
+spanish_word:Galope.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gallop$$, $$n$$,  $$galope.$$)
+    
+
+
+Gallop, v. [gálop]`Galopear.`Tumakbó ng paluksó-luksó.eng_section:Gallop, v. [gálop]
+eng_word:Gallop
+pos:v:
+
+spanish:Galopear.
+spanish_word:Galopear.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gallop$$, $$v$$,  $$galopear.$$)
+    
+
+
+Gallows, n. [gálos]`Horca.`Bibitayán.eng_section:Gallows, n. [gálos]
+eng_word:Gallows
+pos:n:
+
+spanish:Horca.
+spanish_word:Horca.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gallows$$, $$n$$,  $$horca.$$)
+    
+
+
+Galvanic, adj. [galvánic]`Galvánico.`Galbaniko.eng_section:Galvanic, adj. [galvánic]
+eng_word:Galvanic
+pos:adj:
+
+spanish:Galvánico.
+spanish_word:Galvánico.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$galvanic$$, $$adj$$,  $$galvánico.$$)
+    
+
+
+Gamble, v. [gámbl]`Jugar con exceso.`Magsugal.eng_section:Gamble, v. [gámbl]
+eng_word:Gamble
+pos:v:
+
+spanish:Jugar con exceso.
+spanish_phrase:Jugar con exceso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gamble$$, $$v$$,  $$jugar con exceso.$$)
+    
+
+
+Gambler, n. [gámbler]`Tahur, garitero.`Mánunugal, sugarol.eng_section:Gambler, n. [gámbler]
+eng_word:Gambler
+pos:n:
+
+spanish:Tahur, garitero.
+spanish_word:Tahur
+spanish_word:garitero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gambler$$, $$n$$,  $$tahur, garitero.$$)
+    
+
+
+Gambling, n. [gámbling]`Juego con exceso.`Sugal.eng_section:Gambling, n. [gámbling]
+eng_word:Gambling
+pos:n:
+
+spanish:Juego con exceso.
+spanish_phrase:Juego con exceso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gambling$$, $$n$$,  $$juego con exceso.$$)
+    
+
+
+Gambol, n. [gámbol]`Cabriola, brinco de alegría.`Lukso, lundag sa sayá ó twâ.eng_section:Gambol, n. [gámbol]
+eng_word:Gambol
+pos:n:
+
+spanish:Cabriola, brinco de alegría.
+spanish_word:Cabriola
+spanish_phrase:brinco de alegría.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gambol$$, $$n$$,  $$cabriola, brinco de alegría.$$)
+    
+
+
+Gambol, v. [gámbol]`Brincar, saltar.`Magluluksó, maglulundag.eng_section:Gambol, v. [gámbol]
+eng_word:Gambol
+pos:v:
+
+spanish:Brincar, saltar.
+spanish_word:Brincar
+spanish_word:saltar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gambol$$, $$v$$,  $$brincar, saltar.$$)
+    
+
+
+Game, n. [gueím]`Juego; pasatiempo; caza.`Larô, líbangan; nápangasuhan.eng_section:Game, n. [gueím]
+eng_word:Game
+pos:n:
+
+spanish:Juego; pasatiempo; caza.
+spanish_phrase:Juego; pasatiempo; caza.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$game$$, $$n$$,  $$juego; pasatiempo; caza.$$)
+    
+
+
+Game, v. [gueím]`Jugar.`Maglarô, magsugal.eng_section:Game, v. [gueím]
+eng_word:Game
+pos:v:
+
+spanish:Jugar.
+spanish_word:Jugar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$game$$, $$v$$,  $$jugar.$$)
+    
+
+
+Gamecock, n. [guémcoc]`Gallo de riña.`Sasabungín.eng_section:Gamecock, n. [guémcoc]
+eng_word:Gamecock
+pos:n:
+
+spanish:Gallo de riña.
+spanish_phrase:Gallo de riña.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gamecock$$, $$n$$,  $$gallo de riña.$$)
+    
+
+
+Gamesome, adj. [guemsám]`Jugueton, retozon.`Palalarô, palabirô.eng_section:Gamesome, adj. [guemsám]
+eng_word:Gamesome
+pos:adj:
+
+spanish:Jugueton, retozon.
+spanish_word:Jugueton
+spanish_word:retozon.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gamesome$$, $$adj$$,  $$jugueton, retozon.$$)
+    
+
+
+Gamester, n. [guémster]`Tahur, jugador.`Sugarol, mánunugal.eng_section:Gamester, n. [guémster]
+eng_word:Gamester
+pos:n:
+
+spanish:Tahur, jugador.
+spanish_word:Tahur
+spanish_word:jugador.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gamester$$, $$n$$,  $$tahur, jugador.$$)
+    
+
+
+Gaming, n. [guéming]`Juego.`Sugal, larô.eng_section:Gaming, n. [guéming]
+eng_word:Gaming
+pos:n:
+
+spanish:Juego.
+spanish_word:Juego.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gaming$$, $$n$$,  $$juego.$$)
+    
+
+
+Gander, n. [gánder]`Ánsar, ganso.`Gansang lalake.eng_section:Gander, n. [gánder]
+eng_word:Gander
+pos:n:
+
+spanish:Ánsar, ganso.
+spanish_word:Ánsar
+spanish_word:ganso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gander$$, $$n$$,  $$ánsar, ganso.$$)
+    
+
+
+Gang, n. [gang]`Cuadrilla, banda.`Pulutong, bunton ng tao.eng_section:Gang, n. [gang]
+eng_word:Gang
+pos:n:
+
+spanish:Cuadrilla, banda.
+spanish_word:Cuadrilla
+spanish_word:banda.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gang$$, $$n$$,  $$cuadrilla, banda.$$)
+    
+
+
+Gangrene, n. [gángrin]`Gangrena.`Kangrena.eng_section:Gangrene, n. [gángrin]
+eng_word:Gangrene
+pos:n:
+
+spanish:Gangrena.
+spanish_word:Gangrena.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gangrene$$, $$n$$,  $$gangrena.$$)
+    
+
+
+Gangrene, v. [gángrin]`Gangrenarse.`Kangrenahin.eng_section:Gangrene, v. [gángrin]
+eng_word:Gangrene
+pos:v:
+
+spanish:Gangrenarse.
+spanish_word:Gangrenarse.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gangrene$$, $$v$$,  $$gangrenarse.$$)
+    
+
+
+Gangrenous, adj. [gángrines]`Gangrenoso.`Kinakangrena.eng_section:Gangrenous, adj. [gángrines]
+eng_word:Gangrenous
+pos:adj:
+
+spanish:Gangrenoso.
+spanish_word:Gangrenoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gangrenous$$, $$adj$$,  $$gangrenoso.$$)
+    
+
+
+Gangway, n. [gángwey]`Pasamano de un navío.`Pasamano ng sasakyan sa dagat.eng_section:Gangway, n. [gángwey]
+eng_word:Gangway
+pos:n:
+
+spanish:Pasamano de un navío.
+spanish_phrase:Pasamano de un navío.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gangway$$, $$n$$,  $$pasamano de un navío.$$)
+    
+
+
+Gaol, n. [guel]`Carcel, prisión.`Bilangguan, bilibid.eng_section:Gaol, n. [guel]
+eng_word:Gaol
+pos:n:
+
+spanish:Carcel, prisión.
+spanish_word:Carcel
+spanish_word:prisión.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gaol$$, $$n$$,  $$carcel, prisión.$$)
+    
+
+
+Gaoler, n. [guéler]`Carcelero.`Bantay sa bilangguan.eng_section:Gaoler, n. [guéler]
+eng_word:Gaoler
+pos:n:
+
+spanish:Carcelero.
+spanish_word:Carcelero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gaoler$$, $$n$$,  $$carcelero.$$)
+    
+
+
+Gap, n. [gap]`Boquete, brecha.`Butas, pwang.eng_section:Gap, n. [gap]
+eng_word:Gap
+pos:n:
+
+spanish:Boquete, brecha.
+spanish_word:Boquete
+spanish_word:brecha.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gap$$, $$n$$,  $$boquete, brecha.$$)
+    
+
+
+Gape, v. [gueíp]`Bostezar.`Maghikab.eng_section:Gape, v. [gueíp]
+eng_word:Gape
+pos:v:
+
+spanish:Bostezar.
+spanish_word:Bostezar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gape$$, $$v$$,  $$bostezar.$$)
+    
+
+
+Gaping, n. [guéping]`Bostezo.`Hikab.eng_section:Gaping, n. [guéping]
+eng_word:Gaping
+pos:n:
+
+spanish:Bostezo.
+spanish_word:Bostezo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gaping$$, $$n$$,  $$bostezo.$$)
+    
+
+
+Garb, n. [garb]`Vestidura, traje; apariencia exterior.`Damit, kasuutan; hichura, anyô.eng_section:Garb, n. [garb]
+eng_word:Garb
+pos:n:
+
+spanish:Vestidura, traje; apariencia exterior.
+spanish_word:Vestidura
+spanish_phrase:traje; apariencia exterior.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$garb$$, $$n$$,  $$vestidura, traje; apariencia exterior.$$)
+    
+
+
+Garbage, n. [gárbedch]`Desecho, suciedad.`Sukal, dumí.eng_section:Garbage, n. [gárbedch]
+eng_word:Garbage
+pos:n:
+
+spanish:Desecho, suciedad.
+spanish_word:Desecho
+spanish_word:suciedad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$garbage$$, $$n$$,  $$desecho, suciedad.$$)
+    
+
+
+Garble, v. [gárbl]`Entresacar, apartar.`Piliin, ihiwalay.eng_section:Garble, v. [gárbl]
+eng_word:Garble
+pos:v:
+
+spanish:Entresacar, apartar.
+spanish_word:Entresacar
+spanish_word:apartar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$garble$$, $$v$$,  $$entresacar, apartar.$$)
+    
+
+
+Garden, n. [gárden]`Jardin; huerto.`Halamanan.eng_section:Garden, n. [gárden]
+eng_word:Garden
+pos:n:
+
+spanish:Jardin; huerto.
+spanish_phrase:Jardin; huerto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$garden$$, $$n$$,  $$jardin; huerto.$$)
+    
+
+
+Garden, v. [gárden]`Cultivar un jardin ó un huerto.`Maghalaman.eng_section:Garden, v. [gárden]
+eng_word:Garden
+pos:v:
+
+spanish:Cultivar un jardin ó un huerto.
+spanish_phrase:Cultivar un jardin ó un huerto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$garden$$, $$v$$,  $$cultivar un jardin ó un huerto.$$)
+    
+
+
+Gardener, n. [gárdener]`Jardinero, hortelano.`Maghahalamán.eng_section:Gardener, n. [gárdener]
+eng_word:Gardener
+pos:n:
+
+spanish:Jardinero, hortelano.
+spanish_word:Jardinero
+spanish_word:hortelano.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gardener$$, $$n$$,  $$jardinero, hortelano.$$)
+    
+
+
+Gardening, n. [gárdening]`Jardinería.`Paghahalaman.eng_section:Gardening, n. [gárdening]
+eng_word:Gardening
+pos:n:
+
+spanish:Jardinería.
+spanish_word:Jardinería.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gardening$$, $$n$$,  $$jardinería.$$)
+    
+
+
+Gargle, n. [gárgl]`Gargarismo.`Mumog.eng_section:Gargle, n. [gárgl]
+eng_word:Gargle
+pos:n:
+
+spanish:Gargarismo.
+spanish_word:Gargarismo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gargle$$, $$n$$,  $$gargarismo.$$)
+    
+
+
+Gargle, v. [gárgl]`Gargarizar.`Magmumog.eng_section:Gargle, v. [gárgl]
+eng_word:Gargle
+pos:v:
+
+spanish:Gargarizar.
+spanish_word:Gargarizar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gargle$$, $$v$$,  $$gargarizar.$$)
+    
+
+
+Garish, adj. [gárish]`Pomposo, ostentoso.`Hambog, magarà.eng_section:Garish, adj. [gárish]
+eng_word:Garish
+pos:adj:
+
+spanish:Pomposo, ostentoso.
+spanish_word:Pomposo
+spanish_word:ostentoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$garish$$, $$adj$$,  $$pomposo, ostentoso.$$)
+    
+
+
+Garland, n. [gárland]`Guirnalda.`Koronang bulaklak.eng_section:Garland, n. [gárland]
+eng_word:Garland
+pos:n:
+
+spanish:Guirnalda.
+spanish_word:Guirnalda.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$garland$$, $$n$$,  $$guirnalda.$$)
+    
+
+
+Garlic, n. [gárlic]`Ajo.`Bawang.eng_section:Garlic, n. [gárlic]
+eng_word:Garlic
+pos:n:
+
+spanish:Ajo.
+spanish_word:Ajo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$garlic$$, $$n$$,  $$ajo.$$)
+    
+
+
+Garment, n. [gárment]`Vestido, vestidura.`Damit, kasúutan.eng_section:Garment, n. [gárment]
+eng_word:Garment
+pos:n:
+
+spanish:Vestido, vestidura.
+spanish_word:Vestido
+spanish_word:vestidura.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$garment$$, $$n$$,  $$vestido, vestidura.$$)
+    
+
+
+Garner, n. [gárner]`Granero.`Bangán.eng_section:Garner, n. [gárner]
+eng_word:Garner
+pos:n:
+
+spanish:Granero.
+spanish_word:Granero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$garner$$, $$n$$,  $$granero.$$)
+    
+
+
+Garnish, n. [gárnish]`Guarnicion, adorno.`Gayak, palamuti.eng_section:Garnish, n. [gárnish]
+eng_word:Garnish
+pos:n:
+
+spanish:Guarnicion, adorno.
+spanish_word:Guarnicion
+spanish_word:adorno.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$garnish$$, $$n$$,  $$guarnicion, adorno.$$)
+    
+
+
+Garnish, v. [gárnish]`Guarnecer, adornar.`Maggayak, magpalamuti.eng_section:Garnish, v. [gárnish]
+eng_word:Garnish
+pos:v:
+
+spanish:Guarnecer, adornar.
+spanish_word:Guarnecer
+spanish_word:adornar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$garnish$$, $$v$$,  $$guarnecer, adornar.$$)
+    
+
+
+Garret, n. [gárret]`Guardilla, desván.`Loob ng bubungan.eng_section:Garret, n. [gárret]
+eng_word:Garret
+pos:n:
+
+spanish:Guardilla, desván.
+spanish_word:Guardilla
+spanish_word:desván.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$garret$$, $$n$$,  $$guardilla, desván.$$)
+    
+
+
+Garrison, n. [gárrison]`Guarnicion; plaza de armas guarnecida de tropas.`Mga kawal na náhihimpil sa isang pook.eng_section:Garrison, n. [gárrison]
+eng_word:Garrison
+pos:n:
+
+spanish:Guarnicion; plaza de armas guarnecida de tropas.
+spanish_phrase:Guarnicion; plaza de armas guarnecida de tropas.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$garrison$$, $$n$$,  $$guarnicion; plaza de armas guarnecida de tropas.$$)
+    
+
+
+Garrulity, n. [garriúliti]`Garrulidad, locuacidad, charladuría.`Satsat, pangangahig ng sálitaan.eng_section:Garrulity, n. [garriúliti]
+eng_word:Garrulity
+pos:n:
+
+spanish:Garrulidad, locuacidad, charladuría.
+spanish_word:Garrulidad
+spanish_word:locuacidad
+spanish_word:charladuría.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$garrulity$$, $$n$$,  $$garrulidad, locuacidad, charladuría.$$)
+    
+
+
+Garrulous, adj. [gárriulæs]`Gárrulo, locuaz, charlador.`Masalitâ, masatsát, palausáp.eng_section:Garrulous, adj. [gárriulæs]
+eng_word:Garrulous
+pos:adj:
+
+spanish:Gárrulo, locuaz, charlador.
+spanish_word:Gárrulo
+spanish_word:locuaz
+spanish_word:charlador.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$garrulous$$, $$adj$$,  $$gárrulo, locuaz, charlador.$$)
+    
+
+
+Garter, n. [gárter]`Cenojil, jarretera.`Ligas.eng_section:Garter, n. [gárter]
+eng_word:Garter
+pos:n:
+
+spanish:Cenojil, jarretera.
+spanish_word:Cenojil
+spanish_word:jarretera.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$garter$$, $$n$$,  $$cenojil, jarretera.$$)
+    
+
+
+Garter, v. [gárter]`Atar con cenojil.`Magligas.eng_section:Garter, v. [gárter]
+eng_word:Garter
+pos:v:
+
+spanish:Atar con cenojil.
+spanish_phrase:Atar con cenojil.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$garter$$, $$v$$,  $$atar con cenojil.$$)
+    
+
+
+Gas, n. [gas]`Gas.`Gas.eng_section:Gas, n. [gas]
+eng_word:Gas
+pos:n:
+
+spanish:Gas.
+spanish_word:Gas.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gas$$, $$n$$,  $$gas.$$)
+    
+
+
+Gaseous, adj. [gázies]`Gaseoso.`May halong gas.eng_section:Gaseous, adj. [gázies]
+eng_word:Gaseous
+pos:adj:
+
+spanish:Gaseoso.
+spanish_word:Gaseoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gaseous$$, $$adj$$,  $$gaseoso.$$)
+    
+
+
+Gash, n. [gash]`Cuchillada.`Tagâ, hiwà.eng_section:Gash, n. [gash]
+eng_word:Gash
+pos:n:
+
+spanish:Cuchillada.
+spanish_word:Cuchillada.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gash$$, $$n$$,  $$cuchillada.$$)
+    
+
+
+Gash, v. [gash]`Dar una cuchillada.`Tumagâ, humiwà.eng_section:Gash, v. [gash]
+eng_word:Gash
+pos:v:
+
+spanish:Dar una cuchillada.
+spanish_phrase:Dar una cuchillada.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gash$$, $$v$$,  $$dar una cuchillada.$$)
+    
+
+
+Gasp, n. [gasp]`Respiracion dificil.`Hingal.eng_section:Gasp, n. [gasp]
+eng_word:Gasp
+pos:n:
+
+spanish:Respiracion dificil.
+spanish_phrase:Respiracion dificil.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gasp$$, $$n$$,  $$respiracion dificil.$$)
+    
+
+
+Gasp, v. [gasp]`Abrir la boca para tomar aliento.`Humingal.eng_section:Gasp, v. [gasp]
+eng_word:Gasp
+pos:v:
+
+spanish:Abrir la boca para tomar aliento.
+spanish_phrase:Abrir la boca para tomar aliento.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gasp$$, $$v$$,  $$abrir la boca para tomar aliento.$$)
+    
+
+
+Gastric, adj. [gástric]`Gástrico.`Nauukol sa sikmurà.eng_section:Gastric, adj. [gástric]
+eng_word:Gastric
+pos:adj:
+
+spanish:Gástrico.
+spanish_word:Gástrico.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gastric$$, $$adj$$,  $$gástrico.$$)
+    
+
+
+Gastronomic, adj. [gastronómic]`Gastronómico.`Mayamò, mapagbundat.eng_section:Gastronomic, adj. [gastronómic]
+eng_word:Gastronomic
+pos:adj:
+
+spanish:Gastronómico.
+spanish_word:Gastronómico.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gastronomic$$, $$adj$$,  $$gastronómico.$$)
+    
+
+
+Gate, n. [gueít]`Puerta; la entrada de alguna ciudad.`Pintuang daan; pintuangbayan.eng_section:Gate, n. [gueít]
+eng_word:Gate
+pos:n:
+
+spanish:Puerta; la entrada de alguna ciudad.
+spanish_phrase:Puerta; la entrada de alguna ciudad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gate$$, $$n$$,  $$puerta; la entrada de alguna ciudad.$$)
+    
+
+
+Gateway, n. [guétwe]`Entrada por las puertas de algun cercado.`Pasukan sa isang looban.eng_section:Gateway, n. [guétwe]
+eng_word:Gateway
+pos:n:
+
+spanish:Entrada por las puertas de algun cercado.
+spanish_phrase:Entrada por las puertas de algun cercado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gateway$$, $$n$$,  $$entrada por las puertas de algun cercado.$$)
+    
+
+
+Gather, v. [gádzer]`Recoger; amontonar.`Dumampot; tumipon, magpisan.eng_section:Gather, v. [gádzer]
+eng_word:Gather
+pos:v:
+
+spanish:Recoger; amontonar.
+spanish_phrase:Recoger; amontonar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gather$$, $$v$$,  $$recoger; amontonar.$$)
+    
+
+
+Gathering, n. [gádzering]`Acumulacion; colecta.`Pagtitipon; ambagan.eng_section:Gathering, n. [gádzering]
+eng_word:Gathering
+pos:n:
+
+spanish:Acumulacion; colecta.
+spanish_phrase:Acumulacion; colecta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gathering$$, $$n$$,  $$acumulacion; colecta.$$)
+    
+
+
+Gaudiness, n. [gódines]`Pompa, ostentacion.`Pagpaparangalan, pagpaparangâ, pagmamagarà.eng_section:Gaudiness, n. [gódines]
+eng_word:Gaudiness
+pos:n:
+
+spanish:Pompa, ostentacion.
+spanish_word:Pompa
+spanish_word:ostentacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gaudiness$$, $$n$$,  $$pompa, ostentacion.$$)
+    
+
+
+Gaudy, adj. [gódi]`Fastoso, pomposo.`Magarà, makisig.eng_section:Gaudy, adj. [gódi]
+eng_word:Gaudy
+pos:adj:
+
+spanish:Fastoso, pomposo.
+spanish_word:Fastoso
+spanish_word:pomposo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gaudy$$, $$adj$$,  $$fastoso, pomposo.$$)
+    
+
+
+Gauge, n. [guedch]`La vara, sonda ó escandallo.`Panukat, panarok.eng_section:Gauge, n. [guedch]
+eng_word:Gauge
+pos:n:
+
+spanish:La vara, sonda ó escandallo.
+spanish_phrase:La vara
+spanish_phrase:sonda ó escandallo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gauge$$, $$n$$,  $$la vara, sonda ó escandallo.$$)
+    
+
+
+Gauge, v. [guedch]`Medir.`Sumukat, tumarok.eng_section:Gauge, v. [guedch]
+eng_word:Gauge
+pos:v:
+
+spanish:Medir.
+spanish_word:Medir.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gauge$$, $$v$$,  $$medir.$$)
+    
+
+
+Gaunt, adj. [gant]`Flaco, delgado.`Payat.eng_section:Gaunt, adj. [gant]
+eng_word:Gaunt
+pos:adj:
+
+spanish:Flaco, delgado.
+spanish_word:Flaco
+spanish_word:delgado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gaunt$$, $$adj$$,  $$flaco, delgado.$$)
+    
+
+
+Gauntlet, n. [gántlet]`Guantelete, manopla.`Gwante, balutì sa kamay at bisig.eng_section:Gauntlet, n. [gántlet]
+eng_word:Gauntlet
+pos:n:
+
+spanish:Guantelete, manopla.
+spanish_word:Guantelete
+spanish_word:manopla.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gauntlet$$, $$n$$,  $$guantelete, manopla.$$)
+    
+
+
+Gauze, n. [goz]`Gasa.`Gasa, kayong manipis.eng_section:Gauze, n. [goz]
+eng_word:Gauze
+pos:n:
+
+spanish:Gasa.
+spanish_word:Gasa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gauze$$, $$n$$,  $$gasa.$$)
+    
+
+
+Gawk, n. [gok]`Un tonto, un insensato.`Ungas, tangá, gunggong, hangal.eng_section:Gawk, n. [gok]
+eng_word:Gawk
+pos:n:
+
+spanish:Un tonto, un insensato.
+spanish_phrase:Un tonto
+spanish_phrase:un insensato.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gawk$$, $$n$$,  $$un tonto, un insensato.$$)
+    
+
+
+Gawky, adj. [góki]`Bobo, tonto, rudo.`Gunggong, tangá, hangal, ungas.eng_section:Gawky, adj. [góki]
+eng_word:Gawky
+pos:adj:
+
+spanish:Bobo, tonto, rudo.
+spanish_word:Bobo
+spanish_word:tonto
+spanish_word:rudo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gawky$$, $$adj$$,  $$bobo, tonto, rudo.$$)
+    
+
+
+Gay, adj. [guey]`Alegre.`Masayá.eng_section:Gay, adj. [guey]
+eng_word:Gay
+pos:adj:
+
+spanish:Alegre.
+spanish_word:Alegre.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gay$$, $$adj$$,  $$alegre.$$)
+    
+
+
+Gayety, n. [guéeti]`Alegría.`Sayá, kasayahan, katwaan.eng_section:Gayety, n. [guéeti]
+eng_word:Gayety
+pos:n:
+
+spanish:Alegría.
+spanish_word:Alegría.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gayety$$, $$n$$,  $$alegría.$$)
+    
+
+
+Gaze, n. [gueíz]`Contemplacion; mirada.`Masíd, malas; titig.eng_section:Gaze, n. [gueíz]
+eng_word:Gaze
+pos:n:
+
+spanish:Contemplacion; mirada.
+spanish_phrase:Contemplacion; mirada.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gaze$$, $$n$$,  $$contemplacion; mirada.$$)
+    
+
+
+Gaze, v. [gueíz]`Contemplar; considerar.`Magmasid, magmalas; tumitig.eng_section:Gaze, v. [gueíz]
+eng_word:Gaze
+pos:v:
+
+spanish:Contemplar; considerar.
+spanish_phrase:Contemplar; considerar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gaze$$, $$v$$,  $$contemplar; considerar.$$)
+    
+
+
+Gazelle, n. [guésel]`Gacela.`Isang urì ng usá.eng_section:Gazelle, n. [guésel]
+eng_word:Gazelle
+pos:n:
+
+spanish:Gacela.
+spanish_word:Gacela.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gazelle$$, $$n$$,  $$gacela.$$)
+    
+
+
+Gazer, n. [guézer]`Miron.`Miron, tagapanood.eng_section:Gazer, n. [guézer]
+eng_word:Gazer
+pos:n:
+
+spanish:Miron.
+spanish_word:Miron.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gazer$$, $$n$$,  $$miron.$$)
+    
+
+
+Gazette, n. [guézet]`Gaceta.`Gaseta, páhayagan.eng_section:Gazette, n. [guézet]
+eng_word:Gazette
+pos:n:
+
+spanish:Gaceta.
+spanish_word:Gaceta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gazette$$, $$n$$,  $$gaceta.$$)
+    
+
+
+Gear, n. [guir]`Vestido, atavio.`Damit; kasangkapan.eng_section:Gear, n. [guir]
+eng_word:Gear
+pos:n:
+
+spanish:Vestido, atavio.
+spanish_word:Vestido
+spanish_word:atavio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gear$$, $$n$$,  $$vestido, atavio.$$)
+    
+
+
+Geck, v. [guec]`Engañar, defraudar.`Magdayà, manghibò.eng_section:Geck, v. [guec]
+eng_word:Geck
+pos:v:
+
+spanish:Engañar, defraudar.
+spanish_word:Engañar
+spanish_word:defraudar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$geck$$, $$v$$,  $$engañar, defraudar.$$)
+    
+
+
+Geese, n. [guiis]`Gansos.`Mga gansâ.eng_section:Geese, n. [guiis]
+eng_word:Geese
+pos:n:
+
+spanish:Gansos.
+spanish_word:Gansos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$geese$$, $$n$$,  $$gansos.$$)
+    
+
+
+Gelatin, n. [dchélatin]`Gelatina, jalea.`Helatina, matamis.eng_section:Gelatin, n. [dchélatin]
+eng_word:Gelatin
+pos:n:
+
+spanish:Gelatina, jalea.
+spanish_word:Gelatina
+spanish_word:jalea.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gelatin$$, $$n$$,  $$gelatina, jalea.$$)
+    
+
+
+Gelatinous, adj. [dchilátinæs]`Gelatinoso.`Malagkit.eng_section:Gelatinous, adj. [dchilátinæs]
+eng_word:Gelatinous
+pos:adj:
+
+spanish:Gelatinoso.
+spanish_word:Gelatinoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gelatinous$$, $$adj$$,  $$gelatinoso.$$)
+    
+
+
+Geld, v. [gueld]`Castrar, capar.`Kumapon; kapunin.eng_section:Geld, v. [gueld]
+eng_word:Geld
+pos:v:
+
+spanish:Castrar, capar.
+spanish_word:Castrar
+spanish_word:capar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$geld$$, $$v$$,  $$castrar, capar.$$)
+    
+
+
+Gelding, n. [guélding]`Animal castrado.`Hayop na kapon.eng_section:Gelding, n. [guélding]
+eng_word:Gelding
+pos:n:
+
+spanish:Animal castrado.
+spanish_phrase:Animal castrado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gelding$$, $$n$$,  $$animal castrado.$$)
+    
+
+
+Gem, n. [dchem]`Joya, presea.`Hiyas, mahalagang bato.eng_section:Gem, n. [dchem]
+eng_word:Gem
+pos:n:
+
+spanish:Joya, presea.
+spanish_word:Joya
+spanish_word:presea.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gem$$, $$n$$,  $$joya, presea.$$)
+    
+
+
+Gender, n. [dchénder]`Especie, genero.`Urì ng pagkalalake ó pagkababae.eng_section:Gender, n. [dchénder]
+eng_word:Gender
+pos:n:
+
+spanish:Especie, genero.
+spanish_word:Especie
+spanish_word:genero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gender$$, $$n$$,  $$especie, genero.$$)
+    
+
+
+Genealogical, adj. [dchenialódchical]`Genealógico.`Nauukol sa pagkakasunodsunod ng lahì.eng_section:Genealogical, adj. [dchenialódchical]
+eng_word:Genealogical
+pos:adj:
+
+spanish:Genealógico.
+spanish_word:Genealógico.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$genealogical$$, $$adj$$,  $$genealógico.$$)
+    
+
+
+Genealogy, n. [dcheniálodchi]`Genealogía.`Ang pagkakasunodsunod ng lahì.eng_section:Genealogy, n. [dcheniálodchi]
+eng_word:Genealogy
+pos:n:
+
+spanish:Genealogía.
+spanish_word:Genealogía.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$genealogy$$, $$n$$,  $$genealogía.$$)
+    
+
+
+General, adj. [dchéneral]`General, comun, usual.`Karaniwan.eng_section:General, adj. [dchéneral]
+eng_word:General
+pos:adj:
+
+spanish:General, comun, usual.
+spanish_word:General
+spanish_word:comun
+spanish_word:usual.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$general$$, $$adj$$,  $$general, comun, usual.$$)
+    
+
+
+General, n. [dchéneral]`General.`Heneral, pangulo ng hukbó.eng_section:General, n. [dchéneral]
+eng_word:General
+pos:n:
+
+spanish:General.
+spanish_word:General.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$general$$, $$n$$,  $$general.$$)
+    
+
+
+Generalize, v. [dchénoeralaiz]`Generalizar.`Gawing pangkaraniwan.eng_section:Generalize, v. [dchénoeralaiz]
+eng_word:Generalize
+pos:v:
+
+spanish:Generalizar.
+spanish_word:Generalizar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$generalize$$, $$v$$,  $$generalizar.$$)
+    
+
+
+Generally, adv. [dchénoerali]`Generalmente, comunmente.`Sa karaniwan.eng_section:Generally, adv. [dchénoerali]
+eng_word:Generally
+pos:adv:
+
+spanish:Generalmente, comunmente.
+spanish_word:Generalmente
+spanish_word:comunmente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$generally$$, $$adv$$,  $$generalmente, comunmente.$$)
+    
+
+
+Generalship, n. [dchénoeralship]`Generalato.`Pagka-heneral.eng_section:Generalship, n. [dchénoeralship]
+eng_word:Generalship
+pos:n:
+
+spanish:Generalato.
+spanish_word:Generalato.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$generalship$$, $$n$$,  $$generalato.$$)
+    
+
+
+Generate, v. [dchéneret]`Engendrar, procrear.`Magkaanak, manganak, maglahì.eng_section:Generate, v. [dchéneret]
+eng_word:Generate
+pos:v:
+
+spanish:Engendrar, procrear.
+spanish_word:Engendrar
+spanish_word:procrear.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$generate$$, $$v$$,  $$engendrar, procrear.$$)
+    
+
+
+Generation, n. [dchenerécion]`Generacion.`Lahì.eng_section:Generation, n. [dchenerécion]
+eng_word:Generation
+pos:n:
+
+spanish:Generacion.
+spanish_word:Generacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$generation$$, $$n$$,  $$generacion.$$)
+    
+
+
+Generator, n. [dcheneréter]`Engendrador.`Ang nanganganak ó lumalalang ó gumagawâ.eng_section:Generator, n. [dcheneréter]
+eng_word:Generator
+pos:n:
+
+spanish:Engendrador.
+spanish_word:Engendrador.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$generator$$, $$n$$,  $$engendrador.$$)
+    
+
+
+Generic, adj. [dchinéric]`Genérico.`Nauukol sa urì ng pagkalalake ó pagkababae.eng_section:Generic, adj. [dchinéric]
+eng_word:Generic
+pos:adj:
+
+spanish:Genérico.
+spanish_word:Genérico.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$generic$$, $$adj$$,  $$genérico.$$)
+    
+
+
+Generosity, n. [dchenerósiti]`Generosidad, liberalidad.`Kagandahang ugalì kagandahang loob.eng_section:Generosity, n. [dchenerósiti]
+eng_word:Generosity
+pos:n:
+
+spanish:Generosidad, liberalidad.
+spanish_word:Generosidad
+spanish_word:liberalidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$generosity$$, $$n$$,  $$generosidad, liberalidad.$$)
+    
+
+
+Generous, adj. [dchéneræs]`Generoso, liberal.`Magandang ugalì, magandang loob.eng_section:Generous, adj. [dchéneræs]
+eng_word:Generous
+pos:adj:
+
+spanish:Generoso, liberal.
+spanish_word:Generoso
+spanish_word:liberal.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$generous$$, $$adj$$,  $$generoso, liberal.$$)
+    
+
+
+Genesis, n. [dchénesis]`Génesis.`Hénesis, pasimulâ; unang aklat ng Biblia.eng_section:Genesis, n. [dchénesis]
+eng_word:Genesis
+pos:n:
+
+spanish:Génesis.
+spanish_word:Génesis.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$genesis$$, $$n$$,  $$génesis.$$)
+    
+
+
+Genial, adj. [dchínial]`Genial, natural.`Nauukol sa katutubong ugalì ó asal, nauukol sa talagang ugalì.eng_section:Genial, adj. [dchínial]
+eng_word:Genial
+pos:adj:
+
+spanish:Genial, natural.
+spanish_word:Genial
+spanish_word:natural.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$genial$$, $$adj$$,  $$genial, natural.$$)
+    
+
+
+Geniality, n. [dchiniáliti]`Ingenuidad; alegría.`Talagang ugalì; kasayahan.eng_section:Geniality, n. [dchiniáliti]
+eng_word:Geniality
+pos:n:
+
+spanish:Ingenuidad; alegría.
+spanish_phrase:Ingenuidad; alegría.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$geniality$$, $$n$$,  $$ingenuidad; alegría.$$)
+    
+
+
+Genitals, n. [dchénitals]`Genitales, testículos.`Itlog.eng_section:Genitals, n. [dchénitals]
+eng_word:Genitals
+pos:n:
+
+spanish:Genitales, testículos.
+spanish_word:Genitales
+spanish_word:testículos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$genitals$$, $$n$$,  $$genitales, testículos.$$)
+    
+
+
+Genitive, n. [dchénitiv]`Genitivo.`Henitibo, bahagi ng tuntunin ng isang wikà tungkol sa pag-aarì.eng_section:Genitive, n. [dchénitiv]
+eng_word:Genitive
+pos:n:
+
+spanish:Genitivo.
+spanish_word:Genitivo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$genitive$$, $$n$$,  $$genitivo.$$)
+    
+
+
+Genius, n. [dchínies]`Genio.`Talagang ugalì ó asal.eng_section:Genius, n. [dchínies]
+eng_word:Genius
+pos:n:
+
+spanish:Genio.
+spanish_word:Genio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$genius$$, $$n$$,  $$genio.$$)
+    
+
+
+Genteel, adj. [dchentíl]`Urbano, cortés.`Magalang, mapagpitagan, mapagbigay-loob.eng_section:Genteel, adj. [dchentíl]
+eng_word:Genteel
+pos:adj:
+
+spanish:Urbano, cortés.
+spanish_word:Urbano
+spanish_word:cortés.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$genteel$$, $$adj$$,  $$urbano, cortés.$$)
+    
+
+
+Gentility, n. [dchentíliti]`Urbanidad, cortesía.`Galang, pitagan, kamahalan ng kilos.eng_section:Gentility, n. [dchentíliti]
+eng_word:Gentility
+pos:n:
+
+spanish:Urbanidad, cortesía.
+spanish_word:Urbanidad
+spanish_word:cortesía.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gentility$$, $$n$$,  $$urbanidad, cortesía.$$)
+    
+
+
+Gentle, adj. [dchéntl]`Suave, docil, benévolo, benigno.`Mahinahon, mabait, mahábagin, maawain.eng_section:Gentle, adj. [dchéntl]
+eng_word:Gentle
+pos:adj:
+
+spanish:Suave, docil, benévolo, benigno.
+spanish_word:Suave
+spanish_word:docil
+spanish_word:benévolo
+spanish_word:benigno.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gentle$$, $$adj$$,  $$suave, docil, benévolo, benigno.$$)
+    
+
+
+Gentlefolk, n. [dchéntlfoc]`La gente bien nacida.`Taong mabait, taong mabuti ang pagkaturò.eng_section:Gentlefolk, n. [dchéntlfoc]
+eng_word:Gentlefolk
+pos:n:
+
+spanish:La gente bien nacida.
+spanish_phrase:La gente bien nacida.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gentlefolk$$, $$n$$,  $$la gente bien nacida.$$)
+    
+
+
+Gentleman, n. [dchéntlman]`Caballero.`Ginoo, mahal na tao.eng_section:Gentleman, n. [dchéntlman]
+eng_word:Gentleman
+pos:n:
+
+spanish:Caballero.
+spanish_word:Caballero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gentleman$$, $$n$$,  $$caballero.$$)
+    
+
+
+Gentlemanly, adj. [dchéntlmanli]`Caballeroso, urbano.`May mahal na kilos, mapagpitagan, mabait.eng_section:Gentlemanly, adj. [dchéntlmanli]
+eng_word:Gentlemanly
+pos:adj:
+
+spanish:Caballeroso, urbano.
+spanish_word:Caballeroso
+spanish_word:urbano.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gentlemanly$$, $$adj$$,  $$caballeroso, urbano.$$)
+    
+
+
+Gentlewoman, n. [dchéntlwuman]`Señora, dama.`Ginang.eng_section:Gentlewoman, n. [dchéntlwuman]
+eng_word:Gentlewoman
+pos:n:
+
+spanish:Señora, dama.
+spanish_word:Señora
+spanish_word:dama.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gentlewoman$$, $$n$$,  $$señora, dama.$$)
+    
+
+
+Gently, adj. [dchéntli]`Suavemente; despacio, poco á poco.`Dahandahan, untîuntî, inot-inot, utay-utay.eng_section:Gently, adj. [dchéntli]
+eng_word:Gently
+pos:adj:
+
+spanish:Suavemente; despacio, poco á poco.
+spanish_phrase:Suavemente; despacio
+spanish_phrase:poco á poco.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gently$$, $$adj$$,  $$suavemente; despacio, poco á poco.$$)
+    
+
+
+Gentry, n. [dchéntri]`Ciudadanos distinguidos.`Mga taong magigiting.eng_section:Gentry, n. [dchéntri]
+eng_word:Gentry
+pos:n:
+
+spanish:Ciudadanos distinguidos.
+spanish_phrase:Ciudadanos distinguidos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gentry$$, $$n$$,  $$ciudadanos distinguidos.$$)
+    
+
+
+Genuflection, n. [dchiniufléccion]`Genuflexion.`Paglohod, lohod.eng_section:Genuflection, n. [dchiniufléccion]
+eng_word:Genuflection
+pos:n:
+
+spanish:Genuflexion.
+spanish_word:Genuflexion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$genuflection$$, $$n$$,  $$genuflexion.$$)
+    
+
+
+Genuine, adj. [dchénuin]`Genuino, puro.`Pulós, taganas, wagas, dalisay.eng_section:Genuine, adj. [dchénuin]
+eng_word:Genuine
+pos:adj:
+
+spanish:Genuino, puro.
+spanish_word:Genuino
+spanish_word:puro.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$genuine$$, $$adj$$,  $$genuino, puro.$$)
+    
+
+
+Genuineness, n. [dchénuines]`Pureza.`Kawagasan, kadalisayan.eng_section:Genuineness, n. [dchénuines]
+eng_word:Genuineness
+pos:n:
+
+spanish:Pureza.
+spanish_word:Pureza.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$genuineness$$, $$n$$,  $$pureza.$$)
+    
+
+
+Genus, n. [dchínes]`Género.`Urì, klase.eng_section:Genus, n. [dchínes]
+eng_word:Genus
+pos:n:
+
+spanish:Género.
+spanish_word:Género.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$genus$$, $$n$$,  $$género.$$)
+    
+
+
+Geographer, n. [dchiógrafer]`Geógrafo.`Marunong ng heograpyá.eng_section:Geographer, n. [dchiógrafer]
+eng_word:Geographer
+pos:n:
+
+spanish:Geógrafo.
+spanish_word:Geógrafo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$geographer$$, $$n$$,  $$geógrafo.$$)
+    
+
+
+Geographical, adj. [dchiográfical]`Geográfico.`Nauukol sa heograpyá.eng_section:Geographical, adj. [dchiográfical]
+eng_word:Geographical
+pos:adj:
+
+spanish:Geográfico.
+spanish_word:Geográfico.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$geographical$$, $$adj$$,  $$geográfico.$$)
+    
+
+
+Geography, n. [dchiógrapi]`Geografía.`Heograpyá.eng_section:Geography, n. [dchiógrapi]
+eng_word:Geography
+pos:n:
+
+spanish:Geografía.
+spanish_word:Geografía.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$geography$$, $$n$$,  $$geografía.$$)
+    
+
+
+Geology, n. [dchiólodchi]`Geología.`Karunungan tungkol sa likás ng iba't ibang bahagi ng lupà.eng_section:Geology, n. [dchiólodchi]
+eng_word:Geology
+pos:n:
+
+spanish:Geología.
+spanish_word:Geología.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$geology$$, $$n$$,  $$geología.$$)
+    
+
+
+Geometrical, adj. [dchiométrical]`Geométrico.`Nauukol sa heometría.eng_section:Geometrical, adj. [dchiométrical]
+eng_word:Geometrical
+pos:adj:
+
+spanish:Geométrico.
+spanish_word:Geométrico.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$geometrical$$, $$adj$$,  $$geométrico.$$)
+    
+
+
+Geometry, n. [dchiómetri]`Geometría.`Heometría.eng_section:Geometry, n. [dchiómetri]
+eng_word:Geometry
+pos:n:
+
+spanish:Geometría.
+spanish_word:Geometría.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$geometry$$, $$n$$,  $$geometría.$$)
+    
+
+
+Germ, n. [dcherm]`Ovario ó brote.`Binhî, pinanggagalingan, pinagbubuhatan.eng_section:Germ, n. [dcherm]
+eng_word:Germ
+pos:n:
+
+spanish:Ovario ó brote.
+spanish_phrase:Ovario ó brote.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$germ$$, $$n$$,  $$ovario ó brote.$$)
+    
+
+
+German, adj. & n. [dchérman]`Aleman.`Aleman, taga Alemanya.eng_section:German, adj. & n. [dchérman]
+eng_word:German
+pos:adj:
+
+spanish:Aleman.
+spanish_word:Aleman.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$german$$, $$adj$$,  $$aleman.$$)
+    
+
+
+Germinal, adj. [dchérminal]`Germinativo.`Nauukol sa binhî.eng_section:Germinal, adj. [dchérminal]
+eng_word:Germinal
+pos:adj:
+
+spanish:Germinativo.
+spanish_word:Germinativo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$germinal$$, $$adj$$,  $$germinativo.$$)
+    
+
+
+Germinate, v. [dehérminet]`Brotar.`Umusbong, sumupling.eng_section:Germinate, v. [dehérminet]
+eng_word:Germinate
+pos:v:
+
+spanish:Brotar.
+spanish_word:Brotar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$germinate$$, $$v$$,  $$brotar.$$)
+    
+
+
+Gestation, n. [dchestécioen]`Preñez.`Pagka-buntis.eng_section:Gestation, n. [dchestécioen]
+eng_word:Gestation
+pos:n:
+
+spanish:Preñez.
+spanish_word:Preñez.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gestation$$, $$n$$,  $$preñez.$$)
+    
+
+
+Gesture, n. [dchéschur]`Gesto, accion.`Galaw, kilos, kiyâ; ismid; ingos.eng_section:Gesture, n. [dchéschur]
+eng_word:Gesture
+pos:n:
+
+spanish:Gesto, accion.
+spanish_word:Gesto
+spanish_word:accion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gesture$$, $$n$$,  $$gesto, accion.$$)
+    
+
+
+Gesticulate, v. [dchestíkiulet]`Gesticular.`Kumilos; kumiyâ; umismíd; umingos.eng_section:Gesticulate, v. [dchestíkiulet]
+eng_word:Gesticulate
+pos:v:
+
+spanish:Gesticular.
+spanish_word:Gesticular.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gesticulate$$, $$v$$,  $$gesticular.$$)
+    
+
+
+Get, v. [guet]`Ganar, adquirir, conseguir, obtener.`Magtaglay, magtamó, magkamít.eng_section:Get, v. [guet]
+eng_word:Get
+pos:v:
+
+spanish:Ganar, adquirir, conseguir, obtener.
+spanish_word:Ganar
+spanish_word:adquirir
+spanish_word:conseguir
+spanish_word:obtener.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$get$$, $$v$$,  $$ganar, adquirir, conseguir, obtener.$$)
+    
+
+
+Gewgaw, n. [guiúgo]`Chuchería, juguete de niños.`Larúan.eng_section:Gewgaw, n. [guiúgo]
+eng_word:Gewgaw
+pos:n:
+
+spanish:Chuchería, juguete de niños.
+spanish_word:Chuchería
+spanish_phrase:juguete de niños.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gewgaw$$, $$n$$,  $$chuchería, juguete de niños.$$)
+    
+
+
+Geyser, n. [guéiser]`Géiser, fuente caliente.`Bukalan ng tubig na mainit.eng_section:Geyser, n. [guéiser]
+eng_word:Geyser
+pos:n:
+
+spanish:Géiser, fuente caliente.
+spanish_word:Géiser
+spanish_phrase:fuente caliente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$geyser$$, $$n$$,  $$géiser, fuente caliente.$$)
+    
+
+
+Ghastliness, n. [gástlines]`Palidez, cara cadavérica.`Putlâ, pagmumukhang patay.eng_section:Ghastliness, n. [gástlines]
+eng_word:Ghastliness
+pos:n:
+
+spanish:Palidez, cara cadavérica.
+spanish_word:Palidez
+spanish_phrase:cara cadavérica.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ghastliness$$, $$n$$,  $$palidez, cara cadavérica.$$)
+    
+
+
+Ghastly, adj. [gástli]`Pálido, horrible.`Maputlâ, kakilakilabot.eng_section:Ghastly, adj. [gástli]
+eng_word:Ghastly
+pos:adj:
+
+spanish:Pálido, horrible.
+spanish_word:Pálido
+spanish_word:horrible.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ghastly$$, $$adj$$,  $$pálido, horrible.$$)
+    
+
+
+Ghost, n. [gost]`Espectro.`Multó, guníguní.eng_section:Ghost, n. [gost]
+eng_word:Ghost
+pos:n:
+
+spanish:Espectro.
+spanish_word:Espectro.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ghost$$, $$n$$,  $$espectro.$$)
+    
+
+
+Ghostly, adj. [góstli]`Espiritual, lo perteneciente á los aparecidos.`Nauukol sa multo ó guníguní.eng_section:Ghostly, adj. [góstli]
+eng_word:Ghostly
+pos:adj:
+
+spanish:Espiritual, lo perteneciente á los aparecidos.
+spanish_word:Espiritual
+spanish_phrase:lo perteneciente á los aparecidos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ghostly$$, $$adj$$,  $$espiritual, lo perteneciente á los aparecidos.$$)
+    
+
+
+Giant, n. [dcháiant]`Gigante.`Higante, lalaking mataas.eng_section:Giant, n. [dcháiant]
+eng_word:Giant
+pos:n:
+
+spanish:Gigante.
+spanish_word:Gigante.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$giant$$, $$n$$,  $$gigante.$$)
+    
+
+
+Giantess, n. [dcháiantes]`Giganta.`Higanta, babaing mataas.eng_section:Giantess, n. [dcháiantes]
+eng_word:Giantess
+pos:n:
+
+spanish:Giganta.
+spanish_word:Giganta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$giantess$$, $$n$$,  $$giganta.$$)
+    
+
+
+Gibbet, n. [dchíbet]`Horca.`Bibitayán.eng_section:Gibbet, n. [dchíbet]
+eng_word:Gibbet
+pos:n:
+
+spanish:Horca.
+spanish_word:Horca.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gibbet$$, $$n$$,  $$horca.$$)
+    
+
+
+Gibbet, v. [dchíbet]`Ahorcar.`Bumitay; bumigtí.eng_section:Gibbet, v. [dchíbet]
+eng_word:Gibbet
+pos:v:
+
+spanish:Ahorcar.
+spanish_word:Ahorcar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gibbet$$, $$v$$,  $$ahorcar.$$)
+    
+
+
+Gibbon, n. [gíbbon]`Una especie de monos.`Isang urì ng mga unggoy.eng_section:Gibbon, n. [gíbbon]
+eng_word:Gibbon
+pos:n:
+
+spanish:Una especie de monos.
+spanish_phrase:Una especie de monos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gibbon$$, $$n$$,  $$una especie de monos.$$)
+    
+
+
+Gibe, n. [dcháib]`Escarnio, burla.`Lait, alipustâ, tuyâ.eng_section:Gibe, n. [dcháib]
+eng_word:Gibe
+pos:n:
+
+spanish:Escarnio, burla.
+spanish_word:Escarnio
+spanish_word:burla.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gibe$$, $$n$$,  $$escarnio, burla.$$)
+    
+
+
+Gibe, v. [dcháib]`Escarnecer, burlarse.`Lumait, umalipustâ, tumuyâ.eng_section:Gibe, v. [dcháib]
+eng_word:Gibe
+pos:v:
+
+spanish:Escarnecer, burlarse.
+spanish_word:Escarnecer
+spanish_word:burlarse.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gibe$$, $$v$$,  $$escarnecer, burlarse.$$)
+    
+
+
+Giblets, n. [dcháiblets]`Despojos y menudillos de aves.`Mga lamáng-loob ng manok at iba pang kaurì nito.eng_section:Giblets, n. [dcháiblets]
+eng_word:Giblets
+pos:n:
+
+spanish:Despojos y menudillos de aves.
+spanish_phrase:Despojos y menudillos de aves.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$giblets$$, $$n$$,  $$despojos y menudillos de aves.$$)
+    
+
+
+Giddiness, n. [guídines]`Vértigo.`Hilo.eng_section:Giddiness, n. [guídines]
+eng_word:Giddiness
+pos:n:
+
+spanish:Vértigo.
+spanish_word:Vértigo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$giddiness$$, $$n$$,  $$vértigo.$$)
+    
+
+
+Giddy, adj. [guídi]`Vertiginoso.`Nahihilo, mahiluhín.eng_section:Giddy, adj. [guídi]
+eng_word:Giddy
+pos:adj:
+
+spanish:Vertiginoso.
+spanish_word:Vertiginoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$giddy$$, $$adj$$,  $$vertiginoso.$$)
+    
+
+
+Gift, n. [guift]`Don, dádiva.`Kaloob, bigáy, pasalubong.eng_section:Gift, n. [guift]
+eng_word:Gift
+pos:n:
+
+spanish:Don, dádiva.
+spanish_word:Don
+spanish_word:dádiva.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gift$$, $$n$$,  $$don, dádiva.$$)
+    
+
+
+Gig, n. [guig]`Calesa; birlocho; trompo; perinola.`Kalesa; salapang; trumpo; prinola.eng_section:Gig, n. [guig]
+eng_word:Gig
+pos:n:
+
+spanish:Calesa; birlocho; trompo; perinola.
+spanish_phrase:Calesa; birlocho; trompo; perinola.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gig$$, $$n$$,  $$calesa; birlocho; trompo; perinola.$$)
+    
+
+
+Gigantic, adj. [dchaigántic]`Gigastesco.`Tila higante, parang higante ó lubhang matangkad.eng_section:Gigantic, adj. [dchaigántic]
+eng_word:Gigantic
+pos:adj:
+
+spanish:Gigastesco.
+spanish_word:Gigastesco.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gigantic$$, $$adj$$,  $$gigastesco.$$)
+    
+
+
+Giggle, v. [guígl]`Fisgarse sonriendose.`Tawanan, tuyâin.eng_section:Giggle, v. [guígl]
+eng_word:Giggle
+pos:v:
+
+spanish:Fisgarse sonriendose.
+spanish_phrase:Fisgarse sonriendose.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$giggle$$, $$v$$,  $$fisgarse sonriendose.$$)
+    
+
+
+Gild, v. [guild]`Dorar.`Doraduhin.eng_section:Gild, v. [guild]
+eng_word:Gild
+pos:v:
+
+spanish:Dorar.
+spanish_word:Dorar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gild$$, $$v$$,  $$dorar.$$)
+    
+
+
+Gill, n. [dchil]`Una medida de líquidos.`Isang takalán ng mga tunaw na bagay.eng_section:Gill, n. [dchil]
+eng_word:Gill
+pos:n:
+
+spanish:Una medida de líquidos.
+spanish_phrase:Una medida de líquidos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gill$$, $$n$$,  $$una medida de líquidos.$$)
+    
+
+
+Gimcrack, n. [dchímcrac]`Alguna obra mecánica de poco valor.`Larúang may mákina.eng_section:Gimcrack, n. [dchímcrac]
+eng_word:Gimcrack
+pos:n:
+
+spanish:Alguna obra mecánica de poco valor.
+spanish_phrase:Alguna obra mecánica de poco valor.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gimcrack$$, $$n$$,  $$alguna obra mecánica de poco valor.$$)
+    
+
+
+Gimlet, n. [guímlet]`Barrera pequeña.`Balibol.eng_section:Gimlet, n. [guímlet]
+eng_word:Gimlet
+pos:n:
+
+spanish:Barrera pequeña.
+spanish_phrase:Barrera pequeña.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gimlet$$, $$n$$,  $$barrera pequeña.$$)
+    
+
+
+Gimp, n. [guimp]`Encaje de hilo ó seda.`Trencilyas.eng_section:Gimp, n. [guimp]
+eng_word:Gimp
+pos:n:
+
+spanish:Encaje de hilo ó seda.
+spanish_phrase:Encaje de hilo ó seda.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gimp$$, $$n$$,  $$encaje de hilo ó seda.$$)
+    
+
+
+Gin, n. [dchin]`Ginebra.`Hinyebra.eng_section:Gin, n. [dchin]
+eng_word:Gin
+pos:n:
+
+spanish:Ginebra.
+spanish_word:Ginebra.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gin$$, $$n$$,  $$ginebra.$$)
+    
+
+
+Ginger, n. [dchíndcher]`Jengibre.`Luya.eng_section:Ginger, n. [dchíndcher]
+eng_word:Ginger
+pos:n:
+
+spanish:Jengibre.
+spanish_word:Jengibre.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ginger$$, $$n$$,  $$jengibre.$$)
+    
+
+
+Gingham, n. [guíngam]`Carranclan, olancillo.`Kayong sita.eng_section:Gingham, n. [guíngam]
+eng_word:Gingham
+pos:n:
+
+spanish:Carranclan, olancillo.
+spanish_word:Carranclan
+spanish_word:olancillo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gingham$$, $$n$$,  $$carranclan, olancillo.$$)
+    
+
+
+Gipsy, n. [dchípsi]`Gitano.`Pagalagalà.eng_section:Gipsy, n. [dchípsi]
+eng_word:Gipsy
+pos:n:
+
+spanish:Gitano.
+spanish_word:Gitano.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gipsy$$, $$n$$,  $$gitano.$$)
+    
+
+
+Gird, v. [guoerd]`Ceñir, atar alguna cosa al rededor.`Magbigkis, magsinturón.eng_section:Gird, v. [guoerd]
+eng_word:Gird
+pos:v:
+
+spanish:Ceñir, atar alguna cosa al rededor.
+spanish_word:Ceñir
+spanish_phrase:atar alguna cosa al rededor.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gird$$, $$v$$,  $$ceñir, atar alguna cosa al rededor.$$)
+    
+
+
+Girdle, n. [guírdl]`Cíngulo, cinturon.`Bigkís, sinturon.eng_section:Girdle, n. [guírdl]
+eng_word:Girdle
+pos:n:
+
+spanish:Cíngulo, cinturon.
+spanish_word:Cíngulo
+spanish_word:cinturon.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$girdle$$, $$n$$,  $$cíngulo, cinturon.$$)
+    
+
+
+Girl, n. [guerl]`Muchacha, doncella.`Batang babae.eng_section:Girl, n. [guerl]
+eng_word:Girl
+pos:n:
+
+spanish:Muchacha, doncella.
+spanish_word:Muchacha
+spanish_word:doncella.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$girl$$, $$n$$,  $$muchacha, doncella.$$)
+    
+
+
+Girlhood, n. [guérljud]`Doncellez.`Pagkabatang babae.eng_section:Girlhood, n. [guérljud]
+eng_word:Girlhood
+pos:n:
+
+spanish:Doncellez.
+spanish_word:Doncellez.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$girlhood$$, $$n$$,  $$doncellez.$$)
+    
+
+
+Girlish, adj. [guérlish]`Juvenil.`Ukol sa batang babae.eng_section:Girlish, adj. [guérlish]
+eng_word:Girlish
+pos:adj:
+
+spanish:Juvenil.
+spanish_word:Juvenil.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$girlish$$, $$adj$$,  $$juvenil.$$)
+    
+
+
+Girth, n. [guerz]`Circunferencia.`Bilog, kabilugan.eng_section:Girth, n. [guerz]
+eng_word:Girth
+pos:n:
+
+spanish:Circunferencia.
+spanish_word:Circunferencia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$girth$$, $$n$$,  $$circunferencia.$$)
+    
+
+
+Gist, n. [dchist]`Punto principal de una acusacion.`Pangulong sakdal ó sumbong.eng_section:Gist, n. [dchist]
+eng_word:Gist
+pos:n:
+
+spanish:Punto principal de una acusacion.
+spanish_phrase:Punto principal de una acusacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gist$$, $$n$$,  $$punto principal de una acusacion.$$)
+    
+
+
+Give, v. [guiv]`Dar, donar.`Magbigay, magkaloob.eng_section:Give, v. [guiv]
+eng_word:Give
+pos:v:
+
+spanish:Dar, donar.
+spanish_word:Dar
+spanish_word:donar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$give$$, $$v$$,  $$dar, donar.$$)
+    
+
+
+Giver, n. [guíver]`Dador, donador.`Ang nagbibigay, ang nagkakaloob.eng_section:Giver, n. [guíver]
+eng_word:Giver
+pos:n:
+
+spanish:Dador, donador.
+spanish_word:Dador
+spanish_word:donador.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$giver$$, $$n$$,  $$dador, donador.$$)
+    
+
+
+Gizzard, n. [guízard]`Molleja de ave.`Balunbalúnan.eng_section:Gizzard, n. [guízard]
+eng_word:Gizzard
+pos:n:
+
+spanish:Molleja de ave.
+spanish_phrase:Molleja de ave.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gizzard$$, $$n$$,  $$molleja de ave.$$)
+    
+
+
+Glacial, adj. [glécial]`Glacial, helado.`Namumuong tubig.eng_section:Glacial, adj. [glécial]
+eng_word:Glacial
+pos:adj:
+
+spanish:Glacial, helado.
+spanish_word:Glacial
+spanish_word:helado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glacial$$, $$adj$$,  $$glacial, helado.$$)
+    
+
+
+Glacier, n. [glésier]`Ventisquero.`Bundok ng yelo ó namuong tubig.eng_section:Glacier, n. [glésier]
+eng_word:Glacier
+pos:n:
+
+spanish:Ventisquero.
+spanish_word:Ventisquero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glacier$$, $$n$$,  $$ventisquero.$$)
+    
+
+
+Glad, adj. [glad]`Alegre, contento.`Masayá, twâ, galák.eng_section:Glad, adj. [glad]
+eng_word:Glad
+pos:adj:
+
+spanish:Alegre, contento.
+spanish_word:Alegre
+spanish_word:contento.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glad$$, $$adj$$,  $$alegre, contento.$$)
+    
+
+
+Gladden, v. [gládn]`Alegrar, regocijar.`Sumayá, matwâ, magalak, malugod.eng_section:Gladden, v. [gládn]
+eng_word:Gladden
+pos:v:
+
+spanish:Alegrar, regocijar.
+spanish_word:Alegrar
+spanish_word:regocijar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gladden$$, $$v$$,  $$alegrar, regocijar.$$)
+    
+
+
+Glair, n. [gler]`Clara de huevo.`Putî ng itlog.eng_section:Glair, n. [gler]
+eng_word:Glair
+pos:n:
+
+spanish:Clara de huevo.
+spanish_phrase:Clara de huevo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glair$$, $$n$$,  $$clara de huevo.$$)
+    
+
+
+Glair, v. [gler]`Untar con clara de huevo.`Magpahid ng putî ng itlog.eng_section:Glair, v. [gler]
+eng_word:Glair
+pos:v:
+
+spanish:Untar con clara de huevo.
+spanish_phrase:Untar con clara de huevo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glair$$, $$v$$,  $$untar con clara de huevo.$$)
+    
+
+
+Glamour, n. [glámur]`Ilusión óptica.`Malikmatá.eng_section:Glamour, n. [glámur]
+eng_word:Glamour
+pos:n:
+
+spanish:Ilusión óptica.
+spanish_phrase:Ilusión óptica.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glamour$$, $$n$$,  $$ilusión óptica.$$)
+    
+
+
+Glance, n. [glans]`Ojeada; vislumbre, relampago.`Sulyap; silay, kislap, kisap.eng_section:Glance, n. [glans]
+eng_word:Glance
+pos:n:
+
+spanish:Ojeada; vislumbre, relampago.
+spanish_phrase:Ojeada; vislumbre
+spanish_word:relampago.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glance$$, $$n$$,  $$ojeada; vislumbre, relampago.$$)
+    
+
+
+Glance, v. [glans]`Lanzar ojeada, centellear.`Sumulyap; kumisap, kumislap.eng_section:Glance, v. [glans]
+eng_word:Glance
+pos:v:
+
+spanish:Lanzar ojeada, centellear.
+spanish_phrase:Lanzar ojeada
+spanish_word:centellear.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glance$$, $$v$$,  $$lanzar ojeada, centellear.$$)
+    
+
+
+Gland, n. [gland]`Glándula.`Kulanì.eng_section:Gland, n. [gland]
+eng_word:Gland
+pos:n:
+
+spanish:Glándula.
+spanish_word:Glándula.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gland$$, $$n$$,  $$glándula.$$)
+    
+
+
+Glanders, n. [glánders]`Muermo.`Sakít na sipón ng kabayo.eng_section:Glanders, n. [glánders]
+eng_word:Glanders
+pos:n:
+
+spanish:Muermo.
+spanish_word:Muermo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glanders$$, $$n$$,  $$muermo.$$)
+    
+
+
+Glare, n. [glær]`Deslumbramiento; mirada feroz y penetrante.`Pagkasilaw, kasilawan; tinging mabalasik.eng_section:Glare, n. [glær]
+eng_word:Glare
+pos:n:
+
+spanish:Deslumbramiento; mirada feroz y penetrante.
+spanish_phrase:Deslumbramiento; mirada feroz y penetrante.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glare$$, $$n$$,  $$deslumbramiento; mirada feroz y penetrante.$$)
+    
+
+
+Glare, v. [glær]`Relumbrar; echar miradas de indignación.`Sumilaw; tumingin ng mabalasik.eng_section:Glare, v. [glær]
+eng_word:Glare
+pos:v:
+
+spanish:Relumbrar; echar miradas de indignación.
+spanish_phrase:Relumbrar; echar miradas de indignación.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glare$$, $$v$$,  $$relumbrar; echar miradas de indignación.$$)
+    
+
+
+Glass, n. [glas]`Vidrio; vaso.`Bubog, salamin; baso.eng_section:Glass, n. [glas]
+eng_word:Glass
+pos:n:
+
+spanish:Vidrio; vaso.
+spanish_phrase:Vidrio; vaso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glass$$, $$n$$,  $$vidrio; vaso.$$)
+    
+
+
+Glassy, adj. [glási]`Vitreo, cristalino.`Parang bubog, parang salamín.eng_section:Glassy, adj. [glási]
+eng_word:Glassy
+pos:adj:
+
+spanish:Vitreo, cristalino.
+spanish_word:Vitreo
+spanish_word:cristalino.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glassy$$, $$adj$$,  $$vitreo, cristalino.$$)
+    
+
+
+Glaze, v. [glez]`Vidriar.`Lapatan ng salamín.eng_section:Glaze, v. [glez]
+eng_word:Glaze
+pos:v:
+
+spanish:Vidriar.
+spanish_word:Vidriar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glaze$$, $$v$$,  $$vidriar.$$)
+    
+
+
+Glazier, n. [glézier]`Vidriero.`Tagapaglapat ng salamin sa mga dungawan at ibp.eng_section:Glazier, n. [glézier]
+eng_word:Glazier
+pos:n:
+
+spanish:Vidriero.
+spanish_word:Vidriero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glazier$$, $$n$$,  $$vidriero.$$)
+    
+
+
+Gleam, n. [glim]`Rayo, resplandor muy pasajero.`Kisap, kislap.eng_section:Gleam, n. [glim]
+eng_word:Gleam
+pos:n:
+
+spanish:Rayo, resplandor muy pasajero.
+spanish_word:Rayo
+spanish_phrase:resplandor muy pasajero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gleam$$, $$n$$,  $$rayo, resplandor muy pasajero.$$)
+    
+
+
+Gleam, v. [glim]`Brillar, relampaguear.`Lumiwanag, numingning kumislap.eng_section:Gleam, v. [glim]
+eng_word:Gleam
+pos:v:
+
+spanish:Brillar, relampaguear.
+spanish_word:Brillar
+spanish_word:relampaguear.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gleam$$, $$v$$,  $$brillar, relampaguear.$$)
+    
+
+
+Glean, v. [glin]`Espigar; recoger.`Manghimalay; mamulot.eng_section:Glean, v. [glin]
+eng_word:Glean
+pos:v:
+
+spanish:Espigar; recoger.
+spanish_phrase:Espigar; recoger.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glean$$, $$v$$,  $$espigar; recoger.$$)
+    
+
+
+Gleaning, n. [glíning]`Rebusca.`Himalay; pamumulot ng nátira.eng_section:Gleaning, n. [glíning]
+eng_word:Gleaning
+pos:n:
+
+spanish:Rebusca.
+spanish_word:Rebusca.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gleaning$$, $$n$$,  $$rebusca.$$)
+    
+
+
+Glebe, n. [glib]`Glebe, cesped; tierras beneficiales.`Lupang looban, lupang pinakikinabangan.eng_section:Glebe, n. [glib]
+eng_word:Glebe
+pos:n:
+
+spanish:Glebe, cesped; tierras beneficiales.
+spanish_word:Glebe
+spanish_phrase:cesped; tierras beneficiales.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glebe$$, $$n$$,  $$glebe, cesped; tierras beneficiales.$$)
+    
+
+
+Glee, n. [gli]`Alegría, gozo.`Sayá, twâ, galak.eng_section:Glee, n. [gli]
+eng_word:Glee
+pos:n:
+
+spanish:Alegría, gozo.
+spanish_word:Alegría
+spanish_word:gozo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glee$$, $$n$$,  $$alegría, gozo.$$)
+    
+
+
+Gleeful, adj. [glíful]`Gozoso, alegre.`Galák, masayá.eng_section:Gleeful, adj. [glíful]
+eng_word:Gleeful
+pos:adj:
+
+spanish:Gozoso, alegre.
+spanish_word:Gozoso
+spanish_word:alegre.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gleeful$$, $$adj$$,  $$gozoso, alegre.$$)
+    
+
+
+Glen, n. [glen]`Valle.`Libís.eng_section:Glen, n. [glen]
+eng_word:Glen
+pos:n:
+
+spanish:Valle.
+spanish_word:Valle.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glen$$, $$n$$,  $$valle.$$)
+    
+
+
+Glid, adj. [glid]`Liso, resbaladizo.`Makinis, madulas.eng_section:Glid, adj. [glid]
+eng_word:Glid
+pos:adj:
+
+spanish:Liso, resbaladizo.
+spanish_word:Liso
+spanish_word:resbaladizo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glid$$, $$adj$$,  $$liso, resbaladizo.$$)
+    
+
+
+Glide, v. [gláid]`Resbalar, escurrirse.`Dumulas, dumaplis.eng_section:Glide, v. [gláid]
+eng_word:Glide
+pos:v:
+
+spanish:Resbalar, escurrirse.
+spanish_word:Resbalar
+spanish_word:escurrirse.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glide$$, $$v$$,  $$resbalar, escurrirse.$$)
+    
+
+
+Glim, n. [glim]`Farol de ronda.`Parol na pananglaw.eng_section:Glim, n. [glim]
+eng_word:Glim
+pos:n:
+
+spanish:Farol de ronda.
+spanish_phrase:Farol de ronda.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glim$$, $$n$$,  $$farol de ronda.$$)
+    
+
+
+Glimmer, n. [glímer]`Vislumbre.`Sinag, silay.eng_section:Glimmer, n. [glímer]
+eng_word:Glimmer
+pos:n:
+
+spanish:Vislumbre.
+spanish_word:Vislumbre.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glimmer$$, $$n$$,  $$vislumbre.$$)
+    
+
+
+Glimpse, n. [glimps]`Ojeada, vislumbre.`Sulyap, silay.eng_section:Glimpse, n. [glimps]
+eng_word:Glimpse
+pos:n:
+
+spanish:Ojeada, vislumbre.
+spanish_word:Ojeada
+spanish_word:vislumbre.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glimpse$$, $$n$$,  $$ojeada, vislumbre.$$)
+    
+
+
+Glisten, v. [glísn]`Relucir, brillar.`Numingning, kumislap, kumisap, kumintab.eng_section:Glisten, v. [glísn]
+eng_word:Glisten
+pos:v:
+
+spanish:Relucir, brillar.
+spanish_word:Relucir
+spanish_word:brillar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glisten$$, $$v$$,  $$relucir, brillar.$$)
+    
+
+
+Glitter, n. [glíter]`Lustre, resplandor.`Ningning, kislap, kisap, kintab.eng_section:Glitter, n. [glíter]
+eng_word:Glitter
+pos:n:
+
+spanish:Lustre, resplandor.
+spanish_word:Lustre
+spanish_word:resplandor.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glitter$$, $$n$$,  $$lustre, resplandor.$$)
+    
+
+
+Glitter, v. [glíter]`Lucir, brillar.`Numingning, kumislap, kumisap, kumintab.eng_section:Glitter, v. [glíter]
+eng_word:Glitter
+pos:v:
+
+spanish:Lucir, brillar.
+spanish_word:Lucir
+spanish_word:brillar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glitter$$, $$v$$,  $$lucir, brillar.$$)
+    
+
+
+Glittering, adj. [glítering]`Relampago, lustre.`Makislap, maningning, makintab.eng_section:Glittering, adj. [glítering]
+eng_word:Glittering
+pos:adj:
+
+spanish:Relampago, lustre.
+spanish_word:Relampago
+spanish_word:lustre.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glittering$$, $$adj$$,  $$relampago, lustre.$$)
+    
+
+
+Gloaming, n. [glóming]`Crepúsculo.`Takip-silim.eng_section:Gloaming, n. [glóming]
+eng_word:Gloaming
+pos:n:
+
+spanish:Crepúsculo.
+spanish_word:Crepúsculo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gloaming$$, $$n$$,  $$crepúsculo.$$)
+    
+
+
+Gloat, v. [glot]`Ojear con admiración ó con amor.`Magpapungay.eng_section:Gloat, v. [glot]
+eng_word:Gloat
+pos:v:
+
+spanish:Ojear con admiración ó con amor.
+spanish_phrase:Ojear con admiración ó con amor.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gloat$$, $$v$$,  $$ojear con admiración ó con amor.$$)
+    
+
+
+Globe, n. [glob]`Esfera; globo, bola.`Globo, bilog, bola.eng_section:Globe, n. [glob]
+eng_word:Globe
+pos:n:
+
+spanish:Esfera; globo, bola.
+spanish_phrase:Esfera; globo
+spanish_word:bola.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$globe$$, $$n$$,  $$esfera; globo, bola.$$)
+    
+
+
+Globular, adj. [glóbiular]`Globoso.`Mabilog.eng_section:Globular, adj. [glóbiular]
+eng_word:Globular
+pos:adj:
+
+spanish:Globoso.
+spanish_word:Globoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$globular$$, $$adj$$,  $$globoso.$$)
+    
+
+
+Gloom, n. [glum]`Opacidad, obscuridad; melancolía, tristeza.`Lamlam, kulimlim; panglaw; lungkot.eng_section:Gloom, n. [glum]
+eng_word:Gloom
+pos:n:
+
+spanish:Opacidad, obscuridad; melancolía, tristeza.
+spanish_word:Opacidad
+spanish_phrase:obscuridad; melancolía
+spanish_word:tristeza.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gloom$$, $$n$$,  $$opacidad, obscuridad; melancolía, tristeza.$$)
+    
+
+
+Gloom, v. [glum]`Llenar de tristeza.`Mapuspos ng kapanlawan.eng_section:Gloom, v. [glum]
+eng_word:Gloom
+pos:v:
+
+spanish:Llenar de tristeza.
+spanish_phrase:Llenar de tristeza.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gloom$$, $$v$$,  $$llenar de tristeza.$$)
+    
+
+
+Gloominess, n. [glúmines]`Opacidad, obscuridad; melancolía, tristeza.`Lamlam, kulimlim; panglaw, lungkot.eng_section:Gloominess, n. [glúmines]
+eng_word:Gloominess
+pos:n:
+
+spanish:Opacidad, obscuridad; melancolía, tristeza.
+spanish_word:Opacidad
+spanish_phrase:obscuridad; melancolía
+spanish_word:tristeza.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gloominess$$, $$n$$,  $$opacidad, obscuridad; melancolía, tristeza.$$)
+    
+
+
+Gloomy, adj. [glúmi]`Sombrío, obscuro; triste, melancólico.`Malamlam, kulimlim; mapanglaw, malungkot.eng_section:Gloomy, adj. [glúmi]
+eng_word:Gloomy
+pos:adj:
+
+spanish:Sombrío, obscuro; triste, melancólico.
+spanish_word:Sombrío
+spanish_phrase:obscuro; triste
+spanish_word:melancólico.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gloomy$$, $$adj$$,  $$sombrío, obscuro; triste, melancólico.$$)
+    
+
+
+Glorification, n. [glorifikécion]`Glorificacion.`Paglwalhatì.eng_section:Glorification, n. [glorifikécion]
+eng_word:Glorification
+pos:n:
+
+spanish:Glorificacion.
+spanish_word:Glorificacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glorification$$, $$n$$,  $$glorificacion.$$)
+    
+
+
+Glorify, v. [glórifai]`Glorificar.`Lumwalhatì; lwalhatiin.eng_section:Glorify, v. [glórifai]
+eng_word:Glorify
+pos:v:
+
+spanish:Glorificar.
+spanish_word:Glorificar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glorify$$, $$v$$,  $$glorificar.$$)
+    
+
+
+Glorious, adj. [glóriæs]`Glorioso.`Malwalhatì.eng_section:Glorious, adj. [glóriæs]
+eng_word:Glorious
+pos:adj:
+
+spanish:Glorioso.
+spanish_word:Glorioso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glorious$$, $$adj$$,  $$glorioso.$$)
+    
+
+
+Glory, n. [glóri]`Gloria, fama, celebridad, honra.`Kalwalhatian, kabantugan, kagitingan, karangalan, kabunyian.eng_section:Glory, n. [glóri]
+eng_word:Glory
+pos:n:
+
+spanish:Gloria, fama, celebridad, honra.
+spanish_word:Gloria
+spanish_word:fama
+spanish_word:celebridad
+spanish_word:honra.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glory$$, $$n$$,  $$gloria, fama, celebridad, honra.$$)
+    
+
+
+Glory, v. [glóri]`Gloriarse, jactarse.`Lumwalhatì, maghambog, magparanyâ.eng_section:Glory, v. [glóri]
+eng_word:Glory
+pos:v:
+
+spanish:Gloriarse, jactarse.
+spanish_word:Gloriarse
+spanish_word:jactarse.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glory$$, $$v$$,  $$gloriarse, jactarse.$$)
+    
+
+
+Gloss, n. [glos]`Glosa; lustre.`Kinang, kintab, kinis ningning.eng_section:Gloss, n. [glos]
+eng_word:Gloss
+pos:n:
+
+spanish:Glosa; lustre.
+spanish_phrase:Glosa; lustre.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gloss$$, $$n$$,  $$glosa; lustre.$$)
+    
+
+
+Gloss, v. [glos]`Glosar.`Pakinangin, pakintabin, pakinisin, paningningin.eng_section:Gloss, v. [glos]
+eng_word:Gloss
+pos:v:
+
+spanish:Glosar.
+spanish_word:Glosar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gloss$$, $$v$$,  $$glosar.$$)
+    
+
+
+Glossary, n. [glóseri]`Glosario.`Pákahuluganan ng mga salitang malalabò.eng_section:Glossary, n. [glóseri]
+eng_word:Glossary
+pos:n:
+
+spanish:Glosario.
+spanish_word:Glosario.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glossary$$, $$n$$,  $$glosario.$$)
+    
+
+
+Glossy, adj. [glósi]`Lustroso, brillante.`Makintab, makinang, maningning.eng_section:Glossy, adj. [glósi]
+eng_word:Glossy
+pos:adj:
+
+spanish:Lustroso, brillante.
+spanish_word:Lustroso
+spanish_word:brillante.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glossy$$, $$adj$$,  $$lustroso, brillante.$$)
+    
+
+
+Glottis, n. [glótis]`Glótis.`Lalamunan.eng_section:Glottis, n. [glótis]
+eng_word:Glottis
+pos:n:
+
+spanish:Glótis.
+spanish_word:Glótis.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glottis$$, $$n$$,  $$glótis.$$)
+    
+
+
+Glove, n. [glov]`Guante.`Gwantes, medyas ng kamáy.eng_section:Glove, n. [glov]
+eng_word:Glove
+pos:n:
+
+spanish:Guante.
+spanish_word:Guante.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glove$$, $$n$$,  $$guante.$$)
+    
+
+
+Glow, n. [glo]`Lustre.`Kisap, kislap.eng_section:Glow, n. [glo]
+eng_word:Glow
+pos:n:
+
+spanish:Lustre.
+spanish_word:Lustre.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glow$$, $$n$$,  $$lustre.$$)
+    
+
+
+Glow, v. [glo]`Relucir.`Kumislap, kumisap.eng_section:Glow, v. [glo]
+eng_word:Glow
+pos:v:
+
+spanish:Relucir.
+spanish_word:Relucir.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glow$$, $$v$$,  $$relucir.$$)
+    
+
+
+Glower, v. [glóuer]`Mirar con ceño.`Magkunot ng noo, magmungot.eng_section:Glower, v. [glóuer]
+eng_word:Glower
+pos:v:
+
+spanish:Mirar con ceño.
+spanish_phrase:Mirar con ceño.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glower$$, $$v$$,  $$mirar con ceño.$$)
+    
+
+
+Glowingly, adv. [glóingli]`De un modo resplandeciente.`Kumikisap, kumikislap.eng_section:Glowingly, adv. [glóingli]
+eng_word:Glowingly
+pos:adv:
+
+spanish:De un modo resplandeciente.
+spanish_phrase:De un modo resplandeciente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glowingly$$, $$adv$$,  $$de un modo resplandeciente.$$)
+    
+
+
+Glow-worm, n. [gló-worm]`Luciérnaga.`Uod na tila alitaptap.eng_section:Glow-worm, n. [gló-worm]
+eng_word:Glow-worm
+pos:n:
+
+spanish:Luciérnaga.
+spanish_word:Luciérnaga.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glow-worm$$, $$n$$,  $$luciérnaga.$$)
+    
+
+
+Gloze, v. [gloz]`Adular, lisonjear.`Manuyâ, pumuri ng paimbabaw.eng_section:Gloze, v. [gloz]
+eng_word:Gloze
+pos:v:
+
+spanish:Adular, lisonjear.
+spanish_word:Adular
+spanish_word:lisonjear.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gloze$$, $$v$$,  $$adular, lisonjear.$$)
+    
+
+
+Glue, n. [gliú]`Cola, visco.`Pangdikit.eng_section:Glue, n. [gliú]
+eng_word:Glue
+pos:n:
+
+spanish:Cola, visco.
+spanish_word:Cola
+spanish_word:visco.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glue$$, $$n$$,  $$cola, visco.$$)
+    
+
+
+Glue, v. [gliú]`Encolar.`Magdikít.eng_section:Glue, v. [gliú]
+eng_word:Glue
+pos:v:
+
+spanish:Encolar.
+spanish_word:Encolar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glue$$, $$v$$,  $$encolar.$$)
+    
+
+
+Glume, adj. [glæm]`Tétrico, triste.`Malungkot, mapanglaw.eng_section:Glume, adj. [glæm]
+eng_word:Glume
+pos:adj:
+
+spanish:Tétrico, triste.
+spanish_word:Tétrico
+spanish_word:triste.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glume$$, $$adj$$,  $$tétrico, triste.$$)
+    
+
+
+Glume, n. [glæm]`Semblante ceñudo.`Pagmumukhang masungit.eng_section:Glume, n. [glæm]
+eng_word:Glume
+pos:n:
+
+spanish:Semblante ceñudo.
+spanish_phrase:Semblante ceñudo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glume$$, $$n$$,  $$semblante ceñudo.$$)
+    
+
+
+Glut, n. [glat]`Hartura, abundancia.`Kabusugan, kabundatan, kasaganaan.eng_section:Glut, n. [glat]
+eng_word:Glut
+pos:n:
+
+spanish:Hartura, abundancia.
+spanish_word:Hartura
+spanish_word:abundancia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glut$$, $$n$$,  $$hartura, abundancia.$$)
+    
+
+
+Glut, v. [glat]`Engullir, tragar, devorar.`Lumamon, sumakmal.eng_section:Glut, v. [glat]
+eng_word:Glut
+pos:v:
+
+spanish:Engullir, tragar, devorar.
+spanish_word:Engullir
+spanish_word:tragar
+spanish_word:devorar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glut$$, $$v$$,  $$engullir, tragar, devorar.$$)
+    
+
+
+Glutinous, adj. [gliútinæs]`Glutinoso, pegajoso.`Malagkit, naninikit.eng_section:Glutinous, adj. [gliútinæs]
+eng_word:Glutinous
+pos:adj:
+
+spanish:Glutinoso, pegajoso.
+spanish_word:Glutinoso
+spanish_word:pegajoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glutinous$$, $$adj$$,  $$glutinoso, pegajoso.$$)
+    
+
+
+Glutton, n. [glatn]`Gloton, tragon.`Taong matakaw ó masibà.eng_section:Glutton, n. [glatn]
+eng_word:Glutton
+pos:n:
+
+spanish:Gloton, tragon.
+spanish_word:Gloton
+spanish_word:tragon.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glutton$$, $$n$$,  $$gloton, tragon.$$)
+    
+
+
+Gluttonous, adj. [glátonoes]`Gloton, goloso.`Matakaw, masibà.eng_section:Gluttonous, adj. [glátonoes]
+eng_word:Gluttonous
+pos:adj:
+
+spanish:Gloton, goloso.
+spanish_word:Gloton
+spanish_word:goloso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gluttonous$$, $$adj$$,  $$gloton, goloso.$$)
+    
+
+
+Gluttony, n. [glátoni]`Glotonería.`Takaw, sibà, katakawan, kasibaan.eng_section:Gluttony, n. [glátoni]
+eng_word:Gluttony
+pos:n:
+
+spanish:Glotonería.
+spanish_word:Glotonería.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gluttony$$, $$n$$,  $$glotonería.$$)
+    
+
+
+Glycerine, n. [glízerin]`Glicerina.`Gliserina.eng_section:Glycerine, n. [glízerin]
+eng_word:Glycerine
+pos:n:
+
+spanish:Glicerina.
+spanish_word:Glicerina.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$glycerine$$, $$n$$,  $$glicerina.$$)
+    
+
+
+Gnarl, v. [narl]`Refunfuñar, gruñir.`Umangil, bumulong-bulong ng pagalít.eng_section:Gnarl, v. [narl]
+eng_word:Gnarl
+pos:v:
+
+spanish:Refunfuñar, gruñir.
+spanish_word:Refunfuñar
+spanish_word:gruñir.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gnarl$$, $$v$$,  $$refunfuñar, gruñir.$$)
+    
+
+
+Gnarled, adj. [narld]`Nudoso.`Mabuhol, buhól-buhól.eng_section:Gnarled, adj. [narld]
+eng_word:Gnarled
+pos:adj:
+
+spanish:Nudoso.
+spanish_word:Nudoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gnarled$$, $$adj$$,  $$nudoso.$$)
+    
+
+
+Gnash, v. [nash]`Crujir los dientes.`Magngalit.eng_section:Gnash, v. [nash]
+eng_word:Gnash
+pos:v:
+
+spanish:Crujir los dientes.
+spanish_phrase:Crujir los dientes.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gnash$$, $$v$$,  $$crujir los dientes.$$)
+    
+
+
+Gnat, n. [nat]`Mosquito.`Nikník.eng_section:Gnat, n. [nat]
+eng_word:Gnat
+pos:n:
+
+spanish:Mosquito.
+spanish_word:Mosquito.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gnat$$, $$n$$,  $$mosquito.$$)
+    
+
+
+Gnaw, v. [no]`Roer, corroer.`Ngumatngat.eng_section:Gnaw, v. [no]
+eng_word:Gnaw
+pos:v:
+
+spanish:Roer, corroer.
+spanish_word:Roer
+spanish_word:corroer.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gnaw$$, $$v$$,  $$roer, corroer.$$)
+    
+
+
+Gnome, n. [nom]`Gnomo.`Nunò (sa punsó).eng_section:Gnome, n. [nom]
+eng_word:Gnome
+pos:n:
+
+spanish:Gnomo.
+spanish_word:Gnomo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gnome$$, $$n$$,  $$gnomo.$$)
+    
+
+
+Go, v. [go]`Ir, irse.`Pumaroon, yumaon, tumungo, pumunta.eng_section:Go, v. [go]
+eng_word:Go
+pos:v:
+
+spanish:Ir, irse.
+spanish_word:Ir
+spanish_word:irse.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$go$$, $$v$$,  $$ir, irse.$$)
+    
+
+
+Goad, n. [god]`Aguijada, pincho, aguijon.`Tudlong, panudlong.eng_section:Goad, n. [god]
+eng_word:Goad
+pos:n:
+
+spanish:Aguijada, pincho, aguijon.
+spanish_word:Aguijada
+spanish_word:pincho
+spanish_word:aguijon.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$goad$$, $$n$$,  $$aguijada, pincho, aguijon.$$)
+    
+
+
+Goad, v. [god]`Aguijar, aguijonear.`Tudlungin.eng_section:Goad, v. [god]
+eng_word:Goad
+pos:v:
+
+spanish:Aguijar, aguijonear.
+spanish_word:Aguijar
+spanish_word:aguijonear.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$goad$$, $$v$$,  $$aguijar, aguijonear.$$)
+    
+
+
+Goal, n. [gorl]`Meta, fin.`Hangga, hanggahan, hangganan, dulo, wakás.eng_section:Goal, n. [gorl]
+eng_word:Goal
+pos:n:
+
+spanish:Meta, fin.
+spanish_word:Meta
+spanish_word:fin.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$goal$$, $$n$$,  $$meta, fin.$$)
+    
+
+
+Goat, n. [got]`Cabra.`Kambing.eng_section:Goat, n. [got]
+eng_word:Goat
+pos:n:
+
+spanish:Cabra.
+spanish_word:Cabra.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$goat$$, $$n$$,  $$cabra.$$)
+    
+
+
+Goat-herd, n. [gót-jerd]`Cabrero.`Nag-aalagà ng kambing.eng_section:Goat-herd, n. [gót-jerd]
+eng_word:Goat-herd
+pos:n:
+
+spanish:Cabrero.
+spanish_word:Cabrero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$goat-herd$$, $$n$$,  $$cabrero.$$)
+    
+
+
+Gobble, v. [góbl]`Engullir, tragar.`Lumamon, sumakmal.eng_section:Gobble, v. [góbl]
+eng_word:Gobble
+pos:v:
+
+spanish:Engullir, tragar.
+spanish_word:Engullir
+spanish_word:tragar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gobble$$, $$v$$,  $$engullir, tragar.$$)
+    
+
+
+Gobbler, n. [góbler]`Gloton.`Matakaw, masibà.eng_section:Gobbler, n. [góbler]
+eng_word:Gobbler
+pos:n:
+
+spanish:Gloton.
+spanish_word:Gloton.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gobbler$$, $$n$$,  $$gloton.$$)
+    
+
+
+Go-between, n. [góbitwin]`Entremetido.`Mapakialam, mapanghimasok.eng_section:Go-between, n. [góbitwin]
+eng_word:Go-between
+pos:n:
+
+spanish:Entremetido.
+spanish_word:Entremetido.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$go-between$$, $$n$$,  $$entremetido.$$)
+    
+
+
+Goblet, n. [góblet]`Copa.`Kopa.eng_section:Goblet, n. [góblet]
+eng_word:Goblet
+pos:n:
+
+spanish:Copa.
+spanish_word:Copa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$goblet$$, $$n$$,  $$copa.$$)
+    
+
+
+Goblin, n. [góblin]`Espiritu ambulante, duende.`Salot, tyanak.eng_section:Goblin, n. [góblin]
+eng_word:Goblin
+pos:n:
+
+spanish:Espiritu ambulante, duende.
+spanish_phrase:Espiritu ambulante
+spanish_word:duende.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$goblin$$, $$n$$,  $$espiritu ambulante, duende.$$)
+    
+
+
+GOD, n. [god]`Dios.`May-kapal, Dyos, Bathalà.eng_section:GOD, n. [god]
+eng_word:GOD
+pos:n:
+
+spanish:Dios.
+spanish_word:Dios.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$god$$, $$n$$,  $$dios.$$)
+    
+
+
+Godchild, n. [godcháild]`Ahijado, a.`Inaanak.eng_section:Godchild, n. [godcháild]
+eng_word:Godchild
+pos:n:
+
+spanish:Ahijado, a.
+spanish_word:Ahijado
+spanish_word:a.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$godchild$$, $$n$$,  $$ahijado, a.$$)
+    
+
+
+Goddaughter, n. [góddoter]`Ahijada.`Inaanak na babae.eng_section:Goddaughter, n. [góddoter]
+eng_word:Goddaughter
+pos:n:
+
+spanish:Ahijada.
+spanish_word:Ahijada.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$goddaughter$$, $$n$$,  $$ahijada.$$)
+    
+
+
+Goddess, n. [góddes]`Diosa.`Babaing inaaring dyos.eng_section:Goddess, n. [góddes]
+eng_word:Goddess
+pos:n:
+
+spanish:Diosa.
+spanish_word:Diosa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$goddess$$, $$n$$,  $$diosa.$$)
+    
+
+
+Godfather, n. [gódfadzer]`Padrino.`Inaamá.eng_section:Godfather, n. [gódfadzer]
+eng_word:Godfather
+pos:n:
+
+spanish:Padrino.
+spanish_word:Padrino.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$godfather$$, $$n$$,  $$padrino.$$)
+    
+
+
+Godhead, n. [gódjed]`Deidad, divinidad.`Pagka-Dyos.eng_section:Godhead, n. [gódjed]
+eng_word:Godhead
+pos:n:
+
+spanish:Deidad, divinidad.
+spanish_word:Deidad
+spanish_word:divinidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$godhead$$, $$n$$,  $$deidad, divinidad.$$)
+    
+
+
+Godless, n. [gódles]`Infiel, impio.`Dî kumikilala sa Dyos.eng_section:Godless, n. [gódles]
+eng_word:Godless
+pos:n:
+
+spanish:Infiel, impio.
+spanish_word:Infiel
+spanish_word:impio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$godless$$, $$n$$,  $$infiel, impio.$$)
+    
+
+
+Godlike, adj. [gódlaik]`Divino.`Ukol sa Dyos.eng_section:Godlike, adj. [gódlaik]
+eng_word:Godlike
+pos:adj:
+
+spanish:Divino.
+spanish_word:Divino.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$godlike$$, $$adj$$,  $$divino.$$)
+    
+
+
+Godliness, n. [gódlines]`Piedad, santidad.`Kabanalan.eng_section:Godliness, n. [gódlines]
+eng_word:Godliness
+pos:n:
+
+spanish:Piedad, santidad.
+spanish_word:Piedad
+spanish_word:santidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$godliness$$, $$n$$,  $$piedad, santidad.$$)
+    
+
+
+Godly, adj. [gódli]`Piadoso, religioso.`Banal.eng_section:Godly, adj. [gódli]
+eng_word:Godly
+pos:adj:
+
+spanish:Piadoso, religioso.
+spanish_word:Piadoso
+spanish_word:religioso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$godly$$, $$adj$$,  $$piadoso, religioso.$$)
+    
+
+
+Godmother, n. [gódmodzor]`Madrina.`Iníina.eng_section:Godmother, n. [gódmodzor]
+eng_word:Godmother
+pos:n:
+
+spanish:Madrina.
+spanish_word:Madrina.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$godmother$$, $$n$$,  $$madrina.$$)
+    
+
+
+Godson, n. [gódsan]`Ahijado.`Inaanak na lalake.eng_section:Godson, n. [gódsan]
+eng_word:Godson
+pos:n:
+
+spanish:Ahijado.
+spanish_word:Ahijado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$godson$$, $$n$$,  $$ahijado.$$)
+    
+
+
+Goer, n. [góer]`Andador, paseante; vagabundo.`Palalakad, layas; palaboy, hampas-lupà.eng_section:Goer, n. [góer]
+eng_word:Goer
+pos:n:
+
+spanish:Andador, paseante; vagabundo.
+spanish_word:Andador
+spanish_phrase:paseante; vagabundo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$goer$$, $$n$$,  $$andador, paseante; vagabundo.$$)
+    
+
+
+Goggle-eyed, n [gógl-aid]`Bisojo, bisco.`Sulimpat, biskó, dulíng.eng_section:Goggle-eyed, n [gógl-aid]
+eng_word:Goggle-eyed
+pos:n:
+
+spanish:Bisojo, bisco.
+spanish_word:Bisojo
+spanish_word:bisco.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$goggle-eyed$$, $$n$$,  $$bisojo, bisco.$$)
+    
+
+
+Going, n. [góing]`El paso, el andar.`Ang lakad.eng_section:Going, n. [góing]
+eng_word:Going
+pos:n:
+
+spanish:El paso, el andar.
+spanish_phrase:El paso
+spanish_phrase:el andar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$going$$, $$n$$,  $$el paso, el andar.$$)
+    
+
+
+Gold, n. [gold]`Oro.`Gintô.eng_section:Gold, n. [gold]
+eng_word:Gold
+pos:n:
+
+spanish:Oro.
+spanish_word:Oro.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gold$$, $$n$$,  $$oro.$$)
+    
+
+
+Golden, adj. [gólden]`Dorado, de oro.`Ginintô, may halong gintô.eng_section:Golden, adj. [gólden]
+eng_word:Golden
+pos:adj:
+
+spanish:Dorado, de oro.
+spanish_word:Dorado
+spanish_phrase:de oro.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$golden$$, $$adj$$,  $$dorado, de oro.$$)
+    
+
+
+Goldsmith, n. [góldsmiz]`Orífice.`Panday-gintô.eng_section:Goldsmith, n. [góldsmiz]
+eng_word:Goldsmith
+pos:n:
+
+spanish:Orífice.
+spanish_word:Orífice.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$goldsmith$$, $$n$$,  $$orífice.$$)
+    
+
+
+Gome, n. [gom]`El unto negro que despiden los ejes de las ruedas.`Ang langis na marumí na lumalabas sa mga ehe ng gulong.eng_section:Gome, n. [gom]
+eng_word:Gome
+pos:n:
+
+spanish:El unto negro que despiden los ejes de las ruedas.
+spanish_phrase:El unto negro que despiden los ejes de las ruedas.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gome$$, $$n$$,  $$el unto negro que despiden los ejes de las ruedas.$$)
+    
+
+
+Gone, part. [gon]`Ido; perdido; pasado; muerto.`Nakáalis na; wala na; lipas; nanaw.eng_section:Gone, part. [gon]
+eng_word:Gone
+pos:part:
+
+spanish:Ido; perdido; pasado; muerto.
+spanish_phrase:Ido; perdido; pasado; muerto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gone$$, $$part$$,  $$ido; perdido; pasado; muerto.$$)
+    
+
+
+Gong, n. [gong]`Atabal chino.`Gong, batingaw-insik.eng_section:Gong, n. [gong]
+eng_word:Gong
+pos:n:
+
+spanish:Atabal chino.
+spanish_phrase:Atabal chino.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gong$$, $$n$$,  $$atabal chino.$$)
+    
+
+
+Good, adj. [gud]`Bueno, benévolo.`Mabuti, butihin.eng_section:Good, adj. [gud]
+eng_word:Good
+pos:adj:
+
+spanish:Bueno, benévolo.
+spanish_word:Bueno
+spanish_word:benévolo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$good$$, $$adj$$,  $$bueno, benévolo.$$)
+    
+
+
+Good-by, adv. [gud-bái]`A Dios.`Paalam, adyos.eng_section:Good-by, adv. [gud-bái]
+eng_word:Good-by
+pos:adv:
+
+spanish:A Dios.
+spanish_phrase:A Dios.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$good-by$$, $$adv$$,  $$a dios.$$)
+    
+
+
+Goodies, n. [gúdis]`Golosinas.`Kakanín.eng_section:Goodies, n. [gúdis]
+eng_word:Goodies
+pos:n:
+
+spanish:Golosinas.
+spanish_word:Golosinas.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$goodies$$, $$n$$,  $$golosinas.$$)
+    
+
+
+Goodliness, n. [gúdlines]`Hermosura, elegancia, gracia.`Gandá, kisig, dilag.eng_section:Goodliness, n. [gúdlines]
+eng_word:Goodliness
+pos:n:
+
+spanish:Hermosura, elegancia, gracia.
+spanish_word:Hermosura
+spanish_word:elegancia
+spanish_word:gracia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$goodliness$$, $$n$$,  $$hermosura, elegancia, gracia.$$)
+    
+
+
+Goodly, adj. [gúdli]`Hermoso; alegre.`Maganda; masayá.eng_section:Goodly, adj. [gúdli]
+eng_word:Goodly
+pos:adj:
+
+spanish:Hermoso; alegre.
+spanish_phrase:Hermoso; alegre.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$goodly$$, $$adj$$,  $$hermoso; alegre.$$)
+    
+
+
+Good-nature, n. [gud-néchur]`Bondad, benevolencia, buen corazon.`Kagandahang loob; kagandahang ugalì.eng_section:Good-nature, n. [gud-néchur]
+eng_word:Good-nature
+pos:n:
+
+spanish:Bondad, benevolencia, buen corazon.
+spanish_word:Bondad
+spanish_word:benevolencia
+spanish_phrase:buen corazon.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$good-nature$$, $$n$$,  $$bondad, benevolencia, buen corazon.$$)
+    
+
+
+Good-natured, adj. [gud-néchurd]`Bondadoso, benévolo, afable.`Magandang loob, mabuting ugalì.eng_section:Good-natured, adj. [gud-néchurd]
+eng_word:Good-natured
+pos:adj:
+
+spanish:Bondadoso, benévolo, afable.
+spanish_word:Bondadoso
+spanish_word:benévolo
+spanish_word:afable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$good-natured$$, $$adj$$,  $$bondadoso, benévolo, afable.$$)
+    
+
+
+Goodness, n. [gúdnes]`Bondad.`Kabutihan, buti.eng_section:Goodness, n. [gúdnes]
+eng_word:Goodness
+pos:n:
+
+spanish:Bondad.
+spanish_word:Bondad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$goodness$$, $$n$$,  $$bondad.$$)
+    
+
+
+Good-night, adv. [gud-náit]`Buenas noches.`Magandang gabí; paalam.eng_section:Good-night, adv. [gud-náit]
+eng_word:Good-night
+pos:adv:
+
+spanish:Buenas noches.
+spanish_phrase:Buenas noches.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$good-night$$, $$adv$$,  $$buenas noches.$$)
+    
+
+
+Goods, n. [guds]`Mercaderías.`Kalakal.eng_section:Goods, n. [guds]
+eng_word:Goods
+pos:n:
+
+spanish:Mercaderías.
+spanish_word:Mercaderías.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$goods$$, $$n$$,  $$mercaderías.$$)
+    
+
+
+Good-sense, n. [gúd-sens]`Juicio sano.`Mabait.eng_section:Good-sense, n. [gúd-sens]
+eng_word:Good-sense
+pos:n:
+
+spanish:Juicio sano.
+spanish_phrase:Juicio sano.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$good-sense$$, $$n$$,  $$juicio sano.$$)
+    
+
+
+Good-will, n. [gud-wíl]`Benevolencia, bondad.`Kagandahang loob.eng_section:Good-will, n. [gud-wíl]
+eng_word:Good-will
+pos:n:
+
+spanish:Benevolencia, bondad.
+spanish_word:Benevolencia
+spanish_word:bondad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$good-will$$, $$n$$,  $$benevolencia, bondad.$$)
+    
+
+
+Goose, n. [gus]`Ganso, ansar.`Gansâ.eng_section:Goose, n. [gus]
+eng_word:Goose
+pos:n:
+
+spanish:Ganso, ansar.
+spanish_word:Ganso
+spanish_word:ansar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$goose$$, $$n$$,  $$ganso, ansar.$$)
+    
+
+
+Gore, n. [gor]`Sangre cuajada.`Dugong namuô.eng_section:Gore, n. [gor]
+eng_word:Gore
+pos:n:
+
+spanish:Sangre cuajada.
+spanish_phrase:Sangre cuajada.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gore$$, $$n$$,  $$sangre cuajada.$$)
+    
+
+
+Gorge, n. [gordch]`Gorja, gaznate.`Saluysoy.eng_section:Gorge, n. [gordch]
+eng_word:Gorge
+pos:n:
+
+spanish:Gorja, gaznate.
+spanish_word:Gorja
+spanish_word:gaznate.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gorge$$, $$n$$,  $$gorja, gaznate.$$)
+    
+
+
+Gorge, v. [gordch]`Engullir, tragar.`Sumakmal, lumamon.eng_section:Gorge, v. [gordch]
+eng_word:Gorge
+pos:v:
+
+spanish:Engullir, tragar.
+spanish_word:Engullir
+spanish_word:tragar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gorge$$, $$v$$,  $$engullir, tragar.$$)
+    
+
+
+Gorgeous, adj. [górdches]`Primoroso, vistoso.`Mainam, marikít.eng_section:Gorgeous, adj. [górdches]
+eng_word:Gorgeous
+pos:adj:
+
+spanish:Primoroso, vistoso.
+spanish_word:Primoroso
+spanish_word:vistoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gorgeous$$, $$adj$$,  $$primoroso, vistoso.$$)
+    
+
+
+Gormand, n. [górmand]`Gloton.`Masibà, matakaw.eng_section:Gormand, n. [górmand]
+eng_word:Gormand
+pos:n:
+
+spanish:Gloton.
+spanish_word:Gloton.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gormand$$, $$n$$,  $$gloton.$$)
+    
+
+
+Gormandize, v. [górmandaiz]`Comer con exceso.`Magpakabundat, magpakayamò.eng_section:Gormandize, v. [górmandaiz]
+eng_word:Gormandize
+pos:v:
+
+spanish:Comer con exceso.
+spanish_phrase:Comer con exceso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gormandize$$, $$v$$,  $$comer con exceso.$$)
+    
+
+
+Gormandizer, n. [górmandaizer]`Golosazo.`Mayamò.eng_section:Gormandizer, n. [górmandaizer]
+eng_word:Gormandizer
+pos:n:
+
+spanish:Golosazo.
+spanish_word:Golosazo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gormandizer$$, $$n$$,  $$golosazo.$$)
+    
+
+
+Gory, adj. [góri]`Sangriento.`Madugô, dugúan.eng_section:Gory, adj. [góri]
+eng_word:Gory
+pos:adj:
+
+spanish:Sangriento.
+spanish_word:Sangriento.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gory$$, $$adj$$,  $$sangriento.$$)
+    
+
+
+Gosling, n. [gózling]`Gansarón.`Inakay na gansâ.eng_section:Gosling, n. [gózling]
+eng_word:Gosling
+pos:n:
+
+spanish:Gansarón.
+spanish_word:Gansarón.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gosling$$, $$n$$,  $$gansarón.$$)
+    
+
+
+Gospel, n. [góspel]`Evangelio.`Ebanhelyo, mabuting balità.eng_section:Gospel, n. [góspel]
+eng_word:Gospel
+pos:n:
+
+spanish:Evangelio.
+spanish_word:Evangelio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gospel$$, $$n$$,  $$evangelio.$$)
+    
+
+
+Gossamer, n. [gósamer]`Vello, pelusa de frutas.`Bulo.eng_section:Gossamer, n. [gósamer]
+eng_word:Gossamer
+pos:n:
+
+spanish:Vello, pelusa de frutas.
+spanish_word:Vello
+spanish_phrase:pelusa de frutas.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gossamer$$, $$n$$,  $$vello, pelusa de frutas.$$)
+    
+
+
+Gossip, n. [gósip]`Chisme.`Kathâkathâ, hatid-humapit, chismes.eng_section:Gossip, n. [gósip]
+eng_word:Gossip
+pos:n:
+
+spanish:Chisme.
+spanish_word:Chisme.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gossip$$, $$n$$,  $$chisme.$$)
+    
+
+
+Gossip, v. [góssip]`Chismear.`Maghatid-humapit.eng_section:Gossip, v. [góssip]
+eng_word:Gossip
+pos:v:
+
+spanish:Chismear.
+spanish_word:Chismear.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gossip$$, $$v$$,  $$chismear.$$)
+    
+
+
+Gouge, n. [godch]`Gubia, escoplo.`Lukob.eng_section:Gouge, n. [godch]
+eng_word:Gouge
+pos:n:
+
+spanish:Gubia, escoplo.
+spanish_word:Gubia
+spanish_word:escoplo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gouge$$, $$n$$,  $$gubia, escoplo.$$)
+    
+
+
+Gourd, n. [gord]`Calabaza.`Kalabasang ligaw.eng_section:Gourd, n. [gord]
+eng_word:Gourd
+pos:n:
+
+spanish:Calabaza.
+spanish_word:Calabaza.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gourd$$, $$n$$,  $$calabaza.$$)
+    
+
+
+Gourmand, n. [gormand]`Glotón.`Taong masibà.eng_section:Gourmand, n. [gormand]
+eng_word:Gourmand
+pos:n:
+
+spanish:Glotón.
+spanish_word:Glotón.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gourmand$$, $$n$$,  $$glotón.$$)
+    
+
+
+Gout, n. [gáut]`Gota.`Sakít na pamamagâ sa mga dalirì at sihang ng mga ito.eng_section:Gout, n. [gáut]
+eng_word:Gout
+pos:n:
+
+spanish:Gota.
+spanish_word:Gota.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gout$$, $$n$$,  $$gota.$$)
+    
+
+
+Govern, v. [góvern]`Governar, regir.`Mamahalà, magpunò.eng_section:Govern, v. [góvern]
+eng_word:Govern
+pos:v:
+
+spanish:Governar, regir.
+spanish_word:Governar
+spanish_word:regir.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$govern$$, $$v$$,  $$governar, regir.$$)
+    
+
+
+Governess, n. [góvernes]`Directora.`Tagataguyod, tagaiwi.eng_section:Governess, n. [góvernes]
+eng_word:Governess
+pos:n:
+
+spanish:Directora.
+spanish_word:Directora.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$governess$$, $$n$$,  $$directora.$$)
+    
+
+
+Government, n. [góvernment]`Gobierno.`Pámahalaan.eng_section:Government, n. [góvernment]
+eng_word:Government
+pos:n:
+
+spanish:Gobierno.
+spanish_word:Gobierno.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$government$$, $$n$$,  $$gobierno.$$)
+    
+
+
+Governor, n. [góvernor]`Gobernador.`Gobernador, tagapamahalà.eng_section:Governor, n. [góvernor]
+eng_word:Governor
+pos:n:
+
+spanish:Gobernador.
+spanish_word:Gobernador.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$governor$$, $$n$$,  $$gobernador.$$)
+    
+
+
+Gown, n. [gáun]`Toga; camison.`Kasuutang mahabà.eng_section:Gown, n. [gáun]
+eng_word:Gown
+pos:n:
+
+spanish:Toga; camison.
+spanish_phrase:Toga; camison.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gown$$, $$n$$,  $$toga; camison.$$)
+    
+
+
+Grabble, v. [grabl]`Tentar, palpar.`Kumapâ, umapuhap.eng_section:Grabble, v. [grabl]
+eng_word:Grabble
+pos:v:
+
+spanish:Tentar, palpar.
+spanish_word:Tentar
+spanish_word:palpar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grabble$$, $$v$$,  $$tentar, palpar.$$)
+    
+
+
+Grace, n. [græs]`Gracia.`Biyayà.eng_section:Grace, n. [græs]
+eng_word:Grace
+pos:n:
+
+spanish:Gracia.
+spanish_word:Gracia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grace$$, $$n$$,  $$gracia.$$)
+    
+
+
+Graceful, adj. [grésful]`Gracioso, primoroso.`Mainam, marikit; pusong, nakakatawa.eng_section:Graceful, adj. [grésful]
+eng_word:Graceful
+pos:adj:
+
+spanish:Gracioso, primoroso.
+spanish_word:Gracioso
+spanish_word:primoroso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$graceful$$, $$adj$$,  $$gracioso, primoroso.$$)
+    
+
+
+Graceless, adj. [grésles]`Desagraciado, réprobo.`Hamak.eng_section:Graceless, adj. [grésles]
+eng_word:Graceless
+pos:adj:
+
+spanish:Desagraciado, réprobo.
+spanish_word:Desagraciado
+spanish_word:réprobo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$graceless$$, $$adj$$,  $$desagraciado, réprobo.$$)
+    
+
+
+Gracious, adj. [grécioes]`Gracioso, benévolo.`Magandang-loob, mapagbiyayà.eng_section:Gracious, adj. [grécioes]
+eng_word:Gracious
+pos:adj:
+
+spanish:Gracioso, benévolo.
+spanish_word:Gracioso
+spanish_word:benévolo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gracious$$, $$adj$$,  $$gracioso, benévolo.$$)
+    
+
+
+Graciousness, n. [grécioesnes]`Gracia, bondad.`Biyayà, kagandahang loob.eng_section:Graciousness, n. [grécioesnes]
+eng_word:Graciousness
+pos:n:
+
+spanish:Gracia, bondad.
+spanish_word:Gracia
+spanish_word:bondad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$graciousness$$, $$n$$,  $$gracia, bondad.$$)
+    
+
+
+Gradation, n. [gradécion]`Graduacion.`Baibaitang, pag-urì.eng_section:Gradation, n. [gradécion]
+eng_word:Gradation
+pos:n:
+
+spanish:Graduacion.
+spanish_word:Graduacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gradation$$, $$n$$,  $$graduacion.$$)
+    
+
+
+Grade, n. [greíd]`Grado, rango.`Taas ó babà ng kalagayan, urì, grado.eng_section:Grade, n. [greíd]
+eng_word:Grade
+pos:n:
+
+spanish:Grado, rango.
+spanish_word:Grado
+spanish_word:rango.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grade$$, $$n$$,  $$grado, rango.$$)
+    
+
+
+Gradual, adj. [grádiual]`Gradual.`Untíuntî.eng_section:Gradual, adj. [grádiual]
+eng_word:Gradual
+pos:adj:
+
+spanish:Gradual.
+spanish_word:Gradual.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gradual$$, $$adj$$,  $$gradual.$$)
+    
+
+
+Graduate, n. [grádiuet]`Graduado.`Ang nakapagtamó ng título sa anomang karunungan.eng_section:Graduate, n. [grádiuet]
+eng_word:Graduate
+pos:n:
+
+spanish:Graduado.
+spanish_word:Graduado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$graduate$$, $$n$$,  $$graduado.$$)
+    
+
+
+Graduate, v. [grádiuet]`Graduarse.`Magtamó ng título sa anomang karunungan.eng_section:Graduate, v. [grádiuet]
+eng_word:Graduate
+pos:v:
+
+spanish:Graduarse.
+spanish_word:Graduarse.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$graduate$$, $$v$$,  $$graduarse.$$)
+    
+
+
+Graduation, n. [gradiuécion]`Graduacion.`Pagtatamó ng título sa anomang karunungan.eng_section:Graduation, n. [gradiuécion]
+eng_word:Graduation
+pos:n:
+
+spanish:Graduacion.
+spanish_word:Graduacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$graduation$$, $$n$$,  $$graduacion.$$)
+    
+
+
+Graft, n. [graft]`Injerto.`Suplíng.eng_section:Graft, n. [graft]
+eng_word:Graft
+pos:n:
+
+spanish:Injerto.
+spanish_word:Injerto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$graft$$, $$n$$,  $$injerto.$$)
+    
+
+
+Graft, v. [graft]`Ingertar, ingerir.`Magpasuplíng, magagpang ng ibang sanga.eng_section:Graft, v. [graft]
+eng_word:Graft
+pos:v:
+
+spanish:Ingertar, ingerir.
+spanish_word:Ingertar
+spanish_word:ingerir.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$graft$$, $$v$$,  $$ingertar, ingerir.$$)
+    
+
+
+Grain, n. [greín]`Grano; semilla.`Butil, binhî.eng_section:Grain, n. [greín]
+eng_word:Grain
+pos:n:
+
+spanish:Grano; semilla.
+spanish_phrase:Grano; semilla.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grain$$, $$n$$,  $$grano; semilla.$$)
+    
+
+
+Grammar, n. [grámar]`Gramática.`Gramátika, palatuntunan ng isang wikà.eng_section:Grammar, n. [grámar]
+eng_word:Grammar
+pos:n:
+
+spanish:Gramática.
+spanish_word:Gramática.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grammar$$, $$n$$,  $$gramática.$$)
+    
+
+
+Grammarian, n. [gramárian]`Gramático.`Ang sumulat ó marunong ng palatuntunan ng isang wikà.eng_section:Grammarian, n. [gramárian]
+eng_word:Grammarian
+pos:n:
+
+spanish:Gramático.
+spanish_word:Gramático.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grammarian$$, $$n$$,  $$gramático.$$)
+    
+
+
+Grammatical, adj. [gramátical]`Gramatical.`Nauukol sa palatuntunan ng isang wikà.eng_section:Grammatical, adj. [gramátical]
+eng_word:Grammatical
+pos:adj:
+
+spanish:Gramatical.
+spanish_word:Gramatical.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grammatical$$, $$adj$$,  $$gramatical.$$)
+    
+
+
+Granary, n. [gránæri]`Granero.`Bangan, kámaligan ng palay ó mais, ibp.eng_section:Granary, n. [gránæri]
+eng_word:Granary
+pos:n:
+
+spanish:Granero.
+spanish_word:Granero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$granary$$, $$n$$,  $$granero.$$)
+    
+
+
+Grand, adj. [grand]`Gran, ilustre.`Dakilà, bunyî.eng_section:Grand, adj. [grand]
+eng_word:Grand
+pos:adj:
+
+spanish:Gran, ilustre.
+spanish_word:Gran
+spanish_word:ilustre.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grand$$, $$adj$$,  $$gran, ilustre.$$)
+    
+
+
+Grandchild, n. [grándchaild]`Nieto, nieta.`Apó.eng_section:Grandchild, n. [grándchaild]
+eng_word:Grandchild
+pos:n:
+
+spanish:Nieto, nieta.
+spanish_word:Nieto
+spanish_word:nieta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grandchild$$, $$n$$,  $$nieto, nieta.$$)
+    
+
+
+Granddaughter, n. [gránddoter]`Nieta.`Apóng babae.eng_section:Granddaughter, n. [gránddoter]
+eng_word:Granddaughter
+pos:n:
+
+spanish:Nieta.
+spanish_word:Nieta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$granddaughter$$, $$n$$,  $$nieta.$$)
+    
+
+
+Grandee, n. [grandí]`Grande, hombre de distincion.`Taong magiting ó bunyî, mataas na tao.eng_section:Grandee, n. [grandí]
+eng_word:Grandee
+pos:n:
+
+spanish:Grande, hombre de distincion.
+spanish_word:Grande
+spanish_phrase:hombre de distincion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grandee$$, $$n$$,  $$grande, hombre de distincion.$$)
+    
+
+
+Grandeur, n. [grándcher]`Grandeza.`Kadakilaan.eng_section:Grandeur, n. [grándcher]
+eng_word:Grandeur
+pos:n:
+
+spanish:Grandeza.
+spanish_word:Grandeza.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grandeur$$, $$n$$,  $$grandeza.$$)
+    
+
+
+Grand-father, n. [grand-fádzer]`Abuelo.`Nunong lalake.eng_section:Grand-father, n. [grand-fádzer]
+eng_word:Grand-father
+pos:n:
+
+spanish:Abuelo.
+spanish_word:Abuelo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grand-father$$, $$n$$,  $$abuelo.$$)
+    
+
+
+Grandiloquence, n. [grandílocuens]`Grandilocuencia.`Kainama't kagandahan ng pananalitâ.eng_section:Grandiloquence, n. [grandílocuens]
+eng_word:Grandiloquence
+pos:n:
+
+spanish:Grandilocuencia.
+spanish_word:Grandilocuencia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grandiloquence$$, $$n$$,  $$grandilocuencia.$$)
+    
+
+
+Grandma, n. [grándma]`Lola.`Lelang, impó.eng_section:Grandma, n. [grándma]
+eng_word:Grandma
+pos:n:
+
+spanish:Lola.
+spanish_word:Lola.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grandma$$, $$n$$,  $$lola.$$)
+    
+
+
+Grand-mother, n. [grand-módzer]`Abuela.`Nunong babae.eng_section:Grand-mother, n. [grand-módzer]
+eng_word:Grand-mother
+pos:n:
+
+spanish:Abuela.
+spanish_word:Abuela.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grand-mother$$, $$n$$,  $$abuela.$$)
+    
+
+
+Grandpa, n. [grándpa]`Lola.`Lelong, ingkó.eng_section:Grandpa, n. [grándpa]
+eng_word:Grandpa
+pos:n:
+
+spanish:Lola.
+spanish_word:Lola.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grandpa$$, $$n$$,  $$lola.$$)
+    
+
+
+Grandsire, n. [grándsair]`Abuelo.`Nunò, lelong, ingkó.eng_section:Grandsire, n. [grándsair]
+eng_word:Grandsire
+pos:n:
+
+spanish:Abuelo.
+spanish_word:Abuelo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grandsire$$, $$n$$,  $$abuelo.$$)
+    
+
+
+Grandson, n. [grándsan]`Nieto.`Apóng lalake.eng_section:Grandson, n. [grándsan]
+eng_word:Grandson
+pos:n:
+
+spanish:Nieto.
+spanish_word:Nieto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grandson$$, $$n$$,  $$nieto.$$)
+    
+
+
+Grange, n. [grandch]`Granja, hacienda.`Táhanan sa asyenda.eng_section:Grange, n. [grandch]
+eng_word:Grange
+pos:n:
+
+spanish:Granja, hacienda.
+spanish_word:Granja
+spanish_word:hacienda.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grange$$, $$n$$,  $$granja, hacienda.$$)
+    
+
+
+Granite, n. [gránit]`Granito.`Isang urì ng mga butil na bato.eng_section:Granite, n. [gránit]
+eng_word:Granite
+pos:n:
+
+spanish:Granito.
+spanish_word:Granito.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$granite$$, $$n$$,  $$granito.$$)
+    
+
+
+Granivorous, adj. [granívoroes]`Granívoro.`Kumakain ng palay.eng_section:Granivorous, adj. [granívoroes]
+eng_word:Granivorous
+pos:adj:
+
+spanish:Granívoro.
+spanish_word:Granívoro.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$granivorous$$, $$adj$$,  $$granívoro.$$)
+    
+
+
+Grant, n. [grant]`Concesion, don, dádiva.`Kaloob, bigay.eng_section:Grant, n. [grant]
+eng_word:Grant
+pos:n:
+
+spanish:Concesion, don, dádiva.
+spanish_word:Concesion
+spanish_word:don
+spanish_word:dádiva.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grant$$, $$n$$,  $$concesion, don, dádiva.$$)
+    
+
+
+Grant, v. [grant]`Conceder; dar.`Magpahintulot, pumayag; magkaloob, magbigay.eng_section:Grant, v. [grant]
+eng_word:Grant
+pos:v:
+
+spanish:Conceder; dar.
+spanish_phrase:Conceder; dar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grant$$, $$v$$,  $$conceder; dar.$$)
+    
+
+
+Grantee, n. [grantí]`Concesionario, donatario.`Ang pinagkalooban, ang binigyan.eng_section:Grantee, n. [grantí]
+eng_word:Grantee
+pos:n:
+
+spanish:Concesionario, donatario.
+spanish_word:Concesionario
+spanish_word:donatario.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grantee$$, $$n$$,  $$concesionario, donatario.$$)
+    
+
+
+Grantor, n. [grántor]`Cesionario.`Ang nagkakaloob, ang nagbibigay.eng_section:Grantor, n. [grántor]
+eng_word:Grantor
+pos:n:
+
+spanish:Cesionario.
+spanish_word:Cesionario.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grantor$$, $$n$$,  $$cesionario.$$)
+    
+
+
+Granular, adj. [grániular]`Granoso.`Parang butil.eng_section:Granular, adj. [grániular]
+eng_word:Granular
+pos:adj:
+
+spanish:Granoso.
+spanish_word:Granoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$granular$$, $$adj$$,  $$granoso.$$)
+    
+
+
+Granule, n. [grániul]`Granillo.`Butil.eng_section:Granule, n. [grániul]
+eng_word:Granule
+pos:n:
+
+spanish:Granillo.
+spanish_word:Granillo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$granule$$, $$n$$,  $$granillo.$$)
+    
+
+
+Granulous, adj. [grániuloes]`Granuloso.`Mabutil.eng_section:Granulous, adj. [grániuloes]
+eng_word:Granulous
+pos:adj:
+
+spanish:Granuloso.
+spanish_word:Granuloso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$granulous$$, $$adj$$,  $$granuloso.$$)
+    
+
+
+Grape, n. [greíp]`Uva.`Ubas.eng_section:Grape, n. [greíp]
+eng_word:Grape
+pos:n:
+
+spanish:Uva.
+spanish_word:Uva.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grape$$, $$n$$,  $$uva.$$)
+    
+
+
+Grapery, n. [gréperi]`Viña.`Ubasan.eng_section:Grapery, n. [gréperi]
+eng_word:Grapery
+pos:n:
+
+spanish:Viña.
+spanish_word:Viña.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grapery$$, $$n$$,  $$viña.$$)
+    
+
+
+Grape-Stone, n. [grépston]`Granuja.`Butó ng ubas.eng_section:Grape-Stone, n. [grépston]
+eng_word:Grape-Stone
+pos:n:
+
+spanish:Granuja.
+spanish_word:Granuja.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grape-stone$$, $$n$$,  $$granuja.$$)
+    
+
+
+Graphic, n. [gráfic]`Gráfico.`Ang pagkaguhit, ang pagkalarawan.eng_section:Graphic, n. [gráfic]
+eng_word:Graphic
+pos:n:
+
+spanish:Gráfico.
+spanish_word:Gráfico.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$graphic$$, $$n$$,  $$gráfico.$$)
+    
+
+
+Grapnell, n. [grápnel]`Arpeo, gancho para atracar y abordar.`Kawit, pangkawit.eng_section:Grapnell, n. [grápnel]
+eng_word:Grapnell
+pos:n:
+
+spanish:Arpeo, gancho para atracar y abordar.
+spanish_word:Arpeo
+spanish_phrase:gancho para atracar y abordar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grapnell$$, $$n$$,  $$arpeo, gancho para atracar y abordar.$$)
+    
+
+
+Grapple, n. [grápl]`Arpeo; lucha, riña, pelea.`Pangkawit; sunggaban, bunô, awayán, babag.eng_section:Grapple, n. [grápl]
+eng_word:Grapple
+pos:n:
+
+spanish:Arpeo; lucha, riña, pelea.
+spanish_phrase:Arpeo; lucha
+spanish_word:riña
+spanish_word:pelea.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grapple$$, $$n$$,  $$arpeo; lucha, riña, pelea.$$)
+    
+
+
+Grapple, v. [grápl]`Agarrar (se); venirse á las manos.`Humawak; maghawakán; mag-away.eng_section:Grapple, v. [grápl]
+eng_word:Grapple
+pos:v:
+
+spanish:Agarrar (se); venirse á las manos.
+spanish_phrase:Agarrar (se); venirse á las manos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grapple$$, $$v$$,  $$agarrar (se); venirse á las manos.$$)
+    
+
+
+Grasp, n. [grasp]`La accion de agarrar; puñado, puño.`Ang paghawak, pagtangan; dakot.eng_section:Grasp, n. [grasp]
+eng_word:Grasp
+pos:n:
+
+spanish:La accion de agarrar; puñado, puño.
+spanish_phrase:La accion de agarrar; puñado
+spanish_word:puño.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grasp$$, $$n$$,  $$la accion de agarrar; puñado, puño.$$)
+    
+
+
+Grasp, v. [grasp]`Empuñar, asir, agarrar.`Humawak, tumangan, pumigil.eng_section:Grasp, v. [grasp]
+eng_word:Grasp
+pos:v:
+
+spanish:Empuñar, asir, agarrar.
+spanish_word:Empuñar
+spanish_word:asir
+spanish_word:agarrar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grasp$$, $$v$$,  $$empuñar, asir, agarrar.$$)
+    
+
+
+Grass, n. [gras]`Yerba.`Damó.eng_section:Grass, n. [gras]
+eng_word:Grass
+pos:n:
+
+spanish:Yerba.
+spanish_word:Yerba.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grass$$, $$n$$,  $$yerba.$$)
+    
+
+
+Grasshopper, n. [grásshopoer]`Langosta.`Balang; lukton, dayupay.eng_section:Grasshopper, n. [grásshopoer]
+eng_word:Grasshopper
+pos:n:
+
+spanish:Langosta.
+spanish_word:Langosta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grasshopper$$, $$n$$,  $$langosta.$$)
+    
+
+
+Grassiness, n. [grásines]`Abundancia de yerba.`Kalaguan ng damó.eng_section:Grassiness, n. [grásines]
+eng_word:Grassiness
+pos:n:
+
+spanish:Abundancia de yerba.
+spanish_phrase:Abundancia de yerba.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grassiness$$, $$n$$,  $$abundancia de yerba.$$)
+    
+
+
+Grassy, adj. [grási]`Herboso.`Madamó.eng_section:Grassy, adj. [grási]
+eng_word:Grassy
+pos:adj:
+
+spanish:Herboso.
+spanish_word:Herboso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grassy$$, $$adj$$,  $$herboso.$$)
+    
+
+
+Grass-widow, n. [gras-uidó]`Mujer cuyo marido está ausente.`Babaing walâ ang asawa; bao sa buhay.eng_section:Grass-widow, n. [gras-uidó]
+eng_word:Grass-widow
+pos:n:
+
+spanish:Mujer cuyo marido está ausente.
+spanish_phrase:Mujer cuyo marido está ausente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grass-widow$$, $$n$$,  $$mujer cuyo marido está ausente.$$)
+    
+
+
+Grate, n. [græt]`Reja, verja, rejilla.`Rehas, dalang-dalang.eng_section:Grate, n. [græt]
+eng_word:Grate
+pos:n:
+
+spanish:Reja, verja, rejilla.
+spanish_word:Reja
+spanish_word:verja
+spanish_word:rejilla.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grate$$, $$n$$,  $$reja, verja, rejilla.$$)
+    
+
+
+Grate, v. [græt]`Rallar; rechinar (los dientes); enrejar.`Kumayod; lumangitngit; magbakod.eng_section:Grate, v. [græt]
+eng_word:Grate
+pos:v:
+
+spanish:Rallar; rechinar (los dientes); enrejar.
+spanish_phrase:Rallar; rechinar (los dientes); enrejar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grate$$, $$v$$,  $$rallar; rechinar (los dientes); enrejar.$$)
+    
+
+
+Grateful, adj. [grétful]`Grato, agradecido.`Marunong kumilala ng utang na loob.eng_section:Grateful, adj. [grétful]
+eng_word:Grateful
+pos:adj:
+
+spanish:Grato, agradecido.
+spanish_word:Grato
+spanish_word:agradecido.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grateful$$, $$adj$$,  $$grato, agradecido.$$)
+    
+
+
+Gratefulness, n. [grétfulnes]`Gratitud.`Utang na loob.eng_section:Gratefulness, n. [grétfulnes]
+eng_word:Gratefulness
+pos:n:
+
+spanish:Gratitud.
+spanish_word:Gratitud.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gratefulness$$, $$n$$,  $$gratitud.$$)
+    
+
+
+Grater, n. [grétoer]`Rallo.`Kudkuran pangayod.eng_section:Grater, n. [grétoer]
+eng_word:Grater
+pos:n:
+
+spanish:Rallo.
+spanish_word:Rallo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grater$$, $$n$$,  $$rallo.$$)
+    
+
+
+Gratification, n. [gratifikécioen]`Gratificacion.`Pabuyà, dulot, kaloob.eng_section:Gratification, n. [gratifikécioen]
+eng_word:Gratification
+pos:n:
+
+spanish:Gratificacion.
+spanish_word:Gratificacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gratification$$, $$n$$,  $$gratificacion.$$)
+    
+
+
+Gratify, n. [grátifai]`Gratificar.`Magpabuyà, magkaloob.eng_section:Gratify, n. [grátifai]
+eng_word:Gratify
+pos:n:
+
+spanish:Gratificar.
+spanish_word:Gratificar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gratify$$, $$n$$,  $$gratificar.$$)
+    
+
+
+Gratis, n. [grétis]`Gratis, de balde.`Walang bayad, gratis.eng_section:Gratis, n. [grétis]
+eng_word:Gratis
+pos:n:
+
+spanish:Gratis, de balde.
+spanish_word:Gratis
+spanish_phrase:de balde.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gratis$$, $$n$$,  $$gratis, de balde.$$)
+    
+
+
+Gratitude, n. [grátitiud]`Gratitud.`Utang na loob.eng_section:Gratitude, n. [grátitiud]
+eng_word:Gratitude
+pos:n:
+
+spanish:Gratitud.
+spanish_word:Gratitud.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gratitude$$, $$n$$,  $$gratitud.$$)
+    
+
+
+Gratuitous, adj. [gratiúitoes]`Gratuito, voluntario.`Walang bayad, kusang kaloob, bigay.eng_section:Gratuitous, adj. [gratiúitoes]
+eng_word:Gratuitous
+pos:adj:
+
+spanish:Gratuito, voluntario.
+spanish_word:Gratuito
+spanish_word:voluntario.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gratuitous$$, $$adj$$,  $$gratuito, voluntario.$$)
+    
+
+
+Gratuity, n. [gratiúiti]`Gratificacion, recompensa.`Pabuyà, gantí.eng_section:Gratuity, n. [gratiúiti]
+eng_word:Gratuity
+pos:n:
+
+spanish:Gratificacion, recompensa.
+spanish_word:Gratificacion
+spanish_word:recompensa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gratuity$$, $$n$$,  $$gratificacion, recompensa.$$)
+    
+
+
+Gratulate, v. [grátiulet]`Congratular.`Bumatì ng pagpuri.eng_section:Gratulate, v. [grátiulet]
+eng_word:Gratulate
+pos:v:
+
+spanish:Congratular.
+spanish_word:Congratular.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gratulate$$, $$v$$,  $$congratular.$$)
+    
+
+
+Gratulation, n. [gratiulécioen]`Congratulacion, parabien.`Bating papuri.eng_section:Gratulation, n. [gratiulécioen]
+eng_word:Gratulation
+pos:n:
+
+spanish:Congratulacion, parabien.
+spanish_word:Congratulacion
+spanish_word:parabien.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gratulation$$, $$n$$,  $$congratulacion, parabien.$$)
+    
+
+
+Grave, adj. [greív]`Grave, serio.`Pormal; malubhâ; mabigat; walang imik.eng_section:Grave, adj. [greív]
+eng_word:Grave
+pos:adj:
+
+spanish:Grave, serio.
+spanish_word:Grave
+spanish_word:serio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grave$$, $$adj$$,  $$grave, serio.$$)
+    
+
+
+Grave, n. [greív]`Sepultura.`Líbingan, hukay.eng_section:Grave, n. [greív]
+eng_word:Grave
+pos:n:
+
+spanish:Sepultura.
+spanish_word:Sepultura.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grave$$, $$n$$,  $$sepultura.$$)
+    
+
+
+Grave, v. [greív]`Grabar, esculpir.`Lumilok.eng_section:Grave, v. [greív]
+eng_word:Grave
+pos:v:
+
+spanish:Grabar, esculpir.
+spanish_word:Grabar
+spanish_word:esculpir.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grave$$, $$v$$,  $$grabar, esculpir.$$)
+    
+
+
+Grave-clothes, n. [grév-cloz]`Mortaja.`Sapot.eng_section:Grave-clothes, n. [grév-cloz]
+eng_word:Grave-clothes
+pos:n:
+
+spanish:Mortaja.
+spanish_word:Mortaja.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grave-clothes$$, $$n$$,  $$mortaja.$$)
+    
+
+
+Grave-digger, n. [grév-diguoer]`Sepulturero.`Manghuhukay ng líbingan.eng_section:Grave-digger, n. [grév-diguoer]
+eng_word:Grave-digger
+pos:n:
+
+spanish:Sepulturero.
+spanish_word:Sepulturero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grave-digger$$, $$n$$,  $$sepulturero.$$)
+    
+
+
+Gravel, n. [grável]`Cascajo, arena gruesa.`Mga batong tipak-tipak.eng_section:Gravel, n. [grável]
+eng_word:Gravel
+pos:n:
+
+spanish:Cascajo, arena gruesa.
+spanish_word:Cascajo
+spanish_phrase:arena gruesa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gravel$$, $$n$$,  $$cascajo, arena gruesa.$$)
+    
+
+
+Gravelly, adj. [gráveli]`Arenisco, cascajoso.`Ukol sa mga batong tipak-tipak.eng_section:Gravelly, adj. [gráveli]
+eng_word:Gravelly
+pos:adj:
+
+spanish:Arenisco, cascajoso.
+spanish_word:Arenisco
+spanish_word:cascajoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gravelly$$, $$adj$$,  $$arenisco, cascajoso.$$)
+    
+
+
+Gravel-walk, n. [grável-uok]`Camino empedrado.`Daang mabató.eng_section:Gravel-walk, n. [grável-uok]
+eng_word:Gravel-walk
+pos:n:
+
+spanish:Camino empedrado.
+spanish_phrase:Camino empedrado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gravel-walk$$, $$n$$,  $$camino empedrado.$$)
+    
+
+
+Graven, adj. [grévn]`Grabado.`Linilok.eng_section:Graven, adj. [grévn]
+eng_word:Graven
+pos:adj:
+
+spanish:Grabado.
+spanish_word:Grabado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$graven$$, $$adj$$,  $$grabado.$$)
+    
+
+
+Graver, n. [grévoer]`Grabador; buril.`Manglililok; panglilok.eng_section:Graver, n. [grévoer]
+eng_word:Graver
+pos:n:
+
+spanish:Grabador; buril.
+spanish_phrase:Grabador; buril.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$graver$$, $$n$$,  $$grabador; buril.$$)
+    
+
+
+Gravestone, n. [grévston]`Piedra sepulcral, lápida.`Batong panakíp sa líbingan, lápida.eng_section:Gravestone, n. [grévston]
+eng_word:Gravestone
+pos:n:
+
+spanish:Piedra sepulcral, lápida.
+spanish_phrase:Piedra sepulcral
+spanish_word:lápida.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gravestone$$, $$n$$,  $$piedra sepulcral, lápida.$$)
+    
+
+
+Gravitate, v. [gráviteit]`Gravitar.`Manimbang.eng_section:Gravitate, v. [gráviteit]
+eng_word:Gravitate
+pos:v:
+
+spanish:Gravitar.
+spanish_word:Gravitar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gravitate$$, $$v$$,  $$gravitar.$$)
+    
+
+
+Gravitation, n. [gravitécion]`Gravitacion.`Paninimbang.eng_section:Gravitation, n. [gravitécion]
+eng_word:Gravitation
+pos:n:
+
+spanish:Gravitacion.
+spanish_word:Gravitacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gravitation$$, $$n$$,  $$gravitacion.$$)
+    
+
+
+Gravity, n. [gráviti]`Gravedad, peso.`Timbang, bigat.eng_section:Gravity, n. [gráviti]
+eng_word:Gravity
+pos:n:
+
+spanish:Gravedad, peso.
+spanish_word:Gravedad
+spanish_word:peso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gravity$$, $$n$$,  $$gravedad, peso.$$)
+    
+
+
+Gravy, n. [grévi]`Jugo de la carne; salsa.`Katas ng karné; sawsawan.eng_section:Gravy, n. [grévi]
+eng_word:Gravy
+pos:n:
+
+spanish:Jugo de la carne; salsa.
+spanish_phrase:Jugo de la carne; salsa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gravy$$, $$n$$,  $$jugo de la carne; salsa.$$)
+    
+
+
+Gray, adj. [gré]`Gris; cano.`Gris; puting-uban.eng_section:Gray, adj. [gré]
+eng_word:Gray
+pos:adj:
+
+spanish:Gris; cano.
+spanish_phrase:Gris; cano.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gray$$, $$adj$$,  $$gris; cano.$$)
+    
+
+
+Gray, n. [gré]`Gris.`Gris.eng_section:Gray, n. [gré]
+eng_word:Gray
+pos:n:
+
+spanish:Gris.
+spanish_word:Gris.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gray$$, $$n$$,  $$gris.$$)
+    
+
+
+Graybeard, n. [grébird]`Barbicano.`May maputing balbás.eng_section:Graybeard, n. [grébird]
+eng_word:Graybeard
+pos:n:
+
+spanish:Barbicano.
+spanish_word:Barbicano.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$graybeard$$, $$n$$,  $$barbicano.$$)
+    
+
+
+Grayheaded, a. [gréjeded]`Canoso.`Mauban; maputî na ang buhok.eng_section:Grayheaded, a. [gréjeded]
+eng_word:Grayheaded
+pos:adj:
+
+spanish:Canoso.
+spanish_word:Canoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grayheaded$$, $$adj$$,  $$canoso.$$)
+    
+
+
+Grayish, adj. [greísh]`Pardusco, entrecano.`Namumutî.eng_section:Grayish, adj. [greísh]
+eng_word:Grayish
+pos:adj:
+
+spanish:Pardusco, entrecano.
+spanish_word:Pardusco
+spanish_word:entrecano.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grayish$$, $$adj$$,  $$pardusco, entrecano.$$)
+    
+
+
+Graze, v. [grez]`Pastorear; pacer, apacentar.`Mag-alagà ng hayop; magpanginain; magpasabsab.eng_section:Graze, v. [grez]
+eng_word:Graze
+pos:v:
+
+spanish:Pastorear; pacer, apacentar.
+spanish_phrase:Pastorear; pacer
+spanish_word:apacentar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$graze$$, $$v$$,  $$pastorear; pacer, apacentar.$$)
+    
+
+
+Grazier, n. [grézier]`Ganadero.`Pastulan.eng_section:Grazier, n. [grézier]
+eng_word:Grazier
+pos:n:
+
+spanish:Ganadero.
+spanish_word:Ganadero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grazier$$, $$n$$,  $$ganadero.$$)
+    
+
+
+Grease, n. [gris]`Grasa.`Sebo, tabâ.eng_section:Grease, n. [gris]
+eng_word:Grease
+pos:n:
+
+spanish:Grasa.
+spanish_word:Grasa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grease$$, $$n$$,  $$grasa.$$)
+    
+
+
+Grease, v. [gris]`Engrasar.`Pahiran ng sebo.eng_section:Grease, v. [gris]
+eng_word:Grease
+pos:v:
+
+spanish:Engrasar.
+spanish_word:Engrasar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grease$$, $$v$$,  $$engrasar.$$)
+    
+
+
+Greasiness, n. [grízines]`Pringue, gordura.`Katabaan.eng_section:Greasiness, n. [grízines]
+eng_word:Greasiness
+pos:n:
+
+spanish:Pringue, gordura.
+spanish_word:Pringue
+spanish_word:gordura.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$greasiness$$, $$n$$,  $$pringue, gordura.$$)
+    
+
+
+Greasy, adj. [grízi]`Grasiento, craso, gordo.`Masebo, matabâ.eng_section:Greasy, adj. [grízi]
+eng_word:Greasy
+pos:adj:
+
+spanish:Grasiento, craso, gordo.
+spanish_word:Grasiento
+spanish_word:craso
+spanish_word:gordo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$greasy$$, $$adj$$,  $$grasiento, craso, gordo.$$)
+    
+
+
+Great, adj. [greít]`Gran, grande.`Dakilà, malakí.eng_section:Great, adj. [greít]
+eng_word:Great
+pos:adj:
+
+spanish:Gran, grande.
+spanish_word:Gran
+spanish_word:grande.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$great$$, $$adj$$,  $$gran, grande.$$)
+    
+
+
+Great-grandchild, n. [greít-grandchaild]`Bisnieto.`Apo sa tuhod.eng_section:Great-grandchild, n. [greít-grandchaild]
+eng_word:Great-grandchild
+pos:n:
+
+spanish:Bisnieto.
+spanish_word:Bisnieto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$great-grandchild$$, $$n$$,  $$bisnieto.$$)
+    
+
+
+Great-granddaughter, n. [greít-granddoter]`Bisnieta.`Apong babae sa tuhod.eng_section:Great-granddaughter, n. [greít-granddoter]
+eng_word:Great-granddaughter
+pos:n:
+
+spanish:Bisnieta.
+spanish_word:Bisnieta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$great-granddaughter$$, $$n$$,  $$bisnieta.$$)
+    
+
+
+Great-grandfather, n. [greít-grandfadzer]`Tatabuelo.`Nunò sa tuhod [lalake].eng_section:Great-grandfather, n. [greít-grandfadzer]
+eng_word:Great-grandfather
+pos:n:
+
+spanish:Tatabuelo.
+spanish_word:Tatabuelo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$great-grandfather$$, $$n$$,  $$tatabuelo.$$)
+    
+
+
+Great-grandmother, n. [greít-grandmodzer]`Tatabuela.`Nunò sa tuhod (babae).eng_section:Great-grandmother, n. [greít-grandmodzer]
+eng_word:Great-grandmother
+pos:n:
+
+spanish:Tatabuela.
+spanish_word:Tatabuela.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$great-grandmother$$, $$n$$,  $$tatabuela.$$)
+    
+
+
+Great-grandson, n. [greít-grandsan]`Bisnieto.`Apó sa tuhod (lalake).eng_section:Great-grandson, n. [greít-grandsan]
+eng_word:Great-grandson
+pos:n:
+
+spanish:Bisnieto.
+spanish_word:Bisnieto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$great-grandson$$, $$n$$,  $$bisnieto.$$)
+    
+
+
+Greatness, n. [greítnes]`Grandeza, extension.`Kadakilaan, kalakhan.eng_section:Greatness, n. [greítnes]
+eng_word:Greatness
+pos:n:
+
+spanish:Grandeza, extension.
+spanish_word:Grandeza
+spanish_word:extension.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$greatness$$, $$n$$,  $$grandeza, extension.$$)
+    
+
+
+Grecian, adj. [grícian]`Griego.`Taga Gresya ó nauukol sa Gresya.eng_section:Grecian, adj. [grícian]
+eng_word:Grecian
+pos:adj:
+
+spanish:Griego.
+spanish_word:Griego.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grecian$$, $$adj$$,  $$griego.$$)
+    
+
+
+Greed, n. [grid]`Codicia, avaricia.`Inggit, kasakiman.eng_section:Greed, n. [grid]
+eng_word:Greed
+pos:n:
+
+spanish:Codicia, avaricia.
+spanish_word:Codicia
+spanish_word:avaricia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$greed$$, $$n$$,  $$codicia, avaricia.$$)
+    
+
+
+Greedily, adv. [grídili]`Verazmente, ansiosamente.`Pananabik, may pagkasakim.eng_section:Greedily, adv. [grídili]
+eng_word:Greedily
+pos:adv:
+
+spanish:Verazmente, ansiosamente.
+spanish_word:Verazmente
+spanish_word:ansiosamente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$greedily$$, $$adv$$,  $$verazmente, ansiosamente.$$)
+    
+
+
+Greediness, n. [grídines]`Voracidad, codicia.`Kasakiman.eng_section:Greediness, n. [grídines]
+eng_word:Greediness
+pos:n:
+
+spanish:Voracidad, codicia.
+spanish_word:Voracidad
+spanish_word:codicia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$greediness$$, $$n$$,  $$voracidad, codicia.$$)
+    
+
+
+Greek, adj. [gric]`Griego.`Nauukol sa Gresya.eng_section:Greek, adj. [gric]
+eng_word:Greek
+pos:adj:
+
+spanish:Griego.
+spanish_word:Griego.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$greek$$, $$adj$$,  $$griego.$$)
+    
+
+
+Greek, n. [gric]`Griego.`Taga Gresya.eng_section:Greek, n. [gric]
+eng_word:Greek
+pos:n:
+
+spanish:Griego.
+spanish_word:Griego.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$greek$$, $$n$$,  $$griego.$$)
+    
+
+
+Green, adj. [grin]`Verde.`Lungtian, berde.eng_section:Green, adj. [grin]
+eng_word:Green
+pos:adj:
+
+spanish:Verde.
+spanish_word:Verde.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$green$$, $$adj$$,  $$verde.$$)
+    
+
+
+Green, n. [grin]`Color verde.`Kulay lungtian, kulay berde.eng_section:Green, n. [grin]
+eng_word:Green
+pos:n:
+
+spanish:Color verde.
+spanish_phrase:Color verde.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$green$$, $$n$$,  $$color verde.$$)
+    
+
+
+Green, v. [grin]`Teñir de verde.`Gawíng kulay lungtian ó berde.eng_section:Green, v. [grin]
+eng_word:Green
+pos:v:
+
+spanish:Teñir de verde.
+spanish_phrase:Teñir de verde.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$green$$, $$v$$,  $$teñir de verde.$$)
+    
+
+
+Greenish, adj. [grínish]`Verdoso.`Namemerde, naninilaw.eng_section:Greenish, adj. [grínish]
+eng_word:Greenish
+pos:adj:
+
+spanish:Verdoso.
+spanish_word:Verdoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$greenish$$, $$adj$$,  $$verdoso.$$)
+    
+
+
+Greenhorn, n. [grínjorn]`Joven sin experiencia.`Binatang musmos.eng_section:Greenhorn, n. [grínjorn]
+eng_word:Greenhorn
+pos:n:
+
+spanish:Joven sin experiencia.
+spanish_phrase:Joven sin experiencia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$greenhorn$$, $$n$$,  $$joven sin experiencia.$$)
+    
+
+
+Greenish, adj. [grínish]`Verdoso.`Sariwà, lungtian, maberde.eng_section:Greenish, adj. [grínish]
+eng_word:Greenish
+pos:adj:
+
+spanish:Verdoso.
+spanish_word:Verdoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$greenish$$, $$adj$$,  $$verdoso.$$)
+    
+
+
+Greet, v. [grit]`Saludar, congratular.`Bumatì.eng_section:Greet, v. [grit]
+eng_word:Greet
+pos:v:
+
+spanish:Saludar, congratular.
+spanish_word:Saludar
+spanish_word:congratular.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$greet$$, $$v$$,  $$saludar, congratular.$$)
+    
+
+
+Greeting, n. [gríting]`Salutacion.`Batì.eng_section:Greeting, n. [gríting]
+eng_word:Greeting
+pos:n:
+
+spanish:Salutacion.
+spanish_word:Salutacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$greeting$$, $$n$$,  $$salutacion.$$)
+    
+
+
+Grey, adj. [gré]`Gris.`Kulay gris.eng_section:Grey, adj. [gré]
+eng_word:Grey
+pos:adj:
+
+spanish:Gris.
+spanish_word:Gris.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grey$$, $$adj$$,  $$gris.$$)
+    
+
+
+Gridiron, n. [grídairon]`Parrillas.`Ihawán.eng_section:Gridiron, n. [grídairon]
+eng_word:Gridiron
+pos:n:
+
+spanish:Parrillas.
+spanish_word:Parrillas.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gridiron$$, $$n$$,  $$parrillas.$$)
+    
+
+
+Grief, n. [grif]`Pesar, pesadumbre, afliccion.`Dalamhatì, hambal, hapis, lumbay.eng_section:Grief, n. [grif]
+eng_word:Grief
+pos:n:
+
+spanish:Pesar, pesadumbre, afliccion.
+spanish_word:Pesar
+spanish_word:pesadumbre
+spanish_word:afliccion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grief$$, $$n$$,  $$pesar, pesadumbre, afliccion.$$)
+    
+
+
+Grievance, n. [grívans]`Pesar, pesadumbre.`Hapis, hambal, lumbay, hinagpis, daing.eng_section:Grievance, n. [grívans]
+eng_word:Grievance
+pos:n:
+
+spanish:Pesar, pesadumbre.
+spanish_word:Pesar
+spanish_word:pesadumbre.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grievance$$, $$n$$,  $$pesar, pesadumbre.$$)
+    
+
+
+Grieve, v. [griv]`Agraviar, afligir.`Umapí, dumalamhatì, magpahirap.eng_section:Grieve, v. [griv]
+eng_word:Grieve
+pos:v:
+
+spanish:Agraviar, afligir.
+spanish_word:Agraviar
+spanish_word:afligir.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grieve$$, $$v$$,  $$agraviar, afligir.$$)
+    
+
+
+Grievous, adj. [grivæs]`Penoso, lastimoso.`Nakahahapis, nakahahambal, nakapagdaramdam.eng_section:Grievous, adj. [grivæs]
+eng_word:Grievous
+pos:adj:
+
+spanish:Penoso, lastimoso.
+spanish_word:Penoso
+spanish_word:lastimoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grievous$$, $$adj$$,  $$penoso, lastimoso.$$)
+    
+
+
+Grill, v. [gril]`Asar en parrillas.`Mag-ihaw, magdarang.eng_section:Grill, v. [gril]
+eng_word:Grill
+pos:v:
+
+spanish:Asar en parrillas.
+spanish_phrase:Asar en parrillas.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grill$$, $$v$$,  $$asar en parrillas.$$)
+    
+
+
+Grim, adj. [grim]`Feo; disforme; ceñudo.`Pangit, masamang hichura, nakamungot.eng_section:Grim, adj. [grim]
+eng_word:Grim
+pos:adj:
+
+spanish:Feo; disforme; ceñudo.
+spanish_phrase:Feo; disforme; ceñudo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grim$$, $$adj$$,  $$feo; disforme; ceñudo.$$)
+    
+
+
+Grimace, n. [grimés]`Visaje, mueca.`Ngiwî, ngibit.eng_section:Grimace, n. [grimés]
+eng_word:Grimace
+pos:n:
+
+spanish:Visaje, mueca.
+spanish_word:Visaje
+spanish_word:mueca.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grimace$$, $$n$$,  $$visaje, mueca.$$)
+    
+
+
+Grimalkin, n. [grimálkin]`Gatazo.`Malaking pusà.eng_section:Grimalkin, n. [grimálkin]
+eng_word:Grimalkin
+pos:n:
+
+spanish:Gatazo.
+spanish_word:Gatazo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grimalkin$$, $$n$$,  $$gatazo.$$)
+    
+
+
+Grime, n. [gráim]`Mugre, porquería.`Dungis, dumí.eng_section:Grime, n. [gráim]
+eng_word:Grime
+pos:n:
+
+spanish:Mugre, porquería.
+spanish_word:Mugre
+spanish_word:porquería.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grime$$, $$n$$,  $$mugre, porquería.$$)
+    
+
+
+Grime, v. [gráim]`Ensuciar.`Dumungis, dumumí.eng_section:Grime, v. [gráim]
+eng_word:Grime
+pos:v:
+
+spanish:Ensuciar.
+spanish_word:Ensuciar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grime$$, $$v$$,  $$ensuciar.$$)
+    
+
+
+Grimy, adj. [gráimi]`Mugriento.`Marungis, marumí.eng_section:Grimy, adj. [gráimi]
+eng_word:Grimy
+pos:adj:
+
+spanish:Mugriento.
+spanish_word:Mugriento.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grimy$$, $$adj$$,  $$mugriento.$$)
+    
+
+
+Grin, n. [grin]`Mueca; rechino de los dientes.`Ngiwî; langitngit.eng_section:Grin, n. [grin]
+eng_word:Grin
+pos:n:
+
+spanish:Mueca; rechino de los dientes.
+spanish_phrase:Mueca; rechino de los dientes.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grin$$, $$n$$,  $$mueca; rechino de los dientes.$$)
+    
+
+
+Grin, v. [grin]`Hacer visages; rechinar los dientes.`Ngumiwî; lumangitngit.eng_section:Grin, v. [grin]
+eng_word:Grin
+pos:v:
+
+spanish:Hacer visages; rechinar los dientes.
+spanish_phrase:Hacer visages; rechinar los dientes.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grin$$, $$v$$,  $$hacer visages; rechinar los dientes.$$)
+    
+
+
+Grind, v. [gráind]`Moler; pulverizar.`Gumiling; galapungin.eng_section:Grind, v. [gráind]
+eng_word:Grind
+pos:v:
+
+spanish:Moler; pulverizar.
+spanish_phrase:Moler; pulverizar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grind$$, $$v$$,  $$moler; pulverizar.$$)
+    
+
+
+Grinder, n. [gráinder]`Molinero; muela; molino.`Manggigiling; bagáng; gilingan.eng_section:Grinder, n. [gráinder]
+eng_word:Grinder
+pos:n:
+
+spanish:Molinero; muela; molino.
+spanish_phrase:Molinero; muela; molino.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grinder$$, $$n$$,  $$molinero; muela; molino.$$)
+    
+
+
+Grindstone, n. [gráindston]`Piedra amoladera.`Batong gilingan; hasáan.eng_section:Grindstone, n. [gráindston]
+eng_word:Grindstone
+pos:n:
+
+spanish:Piedra amoladera.
+spanish_phrase:Piedra amoladera.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grindstone$$, $$n$$,  $$piedra amoladera.$$)
+    
+
+
+Grip, n. [grip]`Caz.`Pádaluyan ng tubig.eng_section:Grip, n. [grip]
+eng_word:Grip
+pos:n:
+
+spanish:Caz.
+spanish_word:Caz.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grip$$, $$n$$,  $$caz.$$)
+    
+
+
+Grip, v. [grip]`Desaguar.`Magpadaloy ng tubig.eng_section:Grip, v. [grip]
+eng_word:Grip
+pos:v:
+
+spanish:Desaguar.
+spanish_word:Desaguar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grip$$, $$v$$,  $$desaguar.$$)
+    
+
+
+Gripe, n. [gráip]`Presa; agarro; apreton de la mano.`Pamimiit; hawak; pagkakamay, pagpisil ng kamay.eng_section:Gripe, n. [gráip]
+eng_word:Gripe
+pos:n:
+
+spanish:Presa; agarro; apreton de la mano.
+spanish_phrase:Presa; agarro; apreton de la mano.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gripe$$, $$n$$,  $$presa; agarro; apreton de la mano.$$)
+    
+
+
+Gripe, v. [gráip]`Agarrar, asir; dar cólico.`Humawak, pumigil; sumakít ang tiyan.eng_section:Gripe, v. [gráip]
+eng_word:Gripe
+pos:v:
+
+spanish:Agarrar, asir; dar cólico.
+spanish_word:Agarrar
+spanish_phrase:asir; dar cólico.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gripe$$, $$v$$,  $$agarrar, asir; dar cólico.$$)
+    
+
+
+Griper, n. [gráiper]`Usurero.`Nagpapatubò.eng_section:Griper, n. [gráiper]
+eng_word:Griper
+pos:n:
+
+spanish:Usurero.
+spanish_word:Usurero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$griper$$, $$n$$,  $$usurero.$$)
+    
+
+
+Grisly, adj. [grízli]`Horroroso.`Kakilakilabot, kasindak-sindak, katakot-takot.eng_section:Grisly, adj. [grízli]
+eng_word:Grisly
+pos:adj:
+
+spanish:Horroroso.
+spanish_word:Horroroso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grisly$$, $$adj$$,  $$horroroso.$$)
+    
+
+
+Grist, n. [grist]`Molienda.`Anomang ginigiling, gálapongin.eng_section:Grist, n. [grist]
+eng_word:Grist
+pos:n:
+
+spanish:Molienda.
+spanish_word:Molienda.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grist$$, $$n$$,  $$molienda.$$)
+    
+
+
+Gristle, n. [grisl]`Cartílago, ternilla.`Butong malatâ, butong malambot.eng_section:Gristle, n. [grisl]
+eng_word:Gristle
+pos:n:
+
+spanish:Cartílago, ternilla.
+spanish_word:Cartílago
+spanish_word:ternilla.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gristle$$, $$n$$,  $$cartílago, ternilla.$$)
+    
+
+
+Gristly, adj. [grístli]`Tendinoso, nervioso.`Malitid.eng_section:Gristly, adj. [grístli]
+eng_word:Gristly
+pos:adj:
+
+spanish:Tendinoso, nervioso.
+spanish_word:Tendinoso
+spanish_word:nervioso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gristly$$, $$adj$$,  $$tendinoso, nervioso.$$)
+    
+
+
+Grit, n. [grit]`Arena.`Buhangin.eng_section:Grit, n. [grit]
+eng_word:Grit
+pos:n:
+
+spanish:Arena.
+spanish_word:Arena.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grit$$, $$n$$,  $$arena.$$)
+    
+
+
+Gritty, adj. [gríti]`Arenoso.`Mabuhangin.eng_section:Gritty, adj. [gríti]
+eng_word:Gritty
+pos:adj:
+
+spanish:Arenoso.
+spanish_word:Arenoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gritty$$, $$adj$$,  $$arenoso.$$)
+    
+
+
+Grizzle, n. [grizl]`Gris.`Kulay gris.eng_section:Grizzle, n. [grizl]
+eng_word:Grizzle
+pos:n:
+
+spanish:Gris.
+spanish_word:Gris.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grizzle$$, $$n$$,  $$gris.$$)
+    
+
+
+Groan, n. [gron]`Gemido, suspiro.`Daing, hibik.eng_section:Groan, n. [gron]
+eng_word:Groan
+pos:n:
+
+spanish:Gemido, suspiro.
+spanish_word:Gemido
+spanish_word:suspiro.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$groan$$, $$n$$,  $$gemido, suspiro.$$)
+    
+
+
+Groan, v. [gron]`Gemir, suspirar.`Dumaing, humibik.eng_section:Groan, v. [gron]
+eng_word:Groan
+pos:v:
+
+spanish:Gemir, suspirar.
+spanish_word:Gemir
+spanish_word:suspirar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$groan$$, $$v$$,  $$gemir, suspirar.$$)
+    
+
+
+Groaning, n. [gróning]`Quejido.`Daing, hibík.eng_section:Groaning, n. [gróning]
+eng_word:Groaning
+pos:n:
+
+spanish:Quejido.
+spanish_word:Quejido.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$groaning$$, $$n$$,  $$quejido.$$)
+    
+
+
+Grocer, n. [gróser]`Especiero.`Ang nagbibilí ng mga kakainín.eng_section:Grocer, n. [gróser]
+eng_word:Grocer
+pos:n:
+
+spanish:Especiero.
+spanish_word:Especiero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grocer$$, $$n$$,  $$especiero.$$)
+    
+
+
+Grocery, n. [gróseri]`Especería.`Pámilihan ng mga kakainín.eng_section:Grocery, n. [gróseri]
+eng_word:Grocery
+pos:n:
+
+spanish:Especería.
+spanish_word:Especería.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grocery$$, $$n$$,  $$especería.$$)
+    
+
+
+Grog, n. [grog]`Grog.`Alak, ponche.eng_section:Grog, n. [grog]
+eng_word:Grog
+pos:n:
+
+spanish:Grog.
+spanish_word:Grog.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grog$$, $$n$$,  $$grog.$$)
+    
+
+
+Groggy, adj. [grógui]`Medio borracho.`Malasínglasíng.eng_section:Groggy, adj. [grógui]
+eng_word:Groggy
+pos:adj:
+
+spanish:Medio borracho.
+spanish_phrase:Medio borracho.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$groggy$$, $$adj$$,  $$medio borracho.$$)
+    
+
+
+Groin, n. [gróin]`Ingle.`Singit.eng_section:Groin, n. [gróin]
+eng_word:Groin
+pos:n:
+
+spanish:Ingle.
+spanish_word:Ingle.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$groin$$, $$n$$,  $$ingle.$$)
+    
+
+
+Groom, n. [grum]`Establero, mozo de mulas ó caballos; novio.`Sota, tagapag-alagà ng kabayo; nobyo.eng_section:Groom, n. [grum]
+eng_word:Groom
+pos:n:
+
+spanish:Establero, mozo de mulas ó caballos; novio.
+spanish_word:Establero
+spanish_phrase:mozo de mulas ó caballos; novio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$groom$$, $$n$$,  $$establero, mozo de mulas ó caballos; novio.$$)
+    
+
+
+Groom, v. [grum]`Cuidar los caballos.`Mag-alagà ng kabayo.eng_section:Groom, v. [grum]
+eng_word:Groom
+pos:v:
+
+spanish:Cuidar los caballos.
+spanish_phrase:Cuidar los caballos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$groom$$, $$v$$,  $$cuidar los caballos.$$)
+    
+
+
+Groove, n. [gruv]`Caverna, cavidad profunda.`Yungib, lunggâ, bitak.eng_section:Groove, n. [gruv]
+eng_word:Groove
+pos:n:
+
+spanish:Caverna, cavidad profunda.
+spanish_word:Caverna
+spanish_phrase:cavidad profunda.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$groove$$, $$n$$,  $$caverna, cavidad profunda.$$)
+    
+
+
+Groove, v. [gruv]`Acañalar.`Bangbangin.eng_section:Groove, v. [gruv]
+eng_word:Groove
+pos:v:
+
+spanish:Acañalar.
+spanish_word:Acañalar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$groove$$, $$v$$,  $$acañalar.$$)
+    
+
+
+Grope, v. [grop]`Tentar, buscar á obscuras.`Kumapâ, umapuhap.eng_section:Grope, v. [grop]
+eng_word:Grope
+pos:v:
+
+spanish:Tentar, buscar á obscuras.
+spanish_word:Tentar
+spanish_phrase:buscar á obscuras.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grope$$, $$v$$,  $$tentar, buscar á obscuras.$$)
+    
+
+
+Gross, adj. [gros]`Grueso, corpulento; espeso; lerdo, estúpido.`Magaspang, bastos; malapot; gunggong, tangá.eng_section:Gross, adj. [gros]
+eng_word:Gross
+pos:adj:
+
+spanish:Grueso, corpulento; espeso; lerdo, estúpido.
+spanish_word:Grueso
+spanish_phrase:corpulento; espeso; lerdo
+spanish_word:estúpido.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gross$$, $$adj$$,  $$grueso, corpulento; espeso; lerdo, estúpido.$$)
+    
+
+
+Grossness, n. [grósnes]`Rudeza, grosería.`Kagaspangan, kabastusan.eng_section:Grossness, n. [grósnes]
+eng_word:Grossness
+pos:n:
+
+spanish:Rudeza, grosería.
+spanish_word:Rudeza
+spanish_word:grosería.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grossness$$, $$n$$,  $$rudeza, grosería.$$)
+    
+
+
+Grot, n. [grot]`Gruta.`Yungib, bitak, lunggâ.eng_section:Grot, n. [grot]
+eng_word:Grot
+pos:n:
+
+spanish:Gruta.
+spanish_word:Gruta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grot$$, $$n$$,  $$gruta.$$)
+    
+
+
+Grotto, n. [gróto]`Gruta.`Yungib, bitak, lunggâ.eng_section:Grotto, n. [gróto]
+eng_word:Grotto
+pos:n:
+
+spanish:Gruta.
+spanish_word:Gruta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grotto$$, $$n$$,  $$gruta.$$)
+    
+
+
+Grotesque, adj. [grótesc]`Grotesco.`Katwâ, kakatwâ.eng_section:Grotesque, adj. [grótesc]
+eng_word:Grotesque
+pos:adj:
+
+spanish:Grotesco.
+spanish_word:Grotesco.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grotesque$$, $$adj$$,  $$grotesco.$$)
+    
+
+
+Ground, n. [gráund]`Terreno, pavimento; tierra, pais; campo.`Lapag, sahíg; lupà; parang; bukid; larangan.eng_section:Ground, n. [gráund]
+eng_word:Ground
+pos:n:
+
+spanish:Terreno, pavimento; tierra, pais; campo.
+spanish_word:Terreno
+spanish_phrase:pavimento; tierra
+spanish_phrase:pais; campo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ground$$, $$n$$,  $$terreno, pavimento; tierra, pais; campo.$$)
+    
+
+
+Groundless, adj. [gráundles]`Infundado.`Walâ sa katwiran.eng_section:Groundless, adj. [gráundles]
+eng_word:Groundless
+pos:adj:
+
+spanish:Infundado.
+spanish_word:Infundado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$groundless$$, $$adj$$,  $$infundado.$$)
+    
+
+
+Ground plot, n. [gráund-plot]`Solar, terreno.`Looban, solar.eng_section:Ground plot, n. [gráund-plot]
+eng_word:Ground plot
+pos:n:
+
+spanish:Solar, terreno.
+spanish_word:Solar
+spanish_word:terreno.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ground plot$$, $$n$$,  $$solar, terreno.$$)
+    
+
+
+Groundwork, n. [gráundwerc]`Base, fundamento.`Pátibayan, táyuan.eng_section:Groundwork, n. [gráundwerc]
+eng_word:Groundwork
+pos:n:
+
+spanish:Base, fundamento.
+spanish_word:Base
+spanish_word:fundamento.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$groundwork$$, $$n$$,  $$base, fundamento.$$)
+    
+
+
+Group, n. [groúp]`Grupo.`Pook, pulutong, bunton, katipunan.eng_section:Group, n. [groúp]
+eng_word:Group
+pos:n:
+
+spanish:Grupo.
+spanish_word:Grupo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$group$$, $$n$$,  $$grupo.$$)
+    
+
+
+Group, v. [groúp]`Agrupar.`Magbunton.eng_section:Group, v. [groúp]
+eng_word:Group
+pos:v:
+
+spanish:Agrupar.
+spanish_word:Agrupar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$group$$, $$v$$,  $$agrupar.$$)
+    
+
+
+Grouse, n. [gráus]`Gallina silvestre.`Manok gubat.eng_section:Grouse, n. [gráus]
+eng_word:Grouse
+pos:n:
+
+spanish:Gallina silvestre.
+spanish_phrase:Gallina silvestre.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grouse$$, $$n$$,  $$gallina silvestre.$$)
+    
+
+
+Grout, n. [gráut]`Harina basta; hez.`Masamangharina; latak.eng_section:Grout, n. [gráut]
+eng_word:Grout
+pos:n:
+
+spanish:Harina basta; hez.
+spanish_phrase:Harina basta; hez.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grout$$, $$n$$,  $$harina basta; hez.$$)
+    
+
+
+Grove, n. [grov]`Arboleda, alameda, boscaje.`Kahúyan; gubat.eng_section:Grove, n. [grov]
+eng_word:Grove
+pos:n:
+
+spanish:Arboleda, alameda, boscaje.
+spanish_word:Arboleda
+spanish_word:alameda
+spanish_word:boscaje.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grove$$, $$n$$,  $$arboleda, alameda, boscaje.$$)
+    
+
+
+Grovel, v. [gróvl]`Serpear, bajarse.`Magpadausdos, bumabâ.eng_section:Grovel, v. [gróvl]
+eng_word:Grovel
+pos:v:
+
+spanish:Serpear, bajarse.
+spanish_word:Serpear
+spanish_word:bajarse.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grovel$$, $$v$$,  $$serpear, bajarse.$$)
+    
+
+
+Grow, v. [gro]`Crecer, nacer.`Tumubò, sumibol.eng_section:Grow, v. [gro]
+eng_word:Grow
+pos:v:
+
+spanish:Crecer, nacer.
+spanish_word:Crecer
+spanish_word:nacer.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grow$$, $$v$$,  $$crecer, nacer.$$)
+    
+
+
+Growl, n. [grául]`Gruñido, refunfuño.`Angil, dabog, ingos.eng_section:Growl, n. [grául]
+eng_word:Growl
+pos:n:
+
+spanish:Gruñido, refunfuño.
+spanish_word:Gruñido
+spanish_word:refunfuño.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$growl$$, $$n$$,  $$gruñido, refunfuño.$$)
+    
+
+
+Growl, v. [grául]`Gruñir, refunfuñar.`Umangil, dumabog, umingos.eng_section:Growl, v. [grául]
+eng_word:Growl
+pos:v:
+
+spanish:Gruñir, refunfuñar.
+spanish_word:Gruñir
+spanish_word:refunfuñar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$growl$$, $$v$$,  $$gruñir, refunfuñar.$$)
+    
+
+
+Growth, n. [groz]`Crecimiento, produccion.`Tubò, paglakí.eng_section:Growth, n. [groz]
+eng_word:Growth
+pos:n:
+
+spanish:Crecimiento, produccion.
+spanish_word:Crecimiento
+spanish_word:produccion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$growth$$, $$n$$,  $$crecimiento, produccion.$$)
+    
+
+
+Grub, n. [grab]`Gorgojo.`Bukbok.eng_section:Grub, n. [grab]
+eng_word:Grub
+pos:n:
+
+spanish:Gorgojo.
+spanish_word:Gorgojo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grub$$, $$n$$,  $$gorgojo.$$)
+    
+
+
+Grub, v. [grab]`Desarraigar.`Bunutin.eng_section:Grub, v. [grab]
+eng_word:Grub
+pos:v:
+
+spanish:Desarraigar.
+spanish_word:Desarraigar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grub$$, $$v$$,  $$desarraigar.$$)
+    
+
+
+Grudge, n. [gredch]`Rencor, odio.`Pagtatanim sa loob, poot.eng_section:Grudge, n. [gredch]
+eng_word:Grudge
+pos:n:
+
+spanish:Rencor, odio.
+spanish_word:Rencor
+spanish_word:odio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grudge$$, $$n$$,  $$rencor, odio.$$)
+    
+
+
+Grudge, v. [gredch]`Repugnar.`Magtanim sa loob, mapoot.eng_section:Grudge, v. [gredch]
+eng_word:Grudge
+pos:v:
+
+spanish:Repugnar.
+spanish_word:Repugnar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grudge$$, $$v$$,  $$repugnar.$$)
+    
+
+
+Gruel, n. [griúel]`Especie de caldo espeso.`Parang sabaw na malapot.eng_section:Gruel, n. [griúel]
+eng_word:Gruel
+pos:n:
+
+spanish:Especie de caldo espeso.
+spanish_phrase:Especie de caldo espeso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gruel$$, $$n$$,  $$especie de caldo espeso.$$)
+    
+
+
+Gruff, adj. [graf]`Ceñudo, grosero.`Masungit.eng_section:Gruff, adj. [graf]
+eng_word:Gruff
+pos:adj:
+
+spanish:Ceñudo, grosero.
+spanish_word:Ceñudo
+spanish_word:grosero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gruff$$, $$adj$$,  $$ceñudo, grosero.$$)
+    
+
+
+Gruffness, n. [gráfnes]`Aspereza, severidad.`Kasungitan.eng_section:Gruffness, n. [gráfnes]
+eng_word:Gruffness
+pos:n:
+
+spanish:Aspereza, severidad.
+spanish_word:Aspereza
+spanish_word:severidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gruffness$$, $$n$$,  $$aspereza, severidad.$$)
+    
+
+
+Grum, adj. [gram]`Áspero, severo.`Nakamungot.eng_section:Grum, adj. [gram]
+eng_word:Grum
+pos:adj:
+
+spanish:Áspero, severo.
+spanish_word:Áspero
+spanish_word:severo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grum$$, $$adj$$,  $$áspero, severo.$$)
+    
+
+
+Grumble, v. [grámbl]`Murmurar, refunfuñar.`Bumulong-bulong, dumabog.eng_section:Grumble, v. [grámbl]
+eng_word:Grumble
+pos:v:
+
+spanish:Murmurar, refunfuñar.
+spanish_word:Murmurar
+spanish_word:refunfuñar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grumble$$, $$v$$,  $$murmurar, refunfuñar.$$)
+    
+
+
+Grumpy, adj. [grámpi]`Regañon.`Magagalitín.eng_section:Grumpy, adj. [grámpi]
+eng_word:Grumpy
+pos:adj:
+
+spanish:Regañon.
+spanish_word:Regañon.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grumpy$$, $$adj$$,  $$regañon.$$)
+    
+
+
+Grunt, v. [grænt]`Gruñir, gemir.`Dumaíng, humibik.eng_section:Grunt, v. [grænt]
+eng_word:Grunt
+pos:v:
+
+spanish:Gruñir, gemir.
+spanish_word:Gruñir
+spanish_word:gemir.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$grunt$$, $$v$$,  $$gruñir, gemir.$$)
+    
+
+
+Guana, n.`Guana.`Bayawak.eng_section:Guana, n.
+eng_word:Guana
+pos:n:
+
+spanish:Guana.
+spanish_word:Guana.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guana$$, $$n$$,  $$guana.$$)
+    
+
+
+Guarantee, n. [garantí]`Garante, fiador; garantía.`Ang nananagot; pananagot, pag-akò; katibayan.eng_section:Guarantee, n. [garantí]
+eng_word:Guarantee
+pos:n:
+
+spanish:Garante, fiador; garantía.
+spanish_word:Garante
+spanish_phrase:fiador; garantía.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guarantee$$, $$n$$,  $$garante, fiador; garantía.$$)
+    
+
+
+Guarantee, v. [garantí]`Garantir.`Sagután, panayûan, umakò.eng_section:Guarantee, v. [garantí]
+eng_word:Guarantee
+pos:v:
+
+spanish:Garantir.
+spanish_word:Garantir.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guarantee$$, $$v$$,  $$garantir.$$)
+    
+
+
+Guaranty, n. [garantí]`Garante, fiador; garantía.`Ang nananagot; pananagot, katibayan.eng_section:Guaranty, n. [garantí]
+eng_word:Guaranty
+pos:n:
+
+spanish:Garante, fiador; garantía.
+spanish_word:Garante
+spanish_phrase:fiador; garantía.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guaranty$$, $$n$$,  $$garante, fiador; garantía.$$)
+    
+
+
+Guard, n. [gard]`Guarda, guardia.`Bantay, tanod.eng_section:Guard, n. [gard]
+eng_word:Guard
+pos:n:
+
+spanish:Guarda, guardia.
+spanish_word:Guarda
+spanish_word:guardia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guard$$, $$n$$,  $$guarda, guardia.$$)
+    
+
+
+Guard, v. [gard]`Guardar, defender.`Magbantay, tumanod, magsanggalang.eng_section:Guard, v. [gard]
+eng_word:Guard
+pos:v:
+
+spanish:Guardar, defender.
+spanish_word:Guardar
+spanish_word:defender.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guard$$, $$v$$,  $$guardar, defender.$$)
+    
+
+
+Guarded, adj. [gárded]`Mesurado, circunspecto.`Malihim, maíngat.eng_section:Guarded, adj. [gárded]
+eng_word:Guarded
+pos:adj:
+
+spanish:Mesurado, circunspecto.
+spanish_word:Mesurado
+spanish_word:circunspecto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guarded$$, $$adj$$,  $$mesurado, circunspecto.$$)
+    
+
+
+Guardian, n. [gárdian]`Tutor, guardian.`Tagaingat ng yaman ng ulila.eng_section:Guardian, n. [gárdian]
+eng_word:Guardian
+pos:n:
+
+spanish:Tutor, guardian.
+spanish_word:Tutor
+spanish_word:guardian.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guardian$$, $$n$$,  $$tutor, guardian.$$)
+    
+
+
+Guardianship, n. [gárdianship]`Tutela.`Pag-iingat ng yaman ng ulila.eng_section:Guardianship, n. [gárdianship]
+eng_word:Guardianship
+pos:n:
+
+spanish:Tutela.
+spanish_word:Tutela.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guardianship$$, $$n$$,  $$tutela.$$)
+    
+
+
+Guava, n.`Guava.`Bayabas.eng_section:Guava, n.
+eng_word:Guava
+pos:n:
+
+spanish:Guava.
+spanish_word:Guava.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guava$$, $$n$$,  $$guava.$$)
+    
+
+
+Gubernative, adj. [guiúbernetiv]`Gubernativo.`Náuukol sa pámahalaan.eng_section:Gubernative, adj. [guiúbernetiv]
+eng_word:Gubernative
+pos:adj:
+
+spanish:Gubernativo.
+spanish_word:Gubernativo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gubernative$$, $$adj$$,  $$gubernativo.$$)
+    
+
+
+Guerdon, n. [guerdon]`Galardon, recompensa.`Gantí, parangal.eng_section:Guerdon, n. [guerdon]
+eng_word:Guerdon
+pos:n:
+
+spanish:Galardon, recompensa.
+spanish_word:Galardon
+spanish_word:recompensa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guerdon$$, $$n$$,  $$galardon, recompensa.$$)
+    
+
+
+Guess, n. [gues]`Conjetura.`Turing, hulà, kurukurò.eng_section:Guess, n. [gues]
+eng_word:Guess
+pos:n:
+
+spanish:Conjetura.
+spanish_word:Conjetura.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guess$$, $$n$$,  $$conjetura.$$)
+    
+
+
+Guess, v. [gues]`Conjeturar, adivinar.`Tumuring, humulà.eng_section:Guess, v. [gues]
+eng_word:Guess
+pos:v:
+
+spanish:Conjeturar, adivinar.
+spanish_word:Conjeturar
+spanish_word:adivinar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guess$$, $$v$$,  $$conjeturar, adivinar.$$)
+    
+
+
+Guest, n. [guest]`Huesped, convidado.`Pánauhin, bisita; nanunuluyan.eng_section:Guest, n. [guest]
+eng_word:Guest
+pos:n:
+
+spanish:Huesped, convidado.
+spanish_word:Huesped
+spanish_word:convidado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guest$$, $$n$$,  $$huesped, convidado.$$)
+    
+
+
+Guffaw, n.`Carcajada.`Halakhak.eng_section:Guffaw, n.
+eng_word:Guffaw
+pos:n:
+
+spanish:Carcajada.
+spanish_word:Carcajada.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guffaw$$, $$n$$,  $$carcajada.$$)
+    
+
+
+Guidance, n. [gáidans]`Gobierno, direccion.`Pamamatnugot, pamamatnubay.eng_section:Guidance, n. [gáidans]
+eng_word:Guidance
+pos:n:
+
+spanish:Gobierno, direccion.
+spanish_word:Gobierno
+spanish_word:direccion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guidance$$, $$n$$,  $$gobierno, direccion.$$)
+    
+
+
+Guide, n. [gáid]`Guia.`Patnubay, patnugot.eng_section:Guide, n. [gáid]
+eng_word:Guide
+pos:n:
+
+spanish:Guia.
+spanish_word:Guia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guide$$, $$n$$,  $$guia.$$)
+    
+
+
+Guide, v. [gáid]`Guiar, dirigir.`Mamatnubay, mamatnugot.eng_section:Guide, v. [gáid]
+eng_word:Guide
+pos:v:
+
+spanish:Guiar, dirigir.
+spanish_word:Guiar
+spanish_word:dirigir.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guide$$, $$v$$,  $$guiar, dirigir.$$)
+    
+
+
+Guide-book, n. [gáid-buk]`Itinerario.`Aklat na sanggunian sa mga lansangan at mga bagay sa isang bayan.eng_section:Guide-book, n. [gáid-buk]
+eng_word:Guide-book
+pos:n:
+
+spanish:Itinerario.
+spanish_word:Itinerario.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guide-book$$, $$n$$,  $$itinerario.$$)
+    
+
+
+Guild, n. [guild]`Gremio, corporacion.`Samahán, kapisanan.eng_section:Guild, n. [guild]
+eng_word:Guild
+pos:n:
+
+spanish:Gremio, corporacion.
+spanish_word:Gremio
+spanish_word:corporacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guild$$, $$n$$,  $$gremio, corporacion.$$)
+    
+
+
+Guile, n. [gáil]`Engaño, fraude.`Dayà, laláng, hibò.eng_section:Guile, n. [gáil]
+eng_word:Guile
+pos:n:
+
+spanish:Engaño, fraude.
+spanish_word:Engaño
+spanish_word:fraude.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guile$$, $$n$$,  $$engaño, fraude.$$)
+    
+
+
+Guileful, adj. [gáilful]`Engañoso.`Magdarayà.eng_section:Guileful, adj. [gáilful]
+eng_word:Guileful
+pos:adj:
+
+spanish:Engañoso.
+spanish_word:Engañoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guileful$$, $$adj$$,  $$engañoso.$$)
+    
+
+
+Guileless, adj. [gáil-les]`Sin engaño.`Walang dayà.eng_section:Guileless, adj. [gáil-les]
+eng_word:Guileless
+pos:adj:
+
+spanish:Sin engaño.
+spanish_phrase:Sin engaño.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guileless$$, $$adj$$,  $$sin engaño.$$)
+    
+
+
+Guillotine, n. [guilotín]`Guillotina.`Pamugot ng ulo; pamutol.eng_section:Guillotine, n. [guilotín]
+eng_word:Guillotine
+pos:n:
+
+spanish:Guillotina.
+spanish_word:Guillotina.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guillotine$$, $$n$$,  $$guillotina.$$)
+    
+
+
+Guillotine, v. [guilotín]`Degollar, guillotinar.`Pumugot ng ulo; pumutol.eng_section:Guillotine, v. [guilotín]
+eng_word:Guillotine
+pos:v:
+
+spanish:Degollar, guillotinar.
+spanish_word:Degollar
+spanish_word:guillotinar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guillotine$$, $$v$$,  $$degollar, guillotinar.$$)
+    
+
+
+Guilt, n. [guilt]`Delito, culpa, crimen.`Sala.eng_section:Guilt, n. [guilt]
+eng_word:Guilt
+pos:n:
+
+spanish:Delito, culpa, crimen.
+spanish_word:Delito
+spanish_word:culpa
+spanish_word:crimen.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guilt$$, $$n$$,  $$delito, culpa, crimen.$$)
+    
+
+
+Guiltless, adj. [guíltles]`Inocente, libre de culpa.`Walang sala.eng_section:Guiltless, adj. [guíltles]
+eng_word:Guiltless
+pos:adj:
+
+spanish:Inocente, libre de culpa.
+spanish_word:Inocente
+spanish_phrase:libre de culpa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guiltless$$, $$adj$$,  $$inocente, libre de culpa.$$)
+    
+
+
+Guilty, adj. [guílti]`Reo, culpable.`Salarín, may-sala.eng_section:Guilty, adj. [guílti]
+eng_word:Guilty
+pos:adj:
+
+spanish:Reo, culpable.
+spanish_word:Reo
+spanish_word:culpable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guilty$$, $$adj$$,  $$reo, culpable.$$)
+    
+
+
+Guise, n. [gáiz]`Modo, manera, modales.`Anyô; kilos, tindig.eng_section:Guise, n. [gáiz]
+eng_word:Guise
+pos:n:
+
+spanish:Modo, manera, modales.
+spanish_word:Modo
+spanish_word:manera
+spanish_word:modales.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guise$$, $$n$$,  $$modo, manera, modales.$$)
+    
+
+
+Guitar, n. [guitár]`Guitarra.`Gitara.eng_section:Guitar, n. [guitár]
+eng_word:Guitar
+pos:n:
+
+spanish:Guitarra.
+spanish_word:Guitarra.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guitar$$, $$n$$,  $$guitarra.$$)
+    
+
+
+Gulch, n. [guælch]`Gloton.`Masibà, matakaw.eng_section:Gulch, n. [guælch]
+eng_word:Gulch
+pos:n:
+
+spanish:Gloton.
+spanish_word:Gloton.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gulch$$, $$n$$,  $$gloton.$$)
+    
+
+
+Gulf, n. [guælf]`Golfo.`Look.eng_section:Gulf, n. [guælf]
+eng_word:Gulf
+pos:n:
+
+spanish:Golfo.
+spanish_word:Golfo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gulf$$, $$n$$,  $$golfo.$$)
+    
+
+
+Gull, n. [guæl]`Gaviota; engaño, fraude.`Ibong peskador; dayà, hibò.eng_section:Gull, n. [guæl]
+eng_word:Gull
+pos:n:
+
+spanish:Gaviota; engaño, fraude.
+spanish_phrase:Gaviota; engaño
+spanish_word:fraude.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gull$$, $$n$$,  $$gaviota; engaño, fraude.$$)
+    
+
+
+Gull, v. [guæl]`Engañar, defraudar.`Magdayà, manekas.eng_section:Gull, v. [guæl]
+eng_word:Gull
+pos:v:
+
+spanish:Engañar, defraudar.
+spanish_word:Engañar
+spanish_word:defraudar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gull$$, $$v$$,  $$engañar, defraudar.$$)
+    
+
+
+Gullet, n. [gálet]`Gaznate.`Lalamunan.eng_section:Gullet, n. [gálet]
+eng_word:Gullet
+pos:n:
+
+spanish:Gaznate.
+spanish_word:Gaznate.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gullet$$, $$n$$,  $$gaznate.$$)
+    
+
+
+Gullibility, n. [guælibíliti]`Credulidad.`Pagkamapaniwalain.eng_section:Gullibility, n. [guælibíliti]
+eng_word:Gullibility
+pos:n:
+
+spanish:Credulidad.
+spanish_word:Credulidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gullibility$$, $$n$$,  $$credulidad.$$)
+    
+
+
+Gullible, adj. [guélibl]`Crédulo.`Mapaniwalain.eng_section:Gullible, adj. [guélibl]
+eng_word:Gullible
+pos:adj:
+
+spanish:Crédulo.
+spanish_word:Crédulo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gullible$$, $$adj$$,  $$crédulo.$$)
+    
+
+
+Gully, n. [guéli]`Especie de foso.`Tila hukay.eng_section:Gully, n. [guéli]
+eng_word:Gully
+pos:n:
+
+spanish:Especie de foso.
+spanish_phrase:Especie de foso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gully$$, $$n$$,  $$especie de foso.$$)
+    
+
+
+Gully, v. [guéli]`Fluir murmurando.`Lumagaslas.eng_section:Gully, v. [guéli]
+eng_word:Gully
+pos:v:
+
+spanish:Fluir murmurando.
+spanish_phrase:Fluir murmurando.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gully$$, $$v$$,  $$fluir murmurando.$$)
+    
+
+
+Gully-hole, n. [guéli-jol]`Sumidero.`Hukay na ginawâ upang balungan ng tubig.eng_section:Gully-hole, n. [guéli-jol]
+eng_word:Gully-hole
+pos:n:
+
+spanish:Sumidero.
+spanish_word:Sumidero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gully-hole$$, $$n$$,  $$sumidero.$$)
+    
+
+
+Gulp, n. [guelp]`Trago.`Sakmal; lunok.eng_section:Gulp, n. [guelp]
+eng_word:Gulp
+pos:n:
+
+spanish:Trago.
+spanish_word:Trago.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gulp$$, $$n$$,  $$trago.$$)
+    
+
+
+Gulp, v. [guelp]`Engullir, tragar.`Sumakmal, lumamon; lumunok.eng_section:Gulp, v. [guelp]
+eng_word:Gulp
+pos:v:
+
+spanish:Engullir, tragar.
+spanish_word:Engullir
+spanish_word:tragar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gulp$$, $$v$$,  $$engullir, tragar.$$)
+    
+
+
+Gum, n. [gam]`Goma.`Goma, dagtâ ng isang urì ng punong kahoy.eng_section:Gum, n. [gam]
+eng_word:Gum
+pos:n:
+
+spanish:Goma.
+spanish_word:Goma.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gum$$, $$n$$,  $$goma.$$)
+    
+
+
+Gum, n. [gam]`Encía.`Gilagid.eng_section:Gum, n. [gam]
+eng_word:Gum
+pos:n:
+
+spanish:Encía.
+spanish_word:Encía.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gum$$, $$n$$,  $$encía.$$)
+    
+
+
+Gum, v. [gam]`Engomar.`Gomahan, lagyan ng goma.eng_section:Gum, v. [gam]
+eng_word:Gum
+pos:v:
+
+spanish:Engomar.
+spanish_word:Engomar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gum$$, $$v$$,  $$engomar.$$)
+    
+
+
+Gummy, adj. [gámi]`Gomoso.`Magoma, madagtâ.eng_section:Gummy, adj. [gámi]
+eng_word:Gummy
+pos:adj:
+
+spanish:Gomoso.
+spanish_word:Gomoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gummy$$, $$adj$$,  $$gomoso.$$)
+    
+
+
+Gumption, n. [gámpcion]`Inteligencia, juicio.`Katalinuan, kabaitan.eng_section:Gumption, n. [gámpcion]
+eng_word:Gumption
+pos:n:
+
+spanish:Inteligencia, juicio.
+spanish_word:Inteligencia
+spanish_word:juicio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gumption$$, $$n$$,  $$inteligencia, juicio.$$)
+    
+
+
+Gun, n. [gan]`Arma de fuego.`Baril, almás na pumuputok.eng_section:Gun, n. [gan]
+eng_word:Gun
+pos:n:
+
+spanish:Arma de fuego.
+spanish_phrase:Arma de fuego.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gun$$, $$n$$,  $$arma de fuego.$$)
+    
+
+
+Gunner, n. [gáner]`Escopetero.`Mámamaril.eng_section:Gunner, n. [gáner]
+eng_word:Gunner
+pos:n:
+
+spanish:Escopetero.
+spanish_word:Escopetero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gunner$$, $$n$$,  $$escopetero.$$)
+    
+
+
+Gunnery, n. [gáneri]`Artillería.`Artilyerya.eng_section:Gunnery, n. [gáneri]
+eng_word:Gunnery
+pos:n:
+
+spanish:Artillería.
+spanish_word:Artillería.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gunnery$$, $$n$$,  $$artillería.$$)
+    
+
+
+Gun-powder, n. [gan-pauder]`Pólvora.`Pulburá.eng_section:Gun-powder, n. [gan-pauder]
+eng_word:Gun-powder
+pos:n:
+
+spanish:Pólvora.
+spanish_word:Pólvora.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gun-powder$$, $$n$$,  $$pólvora.$$)
+    
+
+
+Gun-shot, n. [gánsiot]`Tiro de escopeta.`Putok ng baril.eng_section:Gun-shot, n. [gánsiot]
+eng_word:Gun-shot
+pos:n:
+
+spanish:Tiro de escopeta.
+spanish_phrase:Tiro de escopeta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gun-shot$$, $$n$$,  $$tiro de escopeta.$$)
+    
+
+
+Gunsmith, n. [gánsmiz]`Arcabucero, armero.`Mámamanday ng baril.eng_section:Gunsmith, n. [gánsmiz]
+eng_word:Gunsmith
+pos:n:
+
+spanish:Arcabucero, armero.
+spanish_word:Arcabucero
+spanish_word:armero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gunsmith$$, $$n$$,  $$arcabucero, armero.$$)
+    
+
+
+Gunstock, n. [ganstoc]`Caja de escopeta.`Sisidlán ng baril.eng_section:Gunstock, n. [ganstoc]
+eng_word:Gunstock
+pos:n:
+
+spanish:Caja de escopeta.
+spanish_phrase:Caja de escopeta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gunstock$$, $$n$$,  $$caja de escopeta.$$)
+    
+
+
+Gurgle, v. [gárgl]`Enjuagarse la boca.`Magmumog.eng_section:Gurgle, v. [gárgl]
+eng_word:Gurgle
+pos:v:
+
+spanish:Enjuagarse la boca.
+spanish_phrase:Enjuagarse la boca.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gurgle$$, $$v$$,  $$enjuagarse la boca.$$)
+    
+
+
+Gush, n. [gash]`Chorro.`Bugsô ng tubig, lagaslas.eng_section:Gush, n. [gash]
+eng_word:Gush
+pos:n:
+
+spanish:Chorro.
+spanish_word:Chorro.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gush$$, $$n$$,  $$chorro.$$)
+    
+
+
+Gush, v. [gash]`Chorrear; fluir copiosamente.`Bumugsô (ang tubig), lumagaslas.eng_section:Gush, v. [gash]
+eng_word:Gush
+pos:v:
+
+spanish:Chorrear; fluir copiosamente.
+spanish_phrase:Chorrear; fluir copiosamente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gush$$, $$v$$,  $$chorrear; fluir copiosamente.$$)
+    
+
+
+Gushing, n. [gáshing]`Superabundante.`Pag-apaw.eng_section:Gushing, n. [gáshing]
+eng_word:Gushing
+pos:n:
+
+spanish:Superabundante.
+spanish_word:Superabundante.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gushing$$, $$n$$,  $$superabundante.$$)
+    
+
+
+Gusset, n. [gáset]`Cuadrado.`Parisukat.eng_section:Gusset, n. [gáset]
+eng_word:Gusset
+pos:n:
+
+spanish:Cuadrado.
+spanish_word:Cuadrado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gusset$$, $$n$$,  $$cuadrado.$$)
+    
+
+
+Gust, n. [gast]`Gusto, el sentido del paladar; soplo de aire.`Lasa, lasáp; simoy ó hihip ng hangin.eng_section:Gust, n. [gast]
+eng_word:Gust
+pos:n:
+
+spanish:Gusto, el sentido del paladar; soplo de aire.
+spanish_word:Gusto
+spanish_phrase:el sentido del paladar; soplo de aire.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gust$$, $$n$$,  $$gusto, el sentido del paladar; soplo de aire.$$)
+    
+
+
+Gusty, adj. [gásti]`Borrascoso, tempestuoso.`Malakas na hangin, unos.eng_section:Gusty, adj. [gásti]
+eng_word:Gusty
+pos:adj:
+
+spanish:Borrascoso, tempestuoso.
+spanish_word:Borrascoso
+spanish_word:tempestuoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gusty$$, $$adj$$,  $$borrascoso, tempestuoso.$$)
+    
+
+
+Gut, n. [gat]`Intestino.`Bituka.eng_section:Gut, n. [gat]
+eng_word:Gut
+pos:n:
+
+spanish:Intestino.
+spanish_word:Intestino.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gut$$, $$n$$,  $$intestino.$$)
+    
+
+
+Gut, v. [gat]`Destripar.`Magpalwâ ng bituka.eng_section:Gut, v. [gat]
+eng_word:Gut
+pos:v:
+
+spanish:Destripar.
+spanish_word:Destripar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gut$$, $$v$$,  $$destripar.$$)
+    
+
+
+Gutta-percha, n.`Gutta-percha.`Guta-percha.eng_section:Gutta-percha, n.
+eng_word:Gutta-percha
+pos:n:
+
+spanish:Gutta-percha.
+spanish_word:Gutta-percha.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gutta-percha$$, $$n$$,  $$gutta-percha.$$)
+    
+
+
+Gutter, n. [gáter]`Canalon, gotera.`Alulod, sangka.eng_section:Gutter, n. [gáter]
+eng_word:Gutter
+pos:n:
+
+spanish:Canalon, gotera.
+spanish_word:Canalon
+spanish_word:gotera.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gutter$$, $$n$$,  $$canalon, gotera.$$)
+    
+
+
+Gutter, v. [gueter]`Acanalar.`Mag-alulod.eng_section:Gutter, v. [gueter]
+eng_word:Gutter
+pos:v:
+
+spanish:Acanalar.
+spanish_word:Acanalar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gutter$$, $$v$$,  $$acanalar.$$)
+    
+
+
+Guttural, adj. [gáteral]`Gutural.`Nauukol sa lalamunan.eng_section:Guttural, adj. [gáteral]
+eng_word:Guttural
+pos:adj:
+
+spanish:Gutural.
+spanish_word:Gutural.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guttural$$, $$adj$$,  $$gutural.$$)
+    
+
+
+Guy, n. [gái]`Retenido (náutica).`Lubid na pangpatibay.eng_section:Guy, n. [gái]
+eng_word:Guy
+pos:n:
+
+spanish:Retenido (náutica).
+spanish_phrase:Retenido (náutica).
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guy$$, $$n$$,  $$retenido (náutica).$$)
+    
+
+
+Guzzle, v. [guezl]`Beber ó comer con glotonería.`Uminom ó kumain na may kayamuan.eng_section:Guzzle, v. [guezl]
+eng_word:Guzzle
+pos:v:
+
+spanish:Beber ó comer con glotonería.
+spanish_phrase:Beber ó comer con glotonería.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$guzzle$$, $$v$$,  $$beber ó comer con glotonería.$$)
+    
+
+
+Gypsy, n. [dchípsi]`Vagabundo.`Hampas-lupà.eng_section:Gypsy, n. [dchípsi]
+eng_word:Gypsy
+pos:n:
+
+spanish:Vagabundo.
+spanish_word:Vagabundo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gypsy$$, $$n$$,  $$vagabundo.$$)
+    
+
+
+Gyrate, v. [dcháiret]`Girar.`Umikot, umikit, uminog.eng_section:Gyrate, v. [dcháiret]
+eng_word:Gyrate
+pos:v:
+
+spanish:Girar.
+spanish_word:Girar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gyrate$$, $$v$$,  $$girar.$$)
+    
+
+
+Gyration, n. [dchairécion]`La accion y efecto de girar.`Pag-ikot, pag-ikit, pag-inog.eng_section:Gyration, n. [dchairécion]
+eng_word:Gyration
+pos:n:
+
+spanish:La accion y efecto de girar.
+spanish_phrase:La accion y efecto de girar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gyration$$, $$n$$,  $$la accion y efecto de girar.$$)
+    
+
+
+Gyre, n. [dcháir]`Giro.`Ikot, ikit, inog.eng_section:Gyre, n. [dcháir]
+eng_word:Gyre
+pos:n:
+
+spanish:Giro.
+spanish_word:Giro.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gyre$$, $$n$$,  $$giro.$$)
+    
+
+
+Gyve, v. [dcháiv]`Aprisionar con grillos.`Ipangaw.eng_section:Gyve, v. [dcháiv]
+eng_word:Gyve
+pos:v:
+
+spanish:Aprisionar con grillos.
+spanish_phrase:Aprisionar con grillos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gyve$$, $$v$$,  $$aprisionar con grillos.$$)
+    
+
+
+Gyves, n. [dchaivs]`Grillos.`Pángawan; pangpangaw.eng_section:Gyves, n. [dchaivs]
+eng_word:Gyves
+pos:n:
+
+spanish:Grillos.
+spanish_word:Grillos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$gyves$$, $$n$$,  $$grillos.$$)
+    
+
+

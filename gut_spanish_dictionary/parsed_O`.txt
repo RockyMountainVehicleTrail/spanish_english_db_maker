@@ -1,0 +1,5242 @@
+O, [o]`O (o).`O (o)eng_section:O, [o]
+eng_word:O
+pos:none
+
+spanish:O (o).
+spanish_phrase:O (o).
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$o$$, $$n$$,  $$o (o).$$)
+    
+
+
+Oaf, n. [of]`Idiota, zoquete.`Musmós, ungas.eng_section:Oaf, n. [of]
+eng_word:Oaf
+pos:n:
+
+spanish:Idiota, zoquete.
+spanish_word:Idiota
+spanish_word:zoquete.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oaf$$, $$n$$,  $$idiota, zoquete.$$)
+    
+
+
+Oar, n. [or]`Remo.`Gaod, sagwán.eng_section:Oar, n. [or]
+eng_word:Oar
+pos:n:
+
+spanish:Remo.
+spanish_word:Remo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oar$$, $$n$$,  $$remo.$$)
+    
+
+
+Oar, v. [or]`Remar, bogar.`Gumaod, sumagwán.eng_section:Oar, v. [or]
+eng_word:Oar
+pos:v:
+
+spanish:Remar, bogar.
+spanish_word:Remar
+spanish_word:bogar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oar$$, $$v$$,  $$remar, bogar.$$)
+    
+
+
+Oarsman, n. [órzman]`Remero.`Manggagaod, mánanagwan.eng_section:Oarsman, n. [órzman]
+eng_word:Oarsman
+pos:n:
+
+spanish:Remero.
+spanish_word:Remero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oarsman$$, $$n$$,  $$remero.$$)
+    
+
+
+Oasis, n. [óasis]`Oasis.`Oasis, dakong may mga punong kahoy sa isang iláng.eng_section:Oasis, n. [óasis]
+eng_word:Oasis
+pos:n:
+
+spanish:Oasis.
+spanish_word:Oasis.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oasis$$, $$n$$,  $$oasis.$$)
+    
+
+
+Oath, n. [oz]`Juramento.`Sumpâ.eng_section:Oath, n. [oz]
+eng_word:Oath
+pos:n:
+
+spanish:Juramento.
+spanish_word:Juramento.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oath$$, $$n$$,  $$juramento.$$)
+    
+
+
+Obduracy, n. [óbdiuresi]`Endurecimiento, obstinacion.`Tigas ng ulo, katigasan ng ulo.eng_section:Obduracy, n. [óbdiuresi]
+eng_word:Obduracy
+pos:n:
+
+spanish:Endurecimiento, obstinacion.
+spanish_word:Endurecimiento
+spanish_word:obstinacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obduracy$$, $$n$$,  $$endurecimiento, obstinacion.$$)
+    
+
+
+Obdurate, adj. [óbdiuret]`Endurecido.`Matigas ang ulo.eng_section:Obdurate, adj. [óbdiuret]
+eng_word:Obdurate
+pos:adj:
+
+spanish:Endurecido.
+spanish_word:Endurecido.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obdurate$$, $$adj$$,  $$endurecido.$$)
+    
+
+
+Obdurateness, n. [óbdiuretnes]`Endurecimiento.`Katigasan ng ulo.eng_section:Obdurateness, n. [óbdiuretnes]
+eng_word:Obdurateness
+pos:n:
+
+spanish:Endurecimiento.
+spanish_word:Endurecimiento.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obdurateness$$, $$n$$,  $$endurecimiento.$$)
+    
+
+
+Obedience, n. [obídiens]`Obediencia, sumision.`Pagsunod, pagtalima.eng_section:Obedience, n. [obídiens]
+eng_word:Obedience
+pos:n:
+
+spanish:Obediencia, sumision.
+spanish_word:Obediencia
+spanish_word:sumision.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obedience$$, $$n$$,  $$obediencia, sumision.$$)
+    
+
+
+Obedient, adj. [obídient]`Obediente, sumiso.`Masúnurin, mapagtalima.eng_section:Obedient, adj. [obídient]
+eng_word:Obedient
+pos:adj:
+
+spanish:Obediente, sumiso.
+spanish_word:Obediente
+spanish_word:sumiso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obedient$$, $$adj$$,  $$obediente, sumiso.$$)
+    
+
+
+Obeisance, n. [obésans]`Cortesía, reverencia.`Pitagan, galang.eng_section:Obeisance, n. [obésans]
+eng_word:Obeisance
+pos:n:
+
+spanish:Cortesía, reverencia.
+spanish_word:Cortesía
+spanish_word:reverencia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obeisance$$, $$n$$,  $$cortesía, reverencia.$$)
+    
+
+
+Obese, adj. [obís]`Obeso, gordo.`Matabâ.eng_section:Obese, adj. [obís]
+eng_word:Obese
+pos:adj:
+
+spanish:Obeso, gordo.
+spanish_word:Obeso
+spanish_word:gordo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obese$$, $$adj$$,  $$obeso, gordo.$$)
+    
+
+
+Obeseness, n. [obísnes]`Obesidad, crasitud.`Tabâ.eng_section:Obeseness, n. [obísnes]
+eng_word:Obeseness
+pos:n:
+
+spanish:Obesidad, crasitud.
+spanish_word:Obesidad
+spanish_word:crasitud.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obeseness$$, $$n$$,  $$obesidad, crasitud.$$)
+    
+
+
+Obey, v. [obeí]`Obedecer.`Sumunod, tumalima.eng_section:Obey, v. [obeí]
+eng_word:Obey
+pos:v:
+
+spanish:Obedecer.
+spanish_word:Obedecer.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obey$$, $$v$$,  $$obedecer.$$)
+    
+
+
+Obfuscate, v. [obfiúsket]`Obscurecer.`Magdilím.eng_section:Obfuscate, v. [obfiúsket]
+eng_word:Obfuscate
+pos:v:
+
+spanish:Obscurecer.
+spanish_word:Obscurecer.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obfuscate$$, $$v$$,  $$obscurecer.$$)
+    
+
+
+Obit, n. [óbit]`Exequias.`Libíng; mga pagdaraos na isinasagawâ hinggil sa isang namatay.eng_section:Obit, n. [óbit]
+eng_word:Obit
+pos:n:
+
+spanish:Exequias.
+spanish_word:Exequias.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obit$$, $$n$$,  $$exequias.$$)
+    
+
+
+Obituary, n. [obítiueri]`Obituario, necrología.`Balità tungkol sa pagkamatay ng sinoman.eng_section:Obituary, n. [obítiueri]
+eng_word:Obituary
+pos:n:
+
+spanish:Obituario, necrología.
+spanish_word:Obituario
+spanish_word:necrología.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obituary$$, $$n$$,  $$obituario, necrología.$$)
+    
+
+
+Object, n. [óbdchect]`Objeto.`Bagay; adhikâ, layon, pakay, tungo.eng_section:Object, n. [óbdchect]
+eng_word:Object
+pos:n:
+
+spanish:Objeto.
+spanish_word:Objeto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$object$$, $$n$$,  $$objeto.$$)
+    
+
+
+Object, v. [óbdchect]`Objetar.`Tumutol, sumalangsang, sumalungat.eng_section:Object, v. [óbdchect]
+eng_word:Object
+pos:v:
+
+spanish:Objetar.
+spanish_word:Objetar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$object$$, $$v$$,  $$objetar.$$)
+    
+
+
+Objection, n. [obdehéccion]`Objecion, réplica.`Tutol, salangsang, salungat.eng_section:Objection, n. [obdehéccion]
+eng_word:Objection
+pos:n:
+
+spanish:Objecion, réplica.
+spanish_word:Objecion
+spanish_word:réplica.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$objection$$, $$n$$,  $$objecion, réplica.$$)
+    
+
+
+Objectionable, adj. [obdchéccionabl]`Reparable, capaz de objecion.`May kapintasan.eng_section:Objectionable, adj. [obdchéccionabl]
+eng_word:Objectionable
+pos:adj:
+
+spanish:Reparable, capaz de objecion.
+spanish_word:Reparable
+spanish_phrase:capaz de objecion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$objectionable$$, $$adj$$,  $$reparable, capaz de objecion.$$)
+    
+
+
+Objective, adj. [obdchéctiv]`Objetivo.`Tungo, layon, dahilán.eng_section:Objective, adj. [obdchéctiv]
+eng_word:Objective
+pos:adj:
+
+spanish:Objetivo.
+spanish_word:Objetivo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$objective$$, $$adj$$,  $$objetivo.$$)
+    
+
+
+Oblate, adj. [óblet]`Chato por los polos.`Chapát, pulpol, pudpod.eng_section:Oblate, adj. [óblet]
+eng_word:Oblate
+pos:adj:
+
+spanish:Chato por los polos.
+spanish_phrase:Chato por los polos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oblate$$, $$adj$$,  $$chato por los polos.$$)
+    
+
+
+Oblation, n. [oblécion]`Oblacion.`Alay.eng_section:Oblation, n. [oblécion]
+eng_word:Oblation
+pos:n:
+
+spanish:Oblacion.
+spanish_word:Oblacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oblation$$, $$n$$,  $$oblacion.$$)
+    
+
+
+Obligation, n. [obliguécion]`Obligacion.`Katungkulan, tungkulin.eng_section:Obligation, n. [obliguécion]
+eng_word:Obligation
+pos:n:
+
+spanish:Obligacion.
+spanish_word:Obligacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obligation$$, $$n$$,  $$obligacion.$$)
+    
+
+
+Obligatory, adj. [óbliguetori]`Obligatorio.`Sápilitan.eng_section:Obligatory, adj. [óbliguetori]
+eng_word:Obligatory
+pos:adj:
+
+spanish:Obligatorio.
+spanish_word:Obligatorio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obligatory$$, $$adj$$,  $$obligatorio.$$)
+    
+
+
+Oblige, v. [obláidch]`Obligar; complacer, agradar.`Pumilit; magbigay loob.eng_section:Oblige, v. [obláidch]
+eng_word:Oblige
+pos:v:
+
+spanish:Obligar; complacer, agradar.
+spanish_phrase:Obligar; complacer
+spanish_word:agradar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oblige$$, $$v$$,  $$obligar; complacer, agradar.$$)
+    
+
+
+Obliging, adj. [obláidching]`Servicial, cortesano.`Mapaglingkod, masúnurin, magalang.eng_section:Obliging, adj. [obláidching]
+eng_word:Obliging
+pos:adj:
+
+spanish:Servicial, cortesano.
+spanish_word:Servicial
+spanish_word:cortesano.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obliging$$, $$adj$$,  $$servicial, cortesano.$$)
+    
+
+
+Oblique, adj. [oblíc]`Oblicuo.`Pahiwíd, pahapáy.eng_section:Oblique, adj. [oblíc]
+eng_word:Oblique
+pos:adj:
+
+spanish:Oblicuo.
+spanish_word:Oblicuo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oblique$$, $$adj$$,  $$oblicuo.$$)
+    
+
+
+Obliquity, n. [oblícuiti]`Oblicuidad.`Pagkahiwíd, pagkahapay.eng_section:Obliquity, n. [oblícuiti]
+eng_word:Obliquity
+pos:n:
+
+spanish:Oblicuidad.
+spanish_word:Oblicuidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obliquity$$, $$n$$,  $$oblicuidad.$$)
+    
+
+
+Obliterate, v. [oblíteret]`Borrar.`Kumatkat.eng_section:Obliterate, v. [oblíteret]
+eng_word:Obliterate
+pos:v:
+
+spanish:Borrar.
+spanish_word:Borrar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obliterate$$, $$v$$,  $$borrar.$$)
+    
+
+
+Oblivion, n. [oblívion]`Olvido.`Limot.eng_section:Oblivion, n. [oblívion]
+eng_word:Oblivion
+pos:n:
+
+spanish:Olvido.
+spanish_word:Olvido.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oblivion$$, $$n$$,  $$olvido.$$)
+    
+
+
+Oblivious, adj. [oblívias]`Olvidadizo.`Malilimutín.eng_section:Oblivious, adj. [oblívias]
+eng_word:Oblivious
+pos:adj:
+
+spanish:Olvidadizo.
+spanish_word:Olvidadizo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oblivious$$, $$adj$$,  $$olvidadizo.$$)
+    
+
+
+Oblong, adj. [óblong]`Oblongo.`Talohabâ.eng_section:Oblong, adj. [óblong]
+eng_word:Oblong
+pos:adj:
+
+spanish:Oblongo.
+spanish_word:Oblongo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oblong$$, $$adj$$,  $$oblongo.$$)
+    
+
+
+Obloquious, adj. [oblócuioes]`Injurioso, deshonroso.`Kadustâdustâ, kahalayhalay.eng_section:Obloquious, adj. [oblócuioes]
+eng_word:Obloquious
+pos:adj:
+
+spanish:Injurioso, deshonroso.
+spanish_word:Injurioso
+spanish_word:deshonroso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obloquious$$, $$adj$$,  $$injurioso, deshonroso.$$)
+    
+
+
+Obloquy, n. [oblócui]`Infamia, deshonra.`Kadustaan, kasiraang puri.eng_section:Obloquy, n. [oblócui]
+eng_word:Obloquy
+pos:n:
+
+spanish:Infamia, deshonra.
+spanish_word:Infamia
+spanish_word:deshonra.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obloquy$$, $$n$$,  $$infamia, deshonra.$$)
+    
+
+
+Obnoxious, adj. [obuóccioes]`Peligroso, dañoso.`Mapanganib, nakákapahamak.eng_section:Obnoxious, adj. [obuóccioes]
+eng_word:Obnoxious
+pos:adj:
+
+spanish:Peligroso, dañoso.
+spanish_word:Peligroso
+spanish_word:dañoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obnoxious$$, $$adj$$,  $$peligroso, dañoso.$$)
+    
+
+
+Oboe, n. [óbo]`Oboé.`Oboy.eng_section:Oboe, n. [óbo]
+eng_word:Oboe
+pos:n:
+
+spanish:Oboé.
+spanish_word:Oboé.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oboe$$, $$n$$,  $$oboé.$$)
+    
+
+
+Obscene, adj. [obsín]`Obsceno, impúdico.`Mahalay, malibog.eng_section:Obscene, adj. [obsín]
+eng_word:Obscene
+pos:adj:
+
+spanish:Obsceno, impúdico.
+spanish_word:Obsceno
+spanish_word:impúdico.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obscene$$, $$adj$$,  $$obsceno, impúdico.$$)
+    
+
+
+Obscenity, n. [obséniti]`Obscenidad.`Kahalayan, kalibugan.eng_section:Obscenity, n. [obséniti]
+eng_word:Obscenity
+pos:n:
+
+spanish:Obscenidad.
+spanish_word:Obscenidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obscenity$$, $$n$$,  $$obscenidad.$$)
+    
+
+
+Obscuration, n. [obskiurécion]`Oscurecimiento.`Dilim, kadiliman; labò; kalabuan.eng_section:Obscuration, n. [obskiurécion]
+eng_word:Obscuration
+pos:n:
+
+spanish:Oscurecimiento.
+spanish_word:Oscurecimiento.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obscuration$$, $$n$$,  $$oscurecimiento.$$)
+    
+
+
+Obscure, adj. [obskiúr]`Obscuro.`Madilim, malabò.eng_section:Obscure, adj. [obskiúr]
+eng_word:Obscure
+pos:adj:
+
+spanish:Obscuro.
+spanish_word:Obscuro.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obscure$$, $$adj$$,  $$obscuro.$$)
+    
+
+
+Obscure, v. [obskiúr]`Obscurecer.`Padilimín, palabuin.eng_section:Obscure, v. [obskiúr]
+eng_word:Obscure
+pos:v:
+
+spanish:Obscurecer.
+spanish_word:Obscurecer.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obscure$$, $$v$$,  $$obscurecer.$$)
+    
+
+
+Obscurity, n. [obskiúriti]`Obscuridad.`Kadiliman, kalabuan.eng_section:Obscurity, n. [obskiúriti]
+eng_word:Obscurity
+pos:n:
+
+spanish:Obscuridad.
+spanish_word:Obscuridad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obscurity$$, $$n$$,  $$obscuridad.$$)
+    
+
+
+Obsequies, n. [óbsecuiz]`Exequias, honras funerales.`Pagdiriwan sa paglilibíng.eng_section:Obsequies, n. [óbsecuiz]
+eng_word:Obsequies
+pos:n:
+
+spanish:Exequias, honras funerales.
+spanish_word:Exequias
+spanish_phrase:honras funerales.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obsequies$$, $$n$$,  $$exequias, honras funerales.$$)
+    
+
+
+Obsequious, adj. [obsícuioez]`Obsequioso.`Mapagkaloob, mapaglingkod.eng_section:Obsequious, adj. [obsícuioez]
+eng_word:Obsequious
+pos:adj:
+
+spanish:Obsequioso.
+spanish_word:Obsequioso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obsequious$$, $$adj$$,  $$obsequioso.$$)
+    
+
+
+Observable, adj. [obsérvabl]`Notable, conspicuo.`Halatâ, tanyag.eng_section:Observable, adj. [obsérvabl]
+eng_word:Observable
+pos:adj:
+
+spanish:Notable, conspicuo.
+spanish_word:Notable
+spanish_word:conspicuo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$observable$$, $$adj$$,  $$notable, conspicuo.$$)
+    
+
+
+Observance, n. [obsérvans]`Observancia, atencion, respeto.`Pagtupad, pagganap, galang.eng_section:Observance, n. [obsérvans]
+eng_word:Observance
+pos:n:
+
+spanish:Observancia, atencion, respeto.
+spanish_word:Observancia
+spanish_word:atencion
+spanish_word:respeto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$observance$$, $$n$$,  $$observancia, atencion, respeto.$$)
+    
+
+
+Observant, adj. [obsérvant]`Observante, atento, respetuoso.`Tumutupad, gumaganap, magalang.eng_section:Observant, adj. [obsérvant]
+eng_word:Observant
+pos:adj:
+
+spanish:Observante, atento, respetuoso.
+spanish_word:Observante
+spanish_word:atento
+spanish_word:respetuoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$observant$$, $$adj$$,  $$observante, atento, respetuoso.$$)
+    
+
+
+Observation, n. [observécion]`Observacion, nota ó reparo crítico.`Puná, pansín, masíd, malas.eng_section:Observation, n. [observécion]
+eng_word:Observation
+pos:n:
+
+spanish:Observacion, nota ó reparo crítico.
+spanish_word:Observacion
+spanish_phrase:nota ó reparo crítico.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$observation$$, $$n$$,  $$observacion, nota ó reparo crítico.$$)
+    
+
+
+Observatory, n. [obsérvetori]`Observatorio.`Obserbatoryo, umaalám at nagpapaalám ng panahon.eng_section:Observatory, n. [obsérvetori]
+eng_word:Observatory
+pos:n:
+
+spanish:Observatorio.
+spanish_word:Observatorio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$observatory$$, $$n$$,  $$observatorio.$$)
+    
+
+
+Observe, v. [obsérv]`Observar, notar, reparar.`Magmalas, magmasid; sumubok; tikman.eng_section:Observe, v. [obsérv]
+eng_word:Observe
+pos:v:
+
+spanish:Observar, notar, reparar.
+spanish_word:Observar
+spanish_word:notar
+spanish_word:reparar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$observe$$, $$v$$,  $$observar, notar, reparar.$$)
+    
+
+
+Observer, n. [obsérver]`Observador.`Mapagmalas, mapagmasid.eng_section:Observer, n. [obsérver]
+eng_word:Observer
+pos:n:
+
+spanish:Observador.
+spanish_word:Observador.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$observer$$, $$n$$,  $$observador.$$)
+    
+
+
+Observing, adj. [obsérving]`Atento, cuidadoso.`Maingat.eng_section:Observing, adj. [obsérving]
+eng_word:Observing
+pos:adj:
+
+spanish:Atento, cuidadoso.
+spanish_word:Atento
+spanish_word:cuidadoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$observing$$, $$adj$$,  $$atento, cuidadoso.$$)
+    
+
+
+Obsolete, adj. [óbsolit]`Obsoleto, anticuado.`Lipás, lumà.eng_section:Obsolete, adj. [óbsolit]
+eng_word:Obsolete
+pos:adj:
+
+spanish:Obsoleto, anticuado.
+spanish_word:Obsoleto
+spanish_word:anticuado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obsolete$$, $$adj$$,  $$obsoleto, anticuado.$$)
+    
+
+
+Obstacle, n. [óbstacl]`Obstáculo, embarazo.`Kapansanan, hadláng.eng_section:Obstacle, n. [óbstacl]
+eng_word:Obstacle
+pos:n:
+
+spanish:Obstáculo, embarazo.
+spanish_word:Obstáculo
+spanish_word:embarazo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obstacle$$, $$n$$,  $$obstáculo, embarazo.$$)
+    
+
+
+Obstinacy, n. [óbstinesi]`Obstinacion.`Katigasan ng ulo.eng_section:Obstinacy, n. [óbstinesi]
+eng_word:Obstinacy
+pos:n:
+
+spanish:Obstinacion.
+spanish_word:Obstinacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obstinacy$$, $$n$$,  $$obstinacion.$$)
+    
+
+
+Obstinate, adj. [óbstinet]`Obstinado, tenaz.`Matigas ang ulo.eng_section:Obstinate, adj. [óbstinet]
+eng_word:Obstinate
+pos:adj:
+
+spanish:Obstinado, tenaz.
+spanish_word:Obstinado
+spanish_word:tenaz.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obstinate$$, $$adj$$,  $$obstinado, tenaz.$$)
+    
+
+
+Obstreperous, adj. [obstréperoes]`Estrepitoso, ruidoso.`Mahugong, maingay.eng_section:Obstreperous, adj. [obstréperoes]
+eng_word:Obstreperous
+pos:adj:
+
+spanish:Estrepitoso, ruidoso.
+spanish_word:Estrepitoso
+spanish_word:ruidoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obstreperous$$, $$adj$$,  $$estrepitoso, ruidoso.$$)
+    
+
+
+Obstruct, v. [obstráct]`Obstruir, impedir, retardar.`Gumambalà, umabala, pumigil, humadlang.eng_section:Obstruct, v. [obstráct]
+eng_word:Obstruct
+pos:v:
+
+spanish:Obstruir, impedir, retardar.
+spanish_word:Obstruir
+spanish_word:impedir
+spanish_word:retardar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obstruct$$, $$v$$,  $$obstruir, impedir, retardar.$$)
+    
+
+
+Obstruction, n. [obstráccion]`Obstruccion, estorbo, obstáculo, dificultad.`Gambalà, abala, pagpigil, hadlang, kapansanan.eng_section:Obstruction, n. [obstráccion]
+eng_word:Obstruction
+pos:n:
+
+spanish:Obstruccion, estorbo, obstáculo, dificultad.
+spanish_word:Obstruccion
+spanish_word:estorbo
+spanish_word:obstáculo
+spanish_word:dificultad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obstruction$$, $$n$$,  $$obstruccion, estorbo, obstáculo, dificultad.$$)
+    
+
+
+Obstructive, adj. [obstráctiv]`Obstructivo.`Nakagagambalà, nakapipinsalâ.eng_section:Obstructive, adj. [obstráctiv]
+eng_word:Obstructive
+pos:adj:
+
+spanish:Obstructivo.
+spanish_word:Obstructivo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obstructive$$, $$adj$$,  $$obstructivo.$$)
+    
+
+
+Obtain, v. [obtén]`Obtener, adquirir, alcanzar, lograr.`Magtamó, magkamít, magtaglay, magkaroon.eng_section:Obtain, v. [obtén]
+eng_word:Obtain
+pos:v:
+
+spanish:Obtener, adquirir, alcanzar, lograr.
+spanish_word:Obtener
+spanish_word:adquirir
+spanish_word:alcanzar
+spanish_word:lograr.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obtain$$, $$v$$,  $$obtener, adquirir, alcanzar, lograr.$$)
+    
+
+
+Obtainable, adj. [obténabl]`Asequible.`Matataglay, makakamít.eng_section:Obtainable, adj. [obténabl]
+eng_word:Obtainable
+pos:adj:
+
+spanish:Asequible.
+spanish_word:Asequible.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obtainable$$, $$adj$$,  $$asequible.$$)
+    
+
+
+Obtrude, v. [obtriúd]`Introducir con violencia.`Magpumilít na pumasok.eng_section:Obtrude, v. [obtriúd]
+eng_word:Obtrude
+pos:v:
+
+spanish:Introducir con violencia.
+spanish_phrase:Introducir con violencia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obtrude$$, $$v$$,  $$introducir con violencia.$$)
+    
+
+
+Obtrusion, n. [obtriúcion]`Intrusion, entremetimiento.`Panghihimasok.eng_section:Obtrusion, n. [obtriúcion]
+eng_word:Obtrusion
+pos:n:
+
+spanish:Intrusion, entremetimiento.
+spanish_word:Intrusion
+spanish_word:entremetimiento.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obtrusion$$, $$n$$,  $$intrusion, entremetimiento.$$)
+    
+
+
+Obtrusive, adj. [obtriúsiv]`Intruso, entremetido.`Mapanghimasok.eng_section:Obtrusive, adj. [obtriúsiv]
+eng_word:Obtrusive
+pos:adj:
+
+spanish:Intruso, entremetido.
+spanish_word:Intruso
+spanish_word:entremetido.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obtrusive$$, $$adj$$,  $$intruso, entremetido.$$)
+    
+
+
+Obtuse, adj. [obtiús]`Obtuso, romo, sin punta.`Mapurol, pulpol, salsal, pudpod.eng_section:Obtuse, adj. [obtiús]
+eng_word:Obtuse
+pos:adj:
+
+spanish:Obtuso, romo, sin punta.
+spanish_word:Obtuso
+spanish_word:romo
+spanish_phrase:sin punta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obtuse$$, $$adj$$,  $$obtuso, romo, sin punta.$$)
+    
+
+
+Obviate, v. [óbviet]`Obviar, evitar inconvenientes.`Umiwas (sa kapansanan).eng_section:Obviate, v. [óbviet]
+eng_word:Obviate
+pos:v:
+
+spanish:Obviar, evitar inconvenientes.
+spanish_word:Obviar
+spanish_phrase:evitar inconvenientes.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obviate$$, $$v$$,  $$obviar, evitar inconvenientes.$$)
+    
+
+
+Obvious, adj. [óbvias]`Obvio, evidente.`Malinaw, maliwanag.eng_section:Obvious, adj. [óbvias]
+eng_word:Obvious
+pos:adj:
+
+spanish:Obvio, evidente.
+spanish_word:Obvio
+spanish_word:evidente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$obvious$$, $$adj$$,  $$obvio, evidente.$$)
+    
+
+
+Occasion, n. [okésion]`Ocasion, casualidad, sazon, tiempo oportuno.`Pagkakataon, panahon, dahilan.eng_section:Occasion, n. [okésion]
+eng_word:Occasion
+pos:n:
+
+spanish:Ocasion, casualidad, sazon, tiempo oportuno.
+spanish_word:Ocasion
+spanish_word:casualidad
+spanish_word:sazon
+spanish_phrase:tiempo oportuno.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$occasion$$, $$n$$,  $$ocasion, casualidad, sazon, tiempo oportuno.$$)
+    
+
+
+Occasional, adj. [okésional]`Ocasional, casual.`Nápataon, nagkataon.eng_section:Occasional, adj. [okésional]
+eng_word:Occasional
+pos:adj:
+
+spanish:Ocasional, casual.
+spanish_word:Ocasional
+spanish_word:casual.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$occasional$$, $$adj$$,  $$ocasional, casual.$$)
+    
+
+
+Occident, n. [ócsident]`Occidente.`Kanluran, kalunuran.eng_section:Occident, n. [ócsident]
+eng_word:Occident
+pos:n:
+
+spanish:Occidente.
+spanish_word:Occidente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$occident$$, $$n$$,  $$occidente.$$)
+    
+
+
+Occidental, adj. [ocsidental]`Occidental.`Nauukol sa kanluran.eng_section:Occidental, adj. [ocsidental]
+eng_word:Occidental
+pos:adj:
+
+spanish:Occidental.
+spanish_word:Occidental.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$occidental$$, $$adj$$,  $$occidental.$$)
+    
+
+
+Occiput, n. [ócsipat]`Colodrillo.`Kaimotan, likod ng ulo.eng_section:Occiput, n. [ócsipat]
+eng_word:Occiput
+pos:n:
+
+spanish:Colodrillo.
+spanish_word:Colodrillo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$occiput$$, $$n$$,  $$colodrillo.$$)
+    
+
+
+Occult, adj. [okált]`Oculto, escondido.`Lingíd, tagô, kublí.eng_section:Occult, adj. [okált]
+eng_word:Occult
+pos:adj:
+
+spanish:Oculto, escondido.
+spanish_word:Oculto
+spanish_word:escondido.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$occult$$, $$adj$$,  $$oculto, escondido.$$)
+    
+
+
+Occupant, n. [ókiupant]`Ocupador, ocupante.`Ang nagmamay-arî, ang nápapanahon.eng_section:Occupant, n. [ókiupant]
+eng_word:Occupant
+pos:n:
+
+spanish:Ocupador, ocupante.
+spanish_word:Ocupador
+spanish_word:ocupante.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$occupant$$, $$n$$,  $$ocupador, ocupante.$$)
+    
+
+
+Occupation, n. [okiupécion]`Ocupacion, trabajo, oficio, empleo.`Pagkabuhay, gáwain, hanap-buhay.eng_section:Occupation, n. [okiupécion]
+eng_word:Occupation
+pos:n:
+
+spanish:Ocupacion, trabajo, oficio, empleo.
+spanish_word:Ocupacion
+spanish_word:trabajo
+spanish_word:oficio
+spanish_word:empleo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$occupation$$, $$n$$,  $$ocupacion, trabajo, oficio, empleo.$$)
+    
+
+
+Occupy, v. [ókiupai]`Ocupar, emplear.`Gumamit, magtalagá.eng_section:Occupy, v. [ókiupai]
+eng_word:Occupy
+pos:v:
+
+spanish:Ocupar, emplear.
+spanish_word:Ocupar
+spanish_word:emplear.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$occupy$$, $$v$$,  $$ocupar, emplear.$$)
+    
+
+
+Occur, v. [occár]`Ocurrir.`Mangyari, magkátaon.eng_section:Occur, v. [occár]
+eng_word:Occur
+pos:v:
+
+spanish:Ocurrir.
+spanish_word:Ocurrir.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$occur$$, $$v$$,  $$ocurrir.$$)
+    
+
+
+Occurrence, n. [okárrens]`Ocurrencia, incidente, suceso casual.`Pangyayari, pagkakataon.eng_section:Occurrence, n. [okárrens]
+eng_word:Occurrence
+pos:n:
+
+spanish:Ocurrencia, incidente, suceso casual.
+spanish_word:Ocurrencia
+spanish_word:incidente
+spanish_phrase:suceso casual.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$occurrence$$, $$n$$,  $$ocurrencia, incidente, suceso casual.$$)
+    
+
+
+Ocean, n. [ócean]`Oceano.`Dagat.eng_section:Ocean, n. [ócean]
+eng_word:Ocean
+pos:n:
+
+spanish:Oceano.
+spanish_word:Oceano.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ocean$$, $$n$$,  $$oceano.$$)
+    
+
+
+Oceanic, adj. [ociánic]`Oceánico.`Nauukol sa dagat.eng_section:Oceanic, adj. [ociánic]
+eng_word:Oceanic
+pos:adj:
+
+spanish:Oceánico.
+spanish_word:Oceánico.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oceanic$$, $$adj$$,  $$oceánico.$$)
+    
+
+
+Ocellated, adj. [oséleted]`Lo que tiene ojos.`May matá.eng_section:Ocellated, adj. [oséleted]
+eng_word:Ocellated
+pos:adj:
+
+spanish:Lo que tiene ojos.
+spanish_phrase:Lo que tiene ojos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ocellated$$, $$adj$$,  $$lo que tiene ojos.$$)
+    
+
+
+Octagon, n. [óctagon]`Octágono.`Bagay na may walong pánulukan.eng_section:Octagon, n. [óctagon]
+eng_word:Octagon
+pos:n:
+
+spanish:Octágono.
+spanish_word:Octágono.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$octagon$$, $$n$$,  $$octágono.$$)
+    
+
+
+Octagonal, adj. [octágonal]`Octagonal.`Nauukol sa may walong pánulukan.eng_section:Octagonal, adj. [octágonal]
+eng_word:Octagonal
+pos:adj:
+
+spanish:Octagonal.
+spanish_word:Octagonal.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$octagonal$$, $$adj$$,  $$octagonal.$$)
+    
+
+
+Octangular, adj. [octánguiular]`Octangular.`May walong pánulukan.eng_section:Octangular, adj. [octánguiular]
+eng_word:Octangular
+pos:adj:
+
+spanish:Octangular.
+spanish_word:Octangular.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$octangular$$, $$adj$$,  $$octangular.$$)
+    
+
+
+Octennial, adj. [octénial]`Lo que dura ocho años.`Nagwawalong taon, nagtatagal ng walong taon.eng_section:Octennial, adj. [octénial]
+eng_word:Octennial
+pos:adj:
+
+spanish:Lo que dura ocho años.
+spanish_phrase:Lo que dura ocho años.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$octennial$$, $$adj$$,  $$lo que dura ocho años.$$)
+    
+
+
+October, n. [octóber]`Octubre.`Oktubre.eng_section:October, n. [octóber]
+eng_word:October
+pos:n:
+
+spanish:Octubre.
+spanish_word:Octubre.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$october$$, $$n$$,  $$octubre.$$)
+    
+
+
+Octuple, adj. [óctiupl]`Octuplo.`Makawalo.eng_section:Octuple, adj. [óctiupl]
+eng_word:Octuple
+pos:adj:
+
+spanish:Octuplo.
+spanish_word:Octuplo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$octuple$$, $$adj$$,  $$octuplo.$$)
+    
+
+
+Ocular, adj. [ókiular]`Ocular.`Nauukol sa matá.eng_section:Ocular, adj. [ókiular]
+eng_word:Ocular
+pos:adj:
+
+spanish:Ocular.
+spanish_word:Ocular.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ocular$$, $$adj$$,  $$ocular.$$)
+    
+
+
+Oculist, n. [ókiulist]`Oculista.`Manggagamot ng mga sakít sa matá.eng_section:Oculist, n. [ókiulist]
+eng_word:Oculist
+pos:n:
+
+spanish:Oculista.
+spanish_word:Oculista.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oculist$$, $$n$$,  $$oculista.$$)
+    
+
+
+Odd, adj. [od]`Impar; particular, extravagante.`Gansal, kaibâ, katwâ.eng_section:Odd, adj. [od]
+eng_word:Odd
+pos:adj:
+
+spanish:Impar; particular, extravagante.
+spanish_phrase:Impar; particular
+spanish_word:extravagante.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$odd$$, $$adj$$,  $$impar; particular, extravagante.$$)
+    
+
+
+Oddity, n. [óditi]`Singularidad, rareza.`Kaibhan.eng_section:Oddity, n. [óditi]
+eng_word:Oddity
+pos:n:
+
+spanish:Singularidad, rareza.
+spanish_word:Singularidad
+spanish_word:rareza.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oddity$$, $$n$$,  $$singularidad, rareza.$$)
+    
+
+
+Oddness, n. [ódnes]`Disparidad, desigualdad.`Kaibhan.eng_section:Oddness, n. [ódnes]
+eng_word:Oddness
+pos:n:
+
+spanish:Disparidad, desigualdad.
+spanish_word:Disparidad
+spanish_word:desigualdad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oddness$$, $$n$$,  $$disparidad, desigualdad.$$)
+    
+
+
+Ode, n. [od]`Oda.`Isang urì ng tuláng awitín.eng_section:Ode, n. [od]
+eng_word:Ode
+pos:n:
+
+spanish:Oda.
+spanish_word:Oda.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ode$$, $$n$$,  $$oda.$$)
+    
+
+
+Odious, adj. [odioes]`Odioso, aborrecible.`Mapagtanim, magagalitín.eng_section:Odious, adj. [odioes]
+eng_word:Odious
+pos:adj:
+
+spanish:Odioso, aborrecible.
+spanish_word:Odioso
+spanish_word:aborrecible.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$odious$$, $$adj$$,  $$odioso, aborrecible.$$)
+    
+
+
+Odium, n. [ódium]`Odiosidad, odio.`Pagtatanim sa kalooban.eng_section:Odium, n. [ódium]
+eng_word:Odium
+pos:n:
+
+spanish:Odiosidad, odio.
+spanish_word:Odiosidad
+spanish_word:odio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$odium$$, $$n$$,  $$odiosidad, odio.$$)
+    
+
+
+Odor, n. [ódor]`Olor, fragrancia.`Amoy, bangó, salimuyak.eng_section:Odor, n. [ódor]
+eng_word:Odor
+pos:n:
+
+spanish:Olor, fragrancia.
+spanish_word:Olor
+spanish_word:fragrancia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$odor$$, $$n$$,  $$olor, fragrancia.$$)
+    
+
+
+Odoriferous, adj. [odoríferoes]`Oloroso, fragrante.`Mabango.eng_section:Odoriferous, adj. [odoríferoes]
+eng_word:Odoriferous
+pos:adj:
+
+spanish:Oloroso, fragrante.
+spanish_word:Oloroso
+spanish_word:fragrante.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$odoriferous$$, $$adj$$,  $$oloroso, fragrante.$$)
+    
+
+
+Odorous, adj. [ódoroes]`Oloroso, fragrante.`Mabango.eng_section:Odorous, adj. [ódoroes]
+eng_word:Odorous
+pos:adj:
+
+spanish:Oloroso, fragrante.
+spanish_word:Oloroso
+spanish_word:fragrante.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$odorous$$, $$adj$$,  $$oloroso, fragrante.$$)
+    
+
+
+Of, prep. [of]`De, tocante.`Ng, sa, ni, kay.eng_section:Of, prep. [of]
+eng_word:Of
+pos:prep:
+
+spanish:De, tocante.
+spanish_word:De
+spanish_word:tocante.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$of$$, $$prep$$,  $$de, tocante.$$)
+    
+
+
+Off, adv. & prep. [of]`Lejos, á distancia.`Malayò.eng_section:Off, adv. & prep. [of]
+eng_word:Off
+pos:adv:
+
+spanish:Lejos, á distancia.
+spanish_word:Lejos
+spanish_phrase:á distancia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$off$$, $$adv$$,  $$lejos, á distancia.$$)
+    
+
+
+Off, int. [of]`Fuera!.`Alís! layás!eng_section:Off, int. [of]
+eng_word:Off
+pos:int:
+
+spanish:Fuera!.
+spanish_word:Fuera!.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$off$$, $$int$$,  $$fuera!.$$)
+    
+
+
+Offal, n. [ófal]`Sobras, desecho.`Labis, patapón.eng_section:Offal, n. [ófal]
+eng_word:Offal
+pos:n:
+
+spanish:Sobras, desecho.
+spanish_word:Sobras
+spanish_word:desecho.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$offal$$, $$n$$,  $$sobras, desecho.$$)
+    
+
+
+Offence, n. [oféns]`Ofensa, injuria.`Pasláng, lait, alipustâ.eng_section:Offence, n. [oféns]
+eng_word:Offence
+pos:n:
+
+spanish:Ofensa, injuria.
+spanish_word:Ofensa
+spanish_word:injuria.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$offence$$, $$n$$,  $$ofensa, injuria.$$)
+    
+
+
+Offend, v. [ofénd]`Ofender, provocar, injuriar.`Manggalit, mamaslang, umalipustâ.eng_section:Offend, v. [ofénd]
+eng_word:Offend
+pos:v:
+
+spanish:Ofender, provocar, injuriar.
+spanish_word:Ofender
+spanish_word:provocar
+spanish_word:injuriar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$offend$$, $$v$$,  $$ofender, provocar, injuriar.$$)
+    
+
+
+Offensive, adj. [ofénsiv]`Ofensivo, injurioso.`Nakagagalit, lapastangan.eng_section:Offensive, adj. [ofénsiv]
+eng_word:Offensive
+pos:adj:
+
+spanish:Ofensivo, injurioso.
+spanish_word:Ofensivo
+spanish_word:injurioso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$offensive$$, $$adj$$,  $$ofensivo, injurioso.$$)
+    
+
+
+Offer, n. [ófer]`Oferta; propuesta.`Handog, palagáy.eng_section:Offer, n. [ófer]
+eng_word:Offer
+pos:n:
+
+spanish:Oferta; propuesta.
+spanish_phrase:Oferta; propuesta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$offer$$, $$n$$,  $$oferta; propuesta.$$)
+    
+
+
+Offer, v. [ófer]`Ofrecer.`Maghandog.eng_section:Offer, v. [ófer]
+eng_word:Offer
+pos:v:
+
+spanish:Ofrecer.
+spanish_word:Ofrecer.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$offer$$, $$v$$,  $$ofrecer.$$)
+    
+
+
+Offering, n. [ófering]`Oferta.`Handog.eng_section:Offering, n. [ófering]
+eng_word:Offering
+pos:n:
+
+spanish:Oferta.
+spanish_word:Oferta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$offering$$, $$n$$,  $$oferta.$$)
+    
+
+
+Office, n. [ófis]`Oficina.`Opisina, káwanihan.eng_section:Office, n. [ófis]
+eng_word:Office
+pos:n:
+
+spanish:Oficina.
+spanish_word:Oficina.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$office$$, $$n$$,  $$oficina.$$)
+    
+
+
+Officer, n. [óficer]`Oficial; empleado.`Pinunò; kawaní.eng_section:Officer, n. [óficer]
+eng_word:Officer
+pos:n:
+
+spanish:Oficial; empleado.
+spanish_phrase:Oficial; empleado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$officer$$, $$n$$,  $$oficial; empleado.$$)
+    
+
+
+Official, adj. [ofísial]`Oficial, lo que pertenece á algun cargo ó empleo público.`Opisyal, may kinalaman sa káwanihang bayan.eng_section:Official, adj. [ofísial]
+eng_word:Official
+pos:adj:
+
+spanish:Oficial, lo que pertenece á algun cargo ó empleo público.
+spanish_word:Oficial
+spanish_phrase:lo que pertenece á algun cargo ó empleo público.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$official$$, $$adj$$,  $$oficial, lo que pertenece á algun cargo ó empleo público.$$)
+    
+
+
+Official, n. [ofísial]`Oficial.`Punò.eng_section:Official, n. [ofísial]
+eng_word:Official
+pos:n:
+
+spanish:Oficial.
+spanish_word:Oficial.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$official$$, $$n$$,  $$oficial.$$)
+    
+
+
+Officiate, v. [ofíciet]`Hacer alguna cosa de oficio; oficiar, celebrar la misa.`Mamunò; magmisa.eng_section:Officiate, v. [ofíciet]
+eng_word:Officiate
+pos:v:
+
+spanish:Hacer alguna cosa de oficio; oficiar, celebrar la misa.
+spanish_phrase:Hacer alguna cosa de oficio; oficiar
+spanish_phrase:celebrar la misa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$officiate$$, $$v$$,  $$hacer alguna cosa de oficio; oficiar, celebrar la misa.$$)
+    
+
+
+Officious, adj. [ofícioes]`Oficioso.`Masipag, masikap.eng_section:Officious, adj. [ofícioes]
+eng_word:Officious
+pos:adj:
+
+spanish:Oficioso.
+spanish_word:Oficioso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$officious$$, $$adj$$,  $$oficioso.$$)
+    
+
+
+Officiousness, n. [ofíciesnes]`Oficiosidad.`Kasipagan, sikap.eng_section:Officiousness, n. [ofíciesnes]
+eng_word:Officiousness
+pos:n:
+
+spanish:Oficiosidad.
+spanish_word:Oficiosidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$officiousness$$, $$n$$,  $$oficiosidad.$$)
+    
+
+
+Offing, n. [ófing]`Pleamar.`Laot.eng_section:Offing, n. [ófing]
+eng_word:Offing
+pos:n:
+
+spanish:Pleamar.
+spanish_word:Pleamar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$offing$$, $$n$$,  $$pleamar.$$)
+    
+
+
+Offset, n. [ófset]`Pimpollo.`Usbong, talbós.eng_section:Offset, n. [ófset]
+eng_word:Offset
+pos:n:
+
+spanish:Pimpollo.
+spanish_word:Pimpollo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$offset$$, $$n$$,  $$pimpollo.$$)
+    
+
+
+Offspring, n. [ófspring]`Prole, linaje, descendencia.`Angkan, lahì, lipì, inapó.eng_section:Offspring, n. [ófspring]
+eng_word:Offspring
+pos:n:
+
+spanish:Prole, linaje, descendencia.
+spanish_word:Prole
+spanish_word:linaje
+spanish_word:descendencia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$offspring$$, $$n$$,  $$prole, linaje, descendencia.$$)
+    
+
+
+Oft, adv. [oft]`Muchas veces, con frecuencia.`Madalás.eng_section:Oft, adv. [oft]
+eng_word:Oft
+pos:adv:
+
+spanish:Muchas veces, con frecuencia.
+spanish_phrase:Muchas veces
+spanish_phrase:con frecuencia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oft$$, $$adv$$,  $$muchas veces, con frecuencia.$$)
+    
+
+
+Often, adv. [ofn]`Muchas veces, con frecuencia.`Madalás.eng_section:Often, adv. [ofn]
+eng_word:Often
+pos:adv:
+
+spanish:Muchas veces, con frecuencia.
+spanish_phrase:Muchas veces
+spanish_phrase:con frecuencia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$often$$, $$adv$$,  $$muchas veces, con frecuencia.$$)
+    
+
+
+Oftentimes, adv. [ófntaims]`Muchas veces, con frecuencia.`Madalás.eng_section:Oftentimes, adv. [ófntaims]
+eng_word:Oftentimes
+pos:adv:
+
+spanish:Muchas veces, con frecuencia.
+spanish_phrase:Muchas veces
+spanish_phrase:con frecuencia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oftentimes$$, $$adv$$,  $$muchas veces, con frecuencia.$$)
+    
+
+
+Ogle, n. [ógl]`Guiñada; ojeada.`Kindát; sulyap.eng_section:Ogle, n. [ógl]
+eng_word:Ogle
+pos:n:
+
+spanish:Guiñada; ojeada.
+spanish_phrase:Guiñada; ojeada.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ogle$$, $$n$$,  $$guiñada; ojeada.$$)
+    
+
+
+Ogle, v. [ógl]`Guiñar; mirar al soslayo.`Kumindat; sumulyap.eng_section:Ogle, v. [ógl]
+eng_word:Ogle
+pos:v:
+
+spanish:Guiñar; mirar al soslayo.
+spanish_phrase:Guiñar; mirar al soslayo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ogle$$, $$v$$,  $$guiñar; mirar al soslayo.$$)
+    
+
+
+Oh, int. [o]`¡Oh!.`Abá!eng_section:Oh, int. [o]
+eng_word:Oh
+pos:int:
+
+spanish:¡Oh!.
+spanish_word:¡Oh!.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oh$$, $$int$$,  $$¡oh!.$$)
+    
+
+
+Oil, n. [óil]`Aceite.`Langis.eng_section:Oil, n. [óil]
+eng_word:Oil
+pos:n:
+
+spanish:Aceite.
+spanish_word:Aceite.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oil$$, $$n$$,  $$aceite.$$)
+    
+
+
+Oil-cloth, n. [óil-cloz]`Hule.`Ule.eng_section:Oil-cloth, n. [óil-cloz]
+eng_word:Oil-cloth
+pos:n:
+
+spanish:Hule.
+spanish_word:Hule.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oil-cloth$$, $$n$$,  $$hule.$$)
+    
+
+
+Oilman, n. [óilman]`Aceitero.`Maglalangís.eng_section:Oilman, n. [óilman]
+eng_word:Oilman
+pos:n:
+
+spanish:Aceitero.
+spanish_word:Aceitero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oilman$$, $$n$$,  $$aceitero.$$)
+    
+
+
+Oily, adj. [óili]`Aceitoso, oleoso.`Malangís.eng_section:Oily, adj. [óili]
+eng_word:Oily
+pos:adj:
+
+spanish:Aceitoso, oleoso.
+spanish_word:Aceitoso
+spanish_word:oleoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oily$$, $$adj$$,  $$aceitoso, oleoso.$$)
+    
+
+
+Ointment, n. [óintment]`Ungüento.`Langís na mabangó.eng_section:Ointment, n. [óintment]
+eng_word:Ointment
+pos:n:
+
+spanish:Ungüento.
+spanish_word:Ungüento.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ointment$$, $$n$$,  $$ungüento.$$)
+    
+
+
+Old, adj. [old]`Viejo, anciano, antiguo.`Matandâ, magulang, dati, lumà, laón.eng_section:Old, adj. [old]
+eng_word:Old
+pos:adj:
+
+spanish:Viejo, anciano, antiguo.
+spanish_word:Viejo
+spanish_word:anciano
+spanish_word:antiguo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$old$$, $$adj$$,  $$viejo, anciano, antiguo.$$)
+    
+
+
+Olden, adj. [ólden]`Viejo, anciano, antiguo.`Matandâ, magulang, dati, lumà.eng_section:Olden, adj. [ólden]
+eng_word:Olden
+pos:adj:
+
+spanish:Viejo, anciano, antiguo.
+spanish_word:Viejo
+spanish_word:anciano
+spanish_word:antiguo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$olden$$, $$adj$$,  $$viejo, anciano, antiguo.$$)
+    
+
+
+Oldish, adj. [óldish]`Algo viejo ó anciano.`May katandaan, may kagulangan.eng_section:Oldish, adj. [óldish]
+eng_word:Oldish
+pos:adj:
+
+spanish:Algo viejo ó anciano.
+spanish_phrase:Algo viejo ó anciano.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oldish$$, $$adj$$,  $$algo viejo ó anciano.$$)
+    
+
+
+Oldness, n. [óldnes]`Vejez, ancianidad.`Katandaan, kagulangan.eng_section:Oldness, n. [óldnes]
+eng_word:Oldness
+pos:n:
+
+spanish:Vejez, ancianidad.
+spanish_word:Vejez
+spanish_word:ancianidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oldness$$, $$n$$,  $$vejez, ancianidad.$$)
+    
+
+
+Oleaster, n. [óleaster]`Olivo silvestre.`Punò ng olibo.eng_section:Oleaster, n. [óleaster]
+eng_word:Oleaster
+pos:n:
+
+spanish:Olivo silvestre.
+spanish_phrase:Olivo silvestre.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oleaster$$, $$n$$,  $$olivo silvestre.$$)
+    
+
+
+Olfactory, adj. [olfáctori]`Olfatorio.`Nauukol sa amoy.eng_section:Olfactory, adj. [olfáctori]
+eng_word:Olfactory
+pos:adj:
+
+spanish:Olfatorio.
+spanish_word:Olfatorio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$olfactory$$, $$adj$$,  $$olfatorio.$$)
+    
+
+
+Olive, n. [óliv]`Olivo.`Olibo.eng_section:Olive, n. [óliv]
+eng_word:Olive
+pos:n:
+
+spanish:Olivo.
+spanish_word:Olivo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$olive$$, $$n$$,  $$olivo.$$)
+    
+
+
+Omelet, n. [ómilet]`Tortilla de huevos.`Tinortang itlog.eng_section:Omelet, n. [ómilet]
+eng_word:Omelet
+pos:n:
+
+spanish:Tortilla de huevos.
+spanish_phrase:Tortilla de huevos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$omelet$$, $$n$$,  $$tortilla de huevos.$$)
+    
+
+
+Omen, n. [ómen]`Agüero, presagio.`Pámahiin, pángitain.eng_section:Omen, n. [ómen]
+eng_word:Omen
+pos:n:
+
+spanish:Agüero, presagio.
+spanish_word:Agüero
+spanish_word:presagio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$omen$$, $$n$$,  $$agüero, presagio.$$)
+    
+
+
+Ominous, adj. [óminoes]`Ominoso, siniestro, fatal.`Masamang pángitain.eng_section:Ominous, adj. [óminoes]
+eng_word:Ominous
+pos:adj:
+
+spanish:Ominoso, siniestro, fatal.
+spanish_word:Ominoso
+spanish_word:siniestro
+spanish_word:fatal.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ominous$$, $$adj$$,  $$ominoso, siniestro, fatal.$$)
+    
+
+
+Omission, n. [omísion]`Omision.`Laktaw.eng_section:Omission, n. [omísion]
+eng_word:Omission
+pos:n:
+
+spanish:Omision.
+spanish_word:Omision.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$omission$$, $$n$$,  $$omision.$$)
+    
+
+
+Omit, v. [omit]`Omitir.`Lumigtâ; ligtaan; lumaktaw; laktawan.eng_section:Omit, v. [omit]
+eng_word:Omit
+pos:v:
+
+spanish:Omitir.
+spanish_word:Omitir.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$omit$$, $$v$$,  $$omitir.$$)
+    
+
+
+Omnipotence, n. [omnípotens]`Omnipotencia.`Kapangyarihan sa lahat.eng_section:Omnipotence, n. [omnípotens]
+eng_word:Omnipotence
+pos:n:
+
+spanish:Omnipotencia.
+spanish_word:Omnipotencia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$omnipotence$$, $$n$$,  $$omnipotencia.$$)
+    
+
+
+Omnipotent, adj. [omnípotent]`Omnipotente.`Makapangyarihan sa lahat.eng_section:Omnipotent, adj. [omnípotent]
+eng_word:Omnipotent
+pos:adj:
+
+spanish:Omnipotente.
+spanish_word:Omnipotente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$omnipotent$$, $$adj$$,  $$omnipotente.$$)
+    
+
+
+Omniscience, n. [omníciens]`Omniciencia.`Karunungan sa lahat.eng_section:Omniscience, n. [omníciens]
+eng_word:Omniscience
+pos:n:
+
+spanish:Omniciencia.
+spanish_word:Omniciencia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$omniscience$$, $$n$$,  $$omniciencia.$$)
+    
+
+
+Omniscient, adj. [omnícient]`Omniscio.`Marunong sa lahat.eng_section:Omniscient, adj. [omnícient]
+eng_word:Omniscient
+pos:adj:
+
+spanish:Omniscio.
+spanish_word:Omniscio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$omniscient$$, $$adj$$,  $$omniscio.$$)
+    
+
+
+On, prep. [on]`Sobre, encima.`Sa, sa ibabaw.eng_section:On, prep. [on]
+eng_word:On
+pos:prep:
+
+spanish:Sobre, encima.
+spanish_word:Sobre
+spanish_word:encima.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$on$$, $$prep$$,  $$sobre, encima.$$)
+    
+
+
+Once, adv. [uans]`Una vez.`Minsan.eng_section:Once, adv. [uans]
+eng_word:Once
+pos:adv:
+
+spanish:Una vez.
+spanish_phrase:Una vez.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$once$$, $$adv$$,  $$una vez.$$)
+    
+
+
+One, adj. [uan]`Un, uno, una.`Isa.eng_section:One, adj. [uan]
+eng_word:One
+pos:adj:
+
+spanish:Un, uno, una.
+spanish_word:Un
+spanish_word:uno
+spanish_word:una.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$one$$, $$adj$$,  $$un, uno, una.$$)
+    
+
+
+Onerous, adj. [ónerous]`Oneroso, molesto.`Mabigat, mahirap, nakagagambalà.eng_section:Onerous, adj. [ónerous]
+eng_word:Onerous
+pos:adj:
+
+spanish:Oneroso, molesto.
+spanish_word:Oneroso
+spanish_word:molesto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$onerous$$, $$adj$$,  $$oneroso, molesto.$$)
+    
+
+
+Onion, n. [ónion]`Cebollas.`Sibuyas.eng_section:Onion, n. [ónion]
+eng_word:Onion
+pos:n:
+
+spanish:Cebollas.
+spanish_word:Cebollas.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$onion$$, $$n$$,  $$cebollas.$$)
+    
+
+
+Only, adj. [ónli]`Único.`Bugtong, tangì, bukod-tangì.eng_section:Only, adj. [ónli]
+eng_word:Only
+pos:adj:
+
+spanish:Único.
+spanish_word:Único.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$only$$, $$adj$$,  $$único.$$)
+    
+
+
+Only, adv. [ónli]`Únicamente, solamente.`Lamang.eng_section:Only, adv. [ónli]
+eng_word:Only
+pos:adv:
+
+spanish:Únicamente, solamente.
+spanish_word:Únicamente
+spanish_word:solamente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$only$$, $$adv$$,  $$únicamente, solamente.$$)
+    
+
+
+Onset, n. [ónset]`Primer ímpetu.`Bugsô; daluhong.eng_section:Onset, n. [ónset]
+eng_word:Onset
+pos:n:
+
+spanish:Primer ímpetu.
+spanish_phrase:Primer ímpetu.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$onset$$, $$n$$,  $$primer ímpetu.$$)
+    
+
+
+Onward, adj. [ónuard]`Avanzado, adelantado.`Masulong, nangunguna.eng_section:Onward, adj. [ónuard]
+eng_word:Onward
+pos:adj:
+
+spanish:Avanzado, adelantado.
+spanish_word:Avanzado
+spanish_word:adelantado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$onward$$, $$adj$$,  $$avanzado, adelantado.$$)
+    
+
+
+Onward, adv. [ónuard]`Adelante.`Sa gawíng harap, sulong, tuloy, páuna.eng_section:Onward, adv. [ónuard]
+eng_word:Onward
+pos:adv:
+
+spanish:Adelante.
+spanish_word:Adelante.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$onward$$, $$adv$$,  $$adelante.$$)
+    
+
+
+Ooze, n. [uz]`Fango, limo, cieno.`Banlik, burak.eng_section:Ooze, n. [uz]
+eng_word:Ooze
+pos:n:
+
+spanish:Fango, limo, cieno.
+spanish_word:Fango
+spanish_word:limo
+spanish_word:cieno.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ooze$$, $$n$$,  $$fango, limo, cieno.$$)
+    
+
+
+Ooze, v. [uz]`Manar ó correr algun líquido suavemente.`Sumaloy, kumalat.eng_section:Ooze, v. [uz]
+eng_word:Ooze
+pos:v:
+
+spanish:Manar ó correr algun líquido suavemente.
+spanish_phrase:Manar ó correr algun líquido suavemente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ooze$$, $$v$$,  $$manar ó correr algun líquido suavemente.$$)
+    
+
+
+Opacity, n. [opásiti]`Opacidad.`Kalabuan, kadiliman.eng_section:Opacity, n. [opásiti]
+eng_word:Opacity
+pos:n:
+
+spanish:Opacidad.
+spanish_word:Opacidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$opacity$$, $$n$$,  $$opacidad.$$)
+    
+
+
+Opal, n. [ópal]`Ópalo.`Ópalo, batong mahalagá.eng_section:Opal, n. [ópal]
+eng_word:Opal
+pos:n:
+
+spanish:Ópalo.
+spanish_word:Ópalo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$opal$$, $$n$$,  $$ópalo.$$)
+    
+
+
+Opaque, adj. [opéc]`Opaco.`Malabò, malamlam.eng_section:Opaque, adj. [opéc]
+eng_word:Opaque
+pos:adj:
+
+spanish:Opaco.
+spanish_word:Opaco.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$opaque$$, $$adj$$,  $$opaco.$$)
+    
+
+
+Open, adj. [ópn]`Abierto.`Bukás, walang takíp, walang tungtóng.eng_section:Open, adj. [ópn]
+eng_word:Open
+pos:adj:
+
+spanish:Abierto.
+spanish_word:Abierto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$open$$, $$adj$$,  $$abierto.$$)
+    
+
+
+Open, v. [ópn]`Abrir, destapar.`Magbukás, alisan ng takíp, alisán ng tungtong.eng_section:Open, v. [ópn]
+eng_word:Open
+pos:v:
+
+spanish:Abrir, destapar.
+spanish_word:Abrir
+spanish_word:destapar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$open$$, $$v$$,  $$abrir, destapar.$$)
+    
+
+
+Opera, n. [ópera]`Ópera.`Ópera.eng_section:Opera, n. [ópera]
+eng_word:Opera
+pos:n:
+
+spanish:Ópera.
+spanish_word:Ópera.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$opera$$, $$n$$,  $$ópera.$$)
+    
+
+
+Operate, v. [óperet]`Obrar, operar.`Gumawâ, masagawâ.eng_section:Operate, v. [óperet]
+eng_word:Operate
+pos:v:
+
+spanish:Obrar, operar.
+spanish_word:Obrar
+spanish_word:operar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$operate$$, $$v$$,  $$obrar, operar.$$)
+    
+
+
+Operation, n [operécion]`Operacion.`Paggawâ, pagsasagawâ; pagbusbos.eng_section:Operation, n [operécion]
+eng_word:Operation
+pos:n:
+
+spanish:Operacion.
+spanish_word:Operacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$operation$$, $$n$$,  $$operacion.$$)
+    
+
+
+Operative, adj. [óperetiv]`Operativo.`Nauukol sa paggawâ.eng_section:Operative, adj. [óperetiv]
+eng_word:Operative
+pos:adj:
+
+spanish:Operativo.
+spanish_word:Operativo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$operative$$, $$adj$$,  $$operativo.$$)
+    
+
+
+Operator, n. [óperetor]`Operador.`Tagagawâ; tagabusbós.eng_section:Operator, n. [óperetor]
+eng_word:Operator
+pos:n:
+
+spanish:Operador.
+spanish_word:Operador.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$operator$$, $$n$$,  $$operador.$$)
+    
+
+
+Opiate, n. [ópiet]`Opiata.`Gamot na may halong apyan.eng_section:Opiate, n. [ópiet]
+eng_word:Opiate
+pos:n:
+
+spanish:Opiata.
+spanish_word:Opiata.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$opiate$$, $$n$$,  $$opiata.$$)
+    
+
+
+Opine, v. [opáin]`Opinar, juzgar.`Mag-akalà, humatol.eng_section:Opine, v. [opáin]
+eng_word:Opine
+pos:v:
+
+spanish:Opinar, juzgar.
+spanish_word:Opinar
+spanish_word:juzgar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$opine$$, $$v$$,  $$opinar, juzgar.$$)
+    
+
+
+Opinion, n. [opínion]`Opinion, dictamen.`Hakà, akalà, warì.eng_section:Opinion, n. [opínion]
+eng_word:Opinion
+pos:n:
+
+spanish:Opinion, dictamen.
+spanish_word:Opinion
+spanish_word:dictamen.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$opinion$$, $$n$$,  $$opinion, dictamen.$$)
+    
+
+
+Opium, n. [ópiam]`Opio.`Apyan.eng_section:Opium, n. [ópiam]
+eng_word:Opium
+pos:n:
+
+spanish:Opio.
+spanish_word:Opio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$opium$$, $$n$$,  $$opio.$$)
+    
+
+
+Opponent, adj. [opónent]`Opuesto, contrario.`Kalaban, katalo.eng_section:Opponent, adj. [opónent]
+eng_word:Opponent
+pos:adj:
+
+spanish:Opuesto, contrario.
+spanish_word:Opuesto
+spanish_word:contrario.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$opponent$$, $$adj$$,  $$opuesto, contrario.$$)
+    
+
+
+Opponent, n. [opónent]`Antagonista, arguyente.`Kalaban, nakikipagtalo.eng_section:Opponent, n. [opónent]
+eng_word:Opponent
+pos:n:
+
+spanish:Antagonista, arguyente.
+spanish_word:Antagonista
+spanish_word:arguyente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$opponent$$, $$n$$,  $$antagonista, arguyente.$$)
+    
+
+
+Opportune, adj. [oportiún]`Oportuno, conveniente.`Pagkakataon, marapat.eng_section:Opportune, adj. [oportiún]
+eng_word:Opportune
+pos:adj:
+
+spanish:Oportuno, conveniente.
+spanish_word:Oportuno
+spanish_word:conveniente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$opportune$$, $$adj$$,  $$oportuno, conveniente.$$)
+    
+
+
+Opportunity, n. [oportiúniti]`Oportunidad, sazon.`Pagkakataon, panahon, kapanahunan.eng_section:Opportunity, n. [oportiúniti]
+eng_word:Opportunity
+pos:n:
+
+spanish:Oportunidad, sazon.
+spanish_word:Oportunidad
+spanish_word:sazon.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$opportunity$$, $$n$$,  $$oportunidad, sazon.$$)
+    
+
+
+Oppose, v. [opós]`Oponer (se).`Tumutol, sumalungat, sumalangsang, lumaban.eng_section:Oppose, v. [opós]
+eng_word:Oppose
+pos:v:
+
+spanish:Oponer (se).
+spanish_phrase:Oponer (se).
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oppose$$, $$v$$,  $$oponer (se).$$)
+    
+
+
+Opposite, adj. [óposit]`Opuesto, adverso, contrario; fronterizo, en frente.`Kalaban, kasalungát, salangsang; katapát.eng_section:Opposite, adj. [óposit]
+eng_word:Opposite
+pos:adj:
+
+spanish:Opuesto, adverso, contrario; fronterizo, en frente.
+spanish_word:Opuesto
+spanish_word:adverso
+spanish_phrase:contrario; fronterizo
+spanish_phrase:en frente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$opposite$$, $$adj$$,  $$opuesto, adverso, contrario; fronterizo, en frente.$$)
+    
+
+
+Opposition, n. [opozícion]`Oposicion, contrariedad.`Tutol, salangsang, paglaban.eng_section:Opposition, n. [opozícion]
+eng_word:Opposition
+pos:n:
+
+spanish:Oposicion, contrariedad.
+spanish_word:Oposicion
+spanish_word:contrariedad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$opposition$$, $$n$$,  $$oposicion, contrariedad.$$)
+    
+
+
+Oppress, v. [oprés]`Oprimir, apretar.`Pumighatì, magpahirap, sumakal, uminís.eng_section:Oppress, v. [oprés]
+eng_word:Oppress
+pos:v:
+
+spanish:Oprimir, apretar.
+spanish_word:Oprimir
+spanish_word:apretar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oppress$$, $$v$$,  $$oprimir, apretar.$$)
+    
+
+
+Oppression, n. [oprésion]`Opresion, vejacion.`Pighatì, pahirap, inís.eng_section:Oppression, n. [oprésion]
+eng_word:Oppression
+pos:n:
+
+spanish:Opresion, vejacion.
+spanish_word:Opresion
+spanish_word:vejacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oppression$$, $$n$$,  $$opresion, vejacion.$$)
+    
+
+
+Oppressive, adj. [oprésiv]`Opresivo, cruel.`Nakapipighatì, nakapagsisikip ng loob, mahirap.eng_section:Oppressive, adj. [oprésiv]
+eng_word:Oppressive
+pos:adj:
+
+spanish:Opresivo, cruel.
+spanish_word:Opresivo
+spanish_word:cruel.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oppressive$$, $$adj$$,  $$opresivo, cruel.$$)
+    
+
+
+Oppressor, n. [oprésor]`Opresor.`Mámimighatì, mapagpahirap, mabagsik, tampalasan.eng_section:Oppressor, n. [oprésor]
+eng_word:Oppressor
+pos:n:
+
+spanish:Opresor.
+spanish_word:Opresor.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oppressor$$, $$n$$,  $$opresor.$$)
+    
+
+
+Opprobrious, adj. [opróbrias]`Oprobioso, ignominioso.`Kakutyâkutyâ, kahalay-halay.eng_section:Opprobrious, adj. [opróbrias]
+eng_word:Opprobrious
+pos:adj:
+
+spanish:Oprobioso, ignominioso.
+spanish_word:Oprobioso
+spanish_word:ignominioso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$opprobrious$$, $$adj$$,  $$oprobioso, ignominioso.$$)
+    
+
+
+Optic, adj. [óptic]`Óptico.`Nauukol sa paningín ó matá.eng_section:Optic, adj. [óptic]
+eng_word:Optic
+pos:adj:
+
+spanish:Óptico.
+spanish_word:Óptico.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$optic$$, $$adj$$,  $$óptico.$$)
+    
+
+
+Optician, n. [optícian]`Óptico.`Manglilitis ng paningín.eng_section:Optician, n. [optícian]
+eng_word:Optician
+pos:n:
+
+spanish:Óptico.
+spanish_word:Óptico.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$optician$$, $$n$$,  $$óptico.$$)
+    
+
+
+Optimist, n. [óptimist]`Optimista.`Ang mapaghakang anomang nangyayari ay mabuti.eng_section:Optimist, n. [óptimist]
+eng_word:Optimist
+pos:n:
+
+spanish:Optimista.
+spanish_word:Optimista.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$optimist$$, $$n$$,  $$optimista.$$)
+    
+
+
+Option, n. [ópcion]`Opción.`Sariling hakà.eng_section:Option, n. [ópcion]
+eng_word:Option
+pos:n:
+
+spanish:Opción.
+spanish_word:Opción.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$option$$, $$n$$,  $$opción.$$)
+    
+
+
+Opulence, n. [ópiulens]`Opulencia, riqueza.`Yaman, kayamanan.eng_section:Opulence, n. [ópiulens]
+eng_word:Opulence
+pos:n:
+
+spanish:Opulencia, riqueza.
+spanish_word:Opulencia
+spanish_word:riqueza.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$opulence$$, $$n$$,  $$opulencia, riqueza.$$)
+    
+
+
+Opulent, adj. [ópiulent]`Opulento.`Mayaman.eng_section:Opulent, adj. [ópiulent]
+eng_word:Opulent
+pos:adj:
+
+spanish:Opulento.
+spanish_word:Opulento.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$opulent$$, $$adj$$,  $$opulento.$$)
+    
+
+
+Or, conj. [or]`Ó.`Ó, kung.eng_section:Or, conj. [or]
+eng_word:Or
+pos:conj:
+
+spanish:Ó.
+spanish_word:Ó.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$or$$, $$conj$$,  $$ó.$$)
+    
+
+
+Oracle, n. [óracl]`Oráculo.`Sanggunian.eng_section:Oracle, n. [óracl]
+eng_word:Oracle
+pos:n:
+
+spanish:Oráculo.
+spanish_word:Oráculo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oracle$$, $$n$$,  $$oráculo.$$)
+    
+
+
+Oral, adj. [óral]`Oral, verbal.`Sa salitâ.eng_section:Oral, adj. [óral]
+eng_word:Oral
+pos:adj:
+
+spanish:Oral, verbal.
+spanish_word:Oral
+spanish_word:verbal.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oral$$, $$adj$$,  $$oral, verbal.$$)
+    
+
+
+Orange, n. [órendch]`Naranja.`Suhà, dalandan, naranhita.eng_section:Orange, n. [órendch]
+eng_word:Orange
+pos:n:
+
+spanish:Naranja.
+spanish_word:Naranja.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$orange$$, $$n$$,  $$naranja.$$)
+    
+
+
+Orange-color, adj. [órendch-color]`Color de naranja.`Kulay-suhà.eng_section:Orange-color, adj. [órendch-color]
+eng_word:Orange-color
+pos:adj:
+
+spanish:Color de naranja.
+spanish_phrase:Color de naranja.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$orange-color$$, $$adj$$,  $$color de naranja.$$)
+    
+
+
+Orang-outang, n. [oráng-utáng]`Orangután.`Bakulaw, musang, malakíng unggoy.eng_section:Orang-outang, n. [oráng-utáng]
+eng_word:Orang-outang
+pos:n:
+
+spanish:Orangután.
+spanish_word:Orangután.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$orang-outang$$, $$n$$,  $$orangután.$$)
+    
+
+
+Oration, n. [orécion]`Oracion.`Dalangin, pangungusap.eng_section:Oration, n. [orécion]
+eng_word:Oration
+pos:n:
+
+spanish:Oracion.
+spanish_word:Oracion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oration$$, $$n$$,  $$oracion.$$)
+    
+
+
+Orator, n. [óretor]`Orador.`Mánanalumpatî.eng_section:Orator, n. [óretor]
+eng_word:Orator
+pos:n:
+
+spanish:Orador.
+spanish_word:Orador.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$orator$$, $$n$$,  $$orador.$$)
+    
+
+
+Oratory, n. [óratori]`Oratoria.`Pananalumpatì, pananalitâ.eng_section:Oratory, n. [óratori]
+eng_word:Oratory
+pos:n:
+
+spanish:Oratoria.
+spanish_word:Oratoria.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oratory$$, $$n$$,  $$oratoria.$$)
+    
+
+
+Orb, n. [orb]`Orbe, esfera, globo.`Bilog, sangsinukob, globo.eng_section:Orb, n. [orb]
+eng_word:Orb
+pos:n:
+
+spanish:Orbe, esfera, globo.
+spanish_word:Orbe
+spanish_word:esfera
+spanish_word:globo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$orb$$, $$n$$,  $$orbe, esfera, globo.$$)
+    
+
+
+Orbed, adj. [orbd]`Orbicular, redondo.`Mabilog.eng_section:Orbed, adj. [orbd]
+eng_word:Orbed
+pos:adj:
+
+spanish:Orbicular, redondo.
+spanish_word:Orbicular
+spanish_word:redondo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$orbed$$, $$adj$$,  $$orbicular, redondo.$$)
+    
+
+
+Orbit, n. [órbit]`Órbita; la cuenca del ojo.`Lakad ng talà, bituin, araw, at bwan; ukà ng matá.eng_section:Orbit, n. [órbit]
+eng_word:Orbit
+pos:n:
+
+spanish:Órbita; la cuenca del ojo.
+spanish_phrase:Órbita; la cuenca del ojo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$orbit$$, $$n$$,  $$órbita; la cuenca del ojo.$$)
+    
+
+
+Orchard, n. [órchard]`Huerto, verjel.`Halamanan.eng_section:Orchard, n. [órchard]
+eng_word:Orchard
+pos:n:
+
+spanish:Huerto, verjel.
+spanish_word:Huerto
+spanish_word:verjel.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$orchard$$, $$n$$,  $$huerto, verjel.$$)
+    
+
+
+Orchestra, n. [órkestra]`Orquesta.`Orkesta.eng_section:Orchestra, n. [órkestra]
+eng_word:Orchestra
+pos:n:
+
+spanish:Orquesta.
+spanish_word:Orquesta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$orchestra$$, $$n$$,  $$orquesta.$$)
+    
+
+
+Ordain, v. [ordén]`Ordenar, establecer, arreglar.`Mag-ayos, maghusay, magpasiya, mag-utos.eng_section:Ordain, v. [ordén]
+eng_word:Ordain
+pos:v:
+
+spanish:Ordenar, establecer, arreglar.
+spanish_word:Ordenar
+spanish_word:establecer
+spanish_word:arreglar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ordain$$, $$v$$,  $$ordenar, establecer, arreglar.$$)
+    
+
+
+Order, n. [órder]`Orden, mandato; regla.`Utos; ayos, husay.eng_section:Order, n. [órder]
+eng_word:Order
+pos:n:
+
+spanish:Orden, mandato; regla.
+spanish_word:Orden
+spanish_phrase:mandato; regla.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$order$$, $$n$$,  $$orden, mandato; regla.$$)
+    
+
+
+Order, v. [órder]`Ordenar, disponer; arreglar.`Mag-utos, magpasya; umayos, maghusay.eng_section:Order, v. [órder]
+eng_word:Order
+pos:v:
+
+spanish:Ordenar, disponer; arreglar.
+spanish_word:Ordenar
+spanish_phrase:disponer; arreglar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$order$$, $$v$$,  $$ordenar, disponer; arreglar.$$)
+    
+
+
+Orderly, adj. [órderli]`Ordenado, bien arreglado.`Maayos, mahusay.eng_section:Orderly, adj. [órderli]
+eng_word:Orderly
+pos:adj:
+
+spanish:Ordenado, bien arreglado.
+spanish_word:Ordenado
+spanish_phrase:bien arreglado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$orderly$$, $$adj$$,  $$ordenado, bien arreglado.$$)
+    
+
+
+Ordinal, adj. [órdinal]`Ordinal.`Nauukol sa ayos ó husay.eng_section:Ordinal, adj. [órdinal]
+eng_word:Ordinal
+pos:adj:
+
+spanish:Ordinal.
+spanish_word:Ordinal.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ordinal$$, $$adj$$,  $$ordinal.$$)
+    
+
+
+Ordinance, n. [órdinans]`Ordenanza, estatuto.`Utos, tuntunin.eng_section:Ordinance, n. [órdinans]
+eng_word:Ordinance
+pos:n:
+
+spanish:Ordenanza, estatuto.
+spanish_word:Ordenanza
+spanish_word:estatuto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ordinance$$, $$n$$,  $$ordenanza, estatuto.$$)
+    
+
+
+Ordinary, adj. [órdineri]`Ordinario, comun, regular.`Karaniwan.eng_section:Ordinary, adj. [órdineri]
+eng_word:Ordinary
+pos:adj:
+
+spanish:Ordinario, comun, regular.
+spanish_word:Ordinario
+spanish_word:comun
+spanish_word:regular.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ordinary$$, $$adj$$,  $$ordinario, comun, regular.$$)
+    
+
+
+Ordination, n. [ordinécion]`Ordenacion, disposicion; el acto de conferir orden sacerdotal.`Utos, pasiya; pag-oorden sa parì.eng_section:Ordination, n. [ordinécion]
+eng_word:Ordination
+pos:n:
+
+spanish:Ordenacion, disposicion; el acto de conferir orden sacerdotal.
+spanish_word:Ordenacion
+spanish_phrase:disposicion; el acto de conferir orden sacerdotal.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ordination$$, $$n$$,  $$ordenacion, disposicion; el acto de conferir orden sacerdotal.$$)
+    
+
+
+Ordnance, n. [órdnans]`Artillería.`Kasangkapan ng kawal.eng_section:Ordnance, n. [órdnans]
+eng_word:Ordnance
+pos:n:
+
+spanish:Artillería.
+spanish_word:Artillería.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ordnance$$, $$n$$,  $$artillería.$$)
+    
+
+
+Ore, n. [or]`Quijo, mineral.`Isang urì ng batong matigas.eng_section:Ore, n. [or]
+eng_word:Ore
+pos:n:
+
+spanish:Quijo, mineral.
+spanish_word:Quijo
+spanish_word:mineral.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ore$$, $$n$$,  $$quijo, mineral.$$)
+    
+
+
+Organ, n. [órgan]`Órgano.`Órgano, [parang piano].eng_section:Organ, n. [órgan]
+eng_word:Organ
+pos:n:
+
+spanish:Órgano.
+spanish_word:Órgano.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$organ$$, $$n$$,  $$órgano.$$)
+    
+
+
+Organic, adj. [orgánic]`Orgánico.`Nauukol sa órgano.eng_section:Organic, adj. [orgánic]
+eng_word:Organic
+pos:adj:
+
+spanish:Orgánico.
+spanish_word:Orgánico.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$organic$$, $$adj$$,  $$orgánico.$$)
+    
+
+
+Organist, n. [órganist]`Organista.`Tagatugtog ng órgano.eng_section:Organist, n. [órganist]
+eng_word:Organist
+pos:n:
+
+spanish:Organista.
+spanish_word:Organista.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$organist$$, $$n$$,  $$organista.$$)
+    
+
+
+Organization, n. [organizécion]`Organizacion.`Pagtatatag.eng_section:Organization, n. [organizécion]
+eng_word:Organization
+pos:n:
+
+spanish:Organizacion.
+spanish_word:Organizacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$organization$$, $$n$$,  $$organizacion.$$)
+    
+
+
+Organize, v. [órganaiz]`Organizar.`Magtatag.eng_section:Organize, v. [órganaiz]
+eng_word:Organize
+pos:v:
+
+spanish:Organizar.
+spanish_word:Organizar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$organize$$, $$v$$,  $$organizar.$$)
+    
+
+
+Orient, adj. & n. [órient]`Oriental, oriente.`Silanganan.eng_section:Orient, adj. & n. [órient]
+eng_word:Orient
+pos:adj:
+
+spanish:Oriental, oriente.
+spanish_word:Oriental
+spanish_word:oriente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$orient$$, $$adj$$,  $$oriental, oriente.$$)
+    
+
+
+Oriental, adj. [oriéntal]`Oriental.`Silanganan.eng_section:Oriental, adj. [oriéntal]
+eng_word:Oriental
+pos:adj:
+
+spanish:Oriental.
+spanish_word:Oriental.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oriental$$, $$adj$$,  $$oriental.$$)
+    
+
+
+Oriental, n. [oriéntal]`Oriental.`Taga silanganan.eng_section:Oriental, n. [oriéntal]
+eng_word:Oriental
+pos:n:
+
+spanish:Oriental.
+spanish_word:Oriental.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oriental$$, $$n$$,  $$oriental.$$)
+    
+
+
+Orifice, n. [órifis]`Orificio.`Butas.eng_section:Orifice, n. [órifis]
+eng_word:Orifice
+pos:n:
+
+spanish:Orificio.
+spanish_word:Orificio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$orifice$$, $$n$$,  $$orificio.$$)
+    
+
+
+Origin, n. [óridchin]`Origen, principio.`Sanghî, pinagmulan, simulâ.eng_section:Origin, n. [óridchin]
+eng_word:Origin
+pos:n:
+
+spanish:Origen, principio.
+spanish_word:Origen
+spanish_word:principio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$origin$$, $$n$$,  $$origen, principio.$$)
+    
+
+
+Original, adj. [orídchinal]`Original, primitivo.`Una, pinagsalinan, pinagparisan.eng_section:Original, adj. [orídchinal]
+eng_word:Original
+pos:adj:
+
+spanish:Original, primitivo.
+spanish_word:Original
+spanish_word:primitivo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$original$$, $$adj$$,  $$original, primitivo.$$)
+    
+
+
+Origination, n. [oridchinécion]`Origen.`Simulâ, pinagmulan, pinagbuhatan.eng_section:Origination, n. [oridchinécion]
+eng_word:Origination
+pos:n:
+
+spanish:Origen.
+spanish_word:Origen.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$origination$$, $$n$$,  $$origen.$$)
+    
+
+
+Orison, n. [órison]`Oracion, súplica.`Dasal, panalangin.eng_section:Orison, n. [órison]
+eng_word:Orison
+pos:n:
+
+spanish:Oracion, súplica.
+spanish_word:Oracion
+spanish_word:súplica.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$orison$$, $$n$$,  $$oracion, súplica.$$)
+    
+
+
+Ornament, n. [órnament]`Ornamento, adorno.`Gayak, palamuti, kagayakan, hiyas.eng_section:Ornament, n. [órnament]
+eng_word:Ornament
+pos:n:
+
+spanish:Ornamento, adorno.
+spanish_word:Ornamento
+spanish_word:adorno.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ornament$$, $$n$$,  $$ornamento, adorno.$$)
+    
+
+
+Ornament, v. [órnament]`Ornamentar, adornar.`Maggayak, magpalamuti; hiyasan.eng_section:Ornament, v. [órnament]
+eng_word:Ornament
+pos:v:
+
+spanish:Ornamentar, adornar.
+spanish_word:Ornamentar
+spanish_word:adornar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ornament$$, $$v$$,  $$ornamentar, adornar.$$)
+    
+
+
+Ornamental, adj. [ornaméntal]`Lo que sirve de adorno.`Panggayak, pangpalamuti.eng_section:Ornamental, adj. [ornaméntal]
+eng_word:Ornamental
+pos:adj:
+
+spanish:Lo que sirve de adorno.
+spanish_phrase:Lo que sirve de adorno.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ornamental$$, $$adj$$,  $$lo que sirve de adorno.$$)
+    
+
+
+Ornate, adj. [órnet]`Adornado, ataviado.`Nagagayakan, napapalamutihan.eng_section:Ornate, adj. [órnet]
+eng_word:Ornate
+pos:adj:
+
+spanish:Adornado, ataviado.
+spanish_word:Adornado
+spanish_word:ataviado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ornate$$, $$adj$$,  $$adornado, ataviado.$$)
+    
+
+
+Orphan, adj. & n. [órfan]`Huérfano.`Ulila.eng_section:Orphan, adj. & n. [órfan]
+eng_word:Orphan
+pos:adj:
+
+spanish:Huérfano.
+spanish_word:Huérfano.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$orphan$$, $$adj$$,  $$huérfano.$$)
+    
+
+
+Orphanage, n. [órfanedch]`Orfandad.`Pagkaulila, pangungulila.eng_section:Orphanage, n. [órfanedch]
+eng_word:Orphanage
+pos:n:
+
+spanish:Orfandad.
+spanish_word:Orfandad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$orphanage$$, $$n$$,  $$orfandad.$$)
+    
+
+
+Orthography, n. [orzógrafi]`Ortografía.`Karunungan sa pagsulat.eng_section:Orthography, n. [orzógrafi]
+eng_word:Orthography
+pos:n:
+
+spanish:Ortografía.
+spanish_word:Ortografía.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$orthography$$, $$n$$,  $$ortografía.$$)
+    
+
+
+Orthology, n. [orzólodchi]`Ortología.`Karunungan ng mabuting pamimigkas ng salitâ.eng_section:Orthology, n. [orzólodchi]
+eng_word:Orthology
+pos:n:
+
+spanish:Ortología.
+spanish_word:Ortología.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$orthology$$, $$n$$,  $$ortología.$$)
+    
+
+
+Oscillate, v. [ósilet]`Oscilar, vibrar.`Magningning, kumintab.eng_section:Oscillate, v. [ósilet]
+eng_word:Oscillate
+pos:v:
+
+spanish:Oscilar, vibrar.
+spanish_word:Oscilar
+spanish_word:vibrar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oscillate$$, $$v$$,  $$oscilar, vibrar.$$)
+    
+
+
+Oscillation, n. [osilécion]`Oscilacion.`Ningning, kislap, kintab.eng_section:Oscillation, n. [osilécion]
+eng_word:Oscillation
+pos:n:
+
+spanish:Oscilacion.
+spanish_word:Oscilacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oscillation$$, $$n$$,  $$oscilacion.$$)
+    
+
+
+Ossification, n. [osifikécion]`Osificacion.`Pagigíng-butó ng anoman.eng_section:Ossification, n. [osifikécion]
+eng_word:Ossification
+pos:n:
+
+spanish:Osificacion.
+spanish_word:Osificacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ossification$$, $$n$$,  $$osificacion.$$)
+    
+
+
+Ossify, v. [ósifai]`Osificar.`Magíng butó.eng_section:Ossify, v. [ósifai]
+eng_word:Ossify
+pos:v:
+
+spanish:Osificar.
+spanish_word:Osificar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ossify$$, $$v$$,  $$osificar.$$)
+    
+
+
+Ostensible, adj. [osténsibl]`Ostensible, manifestable.`Náihahayag, náipakikita.eng_section:Ostensible, adj. [osténsibl]
+eng_word:Ostensible
+pos:adj:
+
+spanish:Ostensible, manifestable.
+spanish_word:Ostensible
+spanish_word:manifestable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ostensible$$, $$adj$$,  $$ostensible, manifestable.$$)
+    
+
+
+Ostent, n. [ostént]`Apariencia.`Anyô, hichura.eng_section:Ostent, n. [ostént]
+eng_word:Ostent
+pos:n:
+
+spanish:Apariencia.
+spanish_word:Apariencia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ostent$$, $$n$$,  $$apariencia.$$)
+    
+
+
+Ostentation, n. [ostentécion]`Ostentacion, gala.`Pagpaparangalan, pagpaparanyâ, garà.eng_section:Ostentation, n. [ostentécion]
+eng_word:Ostentation
+pos:n:
+
+spanish:Ostentacion, gala.
+spanish_word:Ostentacion
+spanish_word:gala.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ostentation$$, $$n$$,  $$ostentacion, gala.$$)
+    
+
+
+Ostentatious, adj. [ostentécioes]`Ostentoso, jactancioso.`Mapagparanyâ, magarà, hambog.eng_section:Ostentatious, adj. [ostentécioes]
+eng_word:Ostentatious
+pos:adj:
+
+spanish:Ostentoso, jactancioso.
+spanish_word:Ostentoso
+spanish_word:jactancioso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ostentatious$$, $$adj$$,  $$ostentoso, jactancioso.$$)
+    
+
+
+Ostler, n. [óstler]`Mozo de paja.`Sota, tagapagalagà ng kabayo.eng_section:Ostler, n. [óstler]
+eng_word:Ostler
+pos:n:
+
+spanish:Mozo de paja.
+spanish_phrase:Mozo de paja.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ostler$$, $$n$$,  $$mozo de paja.$$)
+    
+
+
+Ostrich, n. [óstrich]`Avestruz.`Abestrús.eng_section:Ostrich, n. [óstrich]
+eng_word:Ostrich
+pos:n:
+
+spanish:Avestruz.
+spanish_word:Avestruz.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ostrich$$, $$n$$,  $$avestruz.$$)
+    
+
+
+Other, pron. [ódzer]`Otro.`Iba.eng_section:Other, pron. [ódzer]
+eng_word:Other
+pos:pron:
+
+spanish:Otro.
+spanish_word:Otro.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$other$$, $$pron$$,  $$otro.$$)
+    
+
+
+Otherwise, adv. [ódzeruais]`De otra manera, por otra parte.`Kung dilî, ó kayâ.eng_section:Otherwise, adv. [ódzeruais]
+eng_word:Otherwise
+pos:adv:
+
+spanish:De otra manera, por otra parte.
+spanish_phrase:De otra manera
+spanish_phrase:por otra parte.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$otherwise$$, $$adv$$,  $$de otra manera, por otra parte.$$)
+    
+
+
+Ottoman, adj. [ótoman]`Otomano.`Nauukol sa mga turko.eng_section:Ottoman, adj. [ótoman]
+eng_word:Ottoman
+pos:adj:
+
+spanish:Otomano.
+spanish_word:Otomano.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ottoman$$, $$adj$$,  $$otomano.$$)
+    
+
+
+Ought, v. [ot]`Deber, ser menester.`Dapat, marapat.eng_section:Ought, v. [ot]
+eng_word:Ought
+pos:v:
+
+spanish:Deber, ser menester.
+spanish_word:Deber
+spanish_phrase:ser menester.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ought$$, $$v$$,  $$deber, ser menester.$$)
+    
+
+
+Ounce, n. [áunz]`Onza.`Onsa (salapî).eng_section:Ounce, n. [áunz]
+eng_word:Ounce
+pos:n:
+
+spanish:Onza.
+spanish_word:Onza.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ounce$$, $$n$$,  $$onza.$$)
+    
+
+
+Our, pron. [áuar]`Nuestro, a, os, as.`Atin, natin, amin, namin.eng_section:Our, pron. [áuar]
+eng_word:Our
+pos:pron:
+
+spanish:Nuestro, a, os, as.
+spanish_word:Nuestro
+spanish_word:a
+spanish_word:os
+spanish_word:as.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$our$$, $$pron$$,  $$nuestro, a, os, as.$$)
+    
+
+
+Ours, pron. [áuars]`Nuestro, a, os, as.`Atin, natin, amin, namin.eng_section:Ours, pron. [áuars]
+eng_word:Ours
+pos:pron:
+
+spanish:Nuestro, a, os, as.
+spanish_word:Nuestro
+spanish_word:a
+spanish_word:os
+spanish_word:as.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ours$$, $$pron$$,  $$nuestro, a, os, as.$$)
+    
+
+
+Ourselves, pron. [auarsélvz]`Nosotros mismos.`Kami rin, kami ngâ; amin ngâ.eng_section:Ourselves, pron. [auarsélvz]
+eng_word:Ourselves
+pos:pron:
+
+spanish:Nosotros mismos.
+spanish_phrase:Nosotros mismos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ourselves$$, $$pron$$,  $$nosotros mismos.$$)
+    
+
+
+Oust, v. [áust]`Quitar, desposeer, echar fuera.`Alisin, alisan, paalisin.eng_section:Oust, v. [áust]
+eng_word:Oust
+pos:v:
+
+spanish:Quitar, desposeer, echar fuera.
+spanish_word:Quitar
+spanish_word:desposeer
+spanish_phrase:echar fuera.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oust$$, $$v$$,  $$quitar, desposeer, echar fuera.$$)
+    
+
+
+Out, adv. [áut]`Fuera, afuera.`Sa labas.eng_section:Out, adv. [áut]
+eng_word:Out
+pos:adv:
+
+spanish:Fuera, afuera.
+spanish_word:Fuera
+spanish_word:afuera.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$out$$, $$adv$$,  $$fuera, afuera.$$)
+    
+
+
+Outbid, v. [autbíd]`Pujar; sobrepujar.`Tumawad ng lalong mataas na halaga, magpataas ng tawad.eng_section:Outbid, v. [autbíd]
+eng_word:Outbid
+pos:v:
+
+spanish:Pujar; sobrepujar.
+spanish_phrase:Pujar; sobrepujar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outbid$$, $$v$$,  $$pujar; sobrepujar.$$)
+    
+
+
+Outbreak, n. [áutbrik]`Erupcion.`Silakbó, sigalbó.eng_section:Outbreak, n. [áutbrik]
+eng_word:Outbreak
+pos:n:
+
+spanish:Erupcion.
+spanish_word:Erupcion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outbreak$$, $$n$$,  $$erupcion.$$)
+    
+
+
+Outburst, n. [áutbarst]`Explosion.`Pagputok.eng_section:Outburst, n. [áutbarst]
+eng_word:Outburst
+pos:n:
+
+spanish:Explosion.
+spanish_word:Explosion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outburst$$, $$n$$,  $$explosion.$$)
+    
+
+
+Outcast, n. [áutcast]`Desechado, desterrado.`Tapon.eng_section:Outcast, n. [áutcast]
+eng_word:Outcast
+pos:n:
+
+spanish:Desechado, desterrado.
+spanish_word:Desechado
+spanish_word:desterrado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outcast$$, $$n$$,  $$desechado, desterrado.$$)
+    
+
+
+Outcry, n. [áutcray]`Clamor, ruido, alboroto, gritería.`Alingawngaw, ingay, kagulo, hiyawan.eng_section:Outcry, n. [áutcray]
+eng_word:Outcry
+pos:n:
+
+spanish:Clamor, ruido, alboroto, gritería.
+spanish_word:Clamor
+spanish_word:ruido
+spanish_word:alboroto
+spanish_word:gritería.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outcry$$, $$n$$,  $$clamor, ruido, alboroto, gritería.$$)
+    
+
+
+Outdo, v. [autdú]`Exceder á otro, sobrepujar.`Lumagpas, lumangpas.eng_section:Outdo, v. [autdú]
+eng_word:Outdo
+pos:v:
+
+spanish:Exceder á otro, sobrepujar.
+spanish_phrase:Exceder á otro
+spanish_word:sobrepujar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outdo$$, $$v$$,  $$exceder á otro, sobrepujar.$$)
+    
+
+
+Outer, adj. [áuter]`Exterior.`Labas.eng_section:Outer, adj. [áuter]
+eng_word:Outer
+pos:adj:
+
+spanish:Exterior.
+spanish_word:Exterior.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outer$$, $$adj$$,  $$exterior.$$)
+    
+
+
+Outermost, adj. [áutormost]`Extremo, lo mas exterior.`Kálabaslabasan.eng_section:Outermost, adj. [áutormost]
+eng_word:Outermost
+pos:adj:
+
+spanish:Extremo, lo mas exterior.
+spanish_word:Extremo
+spanish_phrase:lo mas exterior.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outermost$$, $$adj$$,  $$extremo, lo mas exterior.$$)
+    
+
+
+Outfit, n. [áutfit]`Vestidos, ropa.`Mga kasuntan, damít.eng_section:Outfit, n. [áutfit]
+eng_word:Outfit
+pos:n:
+
+spanish:Vestidos, ropa.
+spanish_word:Vestidos
+spanish_word:ropa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outfit$$, $$n$$,  $$vestidos, ropa.$$)
+    
+
+
+Outgo, v. [autgó]`Exceder, adelantarse.`Lumangpas, máuna.eng_section:Outgo, v. [autgó]
+eng_word:Outgo
+pos:v:
+
+spanish:Exceder, adelantarse.
+spanish_word:Exceder
+spanish_word:adelantarse.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outgo$$, $$v$$,  $$exceder, adelantarse.$$)
+    
+
+
+Outgoing, n. [áutgoing]`Salida.`Lábasan.eng_section:Outgoing, n. [áutgoing]
+eng_word:Outgoing
+pos:n:
+
+spanish:Salida.
+spanish_word:Salida.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outgoing$$, $$n$$,  $$salida.$$)
+    
+
+
+Outgrow, v. [áutgro]`Sobrecrecer.`Tumaas ng higít sa iba.eng_section:Outgrow, v. [áutgro]
+eng_word:Outgrow
+pos:v:
+
+spanish:Sobrecrecer.
+spanish_word:Sobrecrecer.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outgrow$$, $$v$$,  $$sobrecrecer.$$)
+    
+
+
+Outhouse, n. [áutjaus]`Dependencia de una casa.`Táhanang bukod na karatig ng bahay.eng_section:Outhouse, n. [áutjaus]
+eng_word:Outhouse
+pos:n:
+
+spanish:Dependencia de una casa.
+spanish_phrase:Dependencia de una casa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outhouse$$, $$n$$,  $$dependencia de una casa.$$)
+    
+
+
+Outlandish, adj. [áutlandish]`Extranjero.`Nauukol sa ibang lupain.eng_section:Outlandish, adj. [áutlandish]
+eng_word:Outlandish
+pos:adj:
+
+spanish:Extranjero.
+spanish_word:Extranjero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outlandish$$, $$adj$$,  $$extranjero.$$)
+    
+
+
+Outlast, v. [áutlast]`Durar mas que otra cosa.`Tumagal kaysa iba.eng_section:Outlast, v. [áutlast]
+eng_word:Outlast
+pos:v:
+
+spanish:Durar mas que otra cosa.
+spanish_phrase:Durar mas que otra cosa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outlast$$, $$v$$,  $$durar mas que otra cosa.$$)
+    
+
+
+Outlaw, n. [áutlo]`Proscrito, bandido.`Tulisán, manghaharang.eng_section:Outlaw, n. [áutlo]
+eng_word:Outlaw
+pos:n:
+
+spanish:Proscrito, bandido.
+spanish_word:Proscrito
+spanish_word:bandido.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outlaw$$, $$n$$,  $$proscrito, bandido.$$)
+    
+
+
+Outlawry, n. [áutlori]`Proscripcion.`Panunulisan.eng_section:Outlawry, n. [áutlori]
+eng_word:Outlawry
+pos:n:
+
+spanish:Proscripcion.
+spanish_word:Proscripcion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outlawry$$, $$n$$,  $$proscripcion.$$)
+    
+
+
+Outlay, n. [áutle]`Despensa, gastos.`Gugol.eng_section:Outlay, n. [áutle]
+eng_word:Outlay
+pos:n:
+
+spanish:Despensa, gastos.
+spanish_word:Despensa
+spanish_word:gastos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outlay$$, $$n$$,  $$despensa, gastos.$$)
+    
+
+
+Outlet, n. [áutlet]`Salida.`Lábasan.eng_section:Outlet, n. [áutlet]
+eng_word:Outlet
+pos:n:
+
+spanish:Salida.
+spanish_word:Salida.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outlet$$, $$n$$,  $$salida.$$)
+    
+
+
+Outline, n. [áutlain]`Contorno, diseño, bosquejo.`Banhay, anyô, plano.eng_section:Outline, n. [áutlain]
+eng_word:Outline
+pos:n:
+
+spanish:Contorno, diseño, bosquejo.
+spanish_word:Contorno
+spanish_word:diseño
+spanish_word:bosquejo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outline$$, $$n$$,  $$contorno, diseño, bosquejo.$$)
+    
+
+
+Outlive, v. [áutliv]`Sobrevivir.`Mabuhay pa.eng_section:Outlive, v. [áutliv]
+eng_word:Outlive
+pos:v:
+
+spanish:Sobrevivir.
+spanish_word:Sobrevivir.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outlive$$, $$v$$,  $$sobrevivir.$$)
+    
+
+
+Outlook, n. [áutluk]`Vigilancia, prevision.`Ingat, agap, tanaw.eng_section:Outlook, n. [áutluk]
+eng_word:Outlook
+pos:n:
+
+spanish:Vigilancia, prevision.
+spanish_word:Vigilancia
+spanish_word:prevision.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outlook$$, $$n$$,  $$vigilancia, prevision.$$)
+    
+
+
+Outlying, adj. [áutlaying]`Distante de, lejos de.`Malayò sa.eng_section:Outlying, adj. [áutlaying]
+eng_word:Outlying
+pos:adj:
+
+spanish:Distante de, lejos de.
+spanish_phrase:Distante de
+spanish_phrase:lejos de.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outlying$$, $$adj$$,  $$distante de, lejos de.$$)
+    
+
+
+Outnumber, v. [autnámber]`Exceder en número.`Lumabis sa bilang.eng_section:Outnumber, v. [autnámber]
+eng_word:Outnumber
+pos:v:
+
+spanish:Exceder en número.
+spanish_phrase:Exceder en número.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outnumber$$, $$v$$,  $$exceder en número.$$)
+    
+
+
+Out of doors, n. [aut-of-dors]`Fuera de casa.`Labas ng bahay.eng_section:Out of doors, n. [aut-of-dors]
+eng_word:Out of doors
+pos:n:
+
+spanish:Fuera de casa.
+spanish_phrase:Fuera de casa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$out of doors$$, $$n$$,  $$fuera de casa.$$)
+    
+
+
+Outpost, n. [áutpost]`Puesto avanzado.`Bantay na nasa malayò.eng_section:Outpost, n. [áutpost]
+eng_word:Outpost
+pos:n:
+
+spanish:Puesto avanzado.
+spanish_phrase:Puesto avanzado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outpost$$, $$n$$,  $$puesto avanzado.$$)
+    
+
+
+Outrage, n. [áutredch]`Ultraje, afrenta, violencia.`Kadustaan, kapalíbhasaan, kalapastanganan.eng_section:Outrage, n. [áutredch]
+eng_word:Outrage
+pos:n:
+
+spanish:Ultraje, afrenta, violencia.
+spanish_word:Ultraje
+spanish_word:afrenta
+spanish_word:violencia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outrage$$, $$n$$,  $$ultraje, afrenta, violencia.$$)
+    
+
+
+Outrage, v. [áutredch]`Ultrajar.`Dumustâ, lumapastangan.eng_section:Outrage, v. [áutredch]
+eng_word:Outrage
+pos:v:
+
+spanish:Ultrajar.
+spanish_word:Ultrajar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outrage$$, $$v$$,  $$ultrajar.$$)
+    
+
+
+Outrageous, adj. [autrédches]`Ultrajoso.`Kadustâdustâ, lapastangan.eng_section:Outrageous, adj. [autrédches]
+eng_word:Outrageous
+pos:adj:
+
+spanish:Ultrajoso.
+spanish_word:Ultrajoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outrageous$$, $$adj$$,  $$ultrajoso.$$)
+    
+
+
+Outride, v. [autráid]`Ganar la delantera á caballo.`Máuna, isa pátulinan ng pangangabayo.eng_section:Outride, v. [autráid]
+eng_word:Outride
+pos:v:
+
+spanish:Ganar la delantera á caballo.
+spanish_phrase:Ganar la delantera á caballo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outride$$, $$v$$,  $$ganar la delantera á caballo.$$)
+    
+
+
+Outright, adv. [autráit]`Luego; complidamente.`Sakâ.eng_section:Outright, adv. [autráit]
+eng_word:Outright
+pos:adv:
+
+spanish:Luego; complidamente.
+spanish_phrase:Luego; complidamente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outright$$, $$adv$$,  $$luego; complidamente.$$)
+    
+
+
+Outrun, v. [autrán]`Correr mas que otro, ganar, exceder.`Máuna sa takbuhan.eng_section:Outrun, v. [autrán]
+eng_word:Outrun
+pos:v:
+
+spanish:Correr mas que otro, ganar, exceder.
+spanish_phrase:Correr mas que otro
+spanish_word:ganar
+spanish_word:exceder.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outrun$$, $$v$$,  $$correr mas que otro, ganar, exceder.$$)
+    
+
+
+Outsail, v. [autsél]`Navegar mas que otra embarcacion.`Máuna sa paglalayág.eng_section:Outsail, v. [autsél]
+eng_word:Outsail
+pos:v:
+
+spanish:Navegar mas que otra embarcacion.
+spanish_phrase:Navegar mas que otra embarcacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outsail$$, $$v$$,  $$navegar mas que otra embarcacion.$$)
+    
+
+
+Outset, n. [áutset]`Principio.`Simulâ, pasimulâ.eng_section:Outset, n. [áutset]
+eng_word:Outset
+pos:n:
+
+spanish:Principio.
+spanish_word:Principio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outset$$, $$n$$,  $$principio.$$)
+    
+
+
+Outside, n. [autsáid]`Superficie, exterior.`Ibabaw, labás.eng_section:Outside, n. [autsáid]
+eng_word:Outside
+pos:n:
+
+spanish:Superficie, exterior.
+spanish_word:Superficie
+spanish_word:exterior.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outside$$, $$n$$,  $$superficie, exterior.$$)
+    
+
+
+Outskirt, n. [áutskirt]`Parte exterior.`Dakong labas.eng_section:Outskirt, n. [áutskirt]
+eng_word:Outskirt
+pos:n:
+
+spanish:Parte exterior.
+spanish_phrase:Parte exterior.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outskirt$$, $$n$$,  $$parte exterior.$$)
+    
+
+
+Outspread, v. [áutspred]`Extender, difundir.`Palaganapin.eng_section:Outspread, v. [áutspred]
+eng_word:Outspread
+pos:v:
+
+spanish:Extender, difundir.
+spanish_word:Extender
+spanish_word:difundir.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outspread$$, $$v$$,  $$extender, difundir.$$)
+    
+
+
+Outstrip, v. [autstríp]`Avanzar mas que otro, rezagar, sobrepujar.`Máuna.eng_section:Outstrip, v. [autstríp]
+eng_word:Outstrip
+pos:v:
+
+spanish:Avanzar mas que otro, rezagar, sobrepujar.
+spanish_phrase:Avanzar mas que otro
+spanish_word:rezagar
+spanish_word:sobrepujar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outstrip$$, $$v$$,  $$avanzar mas que otro, rezagar, sobrepujar.$$)
+    
+
+
+Outward, adj. [áutuard]`Exterior, visible.`Labás, kita.eng_section:Outward, adj. [áutuard]
+eng_word:Outward
+pos:adj:
+
+spanish:Exterior, visible.
+spanish_word:Exterior
+spanish_word:visible.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outward$$, $$adj$$,  $$exterior, visible.$$)
+    
+
+
+Outwear, v. [autwír]`Durar mas tiempo.`Tumagal ng higít kaysa iba.eng_section:Outwear, v. [autwír]
+eng_word:Outwear
+pos:v:
+
+spanish:Durar mas tiempo.
+spanish_phrase:Durar mas tiempo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outwear$$, $$v$$,  $$durar mas tiempo.$$)
+    
+
+
+Outweigh, v. [autwé]`Preponderar, pesar mas.`Bumigat ng higít kaysa iba.eng_section:Outweigh, v. [autwé]
+eng_word:Outweigh
+pos:v:
+
+spanish:Preponderar, pesar mas.
+spanish_word:Preponderar
+spanish_phrase:pesar mas.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outweigh$$, $$v$$,  $$preponderar, pesar mas.$$)
+    
+
+
+Outwit, v. [autwít]`Engañar á uno á fuerza de tretas.`Manalo sa pamamagitan ng laláng.eng_section:Outwit, v. [autwít]
+eng_word:Outwit
+pos:v:
+
+spanish:Engañar á uno á fuerza de tretas.
+spanish_phrase:Engañar á uno á fuerza de tretas.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$outwit$$, $$v$$,  $$engañar á uno á fuerza de tretas.$$)
+    
+
+
+Oval, n. [óval]`Óvalo.`Talohahà.eng_section:Oval, n. [óval]
+eng_word:Oval
+pos:n:
+
+spanish:Óvalo.
+spanish_word:Óvalo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oval$$, $$n$$,  $$óvalo.$$)
+    
+
+
+Ovate, adj. [óvet]`Formado como huevo.`Parang itlog.eng_section:Ovate, adj. [óvet]
+eng_word:Ovate
+pos:adj:
+
+spanish:Formado como huevo.
+spanish_phrase:Formado como huevo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ovate$$, $$adj$$,  $$formado como huevo.$$)
+    
+
+
+Ovation, n. [ovécion]`Ovacion.`Papuri.eng_section:Ovation, n. [ovécion]
+eng_word:Ovation
+pos:n:
+
+spanish:Ovacion.
+spanish_word:Ovacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ovation$$, $$n$$,  $$ovacion.$$)
+    
+
+
+Oven, n. [óvn]`Horno.`Hurnó.eng_section:Oven, n. [óvn]
+eng_word:Oven
+pos:n:
+
+spanish:Horno.
+spanish_word:Horno.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oven$$, $$n$$,  $$horno.$$)
+    
+
+
+Over, prep. [óver]`Sobre, emcima.`Sa ibabaw.eng_section:Over, prep. [óver]
+eng_word:Over
+pos:prep:
+
+spanish:Sobre, emcima.
+spanish_word:Sobre
+spanish_word:emcima.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$over$$, $$prep$$,  $$sobre, emcima.$$)
+    
+
+
+Overawe, n. [overó]`Intimidar.`Tumakot.eng_section:Overawe, n. [overó]
+eng_word:Overawe
+pos:n:
+
+spanish:Intimidar.
+spanish_word:Intimidar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overawe$$, $$n$$,  $$intimidar.$$)
+    
+
+
+Overbalance, n. [overbálans]`Preponderancia.`Bigat ng timbáng.eng_section:Overbalance, n. [overbálans]
+eng_word:Overbalance
+pos:n:
+
+spanish:Preponderancia.
+spanish_word:Preponderancia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overbalance$$, $$n$$,  $$preponderancia.$$)
+    
+
+
+Overbalance, v. [overbálans]`Preponderar.`Humigít (sa timbang).eng_section:Overbalance, v. [overbálans]
+eng_word:Overbalance
+pos:v:
+
+spanish:Preponderar.
+spanish_word:Preponderar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overbalance$$, $$v$$,  $$preponderar.$$)
+    
+
+
+Overbear, v. [overbír]`Dominar, sujetar.`Sumupil, manaig.eng_section:Overbear, v. [overbír]
+eng_word:Overbear
+pos:v:
+
+spanish:Dominar, sujetar.
+spanish_word:Dominar
+spanish_word:sujetar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overbear$$, $$v$$,  $$dominar, sujetar.$$)
+    
+
+
+Overbearing, n. [overbíring]`Ultrajoso, despótico.`Mapag-alipustâ, mabaksik.eng_section:Overbearing, n. [overbíring]
+eng_word:Overbearing
+pos:n:
+
+spanish:Ultrajoso, despótico.
+spanish_word:Ultrajoso
+spanish_word:despótico.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overbearing$$, $$n$$,  $$ultrajoso, despótico.$$)
+    
+
+
+Overboard, adj. [óverbord]`A la mar, fuera del navio.`Sa tubig.eng_section:Overboard, adj. [óverbord]
+eng_word:Overboard
+pos:adj:
+
+spanish:A la mar, fuera del navio.
+spanish_phrase:A la mar
+spanish_phrase:fuera del navio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overboard$$, $$adj$$,  $$a la mar, fuera del navio.$$)
+    
+
+
+Overcast, v. [overcást]`Oscurecer.`Palabuin.eng_section:Overcast, v. [overcást]
+eng_word:Overcast
+pos:v:
+
+spanish:Oscurecer.
+spanish_word:Oscurecer.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overcast$$, $$v$$,  $$oscurecer.$$)
+    
+
+
+Overcoat, n. [overcót]`Sobretodo, capote.`Kapote.eng_section:Overcoat, n. [overcót]
+eng_word:Overcoat
+pos:n:
+
+spanish:Sobretodo, capote.
+spanish_word:Sobretodo
+spanish_word:capote.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overcoat$$, $$n$$,  $$sobretodo, capote.$$)
+    
+
+
+Overcome, v. [overcám]`Vencer, superar.`Manalo, manaig, sumupil.eng_section:Overcome, v. [overcám]
+eng_word:Overcome
+pos:v:
+
+spanish:Vencer, superar.
+spanish_word:Vencer
+spanish_word:superar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overcome$$, $$v$$,  $$vencer, superar.$$)
+    
+
+
+Overdo, v. [overdú]`Hacer mas de lo necesario.`Gumawâ ng higit kaysa nararapat.eng_section:Overdo, v. [overdú]
+eng_word:Overdo
+pos:v:
+
+spanish:Hacer mas de lo necesario.
+spanish_phrase:Hacer mas de lo necesario.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overdo$$, $$v$$,  $$hacer mas de lo necesario.$$)
+    
+
+
+Overdone, p.p. [óverdan]`Rendido, cansado.`Patâ, pagód.eng_section:Overdone, p.p. [óverdan]
+eng_word:Overdone
+pos:pp:
+
+spanish:Rendido, cansado.
+spanish_word:Rendido
+spanish_word:cansado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overdone$$, $$pp$$,  $$rendido, cansado.$$)
+    
+
+
+Overdue, adj. [overdiú]`Lo que ha pasado del tiempo debido.`Lampás sa panahon.eng_section:Overdue, adj. [overdiú]
+eng_word:Overdue
+pos:adj:
+
+spanish:Lo que ha pasado del tiempo debido.
+spanish_phrase:Lo que ha pasado del tiempo debido.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overdue$$, $$adj$$,  $$lo que ha pasado del tiempo debido.$$)
+    
+
+
+Overflow, n. [óverflo]`Inundacion.`Bahâ, apaw na tubig.eng_section:Overflow, n. [óverflo]
+eng_word:Overflow
+pos:n:
+
+spanish:Inundacion.
+spanish_word:Inundacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overflow$$, $$n$$,  $$inundacion.$$)
+    
+
+
+Overflow, v. [óverflo]`Inundar, rebosar.`Bumahâ, umapaw.eng_section:Overflow, v. [óverflo]
+eng_word:Overflow
+pos:v:
+
+spanish:Inundar, rebosar.
+spanish_word:Inundar
+spanish_word:rebosar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overflow$$, $$v$$,  $$inundar, rebosar.$$)
+    
+
+
+Overgrow, v. [overgró]`Crecer demasiado.`Lumagóng lubhâ.eng_section:Overgrow, v. [overgró]
+eng_word:Overgrow
+pos:v:
+
+spanish:Crecer demasiado.
+spanish_phrase:Crecer demasiado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overgrow$$, $$v$$,  $$crecer demasiado.$$)
+    
+
+
+Overhang, v. [overjéng]`Salir algo fuera del nivel de algun edificio; mirar á, caer á.`Ilaylay, isampay; dumungaw, dumukwang.eng_section:Overhang, v. [overjéng]
+eng_word:Overhang
+pos:v:
+
+spanish:Salir algo fuera del nivel de algun edificio; mirar á, caer á.
+spanish_phrase:Salir algo fuera del nivel de algun edificio; mirar á
+spanish_phrase:caer á.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overhang$$, $$v$$,  $$salir algo fuera del nivel de algun edificio; mirar á, caer á.$$)
+    
+
+
+Overhaul, v. [overjól]`Desparramar alguna cosa; registrar, examinar.`Magladlad, sumaliksik, lumitis.eng_section:Overhaul, v. [overjól]
+eng_word:Overhaul
+pos:v:
+
+spanish:Desparramar alguna cosa; registrar, examinar.
+spanish_phrase:Desparramar alguna cosa; registrar
+spanish_word:examinar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overhaul$$, $$v$$,  $$desparramar alguna cosa; registrar, examinar.$$)
+    
+
+
+Overhead, adj. [overjéd]`Encima, arriba, en lo alto.`Sa itaas.eng_section:Overhead, adj. [overjéd]
+eng_word:Overhead
+pos:adj:
+
+spanish:Encima, arriba, en lo alto.
+spanish_word:Encima
+spanish_word:arriba
+spanish_phrase:en lo alto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overhead$$, $$adj$$,  $$encima, arriba, en lo alto.$$)
+    
+
+
+Overhear, v. [overjír]`Entreoir.`Makáulinig.eng_section:Overhear, v. [overjír]
+eng_word:Overhear
+pos:v:
+
+spanish:Entreoir.
+spanish_word:Entreoir.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overhear$$, $$v$$,  $$entreoir.$$)
+    
+
+
+Overjoy, n. [óverdchoy]`Arrebato de alegría, éxtasis.`Galak, kagalakan.eng_section:Overjoy, n. [óverdchoy]
+eng_word:Overjoy
+pos:n:
+
+spanish:Arrebato de alegría, éxtasis.
+spanish_phrase:Arrebato de alegría
+spanish_word:éxtasis.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overjoy$$, $$n$$,  $$arrebato de alegría, éxtasis.$$)
+    
+
+
+Overlay, v. [overlé]`Abrumar.`Gumambalà.eng_section:Overlay, v. [overlé]
+eng_word:Overlay
+pos:v:
+
+spanish:Abrumar.
+spanish_word:Abrumar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overlay$$, $$v$$,  $$abrumar.$$)
+    
+
+
+Overlook, v. [overlúc]`Mirar desde lo alto; pasar por alto.`Tumungó; tunghan; paraanin, hwag alintanahin.eng_section:Overlook, v. [overlúc]
+eng_word:Overlook
+pos:v:
+
+spanish:Mirar desde lo alto; pasar por alto.
+spanish_phrase:Mirar desde lo alto; pasar por alto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overlook$$, $$v$$,  $$mirar desde lo alto; pasar por alto.$$)
+    
+
+
+Overpass, v. [overpás]`Pasar por alto.`Palagpasin, hwag alumanahin.eng_section:Overpass, v. [overpás]
+eng_word:Overpass
+pos:v:
+
+spanish:Pasar por alto.
+spanish_phrase:Pasar por alto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overpass$$, $$v$$,  $$pasar por alto.$$)
+    
+
+
+Overpower, v. [over-pauer]`Predominar, oprimir.`Manaig, mamighatì.eng_section:Overpower, v. [over-pauer]
+eng_word:Overpower
+pos:v:
+
+spanish:Predominar, oprimir.
+spanish_word:Predominar
+spanish_word:oprimir.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overpower$$, $$v$$,  $$predominar, oprimir.$$)
+    
+
+
+Over-reach, v. [over-rích]`Sobresalir, engañar.`Lumagpas, dumayà.eng_section:Over-reach, v. [over-rích]
+eng_word:Over-reach
+pos:v:
+
+spanish:Sobresalir, engañar.
+spanish_word:Sobresalir
+spanish_word:engañar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$over-reach$$, $$v$$,  $$sobresalir, engañar.$$)
+    
+
+
+Over-rule, v. [over-riúl]`Predominar.`Manaig, mamunò.eng_section:Over-rule, v. [over-riúl]
+eng_word:Over-rule
+pos:v:
+
+spanish:Predominar.
+spanish_word:Predominar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$over-rule$$, $$v$$,  $$predominar.$$)
+    
+
+
+Oversee, v. [oversí]`Inspeccionar.`Mangalagà, sumiyasat.eng_section:Oversee, v. [oversí]
+eng_word:Oversee
+pos:v:
+
+spanish:Inspeccionar.
+spanish_word:Inspeccionar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oversee$$, $$v$$,  $$inspeccionar.$$)
+    
+
+
+Overseer, n. [oversír]`Superintendente, sobrestante.`Tagapamahalà, tagabantay.eng_section:Overseer, n. [oversír]
+eng_word:Overseer
+pos:n:
+
+spanish:Superintendente, sobrestante.
+spanish_word:Superintendente
+spanish_word:sobrestante.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overseer$$, $$n$$,  $$superintendente, sobrestante.$$)
+    
+
+
+Overset, v. [oversét]`Volcar, trastornar.`Itaob; ibwal, guluhin.eng_section:Overset, v. [oversét]
+eng_word:Overset
+pos:v:
+
+spanish:Volcar, trastornar.
+spanish_word:Volcar
+spanish_word:trastornar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overset$$, $$v$$,  $$volcar, trastornar.$$)
+    
+
+
+Overshoe, n. [óversio]`Galocha.`Sapatos na pang-ibabaw.eng_section:Overshoe, n. [óversio]
+eng_word:Overshoe
+pos:n:
+
+spanish:Galocha.
+spanish_word:Galocha.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overshoe$$, $$n$$,  $$galocha.$$)
+    
+
+
+Overshoot, v. [oversiút]`Pasar de raya.`Lumisyâ, dî tumamâ.eng_section:Overshoot, v. [oversiút]
+eng_word:Overshoot
+pos:v:
+
+spanish:Pasar de raya.
+spanish_phrase:Pasar de raya.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overshoot$$, $$v$$,  $$pasar de raya.$$)
+    
+
+
+Oversight, n. [óversait]`Yerro, equivocacion.`Kamalian, malî.eng_section:Oversight, n. [óversait]
+eng_word:Oversight
+pos:n:
+
+spanish:Yerro, equivocacion.
+spanish_word:Yerro
+spanish_word:equivocacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oversight$$, $$n$$,  $$yerro, equivocacion.$$)
+    
+
+
+Overspread, v. [overspred]`Desparramar.`Mangalat, lumaganap.eng_section:Overspread, v. [overspred]
+eng_word:Overspread
+pos:v:
+
+spanish:Desparramar.
+spanish_word:Desparramar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overspread$$, $$v$$,  $$desparramar.$$)
+    
+
+
+Overstep, v. [overstép]`Pasar más allá.`Laktawán.eng_section:Overstep, v. [overstép]
+eng_word:Overstep
+pos:v:
+
+spanish:Pasar más allá.
+spanish_phrase:Pasar más allá.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overstep$$, $$v$$,  $$pasar más allá.$$)
+    
+
+
+Overt, adj. [óvert]`Abierto, público.`Hayag, litaw.eng_section:Overt, adj. [óvert]
+eng_word:Overt
+pos:adj:
+
+spanish:Abierto, público.
+spanish_word:Abierto
+spanish_word:público.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overt$$, $$adj$$,  $$abierto, público.$$)
+    
+
+
+Overtake, v. [overték]`Alcanzar.`Abutan, abutin.eng_section:Overtake, v. [overték]
+eng_word:Overtake
+pos:v:
+
+spanish:Alcanzar.
+spanish_word:Alcanzar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overtake$$, $$v$$,  $$alcanzar.$$)
+    
+
+
+Overthrow, v. [overzró]`Trastornar, demoler, destruir.`Guluhín, sirain.eng_section:Overthrow, v. [overzró]
+eng_word:Overthrow
+pos:v:
+
+spanish:Trastornar, demoler, destruir.
+spanish_word:Trastornar
+spanish_word:demoler
+spanish_word:destruir.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overthrow$$, $$v$$,  $$trastornar, demoler, destruir.$$)
+    
+
+
+Overture, n. [óvertiur]`Abertura.`Butas.eng_section:Overture, n. [óvertiur]
+eng_word:Overture
+pos:n:
+
+spanish:Abertura.
+spanish_word:Abertura.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overture$$, $$n$$,  $$abertura.$$)
+    
+
+
+Overturn, v. [overtárn]`Subvertir, volver al revés.`Bumalikwas; baligtarín.eng_section:Overturn, v. [overtárn]
+eng_word:Overturn
+pos:v:
+
+spanish:Subvertir, volver al revés.
+spanish_word:Subvertir
+spanish_phrase:volver al revés.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overturn$$, $$v$$,  $$subvertir, volver al revés.$$)
+    
+
+
+Overween, v. [overuín]`Presumir, vanagloriarse.`Maghambog, magparangâ.eng_section:Overween, v. [overuín]
+eng_word:Overween
+pos:v:
+
+spanish:Presumir, vanagloriarse.
+spanish_word:Presumir
+spanish_word:vanagloriarse.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overween$$, $$v$$,  $$presumir, vanagloriarse.$$)
+    
+
+
+Overweight, n. [óverueit]`Exceso en el peso.`Kalabisan sa timbang.eng_section:Overweight, n. [óverueit]
+eng_word:Overweight
+pos:n:
+
+spanish:Exceso en el peso.
+spanish_phrase:Exceso en el peso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overweight$$, $$n$$,  $$exceso en el peso.$$)
+    
+
+
+Overwhelm, v. [overjuélm]`Abrumar, oprimir.`Sumupil, manaig.eng_section:Overwhelm, v. [overjuélm]
+eng_word:Overwhelm
+pos:v:
+
+spanish:Abrumar, oprimir.
+spanish_word:Abrumar
+spanish_word:oprimir.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overwhelm$$, $$v$$,  $$abrumar, oprimir.$$)
+    
+
+
+Overwork, n. [overuerk]`Exceso de trabajo.`Kalabisan sa paggawâ.eng_section:Overwork, n. [overuerk]
+eng_word:Overwork
+pos:n:
+
+spanish:Exceso de trabajo.
+spanish_phrase:Exceso de trabajo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$overwork$$, $$n$$,  $$exceso de trabajo.$$)
+    
+
+
+Owe, v. [o]`Deber, tener deudas.`Umutang, magkautang.eng_section:Owe, v. [o]
+eng_word:Owe
+pos:v:
+
+spanish:Deber, tener deudas.
+spanish_word:Deber
+spanish_phrase:tener deudas.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$owe$$, $$v$$,  $$deber, tener deudas.$$)
+    
+
+
+Owl, n. [ául]`Lechuza.`Kwago.eng_section:Owl, n. [ául]
+eng_word:Owl
+pos:n:
+
+spanish:Lechuza.
+spanish_word:Lechuza.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$owl$$, $$n$$,  $$lechuza.$$)
+    
+
+
+Owlish, adj. [áulish]`Semejante á la lechuza.`Parang kwago.eng_section:Owlish, adj. [áulish]
+eng_word:Owlish
+pos:adj:
+
+spanish:Semejante á la lechuza.
+spanish_phrase:Semejante á la lechuza.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$owlish$$, $$adj$$,  $$semejante á la lechuza.$$)
+    
+
+
+Own, adj. [on]`Propio.`Sarili.eng_section:Own, adj. [on]
+eng_word:Own
+pos:adj:
+
+spanish:Propio.
+spanish_word:Propio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$own$$, $$adj$$,  $$propio.$$)
+    
+
+
+Own, v. [on]`Poseer, ser dueño de alguna cosa.`Umarì, mag-may-arî.eng_section:Own, v. [on]
+eng_word:Own
+pos:v:
+
+spanish:Poseer, ser dueño de alguna cosa.
+spanish_word:Poseer
+spanish_phrase:ser dueño de alguna cosa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$own$$, $$v$$,  $$poseer, ser dueño de alguna cosa.$$)
+    
+
+
+Owner, n. [óner]`Dueño, poseedor, propietario.`May-arì.eng_section:Owner, n. [óner]
+eng_word:Owner
+pos:n:
+
+spanish:Dueño, poseedor, propietario.
+spanish_word:Dueño
+spanish_word:poseedor
+spanish_word:propietario.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$owner$$, $$n$$,  $$dueño, poseedor, propietario.$$)
+    
+
+
+Ownership, n. [ónership]`Dominio.`Pagka-may-arì.eng_section:Ownership, n. [ónership]
+eng_word:Ownership
+pos:n:
+
+spanish:Dominio.
+spanish_word:Dominio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ownership$$, $$n$$,  $$dominio.$$)
+    
+
+
+Ox, n. [ocs]`Buey.`Toro, baka.eng_section:Ox, n. [ocs]
+eng_word:Ox
+pos:n:
+
+spanish:Buey.
+spanish_word:Buey.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ox$$, $$n$$,  $$buey.$$)
+    
+
+
+Ox-fly, n. [ócs-flai]`Tábano.`Bangaw.eng_section:Ox-fly, n. [ócs-flai]
+eng_word:Ox-fly
+pos:n:
+
+spanish:Tábano.
+spanish_word:Tábano.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ox-fly$$, $$n$$,  $$tábano.$$)
+    
+
+
+Ox-tongue, n. [ócs-tong]`Buglosa.`Dilang-baka (halaman).eng_section:Ox-tongue, n. [ócs-tong]
+eng_word:Ox-tongue
+pos:n:
+
+spanish:Buglosa.
+spanish_word:Buglosa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ox-tongue$$, $$n$$,  $$buglosa.$$)
+    
+
+
+Oyster, n. [óister]`Ostra.`Talabá.eng_section:Oyster, n. [óister]
+eng_word:Oyster
+pos:n:
+
+spanish:Ostra.
+spanish_word:Ostra.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$oyster$$, $$n$$,  $$ostra.$$)
+    
+
+

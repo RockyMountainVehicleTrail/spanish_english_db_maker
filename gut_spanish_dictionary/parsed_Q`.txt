@@ -1,0 +1,1352 @@
+Quack, n. [cuác]`Curandero.`Manggagamot na dî nag-aral, arbularyo.eng_section:Quack, n. [cuác]
+eng_word:Quack
+pos:n:
+
+spanish:Curandero.
+spanish_word:Curandero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quack$$, $$n$$,  $$curandero.$$)
+    
+
+
+Quack, v. [cuác]`Graznar como un pato.`Humuning parang pato ó itik.eng_section:Quack, v. [cuác]
+eng_word:Quack
+pos:v:
+
+spanish:Graznar como un pato.
+spanish_phrase:Graznar como un pato.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quack$$, $$v$$,  $$graznar como un pato.$$)
+    
+
+
+Quackery, n. [cuákeri]`Charlatanería, habladuría.`Satsát, kahig ng salitaan, tabíl.eng_section:Quackery, n. [cuákeri]
+eng_word:Quackery
+pos:n:
+
+spanish:Charlatanería, habladuría.
+spanish_word:Charlatanería
+spanish_word:habladuría.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quackery$$, $$n$$,  $$charlatanería, habladuría.$$)
+    
+
+
+Quadragesima, n. [cuodrajésima]`Cuadragésima.`Kurismá.eng_section:Quadragesima, n. [cuodrajésima]
+eng_word:Quadragesima
+pos:n:
+
+spanish:Cuadragésima.
+spanish_word:Cuadragésima.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quadragesima$$, $$n$$,  $$cuadragésima.$$)
+    
+
+
+Quadragesimal, adj. [cuodrajésimal]`Cuadragesimal.`Ikaapat na pù; nauukol sa kurismá.eng_section:Quadragesimal, adj. [cuodrajésimal]
+eng_word:Quadragesimal
+pos:adj:
+
+spanish:Cuadragesimal.
+spanish_word:Cuadragesimal.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quadragesimal$$, $$adj$$,  $$cuadragesimal.$$)
+    
+
+
+Quadrangle, n. [cuódrangl]`Cuadrángulo.`Ang may apat na sulok ó panulukan.eng_section:Quadrangle, n. [cuódrangl]
+eng_word:Quadrangle
+pos:n:
+
+spanish:Cuadrángulo.
+spanish_word:Cuadrángulo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quadrangle$$, $$n$$,  $$cuadrángulo.$$)
+    
+
+
+Quadrate, adj. [cuódret]`Cuadro, cuadrado.`Parisukat.eng_section:Quadrate, adj. [cuódret]
+eng_word:Quadrate
+pos:adj:
+
+spanish:Cuadro, cuadrado.
+spanish_word:Cuadro
+spanish_word:cuadrado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quadrate$$, $$adj$$,  $$cuadro, cuadrado.$$)
+    
+
+
+Quadratic, adj. [cuodrátic]`Lo que pertenece al cuadro ó cuadrado.`Nauukol sa parisukat.eng_section:Quadratic, adj. [cuodrátic]
+eng_word:Quadratic
+pos:adj:
+
+spanish:Lo que pertenece al cuadro ó cuadrado.
+spanish_phrase:Lo que pertenece al cuadro ó cuadrado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quadratic$$, $$adj$$,  $$lo que pertenece al cuadro ó cuadrado.$$)
+    
+
+
+Quadrennial, adj. [cuodrénial]`Cuadrienal; lo que sucede una vez cada cuatro años.`Ang bawa't ikaapat na taón.eng_section:Quadrennial, adj. [cuodrénial]
+eng_word:Quadrennial
+pos:adj:
+
+spanish:Cuadrienal; lo que sucede una vez cada cuatro años.
+spanish_phrase:Cuadrienal; lo que sucede una vez cada cuatro años.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quadrennial$$, $$adj$$,  $$cuadrienal; lo que sucede una vez cada cuatro años.$$)
+    
+
+
+Quadrilateral, adj. [cuodriláteral]`Cuadrilátero.`Aapating gilid at panulukan.eng_section:Quadrilateral, adj. [cuodriláteral]
+eng_word:Quadrilateral
+pos:adj:
+
+spanish:Cuadrilátero.
+spanish_word:Cuadrilátero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quadrilateral$$, $$adj$$,  $$cuadrilátero.$$)
+    
+
+
+Quadrille, n. [cadríl]`Contradanza, rigodon.`Rigodon.eng_section:Quadrille, n. [cadríl]
+eng_word:Quadrille
+pos:n:
+
+spanish:Contradanza, rigodon.
+spanish_word:Contradanza
+spanish_word:rigodon.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quadrille$$, $$n$$,  $$contradanza, rigodon.$$)
+    
+
+
+Quadroon, n. [cuodrón]`Cuarterón.`Ang ikapat na bahagi ng anoman.eng_section:Quadroon, n. [cuodrón]
+eng_word:Quadroon
+pos:n:
+
+spanish:Cuarterón.
+spanish_word:Cuarterón.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quadroon$$, $$n$$,  $$cuarterón.$$)
+    
+
+
+Quadruped, n. [cuódriuped]`Cuadrúpedo.`May apat na paa.eng_section:Quadruped, n. [cuódriuped]
+eng_word:Quadruped
+pos:n:
+
+spanish:Cuadrúpedo.
+spanish_word:Cuadrúpedo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quadruped$$, $$n$$,  $$cuadrúpedo.$$)
+    
+
+
+Quadruple, adj. [cuódriupl]`Cuádruplo.`Makaapat na ibayo ó doble.eng_section:Quadruple, adj. [cuódriupl]
+eng_word:Quadruple
+pos:adj:
+
+spanish:Cuádruplo.
+spanish_word:Cuádruplo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quadruple$$, $$adj$$,  $$cuádruplo.$$)
+    
+
+
+Quadruplicate, v. [cuodriúpliket]`Cuadruplicar.`Papag-apating ibayo ó doble.eng_section:Quadruplicate, v. [cuodriúpliket]
+eng_word:Quadruplicate
+pos:v:
+
+spanish:Cuadruplicar.
+spanish_word:Cuadruplicar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quadruplicate$$, $$v$$,  $$cuadruplicar.$$)
+    
+
+
+Quaff, v. [cuaf]`Beber á grandes tragos.`Lumagok.eng_section:Quaff, v. [cuaf]
+eng_word:Quaff
+pos:v:
+
+spanish:Beber á grandes tragos.
+spanish_phrase:Beber á grandes tragos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quaff$$, $$v$$,  $$beber á grandes tragos.$$)
+    
+
+
+Quagmire, n. [cuágmair]`Tremedal.`Lumbak.eng_section:Quagmire, n. [cuágmair]
+eng_word:Quagmire
+pos:n:
+
+spanish:Tremedal.
+spanish_word:Tremedal.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quagmire$$, $$n$$,  $$tremedal.$$)
+    
+
+
+Quaggy, adj. [cuágui]`Pantanoso.`Malatì, malabón.eng_section:Quaggy, adj. [cuágui]
+eng_word:Quaggy
+pos:adj:
+
+spanish:Pantanoso.
+spanish_word:Pantanoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quaggy$$, $$adj$$,  $$pantanoso.$$)
+    
+
+
+Quail, n. [cuel]`Codorniz.`Pugò.eng_section:Quail, n. [cuel]
+eng_word:Quail
+pos:n:
+
+spanish:Codorniz.
+spanish_word:Codorniz.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quail$$, $$n$$,  $$codorniz.$$)
+    
+
+
+Quaint, adj. [cuent]`Pulido, exquisito.`Mainam, maigi.eng_section:Quaint, adj. [cuent]
+eng_word:Quaint
+pos:adj:
+
+spanish:Pulido, exquisito.
+spanish_word:Pulido
+spanish_word:exquisito.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quaint$$, $$adj$$,  $$pulido, exquisito.$$)
+    
+
+
+Quake, v. [cuec]`Temblar, tiritar.`Manginíg, mangaligkíg, mangaykay, mangatal.eng_section:Quake, v. [cuec]
+eng_word:Quake
+pos:v:
+
+spanish:Temblar, tiritar.
+spanish_word:Temblar
+spanish_word:tiritar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quake$$, $$v$$,  $$temblar, tiritar.$$)
+    
+
+
+Quaker, n. [cuéker]`Cuácaro.`Kuákaro [isang pangkating protestante].eng_section:Quaker, n. [cuéker]
+eng_word:Quaker
+pos:n:
+
+spanish:Cuácaro.
+spanish_word:Cuácaro.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quaker$$, $$n$$,  $$cuácaro.$$)
+    
+
+
+Qualification, n. [cuolifikécion]`Calificacion.`Pag-urì; surì; buti ó samâ.eng_section:Qualification, n. [cuolifikécion]
+eng_word:Qualification
+pos:n:
+
+spanish:Calificacion.
+spanish_word:Calificacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$qualification$$, $$n$$,  $$calificacion.$$)
+    
+
+
+Qualify, v. [cuólifai]`Calificar.`Uriin; suriin.eng_section:Qualify, v. [cuólifai]
+eng_word:Qualify
+pos:v:
+
+spanish:Calificar.
+spanish_word:Calificar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$qualify$$, $$v$$,  $$calificar.$$)
+    
+
+
+Quality, n. [cuóliti]`Calidad, la propiedad natural de una cosa.`Kalidad, urì, likas.eng_section:Quality, n. [cuóliti]
+eng_word:Quality
+pos:n:
+
+spanish:Calidad, la propiedad natural de una cosa.
+spanish_word:Calidad
+spanish_phrase:la propiedad natural de una cosa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quality$$, $$n$$,  $$calidad, la propiedad natural de una cosa.$$)
+    
+
+
+Qualm, n. [cuam]`Desfallecimiento, desmayo.`Panglulupaypay, panglulumó.eng_section:Qualm, n. [cuam]
+eng_word:Qualm
+pos:n:
+
+spanish:Desfallecimiento, desmayo.
+spanish_word:Desfallecimiento
+spanish_word:desmayo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$qualm$$, $$n$$,  $$desfallecimiento, desmayo.$$)
+    
+
+
+Qualmish, adj. [cuámish]`Desfallecido, lánguido.`Lupaypay, lumó.eng_section:Qualmish, adj. [cuámish]
+eng_word:Qualmish
+pos:adj:
+
+spanish:Desfallecido, lánguido.
+spanish_word:Desfallecido
+spanish_word:lánguido.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$qualmish$$, $$adj$$,  $$desfallecido, lánguido.$$)
+    
+
+
+Quandary, n. [cuónderi]`Incertidumbre, duda.`Agam-agam, pag-aalangán.eng_section:Quandary, n. [cuónderi]
+eng_word:Quandary
+pos:n:
+
+spanish:Incertidumbre, duda.
+spanish_word:Incertidumbre
+spanish_word:duda.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quandary$$, $$n$$,  $$incertidumbre, duda.$$)
+    
+
+
+Quantity, n. [cuóntiti]`Cantidad.`Dami.eng_section:Quantity, n. [cuóntiti]
+eng_word:Quantity
+pos:n:
+
+spanish:Cantidad.
+spanish_word:Cantidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quantity$$, $$n$$,  $$cantidad.$$)
+    
+
+
+Quarantine, n. [cuorantín]`Cuarentena.`Kwarentenas.eng_section:Quarantine, n. [cuorantín]
+eng_word:Quarantine
+pos:n:
+
+spanish:Cuarentena.
+spanish_word:Cuarentena.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quarantine$$, $$n$$,  $$cuarentena.$$)
+    
+
+
+Quarrel, n. [cuórrel]`Quimera, pendencia, riña.`Basag-ulo, babag, away, káalitan, kágalitan.eng_section:Quarrel, n. [cuórrel]
+eng_word:Quarrel
+pos:n:
+
+spanish:Quimera, pendencia, riña.
+spanish_word:Quimera
+spanish_word:pendencia
+spanish_word:riña.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quarrel$$, $$n$$,  $$quimera, pendencia, riña.$$)
+    
+
+
+Quarrel, v. [cuórrel]`Reñir, pelear.`Makipagbasag-ulo, makipag-away, makipagbabág.eng_section:Quarrel, v. [cuórrel]
+eng_word:Quarrel
+pos:v:
+
+spanish:Reñir, pelear.
+spanish_word:Reñir
+spanish_word:pelear.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quarrel$$, $$v$$,  $$reñir, pelear.$$)
+    
+
+
+Quarrelsome, adj. [cuórrelsam]`Pendenciero, quimerista.`Palaaway, mapagbasag-ulo.eng_section:Quarrelsome, adj. [cuórrelsam]
+eng_word:Quarrelsome
+pos:adj:
+
+spanish:Pendenciero, quimerista.
+spanish_word:Pendenciero
+spanish_word:quimerista.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quarrelsome$$, $$adj$$,  $$pendenciero, quimerista.$$)
+    
+
+
+Quarry, n. [cuórri]`Cantera, el sitio de donde se saca piedra para labrar.`Tíbagan.eng_section:Quarry, n. [cuórri]
+eng_word:Quarry
+pos:n:
+
+spanish:Cantera, el sitio de donde se saca piedra para labrar.
+spanish_word:Cantera
+spanish_phrase:el sitio de donde se saca piedra para labrar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quarry$$, $$n$$,  $$cantera, el sitio de donde se saca piedra para labrar.$$)
+    
+
+
+Quarryman, n. [cuórriman]`Cavador de cantera.`Máninibag ng bató.eng_section:Quarryman, n. [cuórriman]
+eng_word:Quarryman
+pos:n:
+
+spanish:Cavador de cantera.
+spanish_phrase:Cavador de cantera.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quarryman$$, $$n$$,  $$cavador de cantera.$$)
+    
+
+
+Quarter, n. [cuórter]`Cuarto; trimestre; cuartel.`Ikapat na bahagi, labing limang minuto; bawa't tatlong bwan; kwartel.eng_section:Quarter, n. [cuórter]
+eng_word:Quarter
+pos:n:
+
+spanish:Cuarto; trimestre; cuartel.
+spanish_phrase:Cuarto; trimestre; cuartel.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quarter$$, $$n$$,  $$cuarto; trimestre; cuartel.$$)
+    
+
+
+Quarter, v. [cuórter]`Cuartear; acuartelar.`Apatín, papag-apatin; ikwartel.eng_section:Quarter, v. [cuórter]
+eng_word:Quarter
+pos:v:
+
+spanish:Cuartear; acuartelar.
+spanish_phrase:Cuartear; acuartelar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quarter$$, $$v$$,  $$cuartear; acuartelar.$$)
+    
+
+
+Quarterly, adv. [cuórterli]`Lo que se hace cada tres meses, trimestralmente.`Twing ikatlong bwan.eng_section:Quarterly, adv. [cuórterli]
+eng_word:Quarterly
+pos:adv:
+
+spanish:Lo que se hace cada tres meses, trimestralmente.
+spanish_phrase:Lo que se hace cada tres meses
+spanish_word:trimestralmente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quarterly$$, $$adv$$,  $$lo que se hace cada tres meses, trimestralmente.$$)
+    
+
+
+Quash, v. [cuosh]`Fracasar, anular, invalidar, derrogar.`Pinsalain, hadlangán, pawalán ng kabuluhán.eng_section:Quash, v. [cuosh]
+eng_word:Quash
+pos:v:
+
+spanish:Fracasar, anular, invalidar, derrogar.
+spanish_word:Fracasar
+spanish_word:anular
+spanish_word:invalidar
+spanish_word:derrogar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quash$$, $$v$$,  $$fracasar, anular, invalidar, derrogar.$$)
+    
+
+
+Quaver, v. [cuéver]`Gorgoritear, trinar.`Patiningin ang tinig.eng_section:Quaver, v. [cuéver]
+eng_word:Quaver
+pos:v:
+
+spanish:Gorgoritear, trinar.
+spanish_word:Gorgoritear
+spanish_word:trinar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quaver$$, $$v$$,  $$gorgoritear, trinar.$$)
+    
+
+
+Quay, n. [cuey]`Muelle.`Mwelye, daungán.eng_section:Quay, n. [cuey]
+eng_word:Quay
+pos:n:
+
+spanish:Muelle.
+spanish_word:Muelle.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quay$$, $$n$$,  $$muelle.$$)
+    
+
+
+Quean, n. [cuin]`Mujercilla, ramera.`Masamang babae; patutot.eng_section:Quean, n. [cuin]
+eng_word:Quean
+pos:n:
+
+spanish:Mujercilla, ramera.
+spanish_word:Mujercilla
+spanish_word:ramera.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quean$$, $$n$$,  $$mujercilla, ramera.$$)
+    
+
+
+Queasy, adj. [cuízi]`Nauseabundo, fastidioso.`Nakaaalibadbad, nakayayamot.eng_section:Queasy, adj. [cuízi]
+eng_word:Queasy
+pos:adj:
+
+spanish:Nauseabundo, fastidioso.
+spanish_word:Nauseabundo
+spanish_word:fastidioso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$queasy$$, $$adj$$,  $$nauseabundo, fastidioso.$$)
+    
+
+
+Queen, n. [cuin]`Reyna.`Reyna, haring babae, asawa ng harì.eng_section:Queen, n. [cuin]
+eng_word:Queen
+pos:n:
+
+spanish:Reyna.
+spanish_word:Reyna.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$queen$$, $$n$$,  $$reyna.$$)
+    
+
+
+Queer, adj. [cuir]`Raro, extraño, ridículo, extravagante.`Katwâ, kakatwâ, kaiba.eng_section:Queer, adj. [cuir]
+eng_word:Queer
+pos:adj:
+
+spanish:Raro, extraño, ridículo, extravagante.
+spanish_word:Raro
+spanish_word:extraño
+spanish_word:ridículo
+spanish_word:extravagante.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$queer$$, $$adj$$,  $$raro, extraño, ridículo, extravagante.$$)
+    
+
+
+Quell, v. [cuel]`Subyugar, abrumar, postrar.`Pasukuin, supílin, daigin, talunin, pangayupapain.eng_section:Quell, v. [cuel]
+eng_word:Quell
+pos:v:
+
+spanish:Subyugar, abrumar, postrar.
+spanish_word:Subyugar
+spanish_word:abrumar
+spanish_word:postrar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quell$$, $$v$$,  $$subyugar, abrumar, postrar.$$)
+    
+
+
+Quench, v. [cuench]`Apagar, matar la lumbre, extinguir.`Pumatay [ng ilaw, apoy ó sunog].eng_section:Quench, v. [cuench]
+eng_word:Quench
+pos:v:
+
+spanish:Apagar, matar la lumbre, extinguir.
+spanish_word:Apagar
+spanish_phrase:matar la lumbre
+spanish_word:extinguir.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quench$$, $$v$$,  $$apagar, matar la lumbre, extinguir.$$)
+    
+
+
+Querist, n. [cuírist]`Inquisidor, preguntador.`Tagasiyasat, tagatanong, palatanong.eng_section:Querist, n. [cuírist]
+eng_word:Querist
+pos:n:
+
+spanish:Inquisidor, preguntador.
+spanish_word:Inquisidor
+spanish_word:preguntador.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$querist$$, $$n$$,  $$inquisidor, preguntador.$$)
+    
+
+
+Querulous, adj. [cuériuloes]`Querelloso.`Mapagsakdal, mapagsumbong.eng_section:Querulous, adj. [cuériuloes]
+eng_word:Querulous
+pos:adj:
+
+spanish:Querelloso.
+spanish_word:Querelloso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$querulous$$, $$adj$$,  $$querelloso.$$)
+    
+
+
+Query, n. [cuéri]`Cuestión, pregunta.`Tanóng.eng_section:Query, n. [cuéri]
+eng_word:Query
+pos:n:
+
+spanish:Cuestión, pregunta.
+spanish_word:Cuestión
+spanish_word:pregunta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$query$$, $$n$$,  $$cuestión, pregunta.$$)
+    
+
+
+Query, v. [cuéri]`Preguntar.`Magtanong, tumanong.eng_section:Query, v. [cuéri]
+eng_word:Query
+pos:v:
+
+spanish:Preguntar.
+spanish_word:Preguntar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$query$$, $$v$$,  $$preguntar.$$)
+    
+
+
+Quest, n. [cuest]`Pesquisa, inquisicion.`Paniniyasat, pananaliksik, pag-uusig, paghanap.eng_section:Quest, n. [cuest]
+eng_word:Quest
+pos:n:
+
+spanish:Pesquisa, inquisicion.
+spanish_word:Pesquisa
+spanish_word:inquisicion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quest$$, $$n$$,  $$pesquisa, inquisicion.$$)
+    
+
+
+Question, n. [cuéstion]`Cuestion, interrogacion.`Bagay, asunto, tanong.eng_section:Question, n. [cuéstion]
+eng_word:Question
+pos:n:
+
+spanish:Cuestion, interrogacion.
+spanish_word:Cuestion
+spanish_word:interrogacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$question$$, $$n$$,  $$cuestion, interrogacion.$$)
+    
+
+
+Questionable, adj. [cueschénabl]`Cuestionable, problematico, sospechoso.`Nakapag-aalinlangan, nakapaghihinalà.eng_section:Questionable, adj. [cueschénabl]
+eng_word:Questionable
+pos:adj:
+
+spanish:Cuestionable, problematico, sospechoso.
+spanish_word:Cuestionable
+spanish_word:problematico
+spanish_word:sospechoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$questionable$$, $$adj$$,  $$cuestionable, problematico, sospechoso.$$)
+    
+
+
+Questioner, n. [cuéschoner]`Inquiridor, pregunton.`Mapagsiyasat, palatanóng.eng_section:Questioner, n. [cuéschoner]
+eng_word:Questioner
+pos:n:
+
+spanish:Inquiridor, pregunton.
+spanish_word:Inquiridor
+spanish_word:pregunton.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$questioner$$, $$n$$,  $$inquiridor, pregunton.$$)
+    
+
+
+Quibble, n. [cuíbl]`Juguete de vocablos.`Paláisipan.eng_section:Quibble, n. [cuíbl]
+eng_word:Quibble
+pos:n:
+
+spanish:Juguete de vocablos.
+spanish_phrase:Juguete de vocablos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quibble$$, $$n$$,  $$juguete de vocablos.$$)
+    
+
+
+Quick, adj. [cuic]`Veloz, lijero, pronto.`Madalî, matulin, maliksí.eng_section:Quick, adj. [cuic]
+eng_word:Quick
+pos:adj:
+
+spanish:Veloz, lijero, pronto.
+spanish_word:Veloz
+spanish_word:lijero
+spanish_word:pronto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quick$$, $$adj$$,  $$veloz, lijero, pronto.$$)
+    
+
+
+Quicken, v. [cuíkn]`Acelerar, urgir.`Papagmadaliin, papagmaliksihín.eng_section:Quicken, v. [cuíkn]
+eng_word:Quicken
+pos:v:
+
+spanish:Acelerar, urgir.
+spanish_word:Acelerar
+spanish_word:urgir.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quicken$$, $$v$$,  $$acelerar, urgir.$$)
+    
+
+
+Quicklime, n. [cuíclaim]`Cal viva.`Apog.eng_section:Quicklime, n. [cuíclaim]
+eng_word:Quicklime
+pos:n:
+
+spanish:Cal viva.
+spanish_phrase:Cal viva.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quicklime$$, $$n$$,  $$cal viva.$$)
+    
+
+
+Quickly, adv. [cuíkli]`Con presteza.`Dalî.eng_section:Quickly, adv. [cuíkli]
+eng_word:Quickly
+pos:adv:
+
+spanish:Con presteza.
+spanish_phrase:Con presteza.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quickly$$, $$adv$$,  $$con presteza.$$)
+    
+
+
+Quicksilver, n. [cuícsilver]`Azogue, mercurio.`Asoge.eng_section:Quicksilver, n. [cuícsilver]
+eng_word:Quicksilver
+pos:n:
+
+spanish:Azogue, mercurio.
+spanish_word:Azogue
+spanish_word:mercurio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quicksilver$$, $$n$$,  $$azogue, mercurio.$$)
+    
+
+
+Quick-witted, adj. [cuíc-uitted]`Perspicaz.`Matalinò.eng_section:Quick-witted, adj. [cuíc-uitted]
+eng_word:Quick-witted
+pos:adj:
+
+spanish:Perspicaz.
+spanish_word:Perspicaz.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quick-witted$$, $$adj$$,  $$perspicaz.$$)
+    
+
+
+Quid, n. [cuid]`Pedazo de tabaco que mascan los marineros.`Putol na maskada.eng_section:Quid, n. [cuid]
+eng_word:Quid
+pos:n:
+
+spanish:Pedazo de tabaco que mascan los marineros.
+spanish_phrase:Pedazo de tabaco que mascan los marineros.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quid$$, $$n$$,  $$pedazo de tabaco que mascan los marineros.$$)
+    
+
+
+Quiescent, adj. [cuaiésent]`Quieto, descansado.`Tahimik, tiwasay, timawà.eng_section:Quiescent, adj. [cuaiésent]
+eng_word:Quiescent
+pos:adj:
+
+spanish:Quieto, descansado.
+spanish_word:Quieto
+spanish_word:descansado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quiescent$$, $$adj$$,  $$quieto, descansado.$$)
+    
+
+
+Quiet, adj. [cuáit]`Quieto, tranquilo.`Tahimik, walang imík, walang kibô.eng_section:Quiet, adj. [cuáit]
+eng_word:Quiet
+pos:adj:
+
+spanish:Quieto, tranquilo.
+spanish_word:Quieto
+spanish_word:tranquilo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quiet$$, $$adj$$,  $$quieto, tranquilo.$$)
+    
+
+
+Quietness, n. [cuáitnes]`Quietud, sociego.`Katahimikan, kapahingahan.eng_section:Quietness, n. [cuáitnes]
+eng_word:Quietness
+pos:n:
+
+spanish:Quietud, sociego.
+spanish_word:Quietud
+spanish_word:sociego.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quietness$$, $$n$$,  $$quietud, sociego.$$)
+    
+
+
+Quill, n. [cuil]`Pluma [para escribir].`Pakpak [na panulat].eng_section:Quill, n. [cuil]
+eng_word:Quill
+pos:n:
+
+spanish:Pluma [para escribir].
+spanish_phrase:Pluma [para escribir].
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quill$$, $$n$$,  $$pluma [para escribir].$$)
+    
+
+
+Quilt, n. [cuilt]`Colcha.`Kulchón.eng_section:Quilt, n. [cuilt]
+eng_word:Quilt
+pos:n:
+
+spanish:Colcha.
+spanish_word:Colcha.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quilt$$, $$n$$,  $$colcha.$$)
+    
+
+
+Quinine, n. [cuináin]`Quinina.`Kinina [gamot].eng_section:Quinine, n. [cuináin]
+eng_word:Quinine
+pos:n:
+
+spanish:Quinina.
+spanish_word:Quinina.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quinine$$, $$n$$,  $$quinina.$$)
+    
+
+
+Quinquennial, adj. [cuincuénial]`Lo que sucede una vez en cinco años.`Twing ikalimang taón.eng_section:Quinquennial, adj. [cuincuénial]
+eng_word:Quinquennial
+pos:adj:
+
+spanish:Lo que sucede una vez en cinco años.
+spanish_phrase:Lo que sucede una vez en cinco años.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quinquennial$$, $$adj$$,  $$lo que sucede una vez en cinco años.$$)
+    
+
+
+Quincy, n. [cuínzi]`Angina.`Anhina [sakít na pamamagâ ng lalamunan].eng_section:Quincy, n. [cuínzi]
+eng_word:Quincy
+pos:n:
+
+spanish:Angina.
+spanish_word:Angina.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quincy$$, $$n$$,  $$angina.$$)
+    
+
+
+Quintal, n. [cuíntal]`Quintal.`Kintal ó sangdaang libra.eng_section:Quintal, n. [cuíntal]
+eng_word:Quintal
+pos:n:
+
+spanish:Quintal.
+spanish_word:Quintal.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quintal$$, $$n$$,  $$quintal.$$)
+    
+
+
+Quintet, n. [cuíntet]`Quinteto.`Kinteto ó binubuó ng limang mánunugtog na magkakatugmâ.eng_section:Quintet, n. [cuíntet]
+eng_word:Quintet
+pos:n:
+
+spanish:Quinteto.
+spanish_word:Quinteto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quintet$$, $$n$$,  $$quinteto.$$)
+    
+
+
+Quintuple, adj. [cuíntiupl]`Quíntuplo.`Makálima.eng_section:Quintuple, adj. [cuíntiupl]
+eng_word:Quintuple
+pos:adj:
+
+spanish:Quíntuplo.
+spanish_word:Quíntuplo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quintuple$$, $$adj$$,  $$quíntuplo.$$)
+    
+
+
+Quip, n. [cuíp]`Sarcasmo.`Tuyâ, uyám.eng_section:Quip, n. [cuíp]
+eng_word:Quip
+pos:n:
+
+spanish:Sarcasmo.
+spanish_word:Sarcasmo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quip$$, $$n$$,  $$sarcasmo.$$)
+    
+
+
+Quip, v. [cuíp]`Zaherir, satirizar.`Tumuyâ, manuyâ, umuyám.eng_section:Quip, v. [cuíp]
+eng_word:Quip
+pos:v:
+
+spanish:Zaherir, satirizar.
+spanish_word:Zaherir
+spanish_word:satirizar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quip$$, $$v$$,  $$zaherir, satirizar.$$)
+    
+
+
+Quire, n. [cuáir]`Coro; mano de papel.`Koro; manilya ó dalawang pu't apat na tiklop na papel.eng_section:Quire, n. [cuáir]
+eng_word:Quire
+pos:n:
+
+spanish:Coro; mano de papel.
+spanish_phrase:Coro; mano de papel.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quire$$, $$n$$,  $$coro; mano de papel.$$)
+    
+
+
+Quirk, n. [cuerc]`Pulla, expresion aguda y picante.`Tungayaw, dustâ.eng_section:Quirk, n. [cuerc]
+eng_word:Quirk
+pos:n:
+
+spanish:Pulla, expresion aguda y picante.
+spanish_word:Pulla
+spanish_phrase:expresion aguda y picante.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quirk$$, $$n$$,  $$pulla, expresion aguda y picante.$$)
+    
+
+
+Quit, v. [cuit]`Descargar á una persona de alguna obligacion, libertar.`Palayain, pabayaan.eng_section:Quit, v. [cuit]
+eng_word:Quit
+pos:v:
+
+spanish:Descargar á una persona de alguna obligacion, libertar.
+spanish_phrase:Descargar á una persona de alguna obligacion
+spanish_word:libertar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quit$$, $$v$$,  $$descargar á una persona de alguna obligacion, libertar.$$)
+    
+
+
+Quite, adv. [cuáit]`Totalmente, enteramente.`Pawà, lubos, pulos, ganáp.eng_section:Quite, adv. [cuáit]
+eng_word:Quite
+pos:adv:
+
+spanish:Totalmente, enteramente.
+spanish_word:Totalmente
+spanish_word:enteramente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quite$$, $$adv$$,  $$totalmente, enteramente.$$)
+    
+
+
+Quits, int. [cuits]`En paz!.`Tapus na!eng_section:Quits, int. [cuits]
+eng_word:Quits
+pos:int:
+
+spanish:En paz!.
+spanish_phrase:En paz!.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quits$$, $$int$$,  $$en paz!.$$)
+    
+
+
+Quittance, n. [cuítans]`Finiquito, desempeño; pago; recompensa.`Katúusan, kabayaran.eng_section:Quittance, n. [cuítans]
+eng_word:Quittance
+pos:n:
+
+spanish:Finiquito, desempeño; pago; recompensa.
+spanish_word:Finiquito
+spanish_phrase:desempeño; pago; recompensa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quittance$$, $$n$$,  $$finiquito, desempeño; pago; recompensa.$$)
+    
+
+
+Quiver, n. [cuíver]`Aljaba.`Sisidlan ng panà.eng_section:Quiver, n. [cuíver]
+eng_word:Quiver
+pos:n:
+
+spanish:Aljaba.
+spanish_word:Aljaba.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quiver$$, $$n$$,  $$aljaba.$$)
+    
+
+
+Quiver, v. [cuíver]`Temblar, estremecerse.`Manginig, mangilabot.eng_section:Quiver, v. [cuíver]
+eng_word:Quiver
+pos:v:
+
+spanish:Temblar, estremecerse.
+spanish_word:Temblar
+spanish_word:estremecerse.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quiver$$, $$v$$,  $$temblar, estremecerse.$$)
+    
+
+
+Quiz, v. [cuíz]`Burlar, chulear.`Magbirô, manuksó.eng_section:Quiz, v. [cuíz]
+eng_word:Quiz
+pos:v:
+
+spanish:Burlar, chulear.
+spanish_word:Burlar
+spanish_word:chulear.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quiz$$, $$v$$,  $$burlar, chulear.$$)
+    
+
+
+Quoit, n. [cuóit]`Tejo.`Bibinga.eng_section:Quoit, n. [cuóit]
+eng_word:Quoit
+pos:n:
+
+spanish:Tejo.
+spanish_word:Tejo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quoit$$, $$n$$,  $$tejo.$$)
+    
+
+
+Quondam, adj. [cuóndam]`Antiguo.`Dati, lumà.eng_section:Quondam, adj. [cuóndam]
+eng_word:Quondam
+pos:adj:
+
+spanish:Antiguo.
+spanish_word:Antiguo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quondam$$, $$adj$$,  $$antiguo.$$)
+    
+
+
+Quorum, n. [cuórum]`Número competente.`Sapát na bilang.eng_section:Quorum, n. [cuórum]
+eng_word:Quorum
+pos:n:
+
+spanish:Número competente.
+spanish_phrase:Número competente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quorum$$, $$n$$,  $$número competente.$$)
+    
+
+
+Quota, n. [cuóta]`Cuota.`Kwota, ukol na hulog [sa pamimilak,] abuloy, ambag.eng_section:Quota, n. [cuóta]
+eng_word:Quota
+pos:n:
+
+spanish:Cuota.
+spanish_word:Cuota.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quota$$, $$n$$,  $$cuota.$$)
+    
+
+
+Quote, v. [cuot]`Citar.`Banggitin ang sinalitâ ng ibá, tumukoy.eng_section:Quote, v. [cuot]
+eng_word:Quote
+pos:v:
+
+spanish:Citar.
+spanish_word:Citar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quote$$, $$v$$,  $$citar.$$)
+    
+
+
+Quotation, n. [cuotécion]`Citacion, cita.`Banggit, tukoy.eng_section:Quotation, n. [cuotécion]
+eng_word:Quotation
+pos:n:
+
+spanish:Citacion, cita.
+spanish_word:Citacion
+spanish_word:cita.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quotation$$, $$n$$,  $$citacion, cita.$$)
+    
+
+
+Quotidian, adj. [cuotídian]`Cotidiano.`Araw-araw.eng_section:Quotidian, adj. [cuotídian]
+eng_word:Quotidian
+pos:adj:
+
+spanish:Cotidiano.
+spanish_word:Cotidiano.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quotidian$$, $$adj$$,  $$cotidiano.$$)
+    
+
+
+Quoting, n. [cuóting]`Citacion.`Pagtukoy, pagbanggit.eng_section:Quoting, n. [cuóting]
+eng_word:Quoting
+pos:n:
+
+spanish:Citacion.
+spanish_word:Citacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$quoting$$, $$n$$,  $$citacion.$$)
+    
+
+

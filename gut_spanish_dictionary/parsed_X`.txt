@@ -1,0 +1,84 @@
+Xebec, n. [zíbec]`Jabeque.`Isang urì ng sasakyan sa dagat Mediteráneo.eng_section:Xebec, n. [zíbec]
+eng_word:Xebec
+pos:n:
+
+spanish:Jabeque.
+spanish_word:Jabeque.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$xebec$$, $$n$$,  $$jabeque.$$)
+    
+
+
+Xmas, n. [krísmas]`Natividad.`Paskó.eng_section:Xmas, n. [krísmas]
+eng_word:Xmas
+pos:n:
+
+spanish:Natividad.
+spanish_word:Natividad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$xmas$$, $$n$$,  $$natividad.$$)
+    
+
+
+Xoana, n. [zoána]`Imágenes grabadas.`Mga lilók na larawan.eng_section:Xoana, n. [zoána]
+eng_word:Xoana
+pos:n:
+
+spanish:Imágenes grabadas.
+spanish_phrase:Imágenes grabadas.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$xoana$$, $$n$$,  $$imágenes grabadas.$$)
+    
+
+
+Xylographer, n. [zailógrafer]`Grabador en madera.`Manglililók sa kahoy.eng_section:Xylographer, n. [zailógrafer]
+eng_word:Xylographer
+pos:n:
+
+spanish:Grabador en madera.
+spanish_phrase:Grabador en madera.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$xylographer$$, $$n$$,  $$grabador en madera.$$)
+    
+
+
+Xylography, n. [zailógrafi]`El arte de grabar en madera.`Paglililók sa kahoy.eng_section:Xylography, n. [zailógrafi]
+eng_word:Xylography
+pos:n:
+
+spanish:El arte de grabar en madera.
+spanish_phrase:El arte de grabar en madera.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$xylography$$, $$n$$,  $$el arte de grabar en madera.$$)
+    
+
+
+Xyster, n. [zíster]`Instrumento quirúrgico para raer y raspar los huesos.`Kasangkapan ng manggagamot na pangkayas ó pangkayod ng butó.eng_section:Xyster, n. [zíster]
+eng_word:Xyster
+pos:n:
+
+spanish:Instrumento quirúrgico para raer y raspar los huesos.
+spanish_phrase:Instrumento quirúrgico para raer y raspar los huesos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$xyster$$, $$n$$,  $$instrumento quirúrgico para raer y raspar los huesos.$$)
+    
+
+

@@ -1,0 +1,3889 @@
+Vacancy, n. [vácansi]`Vacio, hueco; vacante.`Walang lamán; bakante.eng_section:Vacancy, n. [vácansi]
+eng_word:Vacancy
+pos:n:
+
+spanish:Vacio, hueco; vacante.
+spanish_word:Vacio
+spanish_phrase:hueco; vacante.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vacancy$$, $$n$$,  $$vacio, hueco; vacante.$$)
+    
+
+
+Vacant, adj. [vácant]`Vacio; desocupado.`Walang lamán, walang nalalagay.eng_section:Vacant, adj. [vácant]
+eng_word:Vacant
+pos:adj:
+
+spanish:Vacio; desocupado.
+spanish_phrase:Vacio; desocupado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vacant$$, $$adj$$,  $$vacio; desocupado.$$)
+    
+
+
+Vacate, v. [véket]`Anular, invalidar.`Alisín, pawalán ng kabuluhan.eng_section:Vacate, v. [véket]
+eng_word:Vacate
+pos:v:
+
+spanish:Anular, invalidar.
+spanish_word:Anular
+spanish_word:invalidar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vacate$$, $$v$$,  $$anular, invalidar.$$)
+    
+
+
+Vacation, n. [vekécion]`Vacacion.`Pagpapahinga, pagliliwaliw.eng_section:Vacation, n. [vekécion]
+eng_word:Vacation
+pos:n:
+
+spanish:Vacacion.
+spanish_word:Vacacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vacation$$, $$n$$,  $$vacacion.$$)
+    
+
+
+Vaccinate, v. [vácsinet]`Vacunar.`Magbakuna, magtanim ng bulutong.eng_section:Vaccinate, v. [vácsinet]
+eng_word:Vaccinate
+pos:v:
+
+spanish:Vacunar.
+spanish_word:Vacunar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vaccinate$$, $$v$$,  $$vacunar.$$)
+    
+
+
+Vaccination, n. [vacsinécion]`Vacunacion.`Pagbabakuna; pagtatanim ng bulutong.eng_section:Vaccination, n. [vacsinécion]
+eng_word:Vaccination
+pos:n:
+
+spanish:Vacunacion.
+spanish_word:Vacunacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vaccination$$, $$n$$,  $$vacunacion.$$)
+    
+
+
+Vacillate, v. [vásilet]`Vacilar.`Mag-urong sulóng.eng_section:Vacillate, v. [vásilet]
+eng_word:Vacillate
+pos:v:
+
+spanish:Vacilar.
+spanish_word:Vacilar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vacillate$$, $$v$$,  $$vacilar.$$)
+    
+
+
+Vacillation, n. [vasilécion]`Vaivén.`Giray, pag-uurongsulong.eng_section:Vacillation, n. [vasilécion]
+eng_word:Vacillation
+pos:n:
+
+spanish:Vaivén.
+spanish_word:Vaivén.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vacillation$$, $$n$$,  $$vaivén.$$)
+    
+
+
+Vacuity, n. [vakiúiti]`Vacuidad.`Kawalán ng lamán.eng_section:Vacuity, n. [vakiúiti]
+eng_word:Vacuity
+pos:n:
+
+spanish:Vacuidad.
+spanish_word:Vacuidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vacuity$$, $$n$$,  $$vacuidad.$$)
+    
+
+
+Vacuous, adj. [vákiuoes]`Vacío, desocupado.`Walang lamán.eng_section:Vacuous, adj. [vákiuoes]
+eng_word:Vacuous
+pos:adj:
+
+spanish:Vacío, desocupado.
+spanish_word:Vacío
+spanish_word:desocupado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vacuous$$, $$adj$$,  $$vacío, desocupado.$$)
+    
+
+
+Vacuum, n. [vákiuoem]`Vacuo.`Walang lamán.eng_section:Vacuum, n. [vákiuoem]
+eng_word:Vacuum
+pos:n:
+
+spanish:Vacuo.
+spanish_word:Vacuo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vacuum$$, $$n$$,  $$vacuo.$$)
+    
+
+
+Vagabond, adj. [vágabond]`Vagabundo, holgazan, ocioso.`Palaboy, hampas-lupà, tangá.eng_section:Vagabond, adj. [vágabond]
+eng_word:Vagabond
+pos:adj:
+
+spanish:Vagabundo, holgazan, ocioso.
+spanish_word:Vagabundo
+spanish_word:holgazan
+spanish_word:ocioso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vagabond$$, $$adj$$,  $$vagabundo, holgazan, ocioso.$$)
+    
+
+
+Vagary, n. [vágueri]`Capricho, antojo.`Sungpong, kapricho.eng_section:Vagary, n. [vágueri]
+eng_word:Vagary
+pos:n:
+
+spanish:Capricho, antojo.
+spanish_word:Capricho
+spanish_word:antojo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vagary$$, $$n$$,  $$capricho, antojo.$$)
+    
+
+
+Vagrancy, n. [végransi]`Tuna, la vida holgazana.`Paglalabóy, paghahampas-lupà.eng_section:Vagrancy, n. [végransi]
+eng_word:Vagrancy
+pos:n:
+
+spanish:Tuna, la vida holgazana.
+spanish_word:Tuna
+spanish_phrase:la vida holgazana.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vagrancy$$, $$n$$,  $$tuna, la vida holgazana.$$)
+    
+
+
+Vagrant, adj. [végrant]`Vagabundo.`Hampas-lupà.eng_section:Vagrant, adj. [végrant]
+eng_word:Vagrant
+pos:adj:
+
+spanish:Vagabundo.
+spanish_word:Vagabundo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vagrant$$, $$adj$$,  $$vagabundo.$$)
+    
+
+
+Vain, adj. [ven]`Vano, inutil.`Walang kabuluhan.eng_section:Vain, adj. [ven]
+eng_word:Vain
+pos:adj:
+
+spanish:Vano, inutil.
+spanish_word:Vano
+spanish_word:inutil.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vain$$, $$adj$$,  $$vano, inutil.$$)
+    
+
+
+Vainglorious, adj. [venglórioes]`Vanaglorioso, jactancioso, ufano.`Hambog, mayabang.eng_section:Vainglorious, adj. [venglórioes]
+eng_word:Vainglorious
+pos:adj:
+
+spanish:Vanaglorioso, jactancioso, ufano.
+spanish_word:Vanaglorioso
+spanish_word:jactancioso
+spanish_word:ufano.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vainglorious$$, $$adj$$,  $$vanaglorioso, jactancioso, ufano.$$)
+    
+
+
+Vainglory, n. [venglóri]`Vanagloria, jactancia.`Kahambugan, kayabangan.eng_section:Vainglory, n. [venglóri]
+eng_word:Vainglory
+pos:n:
+
+spanish:Vanagloria, jactancia.
+spanish_word:Vanagloria
+spanish_word:jactancia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vainglory$$, $$n$$,  $$vanagloria, jactancia.$$)
+    
+
+
+Valediction, n. [validíccion]`Despedida.`Paalam.eng_section:Valediction, n. [validíccion]
+eng_word:Valediction
+pos:n:
+
+spanish:Despedida.
+spanish_word:Despedida.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$valediction$$, $$n$$,  $$despedida.$$)
+    
+
+
+Valedictory, n. [validíctori]`Haciendo despedida.`Pagpapaalam.eng_section:Valedictory, n. [validíctori]
+eng_word:Valedictory
+pos:n:
+
+spanish:Haciendo despedida.
+spanish_phrase:Haciendo despedida.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$valedictory$$, $$n$$,  $$haciendo despedida.$$)
+    
+
+
+Valet, n. [válet]`Criado.`Alilang lalake.eng_section:Valet, n. [válet]
+eng_word:Valet
+pos:n:
+
+spanish:Criado.
+spanish_word:Criado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$valet$$, $$n$$,  $$criado.$$)
+    
+
+
+Valiant, adj. [váliant]`Valiente, animoso.`Matapang, malakas ang loob.eng_section:Valiant, adj. [váliant]
+eng_word:Valiant
+pos:adj:
+
+spanish:Valiente, animoso.
+spanish_word:Valiente
+spanish_word:animoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$valiant$$, $$adj$$,  $$valiente, animoso.$$)
+    
+
+
+Valid, adj. [válid]`Válido.`May kabuluhan.eng_section:Valid, adj. [válid]
+eng_word:Valid
+pos:adj:
+
+spanish:Válido.
+spanish_word:Válido.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$valid$$, $$adj$$,  $$válido.$$)
+    
+
+
+Validity, n. [valíditi]`Validacion.`Kabuluhán.eng_section:Validity, n. [valíditi]
+eng_word:Validity
+pos:n:
+
+spanish:Validacion.
+spanish_word:Validacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$validity$$, $$n$$,  $$validacion.$$)
+    
+
+
+Valley, n. [váli]`Valle.`Libís.eng_section:Valley, n. [váli]
+eng_word:Valley
+pos:n:
+
+spanish:Valle.
+spanish_word:Valle.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$valley$$, $$n$$,  $$valle.$$)
+    
+
+
+Valuable, adj. [váliuabl]`Precioso, apreciable.`Mahalagá, makabuluhan.eng_section:Valuable, adj. [váliuabl]
+eng_word:Valuable
+pos:adj:
+
+spanish:Precioso, apreciable.
+spanish_word:Precioso
+spanish_word:apreciable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$valuable$$, $$adj$$,  $$precioso, apreciable.$$)
+    
+
+
+Valuation, n. [valiuécion]`Tasa, valuacion.`Tasa, pagkákahalaga.eng_section:Valuation, n. [valiuécion]
+eng_word:Valuation
+pos:n:
+
+spanish:Tasa, valuacion.
+spanish_word:Tasa
+spanish_word:valuacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$valuation$$, $$n$$,  $$tasa, valuacion.$$)
+    
+
+
+Value, n. [véliu]`Valor, precio.`Kabuluhán, halagá.eng_section:Value, n. [véliu]
+eng_word:Value
+pos:n:
+
+spanish:Valor, precio.
+spanish_word:Valor
+spanish_word:precio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$value$$, $$n$$,  $$valor, precio.$$)
+    
+
+
+Value, v. [véliu]`Valuar, tasar; estimar, apreciar.`Tasahan, halagahan.eng_section:Value, v. [véliu]
+eng_word:Value
+pos:v:
+
+spanish:Valuar, tasar; estimar, apreciar.
+spanish_word:Valuar
+spanish_phrase:tasar; estimar
+spanish_word:apreciar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$value$$, $$v$$,  $$valuar, tasar; estimar, apreciar.$$)
+    
+
+
+Valueless, adj. [váliules]`Indigno, despreciable.`Walang kabuluhan, walang halaga.eng_section:Valueless, adj. [váliules]
+eng_word:Valueless
+pos:adj:
+
+spanish:Indigno, despreciable.
+spanish_word:Indigno
+spanish_word:despreciable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$valueless$$, $$adj$$,  $$indigno, despreciable.$$)
+    
+
+
+Vamp, v. [vamp]`Remendar.`Magtagpî, magtutop.eng_section:Vamp, v. [vamp]
+eng_word:Vamp
+pos:v:
+
+spanish:Remendar.
+spanish_word:Remendar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vamp$$, $$v$$,  $$remendar.$$)
+    
+
+
+Van, n. [van]`Vanguardia.`Talibà, tanod sa unahan ng hukbó.eng_section:Van, n. [van]
+eng_word:Van
+pos:n:
+
+spanish:Vanguardia.
+spanish_word:Vanguardia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$van$$, $$n$$,  $$vanguardia.$$)
+    
+
+
+Vane, n. [ven]`Veleta.`Panurò ng tungo ng hangin.eng_section:Vane, n. [ven]
+eng_word:Vane
+pos:n:
+
+spanish:Veleta.
+spanish_word:Veleta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vane$$, $$n$$,  $$veleta.$$)
+    
+
+
+Vanguard, n. [vángard]`Vanguardia.`Talibà, tanod sa unahán ng hukbó.eng_section:Vanguard, n. [vángard]
+eng_word:Vanguard
+pos:n:
+
+spanish:Vanguardia.
+spanish_word:Vanguardia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vanguard$$, $$n$$,  $$vanguardia.$$)
+    
+
+
+Vanish, v. [vánish]`Desvanecerse, desaparecer.`Mawalâ, maparam, mapawì; kumupas.eng_section:Vanish, v. [vánish]
+eng_word:Vanish
+pos:v:
+
+spanish:Desvanecerse, desaparecer.
+spanish_word:Desvanecerse
+spanish_word:desaparecer.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vanish$$, $$v$$,  $$desvanecerse, desaparecer.$$)
+    
+
+
+Vanity, n. [vánity]`Vanidad.`Walang kabuluhan, kalayawan.eng_section:Vanity, n. [vánity]
+eng_word:Vanity
+pos:n:
+
+spanish:Vanidad.
+spanish_word:Vanidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vanity$$, $$n$$,  $$vanidad.$$)
+    
+
+
+Vanquish, v. [váncuish]`Vencer; conquistar.`Dumaig, magpasukò, sumupil; sumakop.eng_section:Vanquish, v. [váncuish]
+eng_word:Vanquish
+pos:v:
+
+spanish:Vencer; conquistar.
+spanish_phrase:Vencer; conquistar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vanquish$$, $$v$$,  $$vencer; conquistar.$$)
+    
+
+
+Vanquisher, n. [váncuisher]`Vencedor.`Mánunupil, mapagwagí, mapagtagumpay.eng_section:Vanquisher, n. [váncuisher]
+eng_word:Vanquisher
+pos:n:
+
+spanish:Vencedor.
+spanish_word:Vencedor.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vanquisher$$, $$n$$,  $$vencedor.$$)
+    
+
+
+Vantage, n. [vántedch]`Ventaja; ganancia, provecho.`Kalamangán; pakinabang.eng_section:Vantage, n. [vántedch]
+eng_word:Vantage
+pos:n:
+
+spanish:Ventaja; ganancia, provecho.
+spanish_phrase:Ventaja; ganancia
+spanish_word:provecho.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vantage$$, $$n$$,  $$ventaja; ganancia, provecho.$$)
+    
+
+
+Vapid, adj. [vápid]`Exhalado; insípido.`Nakasingaw; walang lasa.eng_section:Vapid, adj. [vápid]
+eng_word:Vapid
+pos:adj:
+
+spanish:Exhalado; insípido.
+spanish_phrase:Exhalado; insípido.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vapid$$, $$adj$$,  $$exhalado; insípido.$$)
+    
+
+
+Vapor, n. [vépor]`Vapor, exhalacion.`Usok, asó; singaw.eng_section:Vapor, n. [vépor]
+eng_word:Vapor
+pos:n:
+
+spanish:Vapor, exhalacion.
+spanish_word:Vapor
+spanish_word:exhalacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vapor$$, $$n$$,  $$vapor, exhalacion.$$)
+    
+
+
+Vapor, v. [vépor]`Evaporarse, exhalarse.`Umusok, umasó; sumingaw.eng_section:Vapor, v. [vépor]
+eng_word:Vapor
+pos:v:
+
+spanish:Evaporarse, exhalarse.
+spanish_word:Evaporarse
+spanish_word:exhalarse.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vapor$$, $$v$$,  $$evaporarse, exhalarse.$$)
+    
+
+
+Variable, adj. [vériabl]`Variable.`Pabagobago, nag-iiba.eng_section:Variable, adj. [vériabl]
+eng_word:Variable
+pos:adj:
+
+spanish:Variable.
+spanish_word:Variable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$variable$$, $$adj$$,  $$variable.$$)
+    
+
+
+Variableness, n. [vériablnes]`Instabilidad, inconstancia.`Pagkakabagobago, dî pananatili.eng_section:Variableness, n. [vériablnes]
+eng_word:Variableness
+pos:n:
+
+spanish:Instabilidad, inconstancia.
+spanish_word:Instabilidad
+spanish_word:inconstancia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$variableness$$, $$n$$,  $$instabilidad, inconstancia.$$)
+    
+
+
+Variably, adv. [vériabli]`Variablemente.`Pabagobago.eng_section:Variably, adv. [vériabli]
+eng_word:Variably
+pos:adv:
+
+spanish:Variablemente.
+spanish_word:Variablemente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$variably$$, $$adv$$,  $$variablemente.$$)
+    
+
+
+Variance, n. [vérians]`Discordia, desavenencia.`Pagtatalo, pagkakaalit; away.eng_section:Variance, n. [vérians]
+eng_word:Variance
+pos:n:
+
+spanish:Discordia, desavenencia.
+spanish_word:Discordia
+spanish_word:desavenencia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$variance$$, $$n$$,  $$discordia, desavenencia.$$)
+    
+
+
+Variation, n. [veriécion]`Variacion.`Kaibhán.eng_section:Variation, n. [veriécion]
+eng_word:Variation
+pos:n:
+
+spanish:Variacion.
+spanish_word:Variacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$variation$$, $$n$$,  $$variacion.$$)
+    
+
+
+Variegated, adj. [vériegueted]`Abigarrado.`Patákpatak, batíkbatík.eng_section:Variegated, adj. [vériegueted]
+eng_word:Variegated
+pos:adj:
+
+spanish:Abigarrado.
+spanish_word:Abigarrado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$variegated$$, $$adj$$,  $$abigarrado.$$)
+    
+
+
+Variety, n. [varáieti]`Variedad; mudanza ó alteracion.`Pagkakaibá't ibá; pagbabago.eng_section:Variety, n. [varáieti]
+eng_word:Variety
+pos:n:
+
+spanish:Variedad; mudanza ó alteracion.
+spanish_phrase:Variedad; mudanza ó alteracion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$variety$$, $$n$$,  $$variedad; mudanza ó alteracion.$$)
+    
+
+
+Various, adj. [vérioes]`Vario, diverso, diferente.`Iba't iba, sarìsarì, samot sarì.eng_section:Various, adj. [vérioes]
+eng_word:Various
+pos:adj:
+
+spanish:Vario, diverso, diferente.
+spanish_word:Vario
+spanish_word:diverso
+spanish_word:diferente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$various$$, $$adj$$,  $$vario, diverso, diferente.$$)
+    
+
+
+Varnish, n. [várnish]`Barniz.`Barnís.eng_section:Varnish, n. [várnish]
+eng_word:Varnish
+pos:n:
+
+spanish:Barniz.
+spanish_word:Barniz.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$varnish$$, $$n$$,  $$barniz.$$)
+    
+
+
+Varnisher, n. [várnisher]`Embarnizador.`Tagapagbarnís.eng_section:Varnisher, n. [várnisher]
+eng_word:Varnisher
+pos:n:
+
+spanish:Embarnizador.
+spanish_word:Embarnizador.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$varnisher$$, $$n$$,  $$embarnizador.$$)
+    
+
+
+Vary, v. [véri]`Variar, diferenciar.`Magbago, mag-ibá.eng_section:Vary, v. [véri]
+eng_word:Vary
+pos:v:
+
+spanish:Variar, diferenciar.
+spanish_word:Variar
+spanish_word:diferenciar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vary$$, $$v$$,  $$variar, diferenciar.$$)
+    
+
+
+Vase, n. [ves]`Vaso.`Sisidlán.eng_section:Vase, n. [ves]
+eng_word:Vase
+pos:n:
+
+spanish:Vaso.
+spanish_word:Vaso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vase$$, $$n$$,  $$vaso.$$)
+    
+
+
+Vassal, n. [vásal]`Vasallo, subdito.`Kampón, kawal, kabig, sakop, saklaw.eng_section:Vassal, n. [vásal]
+eng_word:Vassal
+pos:n:
+
+spanish:Vasallo, subdito.
+spanish_word:Vasallo
+spanish_word:subdito.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vassal$$, $$n$$,  $$vasallo, subdito.$$)
+    
+
+
+Vassalage, n. [vásaledch]`Vasallaje.`Pagkakampon, pagkakawal.eng_section:Vassalage, n. [vásaledch]
+eng_word:Vassalage
+pos:n:
+
+spanish:Vasallaje.
+spanish_word:Vasallaje.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vassalage$$, $$n$$,  $$vasallaje.$$)
+    
+
+
+Vast, adj. [vast]`Vasto, extenso, inmenso.`Malakí, malawak, malawig.eng_section:Vast, adj. [vast]
+eng_word:Vast
+pos:adj:
+
+spanish:Vasto, extenso, inmenso.
+spanish_word:Vasto
+spanish_word:extenso
+spanish_word:inmenso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vast$$, $$adj$$,  $$vasto, extenso, inmenso.$$)
+    
+
+
+Vastness, n. [vástnes]`Dilatacion, inmensidad.`Lawak, lawig.eng_section:Vastness, n. [vástnes]
+eng_word:Vastness
+pos:n:
+
+spanish:Dilatacion, inmensidad.
+spanish_word:Dilatacion
+spanish_word:inmensidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vastness$$, $$n$$,  $$dilatacion, inmensidad.$$)
+    
+
+
+Vat, n. [vat]`Tina.`Kaang.eng_section:Vat, n. [vat]
+eng_word:Vat
+pos:n:
+
+spanish:Tina.
+spanish_word:Tina.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vat$$, $$n$$,  $$tina.$$)
+    
+
+
+Vault, n. [volt]`Bóveda; cueva, caverna, bodega.`Bóbeda; yungib, lunggâ; tinggalan.eng_section:Vault, n. [volt]
+eng_word:Vault
+pos:n:
+
+spanish:Bóveda; cueva, caverna, bodega.
+spanish_phrase:Bóveda; cueva
+spanish_word:caverna
+spanish_word:bodega.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vault$$, $$n$$,  $$bóveda; cueva, caverna, bodega.$$)
+    
+
+
+Vault, v. [volt]`Abovedar; voltear.`Gawíng parang bóbeda; bumilíng.eng_section:Vault, v. [volt]
+eng_word:Vault
+pos:v:
+
+spanish:Abovedar; voltear.
+spanish_phrase:Abovedar; voltear.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vault$$, $$v$$,  $$abovedar; voltear.$$)
+    
+
+
+Vaunt, v. [vont]`Jactarse, vanagloriarse.`Maghambog, magpalalò, magmayabang.eng_section:Vaunt, v. [vont]
+eng_word:Vaunt
+pos:v:
+
+spanish:Jactarse, vanagloriarse.
+spanish_word:Jactarse
+spanish_word:vanagloriarse.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vaunt$$, $$v$$,  $$jactarse, vanagloriarse.$$)
+    
+
+
+Vaunter, n. [vónter]`Baladrón, fanfarrón.`Hambog, mayabang, palaló.eng_section:Vaunter, n. [vónter]
+eng_word:Vaunter
+pos:n:
+
+spanish:Baladrón, fanfarrón.
+spanish_word:Baladrón
+spanish_word:fanfarrón.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vaunter$$, $$n$$,  $$baladrón, fanfarrón.$$)
+    
+
+
+Veal, n. [vil]`Ternera.`Lamán ng guyà.eng_section:Veal, n. [vil]
+eng_word:Veal
+pos:n:
+
+spanish:Ternera.
+spanish_word:Ternera.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$veal$$, $$n$$,  $$ternera.$$)
+    
+
+
+Veer, v. [vir]`Virar, dar vuelta el navio.`Ipihit.eng_section:Veer, v. [vir]
+eng_word:Veer
+pos:v:
+
+spanish:Virar, dar vuelta el navio.
+spanish_word:Virar
+spanish_phrase:dar vuelta el navio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$veer$$, $$v$$,  $$virar, dar vuelta el navio.$$)
+    
+
+
+Vegetable, adj. [védchetabl]`Vegetable.`Nauukol sa gulay, guguláyin.eng_section:Vegetable, adj. [védchetabl]
+eng_word:Vegetable
+pos:adj:
+
+spanish:Vegetable.
+spanish_word:Vegetable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vegetable$$, $$adj$$,  $$vegetable.$$)
+    
+
+
+Vegetable, n. [védchetabl]`Verdura, legumbre.`Gulay; guguláyin.eng_section:Vegetable, n. [védchetabl]
+eng_word:Vegetable
+pos:n:
+
+spanish:Verdura, legumbre.
+spanish_word:Verdura
+spanish_word:legumbre.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vegetable$$, $$n$$,  $$verdura, legumbre.$$)
+    
+
+
+Vegetate, v. [védchetet]`Vegetar.`Tumubò.eng_section:Vegetate, v. [védchetet]
+eng_word:Vegetate
+pos:v:
+
+spanish:Vegetar.
+spanish_word:Vegetar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vegetate$$, $$v$$,  $$vegetar.$$)
+    
+
+
+Vegetation, n. [vedchetécion]`Vegetación.`Pananim, halaman.eng_section:Vegetation, n. [vedchetécion]
+eng_word:Vegetation
+pos:n:
+
+spanish:Vegetación.
+spanish_word:Vegetación.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vegetation$$, $$n$$,  $$vegetación.$$)
+    
+
+
+Vehemence, n. [víimens]`Vehemencia.`Kasiglahan, siglá.eng_section:Vehemence, n. [víimens]
+eng_word:Vehemence
+pos:n:
+
+spanish:Vehemencia.
+spanish_word:Vehemencia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vehemence$$, $$n$$,  $$vehemencia.$$)
+    
+
+
+Vehement, adj. [víiment]`Vehemente.`Masigla.eng_section:Vehement, adj. [víiment]
+eng_word:Vehement
+pos:adj:
+
+spanish:Vehemente.
+spanish_word:Vehemente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vehement$$, $$adj$$,  $$vehemente.$$)
+    
+
+
+Vehicle, n. [víhicl]`Vehículo, carruaje.`Mga sasakyan sa lupà gaya ng karomata, kalesa, karwahe, karitela.eng_section:Vehicle, n. [víhicl]
+eng_word:Vehicle
+pos:n:
+
+spanish:Vehículo, carruaje.
+spanish_word:Vehículo
+spanish_word:carruaje.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vehicle$$, $$n$$,  $$vehículo, carruaje.$$)
+    
+
+
+Veil, n. [vel]`Velo, cubierta.`Lambóng, takíp.eng_section:Veil, n. [vel]
+eng_word:Veil
+pos:n:
+
+spanish:Velo, cubierta.
+spanish_word:Velo
+spanish_word:cubierta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$veil$$, $$n$$,  $$velo, cubierta.$$)
+    
+
+
+Veil, v. [vel]`Cubrir, tapar.`Maglambóng, magtakíp.eng_section:Veil, v. [vel]
+eng_word:Veil
+pos:v:
+
+spanish:Cubrir, tapar.
+spanish_word:Cubrir
+spanish_word:tapar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$veil$$, $$v$$,  $$cubrir, tapar.$$)
+    
+
+
+Vein, n. [ven]`Vena.`Ugat.eng_section:Vein, n. [ven]
+eng_word:Vein
+pos:n:
+
+spanish:Vena.
+spanish_word:Vena.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vein$$, $$n$$,  $$vena.$$)
+    
+
+
+Veiny, adj. [véni]`Venoso.`Maugát.eng_section:Veiny, adj. [véni]
+eng_word:Veiny
+pos:adj:
+
+spanish:Venoso.
+spanish_word:Venoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$veiny$$, $$adj$$,  $$venoso.$$)
+    
+
+
+Velocity, n. [vilósiti]`Velocidad.`Tulin, katulinan, liksí, kaliksihan.eng_section:Velocity, n. [vilósiti]
+eng_word:Velocity
+pos:n:
+
+spanish:Velocidad.
+spanish_word:Velocidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$velocity$$, $$n$$,  $$velocidad.$$)
+    
+
+
+Venal, adj. [vínal]`Venal, perteneciente á las venas.`Nauukol sa ugat.eng_section:Venal, adj. [vínal]
+eng_word:Venal
+pos:adj:
+
+spanish:Venal, perteneciente á las venas.
+spanish_word:Venal
+spanish_phrase:perteneciente á las venas.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$venal$$, $$adj$$,  $$venal, perteneciente á las venas.$$)
+    
+
+
+Vend, v. [vend]`Vender.`Magbilí.eng_section:Vend, v. [vend]
+eng_word:Vend
+pos:v:
+
+spanish:Vender.
+spanish_word:Vender.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vend$$, $$v$$,  $$vender.$$)
+    
+
+
+Venerable, adj. [vénerabl]`Venerable.`Kagalanggalang.eng_section:Venerable, adj. [vénerabl]
+eng_word:Venerable
+pos:adj:
+
+spanish:Venerable.
+spanish_word:Venerable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$venerable$$, $$adj$$,  $$venerable.$$)
+    
+
+
+Venerate, v. [véneret]`Venerar, reverenciar, respetar.`Igalang, bigyang pitagan.eng_section:Venerate, v. [véneret]
+eng_word:Venerate
+pos:v:
+
+spanish:Venerar, reverenciar, respetar.
+spanish_word:Venerar
+spanish_word:reverenciar
+spanish_word:respetar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$venerate$$, $$v$$,  $$venerar, reverenciar, respetar.$$)
+    
+
+
+Veneration, n. [venerécion]`Veneracion, respeto.`Galang, pitagan.eng_section:Veneration, n. [venerécion]
+eng_word:Veneration
+pos:n:
+
+spanish:Veneracion, respeto.
+spanish_word:Veneracion
+spanish_word:respeto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$veneration$$, $$n$$,  $$veneracion, respeto.$$)
+    
+
+
+Venereal, adj. [venírial]`Venéreo, lo que pertenece á la Venus ó al deleite sensual.`Malibog, nauukol sa pakikiapid.eng_section:Venereal, adj. [venírial]
+eng_word:Venereal
+pos:adj:
+
+spanish:Venéreo, lo que pertenece á la Venus ó al deleite sensual.
+spanish_word:Venéreo
+spanish_phrase:lo que pertenece á la Venus ó al deleite sensual.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$venereal$$, $$adj$$,  $$venéreo, lo que pertenece á la venus ó al deleite sensual.$$)
+    
+
+
+Vengeance, n. [véndchans]`Venganza.`Panghihigantí.eng_section:Vengeance, n. [véndchans]
+eng_word:Vengeance
+pos:n:
+
+spanish:Venganza.
+spanish_word:Venganza.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vengeance$$, $$n$$,  $$venganza.$$)
+    
+
+
+Venial, adj. [vínial]`Venial.`Mapatatawad.eng_section:Venial, adj. [vínial]
+eng_word:Venial
+pos:adj:
+
+spanish:Venial.
+spanish_word:Venial.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$venial$$, $$adj$$,  $$venial.$$)
+    
+
+
+Venison, n. [vénizn]`Venado.`Usá.eng_section:Venison, n. [vénizn]
+eng_word:Venison
+pos:n:
+
+spanish:Venado.
+spanish_word:Venado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$venison$$, $$n$$,  $$venado.$$)
+    
+
+
+Venom, n. [vénom]`Veneno.`Lason.eng_section:Venom, n. [vénom]
+eng_word:Venom
+pos:n:
+
+spanish:Veneno.
+spanish_word:Veneno.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$venom$$, $$n$$,  $$veneno.$$)
+    
+
+
+Venomous, adj. [vénomoes]`Venenoso.`Nakakalason.eng_section:Venomous, adj. [vénomoes]
+eng_word:Venomous
+pos:adj:
+
+spanish:Venenoso.
+spanish_word:Venenoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$venomous$$, $$adj$$,  $$venenoso.$$)
+    
+
+
+Vent, n. [vent]`Respiradero, salida.`Pásingawan, híngahan, lábasan.eng_section:Vent, n. [vent]
+eng_word:Vent
+pos:n:
+
+spanish:Respiradero, salida.
+spanish_word:Respiradero
+spanish_word:salida.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vent$$, $$n$$,  $$respiradero, salida.$$)
+    
+
+
+Vent, v. [vent]`Ventear.`Pasingawín.eng_section:Vent, v. [vent]
+eng_word:Vent
+pos:v:
+
+spanish:Ventear.
+spanish_word:Ventear.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vent$$, $$v$$,  $$ventear.$$)
+    
+
+
+Ventilate, n. [véntilet]`Ventilar; aventar.`Pahanginan; pumaypay.eng_section:Ventilate, n. [véntilet]
+eng_word:Ventilate
+pos:n:
+
+spanish:Ventilar; aventar.
+spanish_phrase:Ventilar; aventar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ventilate$$, $$n$$,  $$ventilar; aventar.$$)
+    
+
+
+Venture, n. [vénchur]`Riesgo, peligro; aventura; casualidad.`Panganib, kapanganiban; kapalaran; pagkakataon.eng_section:Venture, n. [vénchur]
+eng_word:Venture
+pos:n:
+
+spanish:Riesgo, peligro; aventura; casualidad.
+spanish_word:Riesgo
+spanish_phrase:peligro; aventura; casualidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$venture$$, $$n$$,  $$riesgo, peligro; aventura; casualidad.$$)
+    
+
+
+Venture, v. [vénchur]`Osar, atreverse; aventurarse, arriesgar.`Mangahas; magbakasakalì.eng_section:Venture, v. [vénchur]
+eng_word:Venture
+pos:v:
+
+spanish:Osar, atreverse; aventurarse, arriesgar.
+spanish_word:Osar
+spanish_phrase:atreverse; aventurarse
+spanish_word:arriesgar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$venture$$, $$v$$,  $$osar, atreverse; aventurarse, arriesgar.$$)
+    
+
+
+Venturesome, adj. [vénchursam]`Osado, atrevido.`Pangahás, mapusok.eng_section:Venturesome, adj. [vénchursam]
+eng_word:Venturesome
+pos:adj:
+
+spanish:Osado, atrevido.
+spanish_word:Osado
+spanish_word:atrevido.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$venturesome$$, $$adj$$,  $$osado, atrevido.$$)
+    
+
+
+Veracious, adj. [verécioes]`Veraz.`Totoo, tapat, mapagsabi ng totoo.eng_section:Veracious, adj. [verécioes]
+eng_word:Veracious
+pos:adj:
+
+spanish:Veraz.
+spanish_word:Veraz.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$veracious$$, $$adj$$,  $$veraz.$$)
+    
+
+
+Veracity, n. [virásiti]`Veracidad.`Katotohanan.eng_section:Veracity, n. [virásiti]
+eng_word:Veracity
+pos:n:
+
+spanish:Veracidad.
+spanish_word:Veracidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$veracity$$, $$n$$,  $$veracidad.$$)
+    
+
+
+Verb, n. [verb]`Verbo.`Berbo, pangwatas.eng_section:Verb, n. [verb]
+eng_word:Verb
+pos:n:
+
+spanish:Verbo.
+spanish_word:Verbo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$verb$$, $$n$$,  $$verbo.$$)
+    
+
+
+Verbal, adj. [vérbal]`Verbal.`Sa salitâ lamang, hindî nasusulat.eng_section:Verbal, adj. [vérbal]
+eng_word:Verbal
+pos:adj:
+
+spanish:Verbal.
+spanish_word:Verbal.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$verbal$$, $$adj$$,  $$verbal.$$)
+    
+
+
+Verbatim, adv. [verbétim]`Al pie de la letra.`Ayon sa salitâ.eng_section:Verbatim, adv. [verbétim]
+eng_word:Verbatim
+pos:adv:
+
+spanish:Al pie de la letra.
+spanish_phrase:Al pie de la letra.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$verbatim$$, $$adv$$,  $$al pie de la letra.$$)
+    
+
+
+Verbose, adj. [verbós]`Verboso.`Masalitâ.eng_section:Verbose, adj. [verbós]
+eng_word:Verbose
+pos:adj:
+
+spanish:Verboso.
+spanish_word:Verboso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$verbose$$, $$adj$$,  $$verboso.$$)
+    
+
+
+Verbosity, n. [verbósiti]`Verbosidad.`Saganà sa pananalitâ.eng_section:Verbosity, n. [verbósiti]
+eng_word:Verbosity
+pos:n:
+
+spanish:Verbosidad.
+spanish_word:Verbosidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$verbosity$$, $$n$$,  $$verbosidad.$$)
+    
+
+
+Verdant, adj. [vérdant]`Verde.`Berde, lungtian, sariwà.eng_section:Verdant, adj. [vérdant]
+eng_word:Verdant
+pos:adj:
+
+spanish:Verde.
+spanish_word:Verde.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$verdant$$, $$adj$$,  $$verde.$$)
+    
+
+
+Verdict, n. [vérdict]`Veredicto, dictamen.`Hatol, pasiyá.eng_section:Verdict, n. [vérdict]
+eng_word:Verdict
+pos:n:
+
+spanish:Veredicto, dictamen.
+spanish_word:Veredicto
+spanish_word:dictamen.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$verdict$$, $$n$$,  $$veredicto, dictamen.$$)
+    
+
+
+Verdure, n. [vérdchur]`Verdor.`Kaberdihan, kasariwaan.eng_section:Verdure, n. [vérdchur]
+eng_word:Verdure
+pos:n:
+
+spanish:Verdor.
+spanish_word:Verdor.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$verdure$$, $$n$$,  $$verdor.$$)
+    
+
+
+Verge, n. [verdch]`Borde, margen.`Gilid, tabí.eng_section:Verge, n. [verdch]
+eng_word:Verge
+pos:n:
+
+spanish:Borde, margen.
+spanish_word:Borde
+spanish_word:margen.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$verge$$, $$n$$,  $$borde, margen.$$)
+    
+
+
+Verge, v. [verdch]`Inclinarse ó doblarse hácia abajo.`Tumungó.eng_section:Verge, v. [verdch]
+eng_word:Verge
+pos:v:
+
+spanish:Inclinarse ó doblarse hácia abajo.
+spanish_phrase:Inclinarse ó doblarse hácia abajo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$verge$$, $$v$$,  $$inclinarse ó doblarse hácia abajo.$$)
+    
+
+
+Verification, n. [verifikécion]`Verificacion, confirmacion.`Pagkakapatunay, pagkakapatotoo.eng_section:Verification, n. [verifikécion]
+eng_word:Verification
+pos:n:
+
+spanish:Verificacion, confirmacion.
+spanish_word:Verificacion
+spanish_word:confirmacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$verification$$, $$n$$,  $$verificacion, confirmacion.$$)
+    
+
+
+Verify, v. [vérifai]`Verificar, comprobar.`Matunayan, mapatotohanan.eng_section:Verify, v. [vérifai]
+eng_word:Verify
+pos:v:
+
+spanish:Verificar, comprobar.
+spanish_word:Verificar
+spanish_word:comprobar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$verify$$, $$v$$,  $$verificar, comprobar.$$)
+    
+
+
+Verily, adv. [vérili]`En verdad.`Sa katotohanan.eng_section:Verily, adv. [vérili]
+eng_word:Verily
+pos:adv:
+
+spanish:En verdad.
+spanish_phrase:En verdad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$verily$$, $$adv$$,  $$en verdad.$$)
+    
+
+
+Verjuice, n. [vérdchius]`Agraz.`Maasim, maaskad.eng_section:Verjuice, n. [vérdchius]
+eng_word:Verjuice
+pos:n:
+
+spanish:Agraz.
+spanish_word:Agraz.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$verjuice$$, $$n$$,  $$agraz.$$)
+    
+
+
+Vermicelli, n. [vermishéli]`Fideos.`Pideós.eng_section:Vermicelli, n. [vermishéli]
+eng_word:Vermicelli
+pos:n:
+
+spanish:Fideos.
+spanish_word:Fideos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vermicelli$$, $$n$$,  $$fideos.$$)
+    
+
+
+Vermicular, adj. [vermíkiular]`Vermicular.`Nauukol sa bulate.eng_section:Vermicular, adj. [vermíkiular]
+eng_word:Vermicular
+pos:adj:
+
+spanish:Vermicular.
+spanish_word:Vermicular.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vermicular$$, $$adj$$,  $$vermicular.$$)
+    
+
+
+Vermifuge, n. [vérmifiudch]`Vermífugo.`Gamot laban sa bulate.eng_section:Vermifuge, n. [vérmifiudch]
+eng_word:Vermifuge
+pos:n:
+
+spanish:Vermífugo.
+spanish_word:Vermífugo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vermifuge$$, $$n$$,  $$vermífugo.$$)
+    
+
+
+Vermilion, n. [vermílion]`Bermellon.`Pulá.eng_section:Vermilion, n. [vermílion]
+eng_word:Vermilion
+pos:n:
+
+spanish:Bermellon.
+spanish_word:Bermellon.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vermilion$$, $$n$$,  $$bermellon.$$)
+    
+
+
+Vermin, n. [vérmin]`Bichos, cualquier animal dañino.`Hayop na nananakit.eng_section:Vermin, n. [vérmin]
+eng_word:Vermin
+pos:n:
+
+spanish:Bichos, cualquier animal dañino.
+spanish_word:Bichos
+spanish_phrase:cualquier animal dañino.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vermin$$, $$n$$,  $$bichos, cualquier animal dañino.$$)
+    
+
+
+Vernacular, adj. [vernákiular]`Nativo.`Nauukol sa kinamulatan.eng_section:Vernacular, adj. [vernákiular]
+eng_word:Vernacular
+pos:adj:
+
+spanish:Nativo.
+spanish_word:Nativo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vernacular$$, $$adj$$,  $$nativo.$$)
+    
+
+
+Vernal, adj. [vérnal]`Vernal.`Nauukol sa tagaraw.eng_section:Vernal, adj. [vérnal]
+eng_word:Vernal
+pos:adj:
+
+spanish:Vernal.
+spanish_word:Vernal.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vernal$$, $$adj$$,  $$vernal.$$)
+    
+
+
+Versatile, adj. [versátil]`Versátil, mudable; voluble.`Nagbabago, nag-iiba, sálawahan.eng_section:Versatile, adj. [versátil]
+eng_word:Versatile
+pos:adj:
+
+spanish:Versátil, mudable; voluble.
+spanish_word:Versátil
+spanish_phrase:mudable; voluble.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$versatile$$, $$adj$$,  $$versátil, mudable; voluble.$$)
+    
+
+
+Verse, n. [vers]`Versículo.`Talatà.eng_section:Verse, n. [vers]
+eng_word:Verse
+pos:n:
+
+spanish:Versículo.
+spanish_word:Versículo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$verse$$, $$n$$,  $$versículo.$$)
+    
+
+
+Versed, adj. [vérsd]`Versado, práctico en una cosa.`Bihasá, sanáy, matalinò.eng_section:Versed, adj. [vérsd]
+eng_word:Versed
+pos:adj:
+
+spanish:Versado, práctico en una cosa.
+spanish_word:Versado
+spanish_phrase:práctico en una cosa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$versed$$, $$adj$$,  $$versado, práctico en una cosa.$$)
+    
+
+
+Version, n. [vérsion]`Versión, traducción.`Salin.eng_section:Version, n. [vérsion]
+eng_word:Version
+pos:n:
+
+spanish:Versión, traducción.
+spanish_word:Versión
+spanish_word:traducción.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$version$$, $$n$$,  $$versión, traducción.$$)
+    
+
+
+Versus, prep. [vérsus]`Contra.`Laban.eng_section:Versus, prep. [vérsus]
+eng_word:Versus
+pos:prep:
+
+spanish:Contra.
+spanish_word:Contra.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$versus$$, $$prep$$,  $$contra.$$)
+    
+
+
+Vertebra, n. [vértibra]`Vértebra.`Isang butó ng gulugod.eng_section:Vertebra, n. [vértibra]
+eng_word:Vertebra
+pos:n:
+
+spanish:Vértebra.
+spanish_word:Vértebra.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vertebra$$, $$n$$,  $$vértebra.$$)
+    
+
+
+Vertebral, adj. [vértibral]`Vertebral.`Nauukol sa butó ng gulugod.eng_section:Vertebral, adj. [vértibral]
+eng_word:Vertebral
+pos:adj:
+
+spanish:Vertebral.
+spanish_word:Vertebral.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vertebral$$, $$adj$$,  $$vertebral.$$)
+    
+
+
+Vertex, adj. [vértecs]`Vértice; cima.`Dulo, taluktok.eng_section:Vertex, adj. [vértecs]
+eng_word:Vertex
+pos:adj:
+
+spanish:Vértice; cima.
+spanish_phrase:Vértice; cima.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vertex$$, $$adj$$,  $$vértice; cima.$$)
+    
+
+
+Vertical, adj. [vértical]`Vertical.`Patayô, patindig.eng_section:Vertical, adj. [vértical]
+eng_word:Vertical
+pos:adj:
+
+spanish:Vertical.
+spanish_word:Vertical.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vertical$$, $$adj$$,  $$vertical.$$)
+    
+
+
+Vertigo, n. [vértigo]`Vértigo.`Hilo, lulà.eng_section:Vertigo, n. [vértigo]
+eng_word:Vertigo
+pos:n:
+
+spanish:Vértigo.
+spanish_word:Vértigo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vertigo$$, $$n$$,  $$vértigo.$$)
+    
+
+
+Very, adv. [véri]`Muy, mucho.`Lubhâ, nápaka, totoo.eng_section:Very, adv. [véri]
+eng_word:Very
+pos:adv:
+
+spanish:Muy, mucho.
+spanish_word:Muy
+spanish_word:mucho.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$very$$, $$adv$$,  $$muy, mucho.$$)
+    
+
+
+Vespers, n. [véspers]`Vísperas.`Bisperás, araw na sinusundan.eng_section:Vespers, n. [véspers]
+eng_word:Vespers
+pos:n:
+
+spanish:Vísperas.
+spanish_word:Vísperas.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vespers$$, $$n$$,  $$vísperas.$$)
+    
+
+
+Vessel, n. [vésel]`Vasija.`Sisidlán.eng_section:Vessel, n. [vésel]
+eng_word:Vessel
+pos:n:
+
+spanish:Vasija.
+spanish_word:Vasija.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vessel$$, $$n$$,  $$vasija.$$)
+    
+
+
+Vest, n. [vest]`Chaleco.`Chaleko.eng_section:Vest, n. [vest]
+eng_word:Vest
+pos:n:
+
+spanish:Chaleco.
+spanish_word:Chaleco.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vest$$, $$n$$,  $$chaleco.$$)
+    
+
+
+Vest, v. [vest]`Investir, poner en posesion.`Bihisan, bigyan ng kapangyarihan.eng_section:Vest, v. [vest]
+eng_word:Vest
+pos:v:
+
+spanish:Investir, poner en posesion.
+spanish_word:Investir
+spanish_phrase:poner en posesion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vest$$, $$v$$,  $$investir, poner en posesion.$$)
+    
+
+
+Vestal, n. [véstal]`Vestal, vírgen.`Banal, malinis.eng_section:Vestal, n. [véstal]
+eng_word:Vestal
+pos:n:
+
+spanish:Vestal, vírgen.
+spanish_word:Vestal
+spanish_word:vírgen.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vestal$$, $$n$$,  $$vestal, vírgen.$$)
+    
+
+
+Vestige, n. [véstidch]`Vestigio.`Bakás.eng_section:Vestige, n. [véstidch]
+eng_word:Vestige
+pos:n:
+
+spanish:Vestigio.
+spanish_word:Vestigio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vestige$$, $$n$$,  $$vestigio.$$)
+    
+
+
+Vestment, n. [véstment]`Vestido, vestidura.`Bihisan, damit.eng_section:Vestment, n. [véstment]
+eng_word:Vestment
+pos:n:
+
+spanish:Vestido, vestidura.
+spanish_word:Vestido
+spanish_word:vestidura.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vestment$$, $$n$$,  $$vestido, vestidura.$$)
+    
+
+
+Vesture, n. [véschur]`Vestido.`Damít.eng_section:Vesture, n. [véschur]
+eng_word:Vesture
+pos:n:
+
+spanish:Vestido.
+spanish_word:Vestido.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vesture$$, $$n$$,  $$vestido.$$)
+    
+
+
+Veteran, adj. & n. [véteran]`Veterano.`Datihang kawal, bihasá.eng_section:Veteran, adj. & n. [véteran]
+eng_word:Veteran
+pos:adj:
+
+spanish:Veterano.
+spanish_word:Veterano.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$veteran$$, $$adj$$,  $$veterano.$$)
+    
+
+
+Veterinarian, adj. [veterinérian]`Veterinario.`Manggagamot ng hayop.eng_section:Veterinarian, adj. [veterinérian]
+eng_word:Veterinarian
+pos:adj:
+
+spanish:Veterinario.
+spanish_word:Veterinario.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$veterinarian$$, $$adj$$,  $$veterinario.$$)
+    
+
+
+Veterinary, adj. [véterineri]`Lo que pertenece á la veterinaria.`Nauukol sa panggagamot ng hayop.eng_section:Veterinary, adj. [véterineri]
+eng_word:Veterinary
+pos:adj:
+
+spanish:Lo que pertenece á la veterinaria.
+spanish_phrase:Lo que pertenece á la veterinaria.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$veterinary$$, $$adj$$,  $$lo que pertenece á la veterinaria.$$)
+    
+
+
+Vex, v. [vecs]`Vejar; molestar.`Magpahirap, magpasákit; gumambalà.eng_section:Vex, v. [vecs]
+eng_word:Vex
+pos:v:
+
+spanish:Vejar; molestar.
+spanish_phrase:Vejar; molestar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vex$$, $$v$$,  $$vejar; molestar.$$)
+    
+
+
+Vexation, n. [vecsécion]`Vejacion, maltrato.`Pahirap, pasakit.eng_section:Vexation, n. [vecsécion]
+eng_word:Vexation
+pos:n:
+
+spanish:Vejacion, maltrato.
+spanish_word:Vejacion
+spanish_word:maltrato.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vexation$$, $$n$$,  $$vejacion, maltrato.$$)
+    
+
+
+Vexatious, adj. [vecsécioes]`Penoso, molesto.`Mahirap, kasakitsakit.eng_section:Vexatious, adj. [vecsécioes]
+eng_word:Vexatious
+pos:adj:
+
+spanish:Penoso, molesto.
+spanish_word:Penoso
+spanish_word:molesto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vexatious$$, $$adj$$,  $$penoso, molesto.$$)
+    
+
+
+Viaduct, n. [viádact]`Viaducto.`Tuláy.eng_section:Viaduct, n. [viádact]
+eng_word:Viaduct
+pos:n:
+
+spanish:Viaducto.
+spanish_word:Viaducto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$viaduct$$, $$n$$,  $$viaducto.$$)
+    
+
+
+Vial, n. [váial]`Redoma.`Boteng muntî.eng_section:Vial, n. [váial]
+eng_word:Vial
+pos:n:
+
+spanish:Redoma.
+spanish_word:Redoma.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vial$$, $$n$$,  $$redoma.$$)
+    
+
+
+Viand, n. [váiand]`Vianda.`Ulam.eng_section:Viand, n. [váiand]
+eng_word:Viand
+pos:n:
+
+spanish:Vianda.
+spanish_word:Vianda.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$viand$$, $$n$$,  $$vianda.$$)
+    
+
+
+Vibrate, v. [váibret]`Vibrar.`Tumaginting.eng_section:Vibrate, v. [váibret]
+eng_word:Vibrate
+pos:v:
+
+spanish:Vibrar.
+spanish_word:Vibrar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vibrate$$, $$v$$,  $$vibrar.$$)
+    
+
+
+Vibration, n. [vaibrécion]`Vibracion.`Taginting.eng_section:Vibration, n. [vaibrécion]
+eng_word:Vibration
+pos:n:
+
+spanish:Vibracion.
+spanish_word:Vibracion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vibration$$, $$n$$,  $$vibracion.$$)
+    
+
+
+Vicar, n. [víkar]`Vicario.`Bikaryo, kahalile; katulong.eng_section:Vicar, n. [víkar]
+eng_word:Vicar
+pos:n:
+
+spanish:Vicario.
+spanish_word:Vicario.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vicar$$, $$n$$,  $$vicario.$$)
+    
+
+
+Vicarage, n. [víkeredch]`Vicaría, vicariato.`Saklaw ó kapangyarihan ng bikaryo.eng_section:Vicarage, n. [víkeredch]
+eng_word:Vicarage
+pos:n:
+
+spanish:Vicaría, vicariato.
+spanish_word:Vicaría
+spanish_word:vicariato.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vicarage$$, $$n$$,  $$vicaría, vicariato.$$)
+    
+
+
+Vice, adj. [váis]`Vice.`Pangalawa [sa tungkol].eng_section:Vice, adj. [váis]
+eng_word:Vice
+pos:adj:
+
+spanish:Vice.
+spanish_word:Vice.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vice$$, $$adj$$,  $$vice.$$)
+    
+
+
+Vice, n. [váis]`Vicio; culpa.`Bisyo, masamang gawî; sala.eng_section:Vice, n. [váis]
+eng_word:Vice
+pos:n:
+
+spanish:Vicio; culpa.
+spanish_phrase:Vicio; culpa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vice$$, $$n$$,  $$vicio; culpa.$$)
+    
+
+
+Vicinity, n. [vicíniti]`Vecindad, proximidad.`Pook, nayon, lugar.eng_section:Vicinity, n. [vicíniti]
+eng_word:Vicinity
+pos:n:
+
+spanish:Vecindad, proximidad.
+spanish_word:Vecindad
+spanish_word:proximidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vicinity$$, $$n$$,  $$vecindad, proximidad.$$)
+    
+
+
+Vicious, adj. [vícioes]`Vicioso.`Bisyoso, masulong.eng_section:Vicious, adj. [vícioes]
+eng_word:Vicious
+pos:adj:
+
+spanish:Vicioso.
+spanish_word:Vicioso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vicious$$, $$adj$$,  $$vicioso.$$)
+    
+
+
+Victim, n. [víctim]`Víctima.`Ang nasawî, ang nápariwarâ.eng_section:Victim, n. [víctim]
+eng_word:Victim
+pos:n:
+
+spanish:Víctima.
+spanish_word:Víctima.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$victim$$, $$n$$,  $$víctima.$$)
+    
+
+
+Victor, n. [víctor]`Vencedor.`Ang nagwagí, ang nagtagumpay, ang nanalo.eng_section:Victor, n. [víctor]
+eng_word:Victor
+pos:n:
+
+spanish:Vencedor.
+spanish_word:Vencedor.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$victor$$, $$n$$,  $$vencedor.$$)
+    
+
+
+Victorious, adj. [victórioes]`Victorioso.`Nagwagí, nagtagumpay, nanalo.eng_section:Victorious, adj. [victórioes]
+eng_word:Victorious
+pos:adj:
+
+spanish:Victorioso.
+spanish_word:Victorioso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$victorious$$, $$adj$$,  $$victorioso.$$)
+    
+
+
+Victory, n. [víctori]`Victoria.`Pagwawagí, pagtatagumpay, pananalo.eng_section:Victory, n. [víctori]
+eng_word:Victory
+pos:n:
+
+spanish:Victoria.
+spanish_word:Victoria.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$victory$$, $$n$$,  $$victoria.$$)
+    
+
+
+Victual, n. [vitl]`Vitualla.`Pagkain.eng_section:Victual, n. [vitl]
+eng_word:Victual
+pos:n:
+
+spanish:Vitualla.
+spanish_word:Vitualla.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$victual$$, $$n$$,  $$vitualla.$$)
+    
+
+
+Victual, v. [vitl]`Abastecer.`Bigyan ng pagkain.eng_section:Victual, v. [vitl]
+eng_word:Victual
+pos:v:
+
+spanish:Abastecer.
+spanish_word:Abastecer.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$victual$$, $$v$$,  $$abastecer.$$)
+    
+
+
+Videlicet, adj. [vidéliset]`Á saber.`Gaya ng sumusunod.eng_section:Videlicet, adj. [vidéliset]
+eng_word:Videlicet
+pos:adj:
+
+spanish:Á saber.
+spanish_phrase:Á saber.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$videlicet$$, $$adj$$,  $$á saber.$$)
+    
+
+
+Vie, v. [vái]`Competir.`Makípag-agawan, makipaglaban.eng_section:Vie, v. [vái]
+eng_word:Vie
+pos:v:
+
+spanish:Competir.
+spanish_word:Competir.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vie$$, $$v$$,  $$competir.$$)
+    
+
+
+View, n. [viu]`Vista, perspectiva, aspecto.`Tánawin, Tingin.eng_section:View, n. [viu]
+eng_word:View
+pos:n:
+
+spanish:Vista, perspectiva, aspecto.
+spanish_word:Vista
+spanish_word:perspectiva
+spanish_word:aspecto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$view$$, $$n$$,  $$vista, perspectiva, aspecto.$$)
+    
+
+
+View, v. [viu]`Mirar, ver, examinar.`Tanawín, tignan, masdan.eng_section:View, v. [viu]
+eng_word:View
+pos:v:
+
+spanish:Mirar, ver, examinar.
+spanish_word:Mirar
+spanish_word:ver
+spanish_word:examinar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$view$$, $$v$$,  $$mirar, ver, examinar.$$)
+    
+
+
+Vigil, n. [vídchil]`Vela, vigilia.`Pagpupuyat.eng_section:Vigil, n. [vídchil]
+eng_word:Vigil
+pos:n:
+
+spanish:Vela, vigilia.
+spanish_word:Vela
+spanish_word:vigilia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vigil$$, $$n$$,  $$vela, vigilia.$$)
+    
+
+
+Vigilance, n. [vídchilans]`Desvelo, vigilancia.`Puyat, pagbabantay.eng_section:Vigilance, n. [vídchilans]
+eng_word:Vigilance
+pos:n:
+
+spanish:Desvelo, vigilancia.
+spanish_word:Desvelo
+spanish_word:vigilancia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vigilance$$, $$n$$,  $$desvelo, vigilancia.$$)
+    
+
+
+Vigilant, adj. [vídchilant]`Vigilante.`Maingat.eng_section:Vigilant, adj. [vídchilant]
+eng_word:Vigilant
+pos:adj:
+
+spanish:Vigilante.
+spanish_word:Vigilante.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vigilant$$, $$adj$$,  $$vigilante.$$)
+    
+
+
+Vigor, n. [vígor]`Vigor, fuerza; energía, eficacia.`Lakás, tibay, sigla, bisà.eng_section:Vigor, n. [vígor]
+eng_word:Vigor
+pos:n:
+
+spanish:Vigor, fuerza; energía, eficacia.
+spanish_word:Vigor
+spanish_phrase:fuerza; energía
+spanish_word:eficacia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vigor$$, $$n$$,  $$vigor, fuerza; energía, eficacia.$$)
+    
+
+
+Vigorous, adj. [vígoroes]`Vigoroso.`Malakas, matibay, masigla, mabisà.eng_section:Vigorous, adj. [vígoroes]
+eng_word:Vigorous
+pos:adj:
+
+spanish:Vigoroso.
+spanish_word:Vigoroso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vigorous$$, $$adj$$,  $$vigoroso.$$)
+    
+
+
+Vile, adj. [váil]`Vil, bajo, despreciable.`Hamak, mababà.eng_section:Vile, adj. [váil]
+eng_word:Vile
+pos:adj:
+
+spanish:Vil, bajo, despreciable.
+spanish_word:Vil
+spanish_word:bajo
+spanish_word:despreciable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vile$$, $$adj$$,  $$vil, bajo, despreciable.$$)
+    
+
+
+Vileness, n. [váilnes]`Vileza, bajeza.`Kahamakan, kababaan.eng_section:Vileness, n. [váilnes]
+eng_word:Vileness
+pos:n:
+
+spanish:Vileza, bajeza.
+spanish_word:Vileza
+spanish_word:bajeza.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vileness$$, $$n$$,  $$vileza, bajeza.$$)
+    
+
+
+Vilify, v. [vílifai]`Envilecer.`Hamakin, murahin.eng_section:Vilify, v. [vílifai]
+eng_word:Vilify
+pos:v:
+
+spanish:Envilecer.
+spanish_word:Envilecer.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vilify$$, $$v$$,  $$envilecer.$$)
+    
+
+
+Villa, n. [víla]`Quinta.`Táhanan sa parang.eng_section:Villa, n. [víla]
+eng_word:Villa
+pos:n:
+
+spanish:Quinta.
+spanish_word:Quinta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$villa$$, $$n$$,  $$quinta.$$)
+    
+
+
+Village, n. [víledch]`Aldea.`Nayon, bayanbayanan.eng_section:Village, n. [víledch]
+eng_word:Village
+pos:n:
+
+spanish:Aldea.
+spanish_word:Aldea.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$village$$, $$n$$,  $$aldea.$$)
+    
+
+
+Villain, n. [vílin]`Villano.`Taong hamak.eng_section:Villain, n. [vílin]
+eng_word:Villain
+pos:n:
+
+spanish:Villano.
+spanish_word:Villano.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$villain$$, $$n$$,  $$villano.$$)
+    
+
+
+Villany, n. [vílani]`Villanía, infamia.`Kahamakan, kasamaan.eng_section:Villany, n. [vílani]
+eng_word:Villany
+pos:n:
+
+spanish:Villanía, infamia.
+spanish_word:Villanía
+spanish_word:infamia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$villany$$, $$n$$,  $$villanía, infamia.$$)
+    
+
+
+Vindicate, v. [víndiket]`Vindicar, defender, vengar.`Mananggaláng, manghigantí.eng_section:Vindicate, v. [víndiket]
+eng_word:Vindicate
+pos:v:
+
+spanish:Vindicar, defender, vengar.
+spanish_word:Vindicar
+spanish_word:defender
+spanish_word:vengar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vindicate$$, $$v$$,  $$vindicar, defender, vengar.$$)
+    
+
+
+Vindication, n. [vindikécion]`Vindicacion.`Panananggalang, panghihiganti.eng_section:Vindication, n. [vindikécion]
+eng_word:Vindication
+pos:n:
+
+spanish:Vindicacion.
+spanish_word:Vindicacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vindication$$, $$n$$,  $$vindicacion.$$)
+    
+
+
+Vine, n. [váin]`Vid.`Punò ng ubas.eng_section:Vine, n. [váin]
+eng_word:Vine
+pos:n:
+
+spanish:Vid.
+spanish_word:Vid.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vine$$, $$n$$,  $$vid.$$)
+    
+
+
+Vinegar, n. [víniguer]`Vinagre.`Sukà.eng_section:Vinegar, n. [víniguer]
+eng_word:Vinegar
+pos:n:
+
+spanish:Vinagre.
+spanish_word:Vinagre.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vinegar$$, $$n$$,  $$vinagre.$$)
+    
+
+
+Vineyard, n. [víniard]`Viña.`Ubasán.eng_section:Vineyard, n. [víniard]
+eng_word:Vineyard
+pos:n:
+
+spanish:Viña.
+spanish_word:Viña.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vineyard$$, $$n$$,  $$viña.$$)
+    
+
+
+Vinous, adj. [váinoes]`Vinoso.`Maalak.eng_section:Vinous, adj. [váinoes]
+eng_word:Vinous
+pos:adj:
+
+spanish:Vinoso.
+spanish_word:Vinoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vinous$$, $$adj$$,  $$vinoso.$$)
+    
+
+
+Vintage, n. [víntedch]`Vendimia.`Pag-ani ng ubas.eng_section:Vintage, n. [víntedch]
+eng_word:Vintage
+pos:n:
+
+spanish:Vendimia.
+spanish_word:Vendimia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vintage$$, $$n$$,  $$vendimia.$$)
+    
+
+
+Vintner, n. [víntner]`Vinatero, tabernero.`Mánininda ng alak.eng_section:Vintner, n. [víntner]
+eng_word:Vintner
+pos:n:
+
+spanish:Vinatero, tabernero.
+spanish_word:Vinatero
+spanish_word:tabernero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vintner$$, $$n$$,  $$vinatero, tabernero.$$)
+    
+
+
+Viol, n. [váiol]`Viola.`Byola, byolíng malaké.eng_section:Viol, n. [váiol]
+eng_word:Viol
+pos:n:
+
+spanish:Viola.
+spanish_word:Viola.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$viol$$, $$n$$,  $$viola.$$)
+    
+
+
+Violate, v. [váiolet]`Violar; profanar las cosas sagradas.`Dumahas, mangdahas, mamwersa; lumapastangan, mamasláng.eng_section:Violate, v. [váiolet]
+eng_word:Violate
+pos:v:
+
+spanish:Violar; profanar las cosas sagradas.
+spanish_phrase:Violar; profanar las cosas sagradas.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$violate$$, $$v$$,  $$violar; profanar las cosas sagradas.$$)
+    
+
+
+Violation, n. [vaiolécion]`Violacion.`Pangdadahas, pamamasláng.eng_section:Violation, n. [vaiolécion]
+eng_word:Violation
+pos:n:
+
+spanish:Violacion.
+spanish_word:Violacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$violation$$, $$n$$,  $$violacion.$$)
+    
+
+
+Violator, n. [váioletor]`Violador.`Mangdadahás, mámamaslang.eng_section:Violator, n. [váioletor]
+eng_word:Violator
+pos:n:
+
+spanish:Violador.
+spanish_word:Violador.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$violator$$, $$n$$,  $$violador.$$)
+    
+
+
+Violence, n. [váiolens]`Violencia.`Dahás, karahasán.eng_section:Violence, n. [váiolens]
+eng_word:Violence
+pos:n:
+
+spanish:Violencia.
+spanish_word:Violencia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$violence$$, $$n$$,  $$violencia.$$)
+    
+
+
+Violent, adj. [váiolent]`Violento.`Marahás.eng_section:Violent, adj. [váiolent]
+eng_word:Violent
+pos:adj:
+
+spanish:Violento.
+spanish_word:Violento.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$violent$$, $$adj$$,  $$violento.$$)
+    
+
+
+Violet, n. [váiolet]`Violeta.`Byoleta.eng_section:Violet, n. [váiolet]
+eng_word:Violet
+pos:n:
+
+spanish:Violeta.
+spanish_word:Violeta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$violet$$, $$n$$,  $$violeta.$$)
+    
+
+
+Violin, n. [vaiolín]`Violin.`Byolín.eng_section:Violin, n. [vaiolín]
+eng_word:Violin
+pos:n:
+
+spanish:Violin.
+spanish_word:Violin.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$violin$$, $$n$$,  $$violin.$$)
+    
+
+
+Violinist, n. [vaiolínist]`Violinista.`Byolinista.eng_section:Violinist, n. [vaiolínist]
+eng_word:Violinist
+pos:n:
+
+spanish:Violinista.
+spanish_word:Violinista.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$violinist$$, $$n$$,  $$violinista.$$)
+    
+
+
+Viper, n. [váiper]`Vívora.`Ulupóng.eng_section:Viper, n. [váiper]
+eng_word:Viper
+pos:n:
+
+spanish:Vívora.
+spanish_word:Vívora.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$viper$$, $$n$$,  $$vívora.$$)
+    
+
+
+Virago, n. [vairégo]`Marimacho.`Babaing kilos lalake.eng_section:Virago, n. [vairégo]
+eng_word:Virago
+pos:n:
+
+spanish:Marimacho.
+spanish_word:Marimacho.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$virago$$, $$n$$,  $$marimacho.$$)
+    
+
+
+Virgin, n. [vírdchin]`Virgen, doncella.`Birhen, dalagang wagás.eng_section:Virgin, n. [vírdchin]
+eng_word:Virgin
+pos:n:
+
+spanish:Virgen, doncella.
+spanish_word:Virgen
+spanish_word:doncella.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$virgin$$, $$n$$,  $$virgen, doncella.$$)
+    
+
+
+Virginal, adj. [vírdchinal]`Virginidad.`Nauukol sa birhen ó sa dalagang wagás.eng_section:Virginal, adj. [vírdchinal]
+eng_word:Virginal
+pos:adj:
+
+spanish:Virginidad.
+spanish_word:Virginidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$virginal$$, $$adj$$,  $$virginidad.$$)
+    
+
+
+Virginity, n. [virdchíniti]`Virginidad.`Pagkabirhen, pagkadalágang wagás.eng_section:Virginity, n. [virdchíniti]
+eng_word:Virginity
+pos:n:
+
+spanish:Virginidad.
+spanish_word:Virginidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$virginity$$, $$n$$,  $$virginidad.$$)
+    
+
+
+Virile, adj. [váiril]`Viril.`Parang lalake.eng_section:Virile, adj. [váiril]
+eng_word:Virile
+pos:adj:
+
+spanish:Viril.
+spanish_word:Viril.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$virile$$, $$adj$$,  $$viril.$$)
+    
+
+
+Virtue, n. [virtíu]`Virtud.`Kabanalan; birtud, bisà.eng_section:Virtue, n. [virtíu]
+eng_word:Virtue
+pos:n:
+
+spanish:Virtud.
+spanish_word:Virtud.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$virtue$$, $$n$$,  $$virtud.$$)
+    
+
+
+Virtuous, n. [vérchiuoes]`Virtuoso; eficaz.`Banal; mabisà.eng_section:Virtuous, n. [vérchiuoes]
+eng_word:Virtuous
+pos:n:
+
+spanish:Virtuoso; eficaz.
+spanish_phrase:Virtuoso; eficaz.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$virtuous$$, $$n$$,  $$virtuoso; eficaz.$$)
+    
+
+
+Virulence, n. [víriulens]`Virulencia.`Nanà, naknák.eng_section:Virulence, n. [víriulens]
+eng_word:Virulence
+pos:n:
+
+spanish:Virulencia.
+spanish_word:Virulencia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$virulence$$, $$n$$,  $$virulencia.$$)
+    
+
+
+Virulent, adj. [víriulent]`Virulento.`Nagnananá, nagnanaknak.eng_section:Virulent, adj. [víriulent]
+eng_word:Virulent
+pos:adj:
+
+spanish:Virulento.
+spanish_word:Virulento.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$virulent$$, $$adj$$,  $$virulento.$$)
+    
+
+
+Virus, n. [váiroes]`Virus.`Nanà na nakakahawa.eng_section:Virus, n. [váiroes]
+eng_word:Virus
+pos:n:
+
+spanish:Virus.
+spanish_word:Virus.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$virus$$, $$n$$,  $$virus.$$)
+    
+
+
+Visage, n. [vísedch]`Rostro, cara, semblante.`Mukhâ, anyô.eng_section:Visage, n. [vísedch]
+eng_word:Visage
+pos:n:
+
+spanish:Rostro, cara, semblante.
+spanish_word:Rostro
+spanish_word:cara
+spanish_word:semblante.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$visage$$, $$n$$,  $$rostro, cara, semblante.$$)
+    
+
+
+Viscera, n. [vísera]`Intestinos.`Bituka.eng_section:Viscera, n. [vísera]
+eng_word:Viscera
+pos:n:
+
+spanish:Intestinos.
+spanish_word:Intestinos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$viscera$$, $$n$$,  $$intestinos.$$)
+    
+
+
+Viscount, n. [váscaunt]`Vizconde.`Biskonde.eng_section:Viscount, n. [váscaunt]
+eng_word:Viscount
+pos:n:
+
+spanish:Vizconde.
+spanish_word:Vizconde.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$viscount$$, $$n$$,  $$vizconde.$$)
+    
+
+
+Viscountess, n. [víscauntes]`Vizcondesa.`Asawa ng Biskonde.eng_section:Viscountess, n. [víscauntes]
+eng_word:Viscountess
+pos:n:
+
+spanish:Vizcondesa.
+spanish_word:Vizcondesa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$viscountess$$, $$n$$,  $$vizcondesa.$$)
+    
+
+
+Viscous, adj. [vískoes]`Viscoso, pegajoso.`Malagkit.eng_section:Viscous, adj. [vískoes]
+eng_word:Viscous
+pos:adj:
+
+spanish:Viscoso, pegajoso.
+spanish_word:Viscoso
+spanish_word:pegajoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$viscous$$, $$adj$$,  $$viscoso, pegajoso.$$)
+    
+
+
+Visible, adj. [vísibl]`Visible.`Nakikita.eng_section:Visible, adj. [vísibl]
+eng_word:Visible
+pos:adj:
+
+spanish:Visible.
+spanish_word:Visible.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$visible$$, $$adj$$,  $$visible.$$)
+    
+
+
+Vision, n. [vísion]`Vision.`Pángitain, malikmatà.eng_section:Vision, n. [vísion]
+eng_word:Vision
+pos:n:
+
+spanish:Vision.
+spanish_word:Vision.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vision$$, $$n$$,  $$vision.$$)
+    
+
+
+Visit, n. [vísit]`Visita; visitacion.`Pánauhin; dalaw.eng_section:Visit, n. [vísit]
+eng_word:Visit
+pos:n:
+
+spanish:Visita; visitacion.
+spanish_phrase:Visita; visitacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$visit$$, $$n$$,  $$visita; visitacion.$$)
+    
+
+
+Visit, v. [vísit]`Visitar.`Dumalaw.eng_section:Visit, v. [vísit]
+eng_word:Visit
+pos:v:
+
+spanish:Visitar.
+spanish_word:Visitar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$visit$$, $$v$$,  $$visitar.$$)
+    
+
+
+Visitation, n. [visitécion]`Visitacion, visita.`Dalaw, pagdalaw.eng_section:Visitation, n. [visitécion]
+eng_word:Visitation
+pos:n:
+
+spanish:Visitacion, visita.
+spanish_word:Visitacion
+spanish_word:visita.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$visitation$$, $$n$$,  $$visitacion, visita.$$)
+    
+
+
+Visitor, n. [vísitor]`Visitador.`Bisita, pánauhin.eng_section:Visitor, n. [vísitor]
+eng_word:Visitor
+pos:n:
+
+spanish:Visitador.
+spanish_word:Visitador.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$visitor$$, $$n$$,  $$visitador.$$)
+    
+
+
+Vista, n. [vista]`Vista, perspectiva.`Tánawin.eng_section:Vista, n. [vista]
+eng_word:Vista
+pos:n:
+
+spanish:Vista, perspectiva.
+spanish_word:Vista
+spanish_word:perspectiva.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vista$$, $$n$$,  $$vista, perspectiva.$$)
+    
+
+
+Vital, adj. [váital]`Vital.`Buháy ó nauukol sa buhay.eng_section:Vital, adj. [váital]
+eng_word:Vital
+pos:adj:
+
+spanish:Vital.
+spanish_word:Vital.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vital$$, $$adj$$,  $$vital.$$)
+    
+
+
+Vitality, n. [vaitáliti]`Vitalidad.`Kabuhayán, bisà.eng_section:Vitality, n. [vaitáliti]
+eng_word:Vitality
+pos:n:
+
+spanish:Vitalidad.
+spanish_word:Vitalidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vitality$$, $$n$$,  $$vitalidad.$$)
+    
+
+
+Vitiate, v. [víciet]`Viciar, dañar.`Sirain.eng_section:Vitiate, v. [víciet]
+eng_word:Vitiate
+pos:v:
+
+spanish:Viciar, dañar.
+spanish_word:Viciar
+spanish_word:dañar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vitiate$$, $$v$$,  $$viciar, dañar.$$)
+    
+
+
+Vitreous, adj. [vítrioes]`Vítreo.`Nauukol sa bubog.eng_section:Vitreous, adj. [vítrioes]
+eng_word:Vitreous
+pos:adj:
+
+spanish:Vítreo.
+spanish_word:Vítreo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vitreous$$, $$adj$$,  $$vítreo.$$)
+    
+
+
+Vitrify, v. [vítrifai]`Vitrificar.`Gawíng bubog.eng_section:Vitrify, v. [vítrifai]
+eng_word:Vitrify
+pos:v:
+
+spanish:Vitrificar.
+spanish_word:Vitrificar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vitrify$$, $$v$$,  $$vitrificar.$$)
+    
+
+
+Vituperate, v. [vitiúperet]`Vituperar.`Umalipustâ, lumait.eng_section:Vituperate, v. [vitiúperet]
+eng_word:Vituperate
+pos:v:
+
+spanish:Vituperar.
+spanish_word:Vituperar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vituperate$$, $$v$$,  $$vituperar.$$)
+    
+
+
+Vivacious, adj. [vivácioes]`Vivaz, despejado.`Masigla, masayá.eng_section:Vivacious, adj. [vivácioes]
+eng_word:Vivacious
+pos:adj:
+
+spanish:Vivaz, despejado.
+spanish_word:Vivaz
+spanish_word:despejado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vivacious$$, $$adj$$,  $$vivaz, despejado.$$)
+    
+
+
+Vivacity, n. [vivásiti]`Vivacidad.`Sigla, kasiglahan, sayá.eng_section:Vivacity, n. [vivásiti]
+eng_word:Vivacity
+pos:n:
+
+spanish:Vivacidad.
+spanish_word:Vivacidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vivacity$$, $$n$$,  $$vivacidad.$$)
+    
+
+
+Vivid, adj. [vívid]`Vivo, despejado.`Buháy ang loob, masigla.eng_section:Vivid, adj. [vívid]
+eng_word:Vivid
+pos:adj:
+
+spanish:Vivo, despejado.
+spanish_word:Vivo
+spanish_word:despejado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vivid$$, $$adj$$,  $$vivo, despejado.$$)
+    
+
+
+Vivify, v. [vívifai]`Vivificar.`Buhayin, pasiglahin.eng_section:Vivify, v. [vívifai]
+eng_word:Vivify
+pos:v:
+
+spanish:Vivificar.
+spanish_word:Vivificar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vivify$$, $$v$$,  $$vivificar.$$)
+    
+
+
+Vixen, n. [vicsn]`Mujer regañona, quimerista.`Babaing magagalitín, palaaway.eng_section:Vixen, n. [vicsn]
+eng_word:Vixen
+pos:n:
+
+spanish:Mujer regañona, quimerista.
+spanish_phrase:Mujer regañona
+spanish_word:quimerista.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vixen$$, $$n$$,  $$mujer regañona, quimerista.$$)
+    
+
+
+Vocable, n. [vócabl]`Vocablo.`Salitâ.eng_section:Vocable, n. [vócabl]
+eng_word:Vocable
+pos:n:
+
+spanish:Vocablo.
+spanish_word:Vocablo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vocable$$, $$n$$,  $$vocablo.$$)
+    
+
+
+Vocal, adj. [vócal]`Vocal.`Nauukol sa tingig.eng_section:Vocal, adj. [vócal]
+eng_word:Vocal
+pos:adj:
+
+spanish:Vocal.
+spanish_word:Vocal.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vocal$$, $$adj$$,  $$vocal.$$)
+    
+
+
+Vocation, n. [vokécion]`Vocacion, oficio, profesion.`Hilig, gawî, pagkabuhay, hanap-buhay.eng_section:Vocation, n. [vokécion]
+eng_word:Vocation
+pos:n:
+
+spanish:Vocacion, oficio, profesion.
+spanish_word:Vocacion
+spanish_word:oficio
+spanish_word:profesion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vocation$$, $$n$$,  $$vocacion, oficio, profesion.$$)
+    
+
+
+Vociferate, v. [vocíferet]`Vociferar.`Humiyaw, sumigaw.eng_section:Vociferate, v. [vocíferet]
+eng_word:Vociferate
+pos:v:
+
+spanish:Vociferar.
+spanish_word:Vociferar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vociferate$$, $$v$$,  $$vociferar.$$)
+    
+
+
+Vociferation, n. [vociferécion]`Vocería, grito.`Hiyaw, sigaw.eng_section:Vociferation, n. [vociferécion]
+eng_word:Vociferation
+pos:n:
+
+spanish:Vocería, grito.
+spanish_word:Vocería
+spanish_word:grito.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vociferation$$, $$n$$,  $$vocería, grito.$$)
+    
+
+
+Vociferous, adj. [vosíferes]`Vocinglero, clamoroso.`Maingay, búngangaan, palasigaw, palahiyaw.eng_section:Vociferous, adj. [vosíferes]
+eng_word:Vociferous
+pos:adj:
+
+spanish:Vocinglero, clamoroso.
+spanish_word:Vocinglero
+spanish_word:clamoroso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vociferous$$, $$adj$$,  $$vocinglero, clamoroso.$$)
+    
+
+
+Vogue, n. [vog]`Moda, boga.`Kaugalian, moda.eng_section:Vogue, n. [vog]
+eng_word:Vogue
+pos:n:
+
+spanish:Moda, boga.
+spanish_word:Moda
+spanish_word:boga.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vogue$$, $$n$$,  $$moda, boga.$$)
+    
+
+
+Voice, n. [vóis]`Voz.`Tingig, boses.eng_section:Voice, n. [vóis]
+eng_word:Voice
+pos:n:
+
+spanish:Voz.
+spanish_word:Voz.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$voice$$, $$n$$,  $$voz.$$)
+    
+
+
+Void, adj. [vóid]`Vacio, nulo.`Walang lamán, hungkág; walang kabuluhan.eng_section:Void, adj. [vóid]
+eng_word:Void
+pos:adj:
+
+spanish:Vacio, nulo.
+spanish_word:Vacio
+spanish_word:nulo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$void$$, $$adj$$,  $$vacio, nulo.$$)
+    
+
+
+Void, n. [vóid]`Vacuo, vacío.`Ang bagay ó dakong walang lamán.eng_section:Void, n. [vóid]
+eng_word:Void
+pos:n:
+
+spanish:Vacuo, vacío.
+spanish_word:Vacuo
+spanish_word:vacío.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$void$$, $$n$$,  $$vacuo, vacío.$$)
+    
+
+
+Void, v. [vóid]`Vaciar, desocupar.`Alisán ng lamán.eng_section:Void, v. [vóid]
+eng_word:Void
+pos:v:
+
+spanish:Vaciar, desocupar.
+spanish_word:Vaciar
+spanish_word:desocupar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$void$$, $$v$$,  $$vaciar, desocupar.$$)
+    
+
+
+Volatile, adj. [vólatil]`Volátil; voluble.`Nakalilipad, manglilipad; sálawahan.eng_section:Volatile, adj. [vólatil]
+eng_word:Volatile
+pos:adj:
+
+spanish:Volátil; voluble.
+spanish_phrase:Volátil; voluble.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$volatile$$, $$adj$$,  $$volátil; voluble.$$)
+    
+
+
+Volcano, n. [volkéno]`Volcan.`Bolkán.eng_section:Volcano, n. [volkéno]
+eng_word:Volcano
+pos:n:
+
+spanish:Volcan.
+spanish_word:Volcan.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$volcano$$, $$n$$,  $$volcan.$$)
+    
+
+
+Volley, n. [vóli]`Descarga de armas de fuego, salva.`Putok ng baríl ó kanyon.eng_section:Volley, n. [vóli]
+eng_word:Volley
+pos:n:
+
+spanish:Descarga de armas de fuego, salva.
+spanish_phrase:Descarga de armas de fuego
+spanish_word:salva.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$volley$$, $$n$$,  $$descarga de armas de fuego, salva.$$)
+    
+
+
+Volt, n. [volt]`Vuelta [entre jinetes].`Pihit ng kabayo.eng_section:Volt, n. [volt]
+eng_word:Volt
+pos:n:
+
+spanish:Vuelta [entre jinetes].
+spanish_phrase:Vuelta [entre jinetes].
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$volt$$, $$n$$,  $$vuelta [entre jinetes].$$)
+    
+
+
+Voluble, adj. [vóliubl]`Voluble.`Sálawahan.eng_section:Voluble, adj. [vóliubl]
+eng_word:Voluble
+pos:adj:
+
+spanish:Voluble.
+spanish_word:Voluble.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$voluble$$, $$adj$$,  $$voluble.$$)
+    
+
+
+Volume, n. [vólium]`Volumen, tomo.`Tomo, bahagi [ng aklat].eng_section:Volume, n. [vólium]
+eng_word:Volume
+pos:n:
+
+spanish:Volumen, tomo.
+spanish_word:Volumen
+spanish_word:tomo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$volume$$, $$n$$,  $$volumen, tomo.$$)
+    
+
+
+Voluminous, adj. [vóliuminoes]`Voluminoso, abultado.`May maraming bahagi; malaké.eng_section:Voluminous, adj. [vóliuminoes]
+eng_word:Voluminous
+pos:adj:
+
+spanish:Voluminoso, abultado.
+spanish_word:Voluminoso
+spanish_word:abultado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$voluminous$$, $$adj$$,  $$voluminoso, abultado.$$)
+    
+
+
+Voluntary, adj. [vóluntari]`Voluntario, espontáneo.`Kusà, sinadyâ, ayon sa kalooban, bukal sa loob.eng_section:Voluntary, adj. [vóluntari]
+eng_word:Voluntary
+pos:adj:
+
+spanish:Voluntario, espontáneo.
+spanish_word:Voluntario
+spanish_word:espontáneo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$voluntary$$, $$adj$$,  $$voluntario, espontáneo.$$)
+    
+
+
+Volunteer, n. [voluntír]`Voluntario.`Boluntaryo, kusà, bukal sa loob.eng_section:Volunteer, n. [voluntír]
+eng_word:Volunteer
+pos:n:
+
+spanish:Voluntario.
+spanish_word:Voluntario.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$volunteer$$, $$n$$,  $$voluntario.$$)
+    
+
+
+Volunteer, v. [voluntír]`Servir como voluntario.`Maglingkod ng kusà.eng_section:Volunteer, v. [voluntír]
+eng_word:Volunteer
+pos:v:
+
+spanish:Servir como voluntario.
+spanish_phrase:Servir como voluntario.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$volunteer$$, $$v$$,  $$servir como voluntario.$$)
+    
+
+
+Voluptuary, adj. [volúpchiuari]`Hombre voluptuoso.`Taong malibog.eng_section:Voluptuary, adj. [volúpchiuari]
+eng_word:Voluptuary
+pos:adj:
+
+spanish:Hombre voluptuoso.
+spanish_phrase:Hombre voluptuoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$voluptuary$$, $$adj$$,  $$hombre voluptuoso.$$)
+    
+
+
+Vomit, n. [vómit]`Vómito.`Suka.eng_section:Vomit, n. [vómit]
+eng_word:Vomit
+pos:n:
+
+spanish:Vómito.
+spanish_word:Vómito.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vomit$$, $$n$$,  $$vómito.$$)
+    
+
+
+Vomit, v. [vómit]`Vomitar.`Sumuka.eng_section:Vomit, v. [vómit]
+eng_word:Vomit
+pos:v:
+
+spanish:Vomitar.
+spanish_word:Vomitar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vomit$$, $$v$$,  $$vomitar.$$)
+    
+
+
+Voracious, adj. [vorécioes]`Voraz.`Matakaw, masibà.eng_section:Voracious, adj. [vorécioes]
+eng_word:Voracious
+pos:adj:
+
+spanish:Voraz.
+spanish_word:Voraz.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$voracious$$, $$adj$$,  $$voraz.$$)
+    
+
+
+Voracity, n. [voráciti]`Voracidad.`Takaw, sibà.eng_section:Voracity, n. [voráciti]
+eng_word:Voracity
+pos:n:
+
+spanish:Voracidad.
+spanish_word:Voracidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$voracity$$, $$n$$,  $$voracidad.$$)
+    
+
+
+Vortex, n. [vórtecs]`Remolino, torbellino.`Ipoipo, ulìulì.eng_section:Vortex, n. [vórtecs]
+eng_word:Vortex
+pos:n:
+
+spanish:Remolino, torbellino.
+spanish_word:Remolino
+spanish_word:torbellino.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vortex$$, $$n$$,  $$remolino, torbellino.$$)
+    
+
+
+Votary, adj. [vótari]`El que ama apasionadamente alguna cosa.`Sabík, takáw.eng_section:Votary, adj. [vótari]
+eng_word:Votary
+pos:adj:
+
+spanish:El que ama apasionadamente alguna cosa.
+spanish_phrase:El que ama apasionadamente alguna cosa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$votary$$, $$adj$$,  $$el que ama apasionadamente alguna cosa.$$)
+    
+
+
+Vote, n. [vot]`Voto.`Botos.eng_section:Vote, n. [vot]
+eng_word:Vote
+pos:n:
+
+spanish:Voto.
+spanish_word:Voto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vote$$, $$n$$,  $$voto.$$)
+    
+
+
+Vote, v. [vot]`Votar.`Bumoto.eng_section:Vote, v. [vot]
+eng_word:Vote
+pos:v:
+
+spanish:Votar.
+spanish_word:Votar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vote$$, $$v$$,  $$votar.$$)
+    
+
+
+Vouch, v. [váuch]`Atestiguar, certificar.`Sumaksí, magpatotoo.eng_section:Vouch, v. [váuch]
+eng_word:Vouch
+pos:v:
+
+spanish:Atestiguar, certificar.
+spanish_word:Atestiguar
+spanish_word:certificar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vouch$$, $$v$$,  $$atestiguar, certificar.$$)
+    
+
+
+Voucher, n. [váucher]`Testigo; documento justificativo.`Saksí; katibayang patotoo.eng_section:Voucher, n. [váucher]
+eng_word:Voucher
+pos:n:
+
+spanish:Testigo; documento justificativo.
+spanish_phrase:Testigo; documento justificativo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$voucher$$, $$n$$,  $$testigo; documento justificativo.$$)
+    
+
+
+Vouchsafe, v. [vauchséf]`Conceder, permitir.`Pumayag, magpahintulot.eng_section:Vouchsafe, v. [vauchséf]
+eng_word:Vouchsafe
+pos:v:
+
+spanish:Conceder, permitir.
+spanish_word:Conceder
+spanish_word:permitir.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vouchsafe$$, $$v$$,  $$conceder, permitir.$$)
+    
+
+
+Vow, n. [váu]`Voto.`Panata, pangakò.eng_section:Vow, n. [váu]
+eng_word:Vow
+pos:n:
+
+spanish:Voto.
+spanish_word:Voto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vow$$, $$n$$,  $$voto.$$)
+    
+
+
+Vow, v. [váu]`Dedicar ó consagrar á Dios; hacer voto.`Tumalaga sa Dios; magpanata, mangakò.eng_section:Vow, v. [váu]
+eng_word:Vow
+pos:v:
+
+spanish:Dedicar ó consagrar á Dios; hacer voto.
+spanish_phrase:Dedicar ó consagrar á Dios; hacer voto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vow$$, $$v$$,  $$dedicar ó consagrar á dios; hacer voto.$$)
+    
+
+
+Vowel, n. [váuel]`Vocal.`Tingig.eng_section:Vowel, n. [váuel]
+eng_word:Vowel
+pos:n:
+
+spanish:Vocal.
+spanish_word:Vocal.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vowel$$, $$n$$,  $$vocal.$$)
+    
+
+
+Voyage, n. [vóyedch]`Navegacion.`Pagdadagat, paglalayag, paglalakbay.eng_section:Voyage, n. [vóyedch]
+eng_word:Voyage
+pos:n:
+
+spanish:Navegacion.
+spanish_word:Navegacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$voyage$$, $$n$$,  $$navegacion.$$)
+    
+
+
+Voyage, v. [vóyedch]`Hacer un viaje por mar.`Magdagát, maglayág, maglakbay.eng_section:Voyage, v. [vóyedch]
+eng_word:Voyage
+pos:v:
+
+spanish:Hacer un viaje por mar.
+spanish_phrase:Hacer un viaje por mar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$voyage$$, $$v$$,  $$hacer un viaje por mar.$$)
+    
+
+
+Volcano, n. [volkéno]`Volcan.`Bulkán.eng_section:Volcano, n. [volkéno]
+eng_word:Volcano
+pos:n:
+
+spanish:Volcan.
+spanish_word:Volcan.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$volcano$$, $$n$$,  $$volcan.$$)
+    
+
+
+Vulgar, adj. [vúlgar]`Vulgar, comun, ordinario.`Karaniwan.eng_section:Vulgar, adj. [vúlgar]
+eng_word:Vulgar
+pos:adj:
+
+spanish:Vulgar, comun, ordinario.
+spanish_word:Vulgar
+spanish_word:comun
+spanish_word:ordinario.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vulgar$$, $$adj$$,  $$vulgar, comun, ordinario.$$)
+    
+
+
+Vulgarity, n. [volgáriti]`Vulgaridad.`Pagka-karaniwan.eng_section:Vulgarity, n. [volgáriti]
+eng_word:Vulgarity
+pos:n:
+
+spanish:Vulgaridad.
+spanish_word:Vulgaridad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vulgarity$$, $$n$$,  $$vulgaridad.$$)
+    
+
+
+Vulnerable, adj. [vúlnerabl]`Vulnerable.`Tinatablán.eng_section:Vulnerable, adj. [vúlnerabl]
+eng_word:Vulnerable
+pos:adj:
+
+spanish:Vulnerable.
+spanish_word:Vulnerable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vulnerable$$, $$adj$$,  $$vulnerable.$$)
+    
+
+
+Vulpine, adj. [vélpin]`Zorruno, vulpino.`Parang hayop na sor-ra, tuso.eng_section:Vulpine, adj. [vélpin]
+eng_word:Vulpine
+pos:adj:
+
+spanish:Zorruno, vulpino.
+spanish_word:Zorruno
+spanish_word:vulpino.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vulpine$$, $$adj$$,  $$zorruno, vulpino.$$)
+    
+
+
+Vulture, n. [vúlchur]`Buitre.`Bwitre [malaking ibon].eng_section:Vulture, n. [vúlchur]
+eng_word:Vulture
+pos:n:
+
+spanish:Buitre.
+spanish_word:Buitre.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$vulture$$, $$n$$,  $$buitre.$$)
+    
+
+

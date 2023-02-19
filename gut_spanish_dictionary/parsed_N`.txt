@@ -1,0 +1,4042 @@
+N, [en]`N (ene).`N (na).eng_section:N, [en]
+eng_word:N
+pos:none
+
+spanish:N (ene).
+spanish_phrase:N (ene).
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$n$$, $$n$$,  $$n (ene).$$)
+    
+
+
+Nab, v. [nab]`Atrapar.`Sunggabán, dakpin.eng_section:Nab, v. [nab]
+eng_word:Nab
+pos:v:
+
+spanish:Atrapar.
+spanish_word:Atrapar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nab$$, $$v$$,  $$atrapar.$$)
+    
+
+
+Nag, n. [nag]`Haca, jaca.`Kabayo.eng_section:Nag, n. [nag]
+eng_word:Nag
+pos:n:
+
+spanish:Haca, jaca.
+spanish_word:Haca
+spanish_word:jaca.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nag$$, $$n$$,  $$haca, jaca.$$)
+    
+
+
+Nail, n. [neíl]`Uña; clavo.`Kukó; pakò.eng_section:Nail, n. [neíl]
+eng_word:Nail
+pos:n:
+
+spanish:Uña; clavo.
+spanish_phrase:Uña; clavo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nail$$, $$n$$,  $$uña; clavo.$$)
+    
+
+
+Nail, v. [neíl]`Clavar, clavetear.`Magpakò.eng_section:Nail, v. [neíl]
+eng_word:Nail
+pos:v:
+
+spanish:Clavar, clavetear.
+spanish_word:Clavar
+spanish_word:clavetear.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nail$$, $$v$$,  $$clavar, clavetear.$$)
+    
+
+
+Nailer, n. [neíler]`Chapucero.`Tagapagpakò, tagagawâ ng pakò.eng_section:Nailer, n. [neíler]
+eng_word:Nailer
+pos:n:
+
+spanish:Chapucero.
+spanish_word:Chapucero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nailer$$, $$n$$,  $$chapucero.$$)
+    
+
+
+Nailery, n. [neíleri]`Fábrica de clavos.`Gáwaan ng pakò.eng_section:Nailery, n. [neíleri]
+eng_word:Nailery
+pos:n:
+
+spanish:Fábrica de clavos.
+spanish_phrase:Fábrica de clavos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nailery$$, $$n$$,  $$fábrica de clavos.$$)
+    
+
+
+Naked, adj. [néked]`Desnudo, en cueros.`Hubád, hubô.eng_section:Naked, adj. [néked]
+eng_word:Naked
+pos:adj:
+
+spanish:Desnudo, en cueros.
+spanish_word:Desnudo
+spanish_phrase:en cueros.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$naked$$, $$adj$$,  $$desnudo, en cueros.$$)
+    
+
+
+Nakedness, n. [nékednes]`Desnudez.`Kahubuan.eng_section:Nakedness, n. [nékednes]
+eng_word:Nakedness
+pos:n:
+
+spanish:Desnudez.
+spanish_word:Desnudez.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nakedness$$, $$n$$,  $$desnudez.$$)
+    
+
+
+Name, n. [neím]`Nombre.`Pangalan, alan, ngalan.eng_section:Name, n. [neím]
+eng_word:Name
+pos:n:
+
+spanish:Nombre.
+spanish_word:Nombre.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$name$$, $$n$$,  $$nombre.$$)
+    
+
+
+Name, v. [neím]`Nombrar.`Magpangalan; pangalán.eng_section:Name, v. [neím]
+eng_word:Name
+pos:v:
+
+spanish:Nombrar.
+spanish_word:Nombrar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$name$$, $$v$$,  $$nombrar.$$)
+    
+
+
+Nameless, adj. [némles]`Anónimo.`Walang pangalan.eng_section:Nameless, adj. [némles]
+eng_word:Nameless
+pos:adj:
+
+spanish:Anónimo.
+spanish_word:Anónimo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nameless$$, $$adj$$,  $$anónimo.$$)
+    
+
+
+Namely, adv. [némli]`Señaladamente, á saber.`Ang kasunod, sa makatwid bagá.eng_section:Namely, adv. [némli]
+eng_word:Namely
+pos:adv:
+
+spanish:Señaladamente, á saber.
+spanish_word:Señaladamente
+spanish_phrase:á saber.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$namely$$, $$adv$$,  $$señaladamente, á saber.$$)
+    
+
+
+Namesake, n. [némsec]`Tocayo.`Tukayo, kaisa ng pangalan.eng_section:Namesake, n. [némsec]
+eng_word:Namesake
+pos:n:
+
+spanish:Tocayo.
+spanish_word:Tocayo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$namesake$$, $$n$$,  $$tocayo.$$)
+    
+
+
+Nap, n. [nap]`Sueño ligero, siesta.`Idlip, tulog sa tanghalì.eng_section:Nap, n. [nap]
+eng_word:Nap
+pos:n:
+
+spanish:Sueño ligero, siesta.
+spanish_phrase:Sueño ligero
+spanish_word:siesta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nap$$, $$n$$,  $$sueño ligero, siesta.$$)
+    
+
+
+Nape, n. [nep]`Nuca.`Batok.eng_section:Nape, n. [nep]
+eng_word:Nape
+pos:n:
+
+spanish:Nuca.
+spanish_word:Nuca.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nape$$, $$n$$,  $$nuca.$$)
+    
+
+
+Napkin, n. [nápkin]`Servilleta.`Serbilyeta, pámahiran.eng_section:Napkin, n. [nápkin]
+eng_word:Napkin
+pos:n:
+
+spanish:Servilleta.
+spanish_word:Servilleta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$napkin$$, $$n$$,  $$servilleta.$$)
+    
+
+
+Narcotic, adj. [narcótic]`Narcótico.`Pangpatulog.eng_section:Narcotic, adj. [narcótic]
+eng_word:Narcotic
+pos:adj:
+
+spanish:Narcótico.
+spanish_word:Narcótico.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$narcotic$$, $$adj$$,  $$narcótico.$$)
+    
+
+
+Narrate, v. [nárret]`Narrar, relacionar.`Magsaysay, magsalaysay.eng_section:Narrate, v. [nárret]
+eng_word:Narrate
+pos:v:
+
+spanish:Narrar, relacionar.
+spanish_word:Narrar
+spanish_word:relacionar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$narrate$$, $$v$$,  $$narrar, relacionar.$$)
+    
+
+
+Narration, n. [narrécion]`Narracion.`Salaysay.eng_section:Narration, n. [narrécion]
+eng_word:Narration
+pos:n:
+
+spanish:Narracion.
+spanish_word:Narracion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$narration$$, $$n$$,  $$narracion.$$)
+    
+
+
+Narrative, adj. [nárretiv]`Narrativo.`Sálaysayin.eng_section:Narrative, adj. [nárretiv]
+eng_word:Narrative
+pos:adj:
+
+spanish:Narrativo.
+spanish_word:Narrativo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$narrative$$, $$adj$$,  $$narrativo.$$)
+    
+
+
+Narrow, adj. [nárro]`Angosto, estrecho.`Makitid, makipot.eng_section:Narrow, adj. [nárro]
+eng_word:Narrow
+pos:adj:
+
+spanish:Angosto, estrecho.
+spanish_word:Angosto
+spanish_word:estrecho.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$narrow$$, $$adj$$,  $$angosto, estrecho.$$)
+    
+
+
+Narrow, v. [nárro]`Estrechar.`Pakitirin, pakiputin.eng_section:Narrow, v. [nárro]
+eng_word:Narrow
+pos:v:
+
+spanish:Estrechar.
+spanish_word:Estrechar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$narrow$$, $$v$$,  $$estrechar.$$)
+    
+
+
+Nasal, adj. [násal]`Nasal.`Pahumál, nauukol sa ilóng.eng_section:Nasal, adj. [násal]
+eng_word:Nasal
+pos:adj:
+
+spanish:Nasal.
+spanish_word:Nasal.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nasal$$, $$adj$$,  $$nasal.$$)
+    
+
+
+Nastiness, n. [nástines]`Suciedad, porquería.`Kasalaulaan, kababuyan.eng_section:Nastiness, n. [nástines]
+eng_word:Nastiness
+pos:n:
+
+spanish:Suciedad, porquería.
+spanish_word:Suciedad
+spanish_word:porquería.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nastiness$$, $$n$$,  $$suciedad, porquería.$$)
+    
+
+
+Nasty, adj. [násti]`Sucio, puerco.`Salaulà, baboy.eng_section:Nasty, adj. [násti]
+eng_word:Nasty
+pos:adj:
+
+spanish:Sucio, puerco.
+spanish_word:Sucio
+spanish_word:puerco.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nasty$$, $$adj$$,  $$sucio, puerco.$$)
+    
+
+
+Natal, adj. [nátal]`Nativo, natal.`Katutubò.eng_section:Natal, adj. [nátal]
+eng_word:Natal
+pos:adj:
+
+spanish:Nativo, natal.
+spanish_word:Nativo
+spanish_word:natal.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$natal$$, $$adj$$,  $$nativo, natal.$$)
+    
+
+
+Natation, n. [nétecion]`Nadadura.`Langoy, paglangoy.eng_section:Natation, n. [nétecion]
+eng_word:Natation
+pos:n:
+
+spanish:Nadadura.
+spanish_word:Nadadura.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$natation$$, $$n$$,  $$nadadura.$$)
+    
+
+
+Nation, n. [nécion]`Nacion.`Bansá, nasyon.eng_section:Nation, n. [nécion]
+eng_word:Nation
+pos:n:
+
+spanish:Nacion.
+spanish_word:Nacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nation$$, $$n$$,  $$nacion.$$)
+    
+
+
+National, adj. [nécional]`Nacional.`Nauukol sa bansá.eng_section:National, adj. [nécional]
+eng_word:National
+pos:adj:
+
+spanish:Nacional.
+spanish_word:Nacional.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$national$$, $$adj$$,  $$nacional.$$)
+    
+
+
+Nationality, n. [necionáliti]`Nacionalidad.`Pagkatao, pagkataga gayong bansá.eng_section:Nationality, n. [necionáliti]
+eng_word:Nationality
+pos:n:
+
+spanish:Nacionalidad.
+spanish_word:Nacionalidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nationality$$, $$n$$,  $$nacionalidad.$$)
+    
+
+
+Native, adj. & n. [nétiv]`Nativo, natural.`Taga..., tubò sa....eng_section:Native, adj. & n. [nétiv]
+eng_word:Native
+pos:adj:
+
+spanish:Nativo, natural.
+spanish_word:Nativo
+spanish_word:natural.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$native$$, $$adj$$,  $$nativo, natural.$$)
+    
+
+
+Nativity, n. [netíviti]`Nacimiento.`Kapangganakan.eng_section:Nativity, n. [netíviti]
+eng_word:Nativity
+pos:n:
+
+spanish:Nacimiento.
+spanish_word:Nacimiento.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nativity$$, $$n$$,  $$nacimiento.$$)
+    
+
+
+Natural, adj. [néchural]`Natural.`Talaga, likás, katutubò.eng_section:Natural, adj. [néchural]
+eng_word:Natural
+pos:adj:
+
+spanish:Natural.
+spanish_word:Natural.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$natural$$, $$adj$$,  $$natural.$$)
+    
+
+
+Naturalization, n. [nechuralizécion]`Naturalizacion.`Pag aring parang taga gayong bansá sa nakikipamayan doon.eng_section:Naturalization, n. [nechuralizécion]
+eng_word:Naturalization
+pos:n:
+
+spanish:Naturalizacion.
+spanish_word:Naturalizacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$naturalization$$, $$n$$,  $$naturalizacion.$$)
+    
+
+
+Nature, n. [néchur]`Naturaleza.`Katalagahan, kalikasan.eng_section:Nature, n. [néchur]
+eng_word:Nature
+pos:n:
+
+spanish:Naturaleza.
+spanish_word:Naturaleza.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nature$$, $$n$$,  $$naturaleza.$$)
+    
+
+
+Naught, n. [not]`Nada.`Walâ.eng_section:Naught, n. [not]
+eng_word:Naught
+pos:n:
+
+spanish:Nada.
+spanish_word:Nada.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$naught$$, $$n$$,  $$nada.$$)
+    
+
+
+Naughty, adj. [nóti]`Malo, indigno, enredador.`Masamâ, malikot, makarás.eng_section:Naughty, adj. [nóti]
+eng_word:Naughty
+pos:adj:
+
+spanish:Malo, indigno, enredador.
+spanish_word:Malo
+spanish_word:indigno
+spanish_word:enredador.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$naughty$$, $$adj$$,  $$malo, indigno, enredador.$$)
+    
+
+
+Nausea, n. [nósia]`Náusea.`Alibadbad.eng_section:Nausea, n. [nósia]
+eng_word:Nausea
+pos:n:
+
+spanish:Náusea.
+spanish_word:Náusea.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nausea$$, $$n$$,  $$náusea.$$)
+    
+
+
+Nauseate, v. [nósiet]`Nausear, tener asco.`Umalibadbad ang síkmurà, masuklam, marimarim.eng_section:Nauseate, v. [nósiet]
+eng_word:Nauseate
+pos:v:
+
+spanish:Nausear, tener asco.
+spanish_word:Nausear
+spanish_phrase:tener asco.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nauseate$$, $$v$$,  $$nausear, tener asco.$$)
+    
+
+
+Nauseous, adj. [nósies]`Asqueroso.`Nakaaalibadbad, nakakasuklam.eng_section:Nauseous, adj. [nósies]
+eng_word:Nauseous
+pos:adj:
+
+spanish:Asqueroso.
+spanish_word:Asqueroso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nauseous$$, $$adj$$,  $$asqueroso.$$)
+    
+
+
+Nautical, adj. [nótical]`Náutico.`Nauukol sa karunungan sa dagat.eng_section:Nautical, adj. [nótical]
+eng_word:Nautical
+pos:adj:
+
+spanish:Náutico.
+spanish_word:Náutico.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nautical$$, $$adj$$,  $$náutico.$$)
+    
+
+
+Naval, adj. [nával]`Naval.`Nauukol sa hukbong dagat.eng_section:Naval, adj. [nával]
+eng_word:Naval
+pos:adj:
+
+spanish:Naval.
+spanish_word:Naval.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$naval$$, $$adj$$,  $$naval.$$)
+    
+
+
+Nave, n. [nev]`Parte principal del cuerpo de la iglesia.`Loob ng simbahan.eng_section:Nave, n. [nev]
+eng_word:Nave
+pos:n:
+
+spanish:Parte principal del cuerpo de la iglesia.
+spanish_phrase:Parte principal del cuerpo de la iglesia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nave$$, $$n$$,  $$parte principal del cuerpo de la iglesia.$$)
+    
+
+
+Navel, n. [névl]`Ombligo.`Pusod.eng_section:Navel, n. [névl]
+eng_word:Navel
+pos:n:
+
+spanish:Ombligo.
+spanish_word:Ombligo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$navel$$, $$n$$,  $$ombligo.$$)
+    
+
+
+Navigable, adj. [náviguebl]`Navegable.`Mararaanan ng sasakyan sa tubig.eng_section:Navigable, adj. [náviguebl]
+eng_word:Navigable
+pos:adj:
+
+spanish:Navegable.
+spanish_word:Navegable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$navigable$$, $$adj$$,  $$navegable.$$)
+    
+
+
+Navigate, v. [náviguet]`Navegar.`Maglayag, maglakbay sa dagat.eng_section:Navigate, v. [náviguet]
+eng_word:Navigate
+pos:v:
+
+spanish:Navegar.
+spanish_word:Navegar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$navigate$$, $$v$$,  $$navegar.$$)
+    
+
+
+Navigation, n. [naviguécion]`Navegacion.`Paglalayág, paglalakbay sa dagat.eng_section:Navigation, n. [naviguécion]
+eng_word:Navigation
+pos:n:
+
+spanish:Navegacion.
+spanish_word:Navegacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$navigation$$, $$n$$,  $$navegacion.$$)
+    
+
+
+Navigator, n. [náviguetor]`Navegador.`Mapaglayág, mapaglakbay sa dagat.eng_section:Navigator, n. [náviguetor]
+eng_word:Navigator
+pos:n:
+
+spanish:Navegador.
+spanish_word:Navegador.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$navigator$$, $$n$$,  $$navegador.$$)
+    
+
+
+Navy, n. [névi]`Marina.`Hukbong-dagat.eng_section:Navy, n. [névi]
+eng_word:Navy
+pos:n:
+
+spanish:Marina.
+spanish_word:Marina.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$navy$$, $$n$$,  $$marina.$$)
+    
+
+
+Nay, adj. [ne]`No.`Hindî; walâ.eng_section:Nay, adj. [ne]
+eng_word:Nay
+pos:adj:
+
+spanish:No.
+spanish_word:No.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nay$$, $$adj$$,  $$no.$$)
+    
+
+
+Near, adv. & prep. [niár]`Cerca de, junto a.`Malapit, karatig.eng_section:Near, adv. & prep. [niár]
+eng_word:Near
+pos:adv:
+
+spanish:Cerca de, junto a.
+spanish_phrase:Cerca de
+spanish_phrase:junto a.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$near$$, $$adv$$,  $$cerca de, junto a.$$)
+    
+
+
+Nearly, adv. [niárli]`A poca distancia, cercanamente.`Malapítlapít, halos.eng_section:Nearly, adv. [niárli]
+eng_word:Nearly
+pos:adv:
+
+spanish:A poca distancia, cercanamente.
+spanish_phrase:A poca distancia
+spanish_word:cercanamente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nearly$$, $$adv$$,  $$a poca distancia, cercanamente.$$)
+    
+
+
+Neat, adj. [nit]`Hermoso, pulido, limpio, aseado.`Maganda, mainam, makinis, malinis.eng_section:Neat, adj. [nit]
+eng_word:Neat
+pos:adj:
+
+spanish:Hermoso, pulido, limpio, aseado.
+spanish_word:Hermoso
+spanish_word:pulido
+spanish_word:limpio
+spanish_word:aseado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$neat$$, $$adj$$,  $$hermoso, pulido, limpio, aseado.$$)
+    
+
+
+Neat, n. [nit]`Hermoso, pulido; ganado vacuno.`Maganda, mainam; mga baka.eng_section:Neat, n. [nit]
+eng_word:Neat
+pos:n:
+
+spanish:Hermoso, pulido; ganado vacuno.
+spanish_word:Hermoso
+spanish_phrase:pulido; ganado vacuno.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$neat$$, $$n$$,  $$hermoso, pulido; ganado vacuno.$$)
+    
+
+
+Neatness, n. [nítnes]`Hermosura, elegancia, limpieza, delicadeza.`Kagandahan, kainaman, kakinisan, kalinisan.eng_section:Neatness, n. [nítnes]
+eng_word:Neatness
+pos:n:
+
+spanish:Hermosura, elegancia, limpieza, delicadeza.
+spanish_word:Hermosura
+spanish_word:elegancia
+spanish_word:limpieza
+spanish_word:delicadeza.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$neatness$$, $$n$$,  $$hermosura, elegancia, limpieza, delicadeza.$$)
+    
+
+
+Nebulous, adj. [nébiules]`Nebuloso.`Maulap.eng_section:Nebulous, adj. [nébiules]
+eng_word:Nebulous
+pos:adj:
+
+spanish:Nebuloso.
+spanish_word:Nebuloso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nebulous$$, $$adj$$,  $$nebuloso.$$)
+    
+
+
+Necessary, n. [níceseri]`Necesario.`Kailangan.eng_section:Necessary, n. [níceseri]
+eng_word:Necessary
+pos:n:
+
+spanish:Necesario.
+spanish_word:Necesario.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$necessary$$, $$n$$,  $$necesario.$$)
+    
+
+
+Necessitate, v. [nicésitet]`Necesitar, precisar.`Mangailangan.eng_section:Necessitate, v. [nicésitet]
+eng_word:Necessitate
+pos:v:
+
+spanish:Necesitar, precisar.
+spanish_word:Necesitar
+spanish_word:precisar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$necessitate$$, $$v$$,  $$necesitar, precisar.$$)
+    
+
+
+Necessitous, adj. [nicésitoes]`Necesitado, pobre.`Nangangailangan, salát.eng_section:Necessitous, adj. [nicésitoes]
+eng_word:Necessitous
+pos:adj:
+
+spanish:Necesitado, pobre.
+spanish_word:Necesitado
+spanish_word:pobre.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$necessitous$$, $$adj$$,  $$necesitado, pobre.$$)
+    
+
+
+Necessity, n. [nicésiti]`Necesidad.`Kailangan, pangangailangan.eng_section:Necessity, n. [nicésiti]
+eng_word:Necessity
+pos:n:
+
+spanish:Necesidad.
+spanish_word:Necesidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$necessity$$, $$n$$,  $$necesidad.$$)
+    
+
+
+Neck, n. [nec]`Cuello.`Leeg.eng_section:Neck, n. [nec]
+eng_word:Neck
+pos:n:
+
+spanish:Cuello.
+spanish_word:Cuello.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$neck$$, $$n$$,  $$cuello.$$)
+    
+
+
+Necklace, n. [nécles]`Collar.`Kwintás.eng_section:Necklace, n. [nécles]
+eng_word:Necklace
+pos:n:
+
+spanish:Collar.
+spanish_word:Collar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$necklace$$, $$n$$,  $$collar.$$)
+    
+
+
+Necktie, n. [néctai]`Corbata.`Korbatang mahabà.eng_section:Necktie, n. [néctai]
+eng_word:Necktie
+pos:n:
+
+spanish:Corbata.
+spanish_word:Corbata.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$necktie$$, $$n$$,  $$corbata.$$)
+    
+
+
+Necrology, n. [nicrólodchi]`Necrología.`Pagbabalità ng tungkol sa nangamatay.eng_section:Necrology, n. [nicrólodchi]
+eng_word:Necrology
+pos:n:
+
+spanish:Necrología.
+spanish_word:Necrología.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$necrology$$, $$n$$,  $$necrología.$$)
+    
+
+
+Necromancy, n. [nícromansi]`Nigromancia.`Panghuhulà sa pagmamalas sa mga bangkay.eng_section:Necromancy, n. [nícromansi]
+eng_word:Necromancy
+pos:n:
+
+spanish:Nigromancia.
+spanish_word:Nigromancia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$necromancy$$, $$n$$,  $$nigromancia.$$)
+    
+
+
+Need, n. [nid]`Necesidad; pobreza.`Pangangailangan, kahirapan.eng_section:Need, n. [nid]
+eng_word:Need
+pos:n:
+
+spanish:Necesidad; pobreza.
+spanish_phrase:Necesidad; pobreza.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$need$$, $$n$$,  $$necesidad; pobreza.$$)
+    
+
+
+Need, v. [nid]`Necesitar.`Mangailangan.eng_section:Need, v. [nid]
+eng_word:Need
+pos:v:
+
+spanish:Necesitar.
+spanish_word:Necesitar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$need$$, $$v$$,  $$necesitar.$$)
+    
+
+
+Needful, adj. [nídful]`Necesario.`Kailangan.eng_section:Needful, adj. [nídful]
+eng_word:Needful
+pos:adj:
+
+spanish:Necesario.
+spanish_word:Necesario.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$needful$$, $$adj$$,  $$necesario.$$)
+    
+
+
+Needle, n. [nídl]`Aguja.`Karayom.eng_section:Needle, n. [nídl]
+eng_word:Needle
+pos:n:
+
+spanish:Aguja.
+spanish_word:Aguja.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$needle$$, $$n$$,  $$aguja.$$)
+    
+
+
+Needless, adj. [nídles]`Superfluo, inutil.`Kalabisán, walang kabuluhan.eng_section:Needless, adj. [nídles]
+eng_word:Needless
+pos:adj:
+
+spanish:Superfluo, inutil.
+spanish_word:Superfluo
+spanish_word:inutil.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$needless$$, $$adj$$,  $$superfluo, inutil.$$)
+    
+
+
+Needlework, n. [nídluerk]`Bordado de aguja.`Tahî ng kamay.eng_section:Needlework, n. [nídluerk]
+eng_word:Needlework
+pos:n:
+
+spanish:Bordado de aguja.
+spanish_phrase:Bordado de aguja.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$needlework$$, $$n$$,  $$bordado de aguja.$$)
+    
+
+
+Needy, adj. [nídi]`Indigente, necesitado.`Salat, nangangailangan.eng_section:Needy, adj. [nídi]
+eng_word:Needy
+pos:adj:
+
+spanish:Indigente, necesitado.
+spanish_word:Indigente
+spanish_word:necesitado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$needy$$, $$adj$$,  $$indigente, necesitado.$$)
+    
+
+
+Nefarious, adj. [niférioes]`Nefario.`Masamâ, nakahihiyâ.eng_section:Nefarious, adj. [niférioes]
+eng_word:Nefarious
+pos:adj:
+
+spanish:Nefario.
+spanish_word:Nefario.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nefarious$$, $$adj$$,  $$nefario.$$)
+    
+
+
+Negation, n. [niguécion]`Negacion.`Pagpapahindî, pagpapawalâ, pagkakailâ, pag-ayaw, pagtatatwâ.eng_section:Negation, n. [niguécion]
+eng_word:Negation
+pos:n:
+
+spanish:Negacion.
+spanish_word:Negacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$negation$$, $$n$$,  $$negacion.$$)
+    
+
+
+Negative, adj. [négativ]`Negativo.`Kumakailâ.eng_section:Negative, adj. [négativ]
+eng_word:Negative
+pos:adj:
+
+spanish:Negativo.
+spanish_word:Negativo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$negative$$, $$adj$$,  $$negativo.$$)
+    
+
+
+Negative, n. [négativ]`Negativa.`Kailâ, tanggí, tatwâ.eng_section:Negative, n. [négativ]
+eng_word:Negative
+pos:n:
+
+spanish:Negativa.
+spanish_word:Negativa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$negative$$, $$n$$,  $$negativa.$$)
+    
+
+
+Neglect, n. [nigléct]`Descuido, negligencia.`Kapabayaan, lingat.eng_section:Neglect, n. [nigléct]
+eng_word:Neglect
+pos:n:
+
+spanish:Descuido, negligencia.
+spanish_word:Descuido
+spanish_word:negligencia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$neglect$$, $$n$$,  $$descuido, negligencia.$$)
+    
+
+
+Neglect, v. [nigléct]`Descuidar, desatender.`Magpabayâ, makalingat.eng_section:Neglect, v. [nigléct]
+eng_word:Neglect
+pos:v:
+
+spanish:Descuidar, desatender.
+spanish_word:Descuidar
+spanish_word:desatender.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$neglect$$, $$v$$,  $$descuidar, desatender.$$)
+    
+
+
+Neglectful, adj. [nigléctful]`Negligente, descuidado.`Pabayâ, lingát.eng_section:Neglectful, adj. [nigléctful]
+eng_word:Neglectful
+pos:adj:
+
+spanish:Negligente, descuidado.
+spanish_word:Negligente
+spanish_word:descuidado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$neglectful$$, $$adj$$,  $$negligente, descuidado.$$)
+    
+
+
+Negligence, n. [néglidchens]`Negligencia, descuido.`Pagpapabayâ, pabayâ.eng_section:Negligence, n. [néglidchens]
+eng_word:Negligence
+pos:n:
+
+spanish:Negligencia, descuido.
+spanish_word:Negligencia
+spanish_word:descuido.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$negligence$$, $$n$$,  $$negligencia, descuido.$$)
+    
+
+
+Negligent, adj. [néglidchent]`Negligente, descuidado.`Pabayâ.eng_section:Negligent, adj. [néglidchent]
+eng_word:Negligent
+pos:adj:
+
+spanish:Negligente, descuidado.
+spanish_word:Negligente
+spanish_word:descuidado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$negligent$$, $$adj$$,  $$negligente, descuidado.$$)
+    
+
+
+Negotiate, v. [nigóciet]`Negociar.`Mangalakal.eng_section:Negotiate, v. [nigóciet]
+eng_word:Negotiate
+pos:v:
+
+spanish:Negociar.
+spanish_word:Negociar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$negotiate$$, $$v$$,  $$negociar.$$)
+    
+
+
+Negotiation, n. [nigociécion]`Negociacion.`Pangangalakal.eng_section:Negotiation, n. [nigociécion]
+eng_word:Negotiation
+pos:n:
+
+spanish:Negociacion.
+spanish_word:Negociacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$negotiation$$, $$n$$,  $$negociacion.$$)
+    
+
+
+Negress, n. [nígres]`Negra.`Babaing maitím.eng_section:Negress, n. [nígres]
+eng_word:Negress
+pos:n:
+
+spanish:Negra.
+spanish_word:Negra.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$negress$$, $$n$$,  $$negra.$$)
+    
+
+
+Negro, n. [nígro]`Negro, etíope.`Taong maitím.eng_section:Negro, n. [nígro]
+eng_word:Negro
+pos:n:
+
+spanish:Negro, etíope.
+spanish_word:Negro
+spanish_word:etíope.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$negro$$, $$n$$,  $$negro, etíope.$$)
+    
+
+
+Neigh, n. [ne]`Relincho.`Singasíng ng kabayo.eng_section:Neigh, n. [ne]
+eng_word:Neigh
+pos:n:
+
+spanish:Relincho.
+spanish_word:Relincho.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$neigh$$, $$n$$,  $$relincho.$$)
+    
+
+
+Neigh, v. [ne]`Relinchar.`Magsingasíng.eng_section:Neigh, v. [ne]
+eng_word:Neigh
+pos:v:
+
+spanish:Relinchar.
+spanish_word:Relinchar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$neigh$$, $$v$$,  $$relinchar.$$)
+    
+
+
+Neighbor, n. [nébor]`Prójimo, vecino.`Kapwà, kapwà-tao, kapitbahay.eng_section:Neighbor, n. [nébor]
+eng_word:Neighbor
+pos:n:
+
+spanish:Prójimo, vecino.
+spanish_word:Prójimo
+spanish_word:vecino.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$neighbor$$, $$n$$,  $$prójimo, vecino.$$)
+    
+
+
+Neighbor, v. [nébor]`Confinar.`Lumapít, makipagkapit bahay.eng_section:Neighbor, v. [nébor]
+eng_word:Neighbor
+pos:v:
+
+spanish:Confinar.
+spanish_word:Confinar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$neighbor$$, $$v$$,  $$confinar.$$)
+    
+
+
+Neighborhood, n. [néborjud]`Vecindad, vecindario.`Pook.eng_section:Neighborhood, n. [néborjud]
+eng_word:Neighborhood
+pos:n:
+
+spanish:Vecindad, vecindario.
+spanish_word:Vecindad
+spanish_word:vecindario.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$neighborhood$$, $$n$$,  $$vecindad, vecindario.$$)
+    
+
+
+Neither, conj. [nídzer]`Ninguno, ni uno ni otro.`Kahi't sino, kahi't alin man.eng_section:Neither, conj. [nídzer]
+eng_word:Neither
+pos:conj:
+
+spanish:Ninguno, ni uno ni otro.
+spanish_word:Ninguno
+spanish_phrase:ni uno ni otro.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$neither$$, $$conj$$,  $$ninguno, ni uno ni otro.$$)
+    
+
+
+Neophyte, n. [níofait]`Neófito.`Bagong binyagan, bagong nag-aaral.eng_section:Neophyte, n. [níofait]
+eng_word:Neophyte
+pos:n:
+
+spanish:Neófito.
+spanish_word:Neófito.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$neophyte$$, $$n$$,  $$neófito.$$)
+    
+
+
+Nephew, n. [néfiu]`Sobrino.`Pamangking lalake.eng_section:Nephew, n. [néfiu]
+eng_word:Nephew
+pos:n:
+
+spanish:Sobrino.
+spanish_word:Sobrino.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nephew$$, $$n$$,  $$sobrino.$$)
+    
+
+
+Nerve, n. [nerv]`Nervio, fortaleza, vigor.`Litid, lakás.eng_section:Nerve, n. [nerv]
+eng_word:Nerve
+pos:n:
+
+spanish:Nervio, fortaleza, vigor.
+spanish_word:Nervio
+spanish_word:fortaleza
+spanish_word:vigor.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nerve$$, $$n$$,  $$nervio, fortaleza, vigor.$$)
+    
+
+
+Nervous, adj. [nérvas]`Nervioso, nervudo.`Nerbioso, litirán.eng_section:Nervous, adj. [nérvas]
+eng_word:Nervous
+pos:adj:
+
+spanish:Nervioso, nervudo.
+spanish_word:Nervioso
+spanish_word:nervudo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nervous$$, $$adj$$,  $$nervioso, nervudo.$$)
+    
+
+
+Nest, n. [nest]`Nido.`Pugad.eng_section:Nest, n. [nest]
+eng_word:Nest
+pos:n:
+
+spanish:Nido.
+spanish_word:Nido.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nest$$, $$n$$,  $$nido.$$)
+    
+
+
+Nest, v. [nest]`Nidificar, anidar.`Magpugad.eng_section:Nest, v. [nest]
+eng_word:Nest
+pos:v:
+
+spanish:Nidificar, anidar.
+spanish_word:Nidificar
+spanish_word:anidar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nest$$, $$v$$,  $$nidificar, anidar.$$)
+    
+
+
+Nestle, v. [nesl]`Anidarse, alojarse.`Magpugad, humalimlim, tumahan.eng_section:Nestle, v. [nesl]
+eng_word:Nestle
+pos:v:
+
+spanish:Anidarse, alojarse.
+spanish_word:Anidarse
+spanish_word:alojarse.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nestle$$, $$v$$,  $$anidarse, alojarse.$$)
+    
+
+
+Nestling, n. [nésling]`Pollo.`Inakáy, sisiw.eng_section:Nestling, n. [nésling]
+eng_word:Nestling
+pos:n:
+
+spanish:Pollo.
+spanish_word:Pollo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nestling$$, $$n$$,  $$pollo.$$)
+    
+
+
+Net, adj. [net]`Neto, limpio, puro.`Neto, malinis, bukod ang nagugol.eng_section:Net, adj. [net]
+eng_word:Net
+pos:adj:
+
+spanish:Neto, limpio, puro.
+spanish_word:Neto
+spanish_word:limpio
+spanish_word:puro.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$net$$, $$adj$$,  $$neto, limpio, puro.$$)
+    
+
+
+Net, n. [net]`Red.`Lambát.eng_section:Net, n. [net]
+eng_word:Net
+pos:n:
+
+spanish:Red.
+spanish_word:Red.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$net$$, $$n$$,  $$red.$$)
+    
+
+
+Nether, adj. [nédzer]`Inferior.`Lalong mababà, lalong alangan.eng_section:Nether, adj. [nédzer]
+eng_word:Nether
+pos:adj:
+
+spanish:Inferior.
+spanish_word:Inferior.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nether$$, $$adj$$,  $$inferior.$$)
+    
+
+
+Netting, n. [néting]`Mallado.`Nilambát.eng_section:Netting, n. [néting]
+eng_word:Netting
+pos:n:
+
+spanish:Mallado.
+spanish_word:Mallado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$netting$$, $$n$$,  $$mallado.$$)
+    
+
+
+Nettle, n. [netl]`Ortiga.`Lipay.eng_section:Nettle, n. [netl]
+eng_word:Nettle
+pos:n:
+
+spanish:Ortiga.
+spanish_word:Ortiga.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nettle$$, $$n$$,  $$ortiga.$$)
+    
+
+
+Nettle, v. [netl]`Picar [como ortiga].`Makálipay.eng_section:Nettle, v. [netl]
+eng_word:Nettle
+pos:v:
+
+spanish:Picar [como ortiga].
+spanish_phrase:Picar [como ortiga].
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nettle$$, $$v$$,  $$picar [como ortiga].$$)
+    
+
+
+Network, n. [nétwork]`Randa, obra de malla.`Yaring tila lambat.eng_section:Network, n. [nétwork]
+eng_word:Network
+pos:n:
+
+spanish:Randa, obra de malla.
+spanish_word:Randa
+spanish_phrase:obra de malla.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$network$$, $$n$$,  $$randa, obra de malla.$$)
+    
+
+
+Neuter, adj. [niúter]`Neutro.`Neutro, álanganin.eng_section:Neuter, adj. [niúter]
+eng_word:Neuter
+pos:adj:
+
+spanish:Neutro.
+spanish_word:Neutro.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$neuter$$, $$adj$$,  $$neutro.$$)
+    
+
+
+Neutral, adj. [niútral]`Neutral.`Álanganin, walang kinakampihan.eng_section:Neutral, adj. [niútral]
+eng_word:Neutral
+pos:adj:
+
+spanish:Neutral.
+spanish_word:Neutral.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$neutral$$, $$adj$$,  $$neutral.$$)
+    
+
+
+Neutrality, n. [niutráliti]`Neutralidad.`Pagkawalang kakampí.eng_section:Neutrality, n. [niutráliti]
+eng_word:Neutrality
+pos:n:
+
+spanish:Neutralidad.
+spanish_word:Neutralidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$neutrality$$, $$n$$,  $$neutralidad.$$)
+    
+
+
+Neutralize, v. [niútralais]`Neutralizar.`Hwag pakialaman.eng_section:Neutralize, v. [niútralais]
+eng_word:Neutralize
+pos:v:
+
+spanish:Neutralizar.
+spanish_word:Neutralizar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$neutralize$$, $$v$$,  $$neutralizar.$$)
+    
+
+
+Never, adj. [néver]`Nunca, jamás.`Kahi't kaylanman, kaylan ma'y hwag.eng_section:Never, adj. [néver]
+eng_word:Never
+pos:adj:
+
+spanish:Nunca, jamás.
+spanish_word:Nunca
+spanish_word:jamás.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$never$$, $$adj$$,  $$nunca, jamás.$$)
+    
+
+
+Nevertheless, adv. [neverdzilés]`No obstante que, sin embargo.`Gayon man.eng_section:Nevertheless, adv. [neverdzilés]
+eng_word:Nevertheless
+pos:adv:
+
+spanish:No obstante que, sin embargo.
+spanish_phrase:No obstante que
+spanish_phrase:sin embargo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nevertheless$$, $$adv$$,  $$no obstante que, sin embargo.$$)
+    
+
+
+New, adj. [niú]`Nuevo, reciente, fresco.`Bago, baguhan, sariwà.eng_section:New, adj. [niú]
+eng_word:New
+pos:adj:
+
+spanish:Nuevo, reciente, fresco.
+spanish_word:Nuevo
+spanish_word:reciente
+spanish_word:fresco.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$new$$, $$adj$$,  $$nuevo, reciente, fresco.$$)
+    
+
+
+New-born, n. [niú-born]`Recien nacido.`Bagong panganák.eng_section:New-born, n. [niú-born]
+eng_word:New-born
+pos:n:
+
+spanish:Recien nacido.
+spanish_phrase:Recien nacido.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$new-born$$, $$n$$,  $$recien nacido.$$)
+    
+
+
+New-fashion, n. [niu-fésion]`La última moda.`Bagong moda.eng_section:New-fashion, n. [niu-fésion]
+eng_word:New-fashion
+pos:n:
+
+spanish:La última moda.
+spanish_phrase:La última moda.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$new-fashion$$, $$n$$,  $$la última moda.$$)
+    
+
+
+New-moon, n. [niú-mun]`Luna nueva.`Bagong bwan.eng_section:New-moon, n. [niú-mun]
+eng_word:New-moon
+pos:n:
+
+spanish:Luna nueva.
+spanish_phrase:Luna nueva.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$new-moon$$, $$n$$,  $$luna nueva.$$)
+    
+
+
+News, n. [niús]`Noticias, novedades.`Balità.eng_section:News, n. [niús]
+eng_word:News
+pos:n:
+
+spanish:Noticias, novedades.
+spanish_word:Noticias
+spanish_word:novedades.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$news$$, $$n$$,  $$noticias, novedades.$$)
+    
+
+
+Newsmonger, n. [niúsmonguer]`Novelero.`Ang nagbibilí ng mga pahayagan at babasahín.eng_section:Newsmonger, n. [niúsmonguer]
+eng_word:Newsmonger
+pos:n:
+
+spanish:Novelero.
+spanish_word:Novelero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$newsmonger$$, $$n$$,  $$novelero.$$)
+    
+
+
+Newspaper, n. [niúspeper]`Gaceta, periódico.`Páhayagan.eng_section:Newspaper, n. [niúspeper]
+eng_word:Newspaper
+pos:n:
+
+spanish:Gaceta, periódico.
+spanish_word:Gaceta
+spanish_word:periódico.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$newspaper$$, $$n$$,  $$gaceta, periódico.$$)
+    
+
+
+Newt, n. [niút]`Lagartija.`Bubulí.eng_section:Newt, n. [niút]
+eng_word:Newt
+pos:n:
+
+spanish:Lagartija.
+spanish_word:Lagartija.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$newt$$, $$n$$,  $$lagartija.$$)
+    
+
+
+Next, adj. [necst]`Próximo, siguiente.`Kasunod, súsunod, darating.eng_section:Next, adj. [necst]
+eng_word:Next
+pos:adj:
+
+spanish:Próximo, siguiente.
+spanish_word:Próximo
+spanish_word:siguiente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$next$$, $$adj$$,  $$próximo, siguiente.$$)
+    
+
+
+Next, adv. [necst]`Luego, inmediatamente, despues.`Sakâ.eng_section:Next, adv. [necst]
+eng_word:Next
+pos:adv:
+
+spanish:Luego, inmediatamente, despues.
+spanish_word:Luego
+spanish_word:inmediatamente
+spanish_word:despues.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$next$$, $$adv$$,  $$luego, inmediatamente, despues.$$)
+    
+
+
+Nib, n. [nib]`Pico; punta, el extremo de cualquiera cosa.`Tukâ; dulo.eng_section:Nib, n. [nib]
+eng_word:Nib
+pos:n:
+
+spanish:Pico; punta, el extremo de cualquiera cosa.
+spanish_phrase:Pico; punta
+spanish_phrase:el extremo de cualquiera cosa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nib$$, $$n$$,  $$pico; punta, el extremo de cualquiera cosa.$$)
+    
+
+
+Nibble, v. [níbl]`Picar.`Tumukâ.eng_section:Nibble, v. [níbl]
+eng_word:Nibble
+pos:v:
+
+spanish:Picar.
+spanish_word:Picar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nibble$$, $$v$$,  $$picar.$$)
+    
+
+
+Nice, adj. [náis]`Gustoso, delicioso.`Masarap, mainam.eng_section:Nice, adj. [náis]
+eng_word:Nice
+pos:adj:
+
+spanish:Gustoso, delicioso.
+spanish_word:Gustoso
+spanish_word:delicioso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nice$$, $$adj$$,  $$gustoso, delicioso.$$)
+    
+
+
+Nicety, n. [náisiti]`Exactitud, delicadeza, esmero.`Kaganapan, kainaman.eng_section:Nicety, n. [náisiti]
+eng_word:Nicety
+pos:n:
+
+spanish:Exactitud, delicadeza, esmero.
+spanish_word:Exactitud
+spanish_word:delicadeza
+spanish_word:esmero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nicety$$, $$n$$,  $$exactitud, delicadeza, esmero.$$)
+    
+
+
+Niche, n. [nich]`Nicho.`Nicho, líbingan.eng_section:Niche, n. [nich]
+eng_word:Niche
+pos:n:
+
+spanish:Nicho.
+spanish_word:Nicho.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$niche$$, $$n$$,  $$nicho.$$)
+    
+
+
+Nick, n. [nic]`Punto crítico, tiempo preciso.`Kagahulan.eng_section:Nick, n. [nic]
+eng_word:Nick
+pos:n:
+
+spanish:Punto crítico, tiempo preciso.
+spanish_phrase:Punto crítico
+spanish_phrase:tiempo preciso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nick$$, $$n$$,  $$punto crítico, tiempo preciso.$$)
+    
+
+
+Nick, v. [nic]`Llegar á tiempo.`Umabot sa oras.eng_section:Nick, v. [nic]
+eng_word:Nick
+pos:v:
+
+spanish:Llegar á tiempo.
+spanish_phrase:Llegar á tiempo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nick$$, $$v$$,  $$llegar á tiempo.$$)
+    
+
+
+Nickel, n. [níkel]`Niquel.`Nikel.eng_section:Nickel, n. [níkel]
+eng_word:Nickel
+pos:n:
+
+spanish:Niquel.
+spanish_word:Niquel.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nickel$$, $$n$$,  $$niquel.$$)
+    
+
+
+Nickname, n. [nicnem]`Apodo, mote.`Palayaw.eng_section:Nickname, n. [nicnem]
+eng_word:Nickname
+pos:n:
+
+spanish:Apodo, mote.
+spanish_word:Apodo
+spanish_word:mote.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nickname$$, $$n$$,  $$apodo, mote.$$)
+    
+
+
+Nickname, v. [nicnem]`Motejar, poner apodos.`Magpalayaw.eng_section:Nickname, v. [nicnem]
+eng_word:Nickname
+pos:v:
+
+spanish:Motejar, poner apodos.
+spanish_word:Motejar
+spanish_phrase:poner apodos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nickname$$, $$v$$,  $$motejar, poner apodos.$$)
+    
+
+
+Niece, n. [niz]`Sobrina.`Pamangking babae.eng_section:Niece, n. [niz]
+eng_word:Niece
+pos:n:
+
+spanish:Sobrina.
+spanish_word:Sobrina.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$niece$$, $$n$$,  $$sobrina.$$)
+    
+
+
+Niggard, n. [nígard]`Tacaño, avaro, mezquino.`Maramot, sakím.eng_section:Niggard, n. [nígard]
+eng_word:Niggard
+pos:n:
+
+spanish:Tacaño, avaro, mezquino.
+spanish_word:Tacaño
+spanish_word:avaro
+spanish_word:mezquino.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$niggard$$, $$n$$,  $$tacaño, avaro, mezquino.$$)
+    
+
+
+Niggardness, n. [nígardnes]`Tacañería, ruindad.`Karamutan, kasakimán.eng_section:Niggardness, n. [nígardnes]
+eng_word:Niggardness
+pos:n:
+
+spanish:Tacañería, ruindad.
+spanish_word:Tacañería
+spanish_word:ruindad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$niggardness$$, $$n$$,  $$tacañería, ruindad.$$)
+    
+
+
+Nigh, adj. & prep. [nai]`Cerca; cercano.`Malapit.eng_section:Nigh, adj. & prep. [nai]
+eng_word:Nigh
+pos:adj:
+
+spanish:Cerca; cercano.
+spanish_phrase:Cerca; cercano.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nigh$$, $$adj$$,  $$cerca; cercano.$$)
+    
+
+
+Night, n. [náit]`Noche.`Gabí.eng_section:Night, n. [náit]
+eng_word:Night
+pos:n:
+
+spanish:Noche.
+spanish_word:Noche.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$night$$, $$n$$,  $$noche.$$)
+    
+
+
+Nightfall, n. [náitfol]`El anochecer.`Paglubog ng araw.eng_section:Nightfall, n. [náitfol]
+eng_word:Nightfall
+pos:n:
+
+spanish:El anochecer.
+spanish_phrase:El anochecer.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nightfall$$, $$n$$,  $$el anochecer.$$)
+    
+
+
+Night-gown, n. [náit-gaun]`Bata que se usa de noche.`Damit na pangtulog.eng_section:Night-gown, n. [náit-gaun]
+eng_word:Night-gown
+pos:n:
+
+spanish:Bata que se usa de noche.
+spanish_phrase:Bata que se usa de noche.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$night-gown$$, $$n$$,  $$bata que se usa de noche.$$)
+    
+
+
+Nightly, adj. [náitli]`Nocturno.`Panggabí.eng_section:Nightly, adj. [náitli]
+eng_word:Nightly
+pos:adj:
+
+spanish:Nocturno.
+spanish_word:Nocturno.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nightly$$, $$adj$$,  $$nocturno.$$)
+    
+
+
+Nightly, adv. [náitli]`Por las noches.`Sa gabí; gabígabí.eng_section:Nightly, adv. [náitli]
+eng_word:Nightly
+pos:adv:
+
+spanish:Por las noches.
+spanish_phrase:Por las noches.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nightly$$, $$adv$$,  $$por las noches.$$)
+    
+
+
+Nightmare, n. [náitmer]`Pesadilla.`Bangungot, panaginip, pangarap.eng_section:Nightmare, n. [náitmer]
+eng_word:Nightmare
+pos:n:
+
+spanish:Pesadilla.
+spanish_word:Pesadilla.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nightmare$$, $$n$$,  $$pesadilla.$$)
+    
+
+
+Nimble, adj. [nimbl]`Ligero, activo, ágil.`Maliksí, masikap, masigla.eng_section:Nimble, adj. [nimbl]
+eng_word:Nimble
+pos:adj:
+
+spanish:Ligero, activo, ágil.
+spanish_word:Ligero
+spanish_word:activo
+spanish_word:ágil.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nimble$$, $$adj$$,  $$ligero, activo, ágil.$$)
+    
+
+
+Nimbleness, n. [nímblnes]`Ligereza, destreza.`Kaliksihan, kasiglahan.eng_section:Nimbleness, n. [nímblnes]
+eng_word:Nimbleness
+pos:n:
+
+spanish:Ligereza, destreza.
+spanish_word:Ligereza
+spanish_word:destreza.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nimbleness$$, $$n$$,  $$ligereza, destreza.$$)
+    
+
+
+Nine, adj. & n. [náin]`Nueve.`Syam.eng_section:Nine, adj. & n. [náin]
+eng_word:Nine
+pos:adj:
+
+spanish:Nueve.
+spanish_word:Nueve.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nine$$, $$adj$$,  $$nueve.$$)
+    
+
+
+Ninefold, adj. [náinfold]`Nueve veces.`Makasyam.eng_section:Ninefold, adj. [náinfold]
+eng_word:Ninefold
+pos:adj:
+
+spanish:Nueve veces.
+spanish_phrase:Nueve veces.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ninefold$$, $$adj$$,  $$nueve veces.$$)
+    
+
+
+Nineteen, adj. [náintin]`Diez y nueve.`Labing syam.eng_section:Nineteen, adj. [náintin]
+eng_word:Nineteen
+pos:adj:
+
+spanish:Diez y nueve.
+spanish_phrase:Diez y nueve.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nineteen$$, $$adj$$,  $$diez y nueve.$$)
+    
+
+
+Nineteenth, adj. [náintinz]`Décimo nono.`Ikalabing syam.eng_section:Nineteenth, adj. [náintinz]
+eng_word:Nineteenth
+pos:adj:
+
+spanish:Décimo nono.
+spanish_phrase:Décimo nono.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nineteenth$$, $$adj$$,  $$décimo nono.$$)
+    
+
+
+Ninetieth, adj. [náintiez]`Nonagésimo.`Ika syam na pû.eng_section:Ninetieth, adj. [náintiez]
+eng_word:Ninetieth
+pos:adj:
+
+spanish:Nonagésimo.
+spanish_word:Nonagésimo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ninetieth$$, $$adj$$,  $$nonagésimo.$$)
+    
+
+
+Ninety, adj. [náinti]`Noventa.`Syam na pû.eng_section:Ninety, adj. [náinti]
+eng_word:Ninety
+pos:adj:
+
+spanish:Noventa.
+spanish_word:Noventa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ninety$$, $$adj$$,  $$noventa.$$)
+    
+
+
+Ninth, adj. [náinz]`Nono, noveno.`Ika syam.eng_section:Ninth, adj. [náinz]
+eng_word:Ninth
+pos:adj:
+
+spanish:Nono, noveno.
+spanish_word:Nono
+spanish_word:noveno.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ninth$$, $$adj$$,  $$nono, noveno.$$)
+    
+
+
+Ninthly, adv. [náinzli]`En nono lugar.`Sa ika syam.eng_section:Ninthly, adv. [náinzli]
+eng_word:Ninthly
+pos:adv:
+
+spanish:En nono lugar.
+spanish_phrase:En nono lugar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ninthly$$, $$adv$$,  $$en nono lugar.$$)
+    
+
+
+Nip, n. [nip]`Pellizco, uñada.`Kurot, kalmót.eng_section:Nip, n. [nip]
+eng_word:Nip
+pos:n:
+
+spanish:Pellizco, uñada.
+spanish_word:Pellizco
+spanish_word:uñada.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nip$$, $$n$$,  $$pellizco, uñada.$$)
+    
+
+
+Nip, v. [nip]`Pellizcar, rasguñar.`Kumurot, mangalmot.eng_section:Nip, v. [nip]
+eng_word:Nip
+pos:v:
+
+spanish:Pellizcar, rasguñar.
+spanish_word:Pellizcar
+spanish_word:rasguñar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nip$$, $$v$$,  $$pellizcar, rasguñar.$$)
+    
+
+
+Nippers, n. [nípers]`Alicates, tenazas.`Pang ipit.eng_section:Nippers, n. [nípers]
+eng_word:Nippers
+pos:n:
+
+spanish:Alicates, tenazas.
+spanish_word:Alicates
+spanish_word:tenazas.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nippers$$, $$n$$,  $$alicates, tenazas.$$)
+    
+
+
+Nipple, n. [nípl]`Pezón.`Utóng (ng suso).eng_section:Nipple, n. [nípl]
+eng_word:Nipple
+pos:n:
+
+spanish:Pezón.
+spanish_word:Pezón.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nipple$$, $$n$$,  $$pezón.$$)
+    
+
+
+Nit, n. [nit]`Liendre, el huevo del piojo.`Lisâ, itlog ng hanip ó ng kuto.eng_section:Nit, n. [nit]
+eng_word:Nit
+pos:n:
+
+spanish:Liendre, el huevo del piojo.
+spanish_word:Liendre
+spanish_phrase:el huevo del piojo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nit$$, $$n$$,  $$liendre, el huevo del piojo.$$)
+    
+
+
+No, adv. [no]`No.`Hindî, walâ, hwag.eng_section:No, adv. [no]
+eng_word:No
+pos:adv:
+
+spanish:No.
+spanish_word:No.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$no$$, $$adv$$,  $$no.$$)
+    
+
+
+Nobility, n. [nobíliti]`Nobleza, dignidad.`Kabunyian, karangalan, karilagan.eng_section:Nobility, n. [nobíliti]
+eng_word:Nobility
+pos:n:
+
+spanish:Nobleza, dignidad.
+spanish_word:Nobleza
+spanish_word:dignidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nobility$$, $$n$$,  $$nobleza, dignidad.$$)
+    
+
+
+Noble, adj. [nobl]`Noble, hidalgo.`Bunyî, mahal, marangal, marilag.eng_section:Noble, adj. [nobl]
+eng_word:Noble
+pos:adj:
+
+spanish:Noble, hidalgo.
+spanish_word:Noble
+spanish_word:hidalgo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$noble$$, $$adj$$,  $$noble, hidalgo.$$)
+    
+
+
+Nobleman, n. [nóblman]`Noble.`Taong marangal.eng_section:Nobleman, n. [nóblman]
+eng_word:Nobleman
+pos:n:
+
+spanish:Noble.
+spanish_word:Noble.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nobleman$$, $$n$$,  $$noble.$$)
+    
+
+
+Nobody, n. [nóbodi]`Nadie, ninguna persona.`Wala kahi't sino.eng_section:Nobody, n. [nóbodi]
+eng_word:Nobody
+pos:n:
+
+spanish:Nadie, ninguna persona.
+spanish_word:Nadie
+spanish_phrase:ninguna persona.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nobody$$, $$n$$,  $$nadie, ninguna persona.$$)
+    
+
+
+Nocturnal, adj. [noctúrnal]`Nocturno.`Nauukol sa gabí.eng_section:Nocturnal, adj. [noctúrnal]
+eng_word:Nocturnal
+pos:adj:
+
+spanish:Nocturno.
+spanish_word:Nocturno.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nocturnal$$, $$adj$$,  $$nocturno.$$)
+    
+
+
+Nod, n. [nod]`Cabeceo, reverencia, cualquiera señal hecha con la cabeza.`Yukô, batì tangô, ilíng.eng_section:Nod, n. [nod]
+eng_word:Nod
+pos:n:
+
+spanish:Cabeceo, reverencia, cualquiera señal hecha con la cabeza.
+spanish_word:Cabeceo
+spanish_word:reverencia
+spanish_phrase:cualquiera señal hecha con la cabeza.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nod$$, $$n$$,  $$cabeceo, reverencia, cualquiera señal hecha con la cabeza.$$)
+    
+
+
+Nod, v. [nod]`Cabecear, hacer una señal con la cabeza.`Yumukód, bumatì, tumangô, umilíng.eng_section:Nod, v. [nod]
+eng_word:Nod
+pos:v:
+
+spanish:Cabecear, hacer una señal con la cabeza.
+spanish_word:Cabecear
+spanish_phrase:hacer una señal con la cabeza.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nod$$, $$v$$,  $$cabecear, hacer una señal con la cabeza.$$)
+    
+
+
+Node, n. [nod]`Nudo.`Buhól.eng_section:Node, n. [nod]
+eng_word:Node
+pos:n:
+
+spanish:Nudo.
+spanish_word:Nudo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$node$$, $$n$$,  $$nudo.$$)
+    
+
+
+Nodule, n. [nódiul]`Nudillo.`Buhól.eng_section:Nodule, n. [nódiul]
+eng_word:Nodule
+pos:n:
+
+spanish:Nudillo.
+spanish_word:Nudillo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nodule$$, $$n$$,  $$nudillo.$$)
+    
+
+
+Noise, n. [nóis]`Ruido, sonido, bulla, rumor.`Ingay, kaingay, alingwngaw.eng_section:Noise, n. [nóis]
+eng_word:Noise
+pos:n:
+
+spanish:Ruido, sonido, bulla, rumor.
+spanish_word:Ruido
+spanish_word:sonido
+spanish_word:bulla
+spanish_word:rumor.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$noise$$, $$n$$,  $$ruido, sonido, bulla, rumor.$$)
+    
+
+
+Noise, v. [nóis]`Divulgar alguna noticia.`Magbansag ng anomang balità.eng_section:Noise, v. [nóis]
+eng_word:Noise
+pos:v:
+
+spanish:Divulgar alguna noticia.
+spanish_phrase:Divulgar alguna noticia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$noise$$, $$v$$,  $$divulgar alguna noticia.$$)
+    
+
+
+Noiseless, adj. [nóisles]`Tranquilo, callado.`Tahimik.eng_section:Noiseless, adj. [nóisles]
+eng_word:Noiseless
+pos:adj:
+
+spanish:Tranquilo, callado.
+spanish_word:Tranquilo
+spanish_word:callado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$noiseless$$, $$adj$$,  $$tranquilo, callado.$$)
+    
+
+
+Noisiness, n. [nóisines]`Estrépito, ruido, alboroto.`Ingay, hugong, kaguló.eng_section:Noisiness, n. [nóisines]
+eng_word:Noisiness
+pos:n:
+
+spanish:Estrépito, ruido, alboroto.
+spanish_word:Estrépito
+spanish_word:ruido
+spanish_word:alboroto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$noisiness$$, $$n$$,  $$estrépito, ruido, alboroto.$$)
+    
+
+
+Noisy, adj. [nóisi]`Ruidoso, clamoroso, turbulento.`Maingay, maalingaw-ngaw, mahugong, maguló.eng_section:Noisy, adj. [nóisi]
+eng_word:Noisy
+pos:adj:
+
+spanish:Ruidoso, clamoroso, turbulento.
+spanish_word:Ruidoso
+spanish_word:clamoroso
+spanish_word:turbulento.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$noisy$$, $$adj$$,  $$ruidoso, clamoroso, turbulento.$$)
+    
+
+
+Nomad, adj. [nómad]`Errante.`Pagalagalà, walang táhanan.eng_section:Nomad, adj. [nómad]
+eng_word:Nomad
+pos:adj:
+
+spanish:Errante.
+spanish_word:Errante.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nomad$$, $$adj$$,  $$errante.$$)
+    
+
+
+Nominal, adj. [nóminal]`Nominal.`Nauukol sa pangalan.eng_section:Nominal, adj. [nóminal]
+eng_word:Nominal
+pos:adj:
+
+spanish:Nominal.
+spanish_word:Nominal.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nominal$$, $$adj$$,  $$nominal.$$)
+    
+
+
+Nominate, v. [nóminet]`Nombrar, eligir.`Máhalal, pumilì, humirang.eng_section:Nominate, v. [nóminet]
+eng_word:Nominate
+pos:v:
+
+spanish:Nombrar, eligir.
+spanish_word:Nombrar
+spanish_word:eligir.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nominate$$, $$v$$,  $$nombrar, eligir.$$)
+    
+
+
+Nomination, n. [nominécion]`Nombramiento, nominacion.`Paghahalal.eng_section:Nomination, n. [nominécion]
+eng_word:Nomination
+pos:n:
+
+spanish:Nombramiento, nominacion.
+spanish_word:Nombramiento
+spanish_word:nominacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nomination$$, $$n$$,  $$nombramiento, nominacion.$$)
+    
+
+
+Nonage, n. [nónedch]`Minoridad, menor edad.`Kabataan, kakulangan sa gulang.eng_section:Nonage, n. [nónedch]
+eng_word:Nonage
+pos:n:
+
+spanish:Minoridad, menor edad.
+spanish_word:Minoridad
+spanish_phrase:menor edad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nonage$$, $$n$$,  $$minoridad, menor edad.$$)
+    
+
+
+Non-attendance, n. [non-aténdans]`Falta de asistencia.`Kakulangán sa pagdaló.eng_section:Non-attendance, n. [non-aténdans]
+eng_word:Non-attendance
+pos:n:
+
+spanish:Falta de asistencia.
+spanish_phrase:Falta de asistencia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$non-attendance$$, $$n$$,  $$falta de asistencia.$$)
+    
+
+
+Nondescript, adj. [nóndiscript]`Lo que no está descrito.`Dî masayod.eng_section:Nondescript, adj. [nóndiscript]
+eng_word:Nondescript
+pos:adj:
+
+spanish:Lo que no está descrito.
+spanish_phrase:Lo que no está descrito.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nondescript$$, $$adj$$,  $$lo que no está descrito.$$)
+    
+
+
+None, adj. [non]`Nadie, ninguno.`Walâ.eng_section:None, adj. [non]
+eng_word:None
+pos:adj:
+
+spanish:Nadie, ninguno.
+spanish_word:Nadie
+spanish_word:ninguno.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$none$$, $$adj$$,  $$nadie, ninguno.$$)
+    
+
+
+Nonentity, n. [nonéntiti]`Nada, falta de existencia.`Kawalán, kasalatán.eng_section:Nonentity, n. [nonéntiti]
+eng_word:Nonentity
+pos:n:
+
+spanish:Nada, falta de existencia.
+spanish_word:Nada
+spanish_phrase:falta de existencia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nonentity$$, $$n$$,  $$nada, falta de existencia.$$)
+    
+
+
+Non-existance, n. [non-ecsístans]`Nada, falta de existencia.`Kawalán, kasalatan.eng_section:Non-existance, n. [non-ecsístans]
+eng_word:Non-existance
+pos:n:
+
+spanish:Nada, falta de existencia.
+spanish_word:Nada
+spanish_phrase:falta de existencia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$non-existance$$, $$n$$,  $$nada, falta de existencia.$$)
+    
+
+
+Nonpayment, n. [nónpéyment]`Falta de pago.`Kakulangan sa bayad.eng_section:Nonpayment, n. [nónpéyment]
+eng_word:Nonpayment
+pos:n:
+
+spanish:Falta de pago.
+spanish_phrase:Falta de pago.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nonpayment$$, $$n$$,  $$falta de pago.$$)
+    
+
+
+Nonsense, n. [nónsens]`Disparate, impertinencia.`Kabalastugan.eng_section:Nonsense, n. [nónsens]
+eng_word:Nonsense
+pos:n:
+
+spanish:Disparate, impertinencia.
+spanish_word:Disparate
+spanish_word:impertinencia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nonsense$$, $$n$$,  $$disparate, impertinencia.$$)
+    
+
+
+Nonsensical, adj. [nonsénsical]`Absurdo, impertinente.`Dî maaaring mangyari, maulit.eng_section:Nonsensical, adj. [nonsénsical]
+eng_word:Nonsensical
+pos:adj:
+
+spanish:Absurdo, impertinente.
+spanish_word:Absurdo
+spanish_word:impertinente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nonsensical$$, $$adj$$,  $$absurdo, impertinente.$$)
+    
+
+
+Noodle, n. [núdl]`Simplon, mentecato.`Hangal, tangá, gunggong.eng_section:Noodle, n. [núdl]
+eng_word:Noodle
+pos:n:
+
+spanish:Simplon, mentecato.
+spanish_word:Simplon
+spanish_word:mentecato.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$noodle$$, $$n$$,  $$simplon, mentecato.$$)
+    
+
+
+Nook, n. [nuk]`Rincon, ángulo.`Sulok.eng_section:Nook, n. [nuk]
+eng_word:Nook
+pos:n:
+
+spanish:Rincon, ángulo.
+spanish_word:Rincon
+spanish_word:ángulo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nook$$, $$n$$,  $$rincon, ángulo.$$)
+    
+
+
+Noon, n. [nun]`Medio día.`Katanghalian, á las dose ng araw.eng_section:Noon, n. [nun]
+eng_word:Noon
+pos:n:
+
+spanish:Medio día.
+spanish_phrase:Medio día.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$noon$$, $$n$$,  $$medio día.$$)
+    
+
+
+Noonday, n. [núndey]`Medio día.`Katanghalian, á las dose ng araw.eng_section:Noonday, n. [núndey]
+eng_word:Noonday
+pos:n:
+
+spanish:Medio día.
+spanish_phrase:Medio día.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$noonday$$, $$n$$,  $$medio día.$$)
+    
+
+
+Nooning, n. [núning]`Siesta.`Tulog sa tanghalì.eng_section:Nooning, n. [núning]
+eng_word:Nooning
+pos:n:
+
+spanish:Siesta.
+spanish_word:Siesta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nooning$$, $$n$$,  $$siesta.$$)
+    
+
+
+Noontide, n. [núntaid]`Tiempo del medio-día.`Katanghalian.eng_section:Noontide, n. [núntaid]
+eng_word:Noontide
+pos:n:
+
+spanish:Tiempo del medio-día.
+spanish_phrase:Tiempo del medio-día.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$noontide$$, $$n$$,  $$tiempo del medio-día.$$)
+    
+
+
+Noose, n. [nus]`Lazo corredizo.`Silò.eng_section:Noose, n. [nus]
+eng_word:Noose
+pos:n:
+
+spanish:Lazo corredizo.
+spanish_phrase:Lazo corredizo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$noose$$, $$n$$,  $$lazo corredizo.$$)
+    
+
+
+Noose, v. [nus]`Enlazar, entrampar.`Sumilò.eng_section:Noose, v. [nus]
+eng_word:Noose
+pos:v:
+
+spanish:Enlazar, entrampar.
+spanish_word:Enlazar
+spanish_word:entrampar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$noose$$, $$v$$,  $$enlazar, entrampar.$$)
+    
+
+
+Nor, conj. [nor]`Ni.`Kahì, maging, ni ó ... man.eng_section:Nor, conj. [nor]
+eng_word:Nor
+pos:conj:
+
+spanish:Ni.
+spanish_word:Ni.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nor$$, $$conj$$,  $$ni.$$)
+    
+
+
+Normal, adj. [nórmal]`Normal.`Karaniwan, kahusayan.eng_section:Normal, adj. [nórmal]
+eng_word:Normal
+pos:adj:
+
+spanish:Normal.
+spanish_word:Normal.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$normal$$, $$adj$$,  $$normal.$$)
+    
+
+
+Normal-school, n. [normal-skúl]`Escuela Normal.`Escuela Normal, páaralan ng pagtuturò.eng_section:Normal-school, n. [normal-skúl]
+eng_word:Normal-school
+pos:n:
+
+spanish:Escuela Normal.
+spanish_phrase:Escuela Normal.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$normal-school$$, $$n$$,  $$escuela normal.$$)
+    
+
+
+North, adj. & n. [norz]`Norte.`Hilagà, hilagaan.eng_section:North, adj. & n. [norz]
+eng_word:North
+pos:adj:
+
+spanish:Norte.
+spanish_word:Norte.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$north$$, $$adj$$,  $$norte.$$)
+    
+
+
+Northern, adj. [nórzern]`Septentrional.`Hilagà.eng_section:Northern, adj. [nórzern]
+eng_word:Northern
+pos:adj:
+
+spanish:Septentrional.
+spanish_word:Septentrional.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$northern$$, $$adj$$,  $$septentrional.$$)
+    
+
+
+Northeast, n. [nórzist]`Nordeste.`Habagat.eng_section:Northeast, n. [nórzist]
+eng_word:Northeast
+pos:n:
+
+spanish:Nordeste.
+spanish_word:Nordeste.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$northeast$$, $$n$$,  $$nordeste.$$)
+    
+
+
+Northward, adv. [nórzuard]`Hácia el norte.`Sa dakong hilagaan.eng_section:Northward, adv. [nórzuard]
+eng_word:Northward
+pos:adv:
+
+spanish:Hácia el norte.
+spanish_phrase:Hácia el norte.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$northward$$, $$adv$$,  $$hácia el norte.$$)
+    
+
+
+Nose, n. [nos]`Nariz.`Ilong.eng_section:Nose, n. [nos]
+eng_word:Nose
+pos:n:
+
+spanish:Nariz.
+spanish_word:Nariz.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nose$$, $$n$$,  $$nariz.$$)
+    
+
+
+Noseless, adj. [nósles]`Desnarigado.`Ngongò.eng_section:Noseless, adj. [nósles]
+eng_word:Noseless
+pos:adj:
+
+spanish:Desnarigado.
+spanish_word:Desnarigado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$noseless$$, $$adj$$,  $$desnarigado.$$)
+    
+
+
+Nostril, n. [nóstril]`Ventana de la nariz.`Butas ng ilong.eng_section:Nostril, n. [nóstril]
+eng_word:Nostril
+pos:n:
+
+spanish:Ventana de la nariz.
+spanish_phrase:Ventana de la nariz.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nostril$$, $$n$$,  $$ventana de la nariz.$$)
+    
+
+
+Not, adv. [not]`No.`Hindî, walâ.eng_section:Not, adv. [not]
+eng_word:Not
+pos:adv:
+
+spanish:No.
+spanish_word:No.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$not$$, $$adv$$,  $$no.$$)
+    
+
+
+Notable, adj. [nótabl]`Notable, memorable.`Halatâ, litáw, bantog.eng_section:Notable, adj. [nótabl]
+eng_word:Notable
+pos:adj:
+
+spanish:Notable, memorable.
+spanish_word:Notable
+spanish_word:memorable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$notable$$, $$adj$$,  $$notable, memorable.$$)
+    
+
+
+Notably, adv. [nótabli]`Notablemente.`Halatâ.eng_section:Notably, adv. [nótabli]
+eng_word:Notably
+pos:adv:
+
+spanish:Notablemente.
+spanish_word:Notablemente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$notably$$, $$adv$$,  $$notablemente.$$)
+    
+
+
+Notary, n. [nótari]`Notario.`Notaryo.eng_section:Notary, n. [nótari]
+eng_word:Notary
+pos:n:
+
+spanish:Notario.
+spanish_word:Notario.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$notary$$, $$n$$,  $$notario.$$)
+    
+
+
+Notch, n. [notch]`Muesta.`Bingaw, ukit.eng_section:Notch, n. [notch]
+eng_word:Notch
+pos:n:
+
+spanish:Muesta.
+spanish_word:Muesta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$notch$$, $$n$$,  $$muesta.$$)
+    
+
+
+Notch, v. [notch]`Hacer muescas.`Bumingaw.eng_section:Notch, v. [notch]
+eng_word:Notch
+pos:v:
+
+spanish:Hacer muescas.
+spanish_phrase:Hacer muescas.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$notch$$, $$v$$,  $$hacer muescas.$$)
+    
+
+
+Note, n. [not]`Nota, marca, señal; esquela, billete.`Kapintasan, tandâ, bakat; sulat.eng_section:Note, n. [not]
+eng_word:Note
+pos:n:
+
+spanish:Nota, marca, señal; esquela, billete.
+spanish_word:Nota
+spanish_word:marca
+spanish_phrase:señal; esquela
+spanish_word:billete.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$note$$, $$n$$,  $$nota, marca, señal; esquela, billete.$$)
+    
+
+
+Note, v. [not]`Notar, marcar, distinguir.`Tandaan, bakatan.eng_section:Note, v. [not]
+eng_word:Note
+pos:v:
+
+spanish:Notar, marcar, distinguir.
+spanish_word:Notar
+spanish_word:marcar
+spanish_word:distinguir.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$note$$, $$v$$,  $$notar, marcar, distinguir.$$)
+    
+
+
+Note-book, n. [nót-buk]`Libro de apuntes.`Aklat na tálaan.eng_section:Note-book, n. [nót-buk]
+eng_word:Note-book
+pos:n:
+
+spanish:Libro de apuntes.
+spanish_phrase:Libro de apuntes.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$note-book$$, $$n$$,  $$libro de apuntes.$$)
+    
+
+
+Noted, adj. [nóted]`Afamado, célebre, insigne.`Bantog, bunyî, magiting.eng_section:Noted, adj. [nóted]
+eng_word:Noted
+pos:adj:
+
+spanish:Afamado, célebre, insigne.
+spanish_word:Afamado
+spanish_word:célebre
+spanish_word:insigne.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$noted$$, $$adj$$,  $$afamado, célebre, insigne.$$)
+    
+
+
+Noteworthy, adj. [nótuerzi]`Notable, digno de nota.`Kapuripuri, marapat purihin.eng_section:Noteworthy, adj. [nótuerzi]
+eng_word:Noteworthy
+pos:adj:
+
+spanish:Notable, digno de nota.
+spanish_word:Notable
+spanish_phrase:digno de nota.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$noteworthy$$, $$adj$$,  $$notable, digno de nota.$$)
+    
+
+
+Nothing, n. [nózing]`Nada, ninguna cosa.`Walâ, walang anomang bagay.eng_section:Nothing, n. [nózing]
+eng_word:Nothing
+pos:n:
+
+spanish:Nada, ninguna cosa.
+spanish_word:Nada
+spanish_phrase:ninguna cosa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nothing$$, $$n$$,  $$nada, ninguna cosa.$$)
+    
+
+
+Notice, n. [nótis]`Noticia, nota, reparo, observacion.`Balità, halatâ, puná, malas, masíd, pahayag.eng_section:Notice, n. [nótis]
+eng_word:Notice
+pos:n:
+
+spanish:Noticia, nota, reparo, observacion.
+spanish_word:Noticia
+spanish_word:nota
+spanish_word:reparo
+spanish_word:observacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$notice$$, $$n$$,  $$noticia, nota, reparo, observacion.$$)
+    
+
+
+Notice, v. [nótis]`Notar, observar, mirar.`Humalatâ, pumuná, pumansin.eng_section:Notice, v. [nótis]
+eng_word:Notice
+pos:v:
+
+spanish:Notar, observar, mirar.
+spanish_word:Notar
+spanish_word:observar
+spanish_word:mirar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$notice$$, $$v$$,  $$notar, observar, mirar.$$)
+    
+
+
+Noticeable, adj. [nótisabl]`Notable, reparable.`Náhahalatâ, nápupuna, napapansin.eng_section:Noticeable, adj. [nótisabl]
+eng_word:Noticeable
+pos:adj:
+
+spanish:Notable, reparable.
+spanish_word:Notable
+spanish_word:reparable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$noticeable$$, $$adj$$,  $$notable, reparable.$$)
+    
+
+
+Notification, n. [notifikécion]`Notificacion.`Patalastas ng húkúman.eng_section:Notification, n. [notifikécion]
+eng_word:Notification
+pos:n:
+
+spanish:Notificacion.
+spanish_word:Notificacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$notification$$, $$n$$,  $$notificacion.$$)
+    
+
+
+Notify, v. [nótifai]`Notificar.`Ipatalastas, ipahayag, tawagin sa húkúman.eng_section:Notify, v. [nótifai]
+eng_word:Notify
+pos:v:
+
+spanish:Notificar.
+spanish_word:Notificar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$notify$$, $$v$$,  $$notificar.$$)
+    
+
+
+Notion, n. [nócion]`Nocion, parecer.`Akalà, warì, hakà.eng_section:Notion, n. [nócion]
+eng_word:Notion
+pos:n:
+
+spanish:Nocion, parecer.
+spanish_word:Nocion
+spanish_word:parecer.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$notion$$, $$n$$,  $$nocion, parecer.$$)
+    
+
+
+Notoriety, n. [notoráiti]`Notoriedad.`Kabantugan, kagitingan.eng_section:Notoriety, n. [notoráiti]
+eng_word:Notoriety
+pos:n:
+
+spanish:Notoriedad.
+spanish_word:Notoriedad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$notoriety$$, $$n$$,  $$notoriedad.$$)
+    
+
+
+Notorious, adv. [notórioes]`Notorio, público.`Halatâ, hayag, tanyag.eng_section:Notorious, adv. [notórioes]
+eng_word:Notorious
+pos:adv:
+
+spanish:Notorio, público.
+spanish_word:Notorio
+spanish_word:público.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$notorious$$, $$adv$$,  $$notorio, público.$$)
+    
+
+
+Notwithstanding, adv. [notuizténding]`No obstante, sin embargo.`Gayon man.eng_section:Notwithstanding, adv. [notuizténding]
+eng_word:Notwithstanding
+pos:adv:
+
+spanish:No obstante, sin embargo.
+spanish_phrase:No obstante
+spanish_phrase:sin embargo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$notwithstanding$$, $$adv$$,  $$no obstante, sin embargo.$$)
+    
+
+
+Nought, n. [not]`Nada.`Walâ.eng_section:Nought, n. [not]
+eng_word:Nought
+pos:n:
+
+spanish:Nada.
+spanish_word:Nada.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nought$$, $$n$$,  $$nada.$$)
+    
+
+
+Noun, n. [náun]`Nombre.`Pangalan, pamagat.eng_section:Noun, n. [náun]
+eng_word:Noun
+pos:n:
+
+spanish:Nombre.
+spanish_word:Nombre.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$noun$$, $$n$$,  $$nombre.$$)
+    
+
+
+Nourish, v. [nérish]`Nutrir, alimentar.`Pakanin, kandiliin.eng_section:Nourish, v. [nérish]
+eng_word:Nourish
+pos:v:
+
+spanish:Nutrir, alimentar.
+spanish_word:Nutrir
+spanish_word:alimentar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nourish$$, $$v$$,  $$nutrir, alimentar.$$)
+    
+
+
+Nourishment, n. [nérishment]`Nutrimento, alimento.`Pagkain, kandilì.eng_section:Nourishment, n. [nérishment]
+eng_word:Nourishment
+pos:n:
+
+spanish:Nutrimento, alimento.
+spanish_word:Nutrimento
+spanish_word:alimento.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nourishment$$, $$n$$,  $$nutrimento, alimento.$$)
+    
+
+
+Novel, n. [nóvel]`Novela.`Nobela, babasahín.eng_section:Novel, n. [nóvel]
+eng_word:Novel
+pos:n:
+
+spanish:Novela.
+spanish_word:Novela.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$novel$$, $$n$$,  $$novela.$$)
+    
+
+
+Novelty, n. [nóvelti]`Novedad.`Ang bagong bagay ó ang bagong hayag.eng_section:Novelty, n. [nóvelti]
+eng_word:Novelty
+pos:n:
+
+spanish:Novedad.
+spanish_word:Novedad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$novelty$$, $$n$$,  $$novedad.$$)
+    
+
+
+November, n. [novémber]`Noviembre.`Nobyembre.eng_section:November, n. [novémber]
+eng_word:November
+pos:n:
+
+spanish:Noviembre.
+spanish_word:Noviembre.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$november$$, $$n$$,  $$noviembre.$$)
+    
+
+
+Novice, n. [nóvis]`Novicio.`Baguhan.eng_section:Novice, n. [nóvis]
+eng_word:Novice
+pos:n:
+
+spanish:Novicio.
+spanish_word:Novicio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$novice$$, $$n$$,  $$novicio.$$)
+    
+
+
+Now, adv. [naw]`Ahora.`Ngayon.eng_section:Now, adv. [naw]
+eng_word:Now
+pos:adv:
+
+spanish:Ahora.
+spanish_word:Ahora.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$now$$, $$adv$$,  $$ahora.$$)
+    
+
+
+Nowadays, adv. [náuades]`En nuestros dias, hoy dia.`Sa mga kaarawán natin, ngayon.eng_section:Nowadays, adv. [náuades]
+eng_word:Nowadays
+pos:adv:
+
+spanish:En nuestros dias, hoy dia.
+spanish_phrase:En nuestros dias
+spanish_phrase:hoy dia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nowadays$$, $$adv$$,  $$en nuestros dias, hoy dia.$$)
+    
+
+
+Now and then, adv. [nau end dzen]`De cuando en cuando, de vez en cuando.`Maminsanminsan, manakânakâ.eng_section:Now and then, adv. [nau end dzen]
+eng_word:Now and then
+pos:adv:
+
+spanish:De cuando en cuando, de vez en cuando.
+spanish_phrase:De cuando en cuando
+spanish_phrase:de vez en cuando.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$now and then$$, $$adv$$,  $$de cuando en cuando, de vez en cuando.$$)
+    
+
+
+Noway, adv. [nówe]`De ningun modo.`Kahi't sa anomang paraan.eng_section:Noway, adv. [nówe]
+eng_word:Noway
+pos:adv:
+
+spanish:De ningun modo.
+spanish_phrase:De ningun modo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$noway$$, $$adv$$,  $$de ningun modo.$$)
+    
+
+
+Nowhere, adv. [nójwer]`En ninguna parte.`Kaki't saan man.eng_section:Nowhere, adv. [nójwer]
+eng_word:Nowhere
+pos:adv:
+
+spanish:En ninguna parte.
+spanish_phrase:En ninguna parte.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nowhere$$, $$adv$$,  $$en ninguna parte.$$)
+    
+
+
+Noxious, adj. [nóccioes]`Nocivo, dañoso.`Nakasasamâ, nakasisirà.eng_section:Noxious, adj. [nóccioes]
+eng_word:Noxious
+pos:adj:
+
+spanish:Nocivo, dañoso.
+spanish_word:Nocivo
+spanish_word:dañoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$noxious$$, $$adj$$,  $$nocivo, dañoso.$$)
+    
+
+
+Nozzle, n. [nozl]`Nariz de un animal.`Ngusò.eng_section:Nozzle, n. [nozl]
+eng_word:Nozzle
+pos:n:
+
+spanish:Nariz de un animal.
+spanish_phrase:Nariz de un animal.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nozzle$$, $$n$$,  $$nariz de un animal.$$)
+    
+
+
+Nucleus, n. [niúclioes]`Núcleo.`Bálok, tipunán.eng_section:Nucleus, n. [niúclioes]
+eng_word:Nucleus
+pos:n:
+
+spanish:Núcleo.
+spanish_word:Núcleo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nucleus$$, $$n$$,  $$núcleo.$$)
+    
+
+
+Nude, n. [niúd]`Desnudo.`Hubád, hubô.eng_section:Nude, n. [niúd]
+eng_word:Nude
+pos:n:
+
+spanish:Desnudo.
+spanish_word:Desnudo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nude$$, $$n$$,  $$desnudo.$$)
+    
+
+
+Nudge, v. [nudch]`Dar del codo á uno para avisarle secretamente.`Sikuhin ng lihim upang masabi ang ibig sabihin ng walang makaalam.eng_section:Nudge, v. [nudch]
+eng_word:Nudge
+pos:v:
+
+spanish:Dar del codo á uno para avisarle secretamente.
+spanish_phrase:Dar del codo á uno para avisarle secretamente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nudge$$, $$v$$,  $$dar del codo á uno para avisarle secretamente.$$)
+    
+
+
+Nudity, n. [niúditi]`Desnudo.`Kahubaran.eng_section:Nudity, n. [niúditi]
+eng_word:Nudity
+pos:n:
+
+spanish:Desnudo.
+spanish_word:Desnudo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nudity$$, $$n$$,  $$desnudo.$$)
+    
+
+
+Nugatory, n. [niúguetori]`Nugatorio, futil, frívolo.`Walang kabuluhan.eng_section:Nugatory, n. [niúguetori]
+eng_word:Nugatory
+pos:n:
+
+spanish:Nugatorio, futil, frívolo.
+spanish_word:Nugatorio
+spanish_word:futil
+spanish_word:frívolo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nugatory$$, $$n$$,  $$nugatorio, futil, frívolo.$$)
+    
+
+
+Nuisance, n. [niúsans]`Indecencia, porquería.`Kasalaulaan, kababuyan.eng_section:Nuisance, n. [niúsans]
+eng_word:Nuisance
+pos:n:
+
+spanish:Indecencia, porquería.
+spanish_word:Indecencia
+spanish_word:porquería.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nuisance$$, $$n$$,  $$indecencia, porquería.$$)
+    
+
+
+Null, adj. [nal]`Nulo, inválido.`Walang kapararakan.eng_section:Null, adj. [nal]
+eng_word:Null
+pos:adj:
+
+spanish:Nulo, inválido.
+spanish_word:Nulo
+spanish_word:inválido.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$null$$, $$adj$$,  $$nulo, inválido.$$)
+    
+
+
+Nullify, v. [núlifai]`Anular, abrogar.`Pawalán ng halagá, pawalán ng kabuluhan.eng_section:Nullify, v. [núlifai]
+eng_word:Nullify
+pos:v:
+
+spanish:Anular, abrogar.
+spanish_word:Anular
+spanish_word:abrogar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nullify$$, $$v$$,  $$anular, abrogar.$$)
+    
+
+
+Nullity, n. [núliti]`Nulidad.`Kawalán ng kapararakan.eng_section:Nullity, n. [núliti]
+eng_word:Nullity
+pos:n:
+
+spanish:Nulidad.
+spanish_word:Nulidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nullity$$, $$n$$,  $$nulidad.$$)
+    
+
+
+Numb, adj. [namb]`Entorpecido.`Manhíd, namamanhid.eng_section:Numb, adj. [namb]
+eng_word:Numb
+pos:adj:
+
+spanish:Entorpecido.
+spanish_word:Entorpecido.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$numb$$, $$adj$$,  $$entorpecido.$$)
+    
+
+
+Numb, v. [namb]`Entorpecer.`Mamanhíd.eng_section:Numb, v. [namb]
+eng_word:Numb
+pos:v:
+
+spanish:Entorpecer.
+spanish_word:Entorpecer.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$numb$$, $$v$$,  $$entorpecer.$$)
+    
+
+
+Number, n. [námber]`Número, cantidad.`Bilang, número.eng_section:Number, n. [námber]
+eng_word:Number
+pos:n:
+
+spanish:Número, cantidad.
+spanish_word:Número
+spanish_word:cantidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$number$$, $$n$$,  $$número, cantidad.$$)
+    
+
+
+Number, v. [námber]`Numerar, contar.`Bumilang.eng_section:Number, v. [námber]
+eng_word:Number
+pos:v:
+
+spanish:Numerar, contar.
+spanish_word:Numerar
+spanish_word:contar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$number$$, $$v$$,  $$numerar, contar.$$)
+    
+
+
+Numberless, adj. [námberles]`Innumerable.`Walang bilang.eng_section:Numberless, adj. [námberles]
+eng_word:Numberless
+pos:adj:
+
+spanish:Innumerable.
+spanish_word:Innumerable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$numberless$$, $$adj$$,  $$innumerable.$$)
+    
+
+
+Numbness, n. [námbnes]`Torpor, adormecimiento.`Pamamanhíd.eng_section:Numbness, n. [námbnes]
+eng_word:Numbness
+pos:n:
+
+spanish:Torpor, adormecimiento.
+spanish_word:Torpor
+spanish_word:adormecimiento.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$numbness$$, $$n$$,  $$torpor, adormecimiento.$$)
+    
+
+
+Numeral, adj. [niúmeral]`Numeral.`Nauukol sa bilang.eng_section:Numeral, adj. [niúmeral]
+eng_word:Numeral
+pos:adj:
+
+spanish:Numeral.
+spanish_word:Numeral.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$numeral$$, $$adj$$,  $$numeral.$$)
+    
+
+
+Numerate, v. [niúmeret]`Numerar, contar.`Bumilang, bilangin.eng_section:Numerate, v. [niúmeret]
+eng_word:Numerate
+pos:v:
+
+spanish:Numerar, contar.
+spanish_word:Numerar
+spanish_word:contar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$numerate$$, $$v$$,  $$numerar, contar.$$)
+    
+
+
+Numeration, n. [niumerécion]`Numeracion.`Pagbilang, bilang.eng_section:Numeration, n. [niumerécion]
+eng_word:Numeration
+pos:n:
+
+spanish:Numeracion.
+spanish_word:Numeracion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$numeration$$, $$n$$,  $$numeracion.$$)
+    
+
+
+Numeric, adj. [niuméric]`Numérico.`Nauukol sa bilang.eng_section:Numeric, adj. [niuméric]
+eng_word:Numeric
+pos:adj:
+
+spanish:Numérico.
+spanish_word:Numérico.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$numeric$$, $$adj$$,  $$numérico.$$)
+    
+
+
+Numerous, adj. [niúmeres]`Numeroso.`Marami, makakal.eng_section:Numerous, adj. [niúmeres]
+eng_word:Numerous
+pos:adj:
+
+spanish:Numeroso.
+spanish_word:Numeroso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$numerous$$, $$adj$$,  $$numeroso.$$)
+    
+
+
+Numismatics, n. [niumismátics]`Numismática.`Karunungan sa mga salapi't medalya.eng_section:Numismatics, n. [niumismátics]
+eng_word:Numismatics
+pos:n:
+
+spanish:Numismática.
+spanish_word:Numismática.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$numismatics$$, $$n$$,  $$numismática.$$)
+    
+
+
+Numskull, n. [námskal]`Zote.`Hangal, tanga, ungas.eng_section:Numskull, n. [námskal]
+eng_word:Numskull
+pos:n:
+
+spanish:Zote.
+spanish_word:Zote.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$numskull$$, $$n$$,  $$zote.$$)
+    
+
+
+Nun, n. [nan]`Monja.`Mongha.eng_section:Nun, n. [nan]
+eng_word:Nun
+pos:n:
+
+spanish:Monja.
+spanish_word:Monja.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nun$$, $$n$$,  $$monja.$$)
+    
+
+
+Nunnery, n. [náneri]`Convento de monjas.`Bahay ng mga mongha.eng_section:Nunnery, n. [náneri]
+eng_word:Nunnery
+pos:n:
+
+spanish:Convento de monjas.
+spanish_phrase:Convento de monjas.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nunnery$$, $$n$$,  $$convento de monjas.$$)
+    
+
+
+Nuptial, adj. [núpcial]`Nupcial, lo que pertenece á las bodas.`Nauukol sa kasal ó pagaasawa.eng_section:Nuptial, adj. [núpcial]
+eng_word:Nuptial
+pos:adj:
+
+spanish:Nupcial, lo que pertenece á las bodas.
+spanish_word:Nupcial
+spanish_phrase:lo que pertenece á las bodas.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nuptial$$, $$adj$$,  $$nupcial, lo que pertenece á las bodas.$$)
+    
+
+
+Nuptials, n. [núpcials]`Nupcias, boda.`Kasal, pag-aasawa.eng_section:Nuptials, n. [núpcials]
+eng_word:Nuptials
+pos:n:
+
+spanish:Nupcias, boda.
+spanish_word:Nupcias
+spanish_word:boda.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nuptials$$, $$n$$,  $$nupcias, boda.$$)
+    
+
+
+Nurse, n. [nars]`Ama de cria, enfermera.`Yaya, tagapag-alagà ng may-sakít.eng_section:Nurse, n. [nars]
+eng_word:Nurse
+pos:n:
+
+spanish:Ama de cria, enfermera.
+spanish_phrase:Ama de cria
+spanish_word:enfermera.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nurse$$, $$n$$,  $$ama de cria, enfermera.$$)
+    
+
+
+Nurse, v. [nars]`Criar criaturas, cuidar enfermos.`Mag-iwî ng batà, mag-alagà ng may-sakít.eng_section:Nurse, v. [nars]
+eng_word:Nurse
+pos:v:
+
+spanish:Criar criaturas, cuidar enfermos.
+spanish_phrase:Criar criaturas
+spanish_phrase:cuidar enfermos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nurse$$, $$v$$,  $$criar criaturas, cuidar enfermos.$$)
+    
+
+
+Nursery, n. [nárseri]`Crianza.`Pag-iiwî, pag-aalagà.eng_section:Nursery, n. [nárseri]
+eng_word:Nursery
+pos:n:
+
+spanish:Crianza.
+spanish_word:Crianza.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nursery$$, $$n$$,  $$crianza.$$)
+    
+
+
+Nursling, n. [nársling]`Niño criado.`Sanggol.eng_section:Nursling, n. [nársling]
+eng_word:Nursling
+pos:n:
+
+spanish:Niño criado.
+spanish_phrase:Niño criado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nursling$$, $$n$$,  $$niño criado.$$)
+    
+
+
+Nurture, n. [nárchur]`Educacion.`Pag-iiwî, pag-aalagà.eng_section:Nurture, n. [nárchur]
+eng_word:Nurture
+pos:n:
+
+spanish:Educacion.
+spanish_word:Educacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nurture$$, $$n$$,  $$educacion.$$)
+    
+
+
+Nurture, v. [nárchur]`Criar, enseñar.`Mag-iwî, mag-alagà.eng_section:Nurture, v. [nárchur]
+eng_word:Nurture
+pos:v:
+
+spanish:Criar, enseñar.
+spanish_word:Criar
+spanish_word:enseñar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nurture$$, $$v$$,  $$criar, enseñar.$$)
+    
+
+
+Nut, n. [nat]`Nuez.`Pilì.eng_section:Nut, n. [nat]
+eng_word:Nut
+pos:n:
+
+spanish:Nuez.
+spanish_word:Nuez.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nut$$, $$n$$,  $$nuez.$$)
+    
+
+
+Nutcrackers, n. [nátcrakers]`Cascanueces.`Pangtalop ng pilì.eng_section:Nutcrackers, n. [nátcrakers]
+eng_word:Nutcrackers
+pos:n:
+
+spanish:Cascanueces.
+spanish_word:Cascanueces.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nutcrackers$$, $$n$$,  $$cascanueces.$$)
+    
+
+
+Nutmeg, n. [nátmeg]`Nuez moscada.`Nues moskada.eng_section:Nutmeg, n. [nátmeg]
+eng_word:Nutmeg
+pos:n:
+
+spanish:Nuez moscada.
+spanish_phrase:Nuez moscada.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nutmeg$$, $$n$$,  $$nuez moscada.$$)
+    
+
+
+Nutriment, n. [niútriment]`Nutrimento, alimento.`Pagkain, pangbusog.eng_section:Nutriment, n. [niútriment]
+eng_word:Nutriment
+pos:n:
+
+spanish:Nutrimento, alimento.
+spanish_word:Nutrimento
+spanish_word:alimento.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nutriment$$, $$n$$,  $$nutrimento, alimento.$$)
+    
+
+
+Nutritious, adj. [niútricioes]`Nutritivo.`Nakabubusog.eng_section:Nutritious, adj. [niútricioes]
+eng_word:Nutritious
+pos:adj:
+
+spanish:Nutritivo.
+spanish_word:Nutritivo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nutritious$$, $$adj$$,  $$nutritivo.$$)
+    
+
+
+Nutshell, n. [nátshel]`Cáscara de nuez.`Balat ng pilì.eng_section:Nutshell, n. [nátshel]
+eng_word:Nutshell
+pos:n:
+
+spanish:Cáscara de nuez.
+spanish_phrase:Cáscara de nuez.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nutshell$$, $$n$$,  $$cáscara de nuez.$$)
+    
+
+
+Nymph, n. [nimf]`Ninfa, mujer hermosa.`Nimpa; babaing magandá.eng_section:Nymph, n. [nimf]
+eng_word:Nymph
+pos:n:
+
+spanish:Ninfa, mujer hermosa.
+spanish_word:Ninfa
+spanish_phrase:mujer hermosa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$nymph$$, $$n$$,  $$ninfa, mujer hermosa.$$)
+    
+
+

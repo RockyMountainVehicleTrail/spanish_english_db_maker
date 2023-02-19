@@ -1,0 +1,2039 @@
+Jabber, v. [jábber]`Charlar.`Sumatsat.eng_section:Jabber, v. [jábber]
+eng_word:Jabber
+pos:v:
+
+spanish:Charlar.
+spanish_word:Charlar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jabber$$, $$v$$,  $$charlar.$$)
+    
+
+
+Jabberer, n. [jáberer]`Parlanchin.`Palasatsat.eng_section:Jabberer, n. [jáberer]
+eng_word:Jabberer
+pos:n:
+
+spanish:Parlanchin.
+spanish_word:Parlanchin.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jabberer$$, $$n$$,  $$parlanchin.$$)
+    
+
+
+Jack, n. [dchek]`Juanito, la sota entre los naipes.`Swan; sota ng baraha.eng_section:Jack, n. [dchek]
+eng_word:Jack
+pos:n:
+
+spanish:Juanito, la sota entre los naipes.
+spanish_word:Juanito
+spanish_phrase:la sota entre los naipes.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jack$$, $$n$$,  $$juanito, la sota entre los naipes.$$)
+    
+
+
+Jackanapes, n. [dchácaneps]`Impertinente, mequetrefe.`Malikót, mapakialam.eng_section:Jackanapes, n. [dchácaneps]
+eng_word:Jackanapes
+pos:n:
+
+spanish:Impertinente, mequetrefe.
+spanish_word:Impertinente
+spanish_word:mequetrefe.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jackanapes$$, $$n$$,  $$impertinente, mequetrefe.$$)
+    
+
+
+Jacket, n. [dcháket]`Chaqueta.`Chaketa; barong maiklî.eng_section:Jacket, n. [dcháket]
+eng_word:Jacket
+pos:n:
+
+spanish:Chaqueta.
+spanish_word:Chaqueta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jacket$$, $$n$$,  $$chaqueta.$$)
+    
+
+
+Jacobin, n. [dchácobin]`Fraile dominicano.`Prayleng dominiko.eng_section:Jacobin, n. [dchácobin]
+eng_word:Jacobin
+pos:n:
+
+spanish:Fraile dominicano.
+spanish_phrase:Fraile dominicano.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jacobin$$, $$n$$,  $$fraile dominicano.$$)
+    
+
+
+Jaculate, v. [dchákiulet]`Lanzar, arrojar.`Itulak.eng_section:Jaculate, v. [dchákiulet]
+eng_word:Jaculate
+pos:v:
+
+spanish:Lanzar, arrojar.
+spanish_word:Lanzar
+spanish_word:arrojar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jaculate$$, $$v$$,  $$lanzar, arrojar.$$)
+    
+
+
+Jade, n. [dched]`Caballo alquilon; mujercilla.`Kabayong páupahan; masamang babae.eng_section:Jade, n. [dched]
+eng_word:Jade
+pos:n:
+
+spanish:Caballo alquilon; mujercilla.
+spanish_phrase:Caballo alquilon; mujercilla.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jade$$, $$n$$,  $$caballo alquilon; mujercilla.$$)
+    
+
+
+Jade, v. [dched]`Cansar.`Pumagod, mamagod.eng_section:Jade, v. [dched]
+eng_word:Jade
+pos:v:
+
+spanish:Cansar.
+spanish_word:Cansar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jade$$, $$v$$,  $$cansar.$$)
+    
+
+
+Jag, n. [dchag]`Diente de sierra.`Ngipin ng lagarì.eng_section:Jag, n. [dchag]
+eng_word:Jag
+pos:n:
+
+spanish:Diente de sierra.
+spanish_phrase:Diente de sierra.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jag$$, $$n$$,  $$diente de sierra.$$)
+    
+
+
+Jagged, adj. [dchágued]`Desigual; dentado.`Hindî pantay; may ngipin [na gaya ng sa lagarè].eng_section:Jagged, adj. [dchágued]
+eng_word:Jagged
+pos:adj:
+
+spanish:Desigual; dentado.
+spanish_phrase:Desigual; dentado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jagged$$, $$adj$$,  $$desigual; dentado.$$)
+    
+
+
+Jail, n. [dchel]`Cárcel.`Bílangguan, bilibid.eng_section:Jail, n. [dchel]
+eng_word:Jail
+pos:n:
+
+spanish:Cárcel.
+spanish_word:Cárcel.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jail$$, $$n$$,  $$cárcel.$$)
+    
+
+
+Jailbird, n. [dchélberd]`Preso.`Bilanggô.eng_section:Jailbird, n. [dchélberd]
+eng_word:Jailbird
+pos:n:
+
+spanish:Preso.
+spanish_word:Preso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jailbird$$, $$n$$,  $$preso.$$)
+    
+
+
+Jailer, n. [dchéler]`Carcelero.`Tagapamahalà sa mga bilanggô.eng_section:Jailer, n. [dchéler]
+eng_word:Jailer
+pos:n:
+
+spanish:Carcelero.
+spanish_word:Carcelero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jailer$$, $$n$$,  $$carcelero.$$)
+    
+
+
+Jam, n. [dcham]`Conserva ó mermelada de frutas.`Halea.eng_section:Jam, n. [dcham]
+eng_word:Jam
+pos:n:
+
+spanish:Conserva ó mermelada de frutas.
+spanish_phrase:Conserva ó mermelada de frutas.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jam$$, $$n$$,  $$conserva ó mermelada de frutas.$$)
+    
+
+
+Jam, v. [dcham]`Apretar, estrechar.`Ipitin.eng_section:Jam, v. [dcham]
+eng_word:Jam
+pos:v:
+
+spanish:Apretar, estrechar.
+spanish_word:Apretar
+spanish_word:estrechar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jam$$, $$v$$,  $$apretar, estrechar.$$)
+    
+
+
+Jangle, v. [dchangl]`Reñir, altercar.`Makipagkaalit, makipagtalo.eng_section:Jangle, v. [dchangl]
+eng_word:Jangle
+pos:v:
+
+spanish:Reñir, altercar.
+spanish_word:Reñir
+spanish_word:altercar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jangle$$, $$v$$,  $$reñir, altercar.$$)
+    
+
+
+Janitor, n. [dchánitor]`Conserge.`Katiwalà sa bahay-páaralan.eng_section:Janitor, n. [dchánitor]
+eng_word:Janitor
+pos:n:
+
+spanish:Conserge.
+spanish_word:Conserge.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$janitor$$, $$n$$,  $$conserge.$$)
+    
+
+
+Janty, adj. [dchánti]`Ostentoso, delicado.`Maselang, mapagmakisíg.eng_section:Janty, adj. [dchánti]
+eng_word:Janty
+pos:adj:
+
+spanish:Ostentoso, delicado.
+spanish_word:Ostentoso
+spanish_word:delicado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$janty$$, $$adj$$,  $$ostentoso, delicado.$$)
+    
+
+
+January, n. [dchániueri]`Enero.`Enero.eng_section:January, n. [dchániueri]
+eng_word:January
+pos:n:
+
+spanish:Enero.
+spanish_word:Enero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$january$$, $$n$$,  $$enero.$$)
+    
+
+
+Japan, n. [dchapán]`Japon.`Hapón.eng_section:Japan, n. [dchapán]
+eng_word:Japan
+pos:n:
+
+spanish:Japon.
+spanish_word:Japon.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$japan$$, $$n$$,  $$japon.$$)
+    
+
+
+Japanese, adj. [dchápanis]`Japon.`Hapón, taga Hapón.eng_section:Japanese, adj. [dchápanis]
+eng_word:Japanese
+pos:adj:
+
+spanish:Japon.
+spanish_word:Japon.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$japanese$$, $$adj$$,  $$japon.$$)
+    
+
+
+Jar, n. [dchar]`Jarro; tinaja; cántaro; tarro.`Saro; tapayan, bangâ, tabò.eng_section:Jar, n. [dchar]
+eng_word:Jar
+pos:n:
+
+spanish:Jarro; tinaja; cántaro; tarro.
+spanish_phrase:Jarro; tinaja; cántaro; tarro.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jar$$, $$n$$,  $$jarro; tinaja; cántaro; tarro.$$)
+    
+
+
+Jargon, n. [dchárgon]`Jerigonza.`Salitang dî mawawaan, salitang utal.eng_section:Jargon, n. [dchárgon]
+eng_word:Jargon
+pos:n:
+
+spanish:Jerigonza.
+spanish_word:Jerigonza.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jargon$$, $$n$$,  $$jerigonza.$$)
+    
+
+
+Jaunt, n. [dchant]`Excursion.`Pagliliwaliw, pasyal.eng_section:Jaunt, n. [dchant]
+eng_word:Jaunt
+pos:n:
+
+spanish:Excursion.
+spanish_word:Excursion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jaunt$$, $$n$$,  $$excursion.$$)
+    
+
+
+Jaunty, adj. [dchánti]`Alegre, festivo.`Masayá, twâ, galak.eng_section:Jaunty, adj. [dchánti]
+eng_word:Jaunty
+pos:adj:
+
+spanish:Alegre, festivo.
+spanish_word:Alegre
+spanish_word:festivo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jaunty$$, $$adj$$,  $$alegre, festivo.$$)
+    
+
+
+Jaw, n. [dcho]`Quijada.`Pangá.eng_section:Jaw, n. [dcho]
+eng_word:Jaw
+pos:n:
+
+spanish:Quijada.
+spanish_word:Quijada.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jaw$$, $$n$$,  $$quijada.$$)
+    
+
+
+Jawbone, n. [dchóbon]`Quijada.`Sihang, pangá.eng_section:Jawbone, n. [dchóbon]
+eng_word:Jawbone
+pos:n:
+
+spanish:Quijada.
+spanish_word:Quijada.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jawbone$$, $$n$$,  $$quijada.$$)
+    
+
+
+Jay, n. [dche]`Gayo.`Isang urì ng ibon.eng_section:Jay, n. [dche]
+eng_word:Jay
+pos:n:
+
+spanish:Gayo.
+spanish_word:Gayo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jay$$, $$n$$,  $$gayo.$$)
+    
+
+
+Jealous, adj. [dchílas]`Zeloso; envidioso.`Mapanibughuin, mainggitin.eng_section:Jealous, adj. [dchílas]
+eng_word:Jealous
+pos:adj:
+
+spanish:Zeloso; envidioso.
+spanish_phrase:Zeloso; envidioso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jealous$$, $$adj$$,  $$zeloso; envidioso.$$)
+    
+
+
+Jealousy, n. [dchélasi]`Zelos, sospecha, rezelo.`Panibughô, pangimbulo, inggit, hinalà.eng_section:Jealousy, n. [dchélasi]
+eng_word:Jealousy
+pos:n:
+
+spanish:Zelos, sospecha, rezelo.
+spanish_word:Zelos
+spanish_word:sospecha
+spanish_word:rezelo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jealousy$$, $$n$$,  $$zelos, sospecha, rezelo.$$)
+    
+
+
+Jeer, n. [dchir]`Mofa, burla.`Tuksó, birò.eng_section:Jeer, n. [dchir]
+eng_word:Jeer
+pos:n:
+
+spanish:Mofa, burla.
+spanish_word:Mofa
+spanish_word:burla.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jeer$$, $$n$$,  $$mofa, burla.$$)
+    
+
+
+Jeer, v. [dchir]`Mofar, escarnecer.`Manuksó, magbirô.eng_section:Jeer, v. [dchir]
+eng_word:Jeer
+pos:v:
+
+spanish:Mofar, escarnecer.
+spanish_word:Mofar
+spanish_word:escarnecer.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jeer$$, $$v$$,  $$mofar, escarnecer.$$)
+    
+
+
+Jehovah, n. [dchijóba]`Johová.`Heobá, panginoon.eng_section:Jehovah, n. [dchijóba]
+eng_word:Jehovah
+pos:n:
+
+spanish:Johová.
+spanish_word:Johová.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jehovah$$, $$n$$,  $$johová.$$)
+    
+
+
+Jelly, n. [dchéli]`Jalea, jelatina.`Haleá, matamís.eng_section:Jelly, n. [dchéli]
+eng_word:Jelly
+pos:n:
+
+spanish:Jalea, jelatina.
+spanish_word:Jalea
+spanish_word:jelatina.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jelly$$, $$n$$,  $$jalea, jelatina.$$)
+    
+
+
+Jeopardize, v. [dchépardais]`Poner en riesgo; arriesgar.`Ipanganyayà, isapanganib; mangahas.eng_section:Jeopardize, v. [dchépardais]
+eng_word:Jeopardize
+pos:v:
+
+spanish:Poner en riesgo; arriesgar.
+spanish_phrase:Poner en riesgo; arriesgar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jeopardize$$, $$v$$,  $$poner en riesgo; arriesgar.$$)
+    
+
+
+Jeopardy, n. [dchépardi]`Riesgo, peligro.`Panganib, panganyayà, pangambà.eng_section:Jeopardy, n. [dchépardi]
+eng_word:Jeopardy
+pos:n:
+
+spanish:Riesgo, peligro.
+spanish_word:Riesgo
+spanish_word:peligro.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jeopardy$$, $$n$$,  $$riesgo, peligro.$$)
+    
+
+
+Jerk, n. [dcherc]`Latigazo, sacudida.`Hagupít, hampas.eng_section:Jerk, n. [dcherc]
+eng_word:Jerk
+pos:n:
+
+spanish:Latigazo, sacudida.
+spanish_word:Latigazo
+spanish_word:sacudida.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jerk$$, $$n$$,  $$latigazo, sacudida.$$)
+    
+
+
+Jerk, v. [dcherc]`Sacudir, azotar.`Hagupitín, hampasin.eng_section:Jerk, v. [dcherc]
+eng_word:Jerk
+pos:v:
+
+spanish:Sacudir, azotar.
+spanish_word:Sacudir
+spanish_word:azotar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jerk$$, $$v$$,  $$sacudir, azotar.$$)
+    
+
+
+Jest, n. [dchest]`Chanza, burla.`Birò, pagpapatawá.eng_section:Jest, n. [dchest]
+eng_word:Jest
+pos:n:
+
+spanish:Chanza, burla.
+spanish_word:Chanza
+spanish_word:burla.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jest$$, $$n$$,  $$chanza, burla.$$)
+    
+
+
+Jest, v. [dchest]`Bufonearse, burlarse.`Magbirô, magpatawá.eng_section:Jest, v. [dchest]
+eng_word:Jest
+pos:v:
+
+spanish:Bufonearse, burlarse.
+spanish_word:Bufonearse
+spanish_word:burlarse.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jest$$, $$v$$,  $$bufonearse, burlarse.$$)
+    
+
+
+Jester, n. [dchéster]`Mofador, bufon.`Palabirô, mapagpatawa.eng_section:Jester, n. [dchéster]
+eng_word:Jester
+pos:n:
+
+spanish:Mofador, bufon.
+spanish_word:Mofador
+spanish_word:bufon.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jester$$, $$n$$,  $$mofador, bufon.$$)
+    
+
+
+Jesuit, n. [dchéziuit]`Jesuita.`Heswita.eng_section:Jesuit, n. [dchéziuit]
+eng_word:Jesuit
+pos:n:
+
+spanish:Jesuita.
+spanish_word:Jesuita.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jesuit$$, $$n$$,  $$jesuita.$$)
+    
+
+
+Jesuitic, adj. [dchezuític]`Jesuítico.`Nauukol sa heswita.eng_section:Jesuitic, adj. [dchezuític]
+eng_word:Jesuitic
+pos:adj:
+
+spanish:Jesuítico.
+spanish_word:Jesuítico.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jesuitic$$, $$adj$$,  $$jesuítico.$$)
+    
+
+
+Jesus, n. [dchísas]`Jesus.`Hesús.eng_section:Jesus, n. [dchísas]
+eng_word:Jesus
+pos:n:
+
+spanish:Jesus.
+spanish_word:Jesus.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jesus$$, $$n$$,  $$jesus.$$)
+    
+
+
+Jet, v. [dchet]`Echar, lanzar.`Bumulwak, sumalumpit, lumabas ng pabliglâ, bumugá.eng_section:Jet, v. [dchet]
+eng_word:Jet
+pos:v:
+
+spanish:Echar, lanzar.
+spanish_word:Echar
+spanish_word:lanzar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jet$$, $$v$$,  $$echar, lanzar.$$)
+    
+
+
+Jew, n. [dchiú]`Judio.`Hudyó.eng_section:Jew, n. [dchiú]
+eng_word:Jew
+pos:n:
+
+spanish:Judio.
+spanish_word:Judio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jew$$, $$n$$,  $$judio.$$)
+    
+
+
+Jewel, n. [dchíul]`Joya.`Hiyas.eng_section:Jewel, n. [dchíul]
+eng_word:Jewel
+pos:n:
+
+spanish:Joya.
+spanish_word:Joya.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jewel$$, $$n$$,  $$joya.$$)
+    
+
+
+Jeweller, n. [dchiúler]`Joyero.`Mángangalakal ng hiyas.eng_section:Jeweller, n. [dchiúler]
+eng_word:Jeweller
+pos:n:
+
+spanish:Joyero.
+spanish_word:Joyero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jeweller$$, $$n$$,  $$joyero.$$)
+    
+
+
+Jewish, adj. [dchiúish]`Judáico, judío.`Nauukol sa hudyó.eng_section:Jewish, adj. [dchiúish]
+eng_word:Jewish
+pos:adj:
+
+spanish:Judáico, judío.
+spanish_word:Judáico
+spanish_word:judío.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jewish$$, $$adj$$,  $$judáico, judío.$$)
+    
+
+
+Jiffy, n. [dchífi]`Instante, momento.`Sangdalî.eng_section:Jiffy, n. [dchífi]
+eng_word:Jiffy
+pos:n:
+
+spanish:Instante, momento.
+spanish_word:Instante
+spanish_word:momento.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jiffy$$, $$n$$,  $$instante, momento.$$)
+    
+
+
+Jig, n. [dchig]`Baile alegre.`Sayaw na masayá.eng_section:Jig, n. [dchig]
+eng_word:Jig
+pos:n:
+
+spanish:Baile alegre.
+spanish_phrase:Baile alegre.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jig$$, $$n$$,  $$baile alegre.$$)
+    
+
+
+Jilt, n. [dchilt]`Coqueta.`Landî, kirí.eng_section:Jilt, n. [dchilt]
+eng_word:Jilt
+pos:n:
+
+spanish:Coqueta.
+spanish_word:Coqueta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jilt$$, $$n$$,  $$coqueta.$$)
+    
+
+
+Jilt, v. [dchilt]`Coquetear.`Lumandî, kumirí.eng_section:Jilt, v. [dchilt]
+eng_word:Jilt
+pos:v:
+
+spanish:Coquetear.
+spanish_word:Coquetear.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jilt$$, $$v$$,  $$coquetear.$$)
+    
+
+
+Jingle, n. [dchingl]`Retintín, resonido.`Kalansing, tunog.eng_section:Jingle, n. [dchingl]
+eng_word:Jingle
+pos:n:
+
+spanish:Retintín, resonido.
+spanish_word:Retintín
+spanish_word:resonido.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jingle$$, $$n$$,  $$retintín, resonido.$$)
+    
+
+
+Jingle, v. [dchingl]`Retiñir, resonar.`Kumalansing.eng_section:Jingle, v. [dchingl]
+eng_word:Jingle
+pos:v:
+
+spanish:Retiñir, resonar.
+spanish_word:Retiñir
+spanish_word:resonar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jingle$$, $$v$$,  $$retiñir, resonar.$$)
+    
+
+
+Job, n. [dchob]`Friolera, labor ó trabajo de poco momento.`Gawâ, trabaho.eng_section:Job, n. [dchob]
+eng_word:Job
+pos:n:
+
+spanish:Friolera, labor ó trabajo de poco momento.
+spanish_word:Friolera
+spanish_phrase:labor ó trabajo de poco momento.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$job$$, $$n$$,  $$friolera, labor ó trabajo de poco momento.$$)
+    
+
+
+Jockey, n. [dchóki]`Jinete.`Mánanakay sa kabayo.eng_section:Jockey, n. [dchóki]
+eng_word:Jockey
+pos:n:
+
+spanish:Jinete.
+spanish_word:Jinete.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jockey$$, $$n$$,  $$jinete.$$)
+    
+
+
+Jockey, v. [dchóki]`Trampear, engañar.`Mangdayà, manghibò.eng_section:Jockey, v. [dchóki]
+eng_word:Jockey
+pos:v:
+
+spanish:Trampear, engañar.
+spanish_word:Trampear
+spanish_word:engañar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jockey$$, $$v$$,  $$trampear, engañar.$$)
+    
+
+
+Jocose, adj. [dchocós]`Jocoso, alegre, festivo, jovial.`Masayá, galák, mapagpatawá.eng_section:Jocose, adj. [dchocós]
+eng_word:Jocose
+pos:adj:
+
+spanish:Jocoso, alegre, festivo, jovial.
+spanish_word:Jocoso
+spanish_word:alegre
+spanish_word:festivo
+spanish_word:jovial.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jocose$$, $$adj$$,  $$jocoso, alegre, festivo, jovial.$$)
+    
+
+
+Jocoseness, n. [dchocósnes]`Jocosidad, festividad, alegría.`Kasayahan, kagalakan, pagpapatawá.eng_section:Jocoseness, n. [dchocósnes]
+eng_word:Jocoseness
+pos:n:
+
+spanish:Jocosidad, festividad, alegría.
+spanish_word:Jocosidad
+spanish_word:festividad
+spanish_word:alegría.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jocoseness$$, $$n$$,  $$jocosidad, festividad, alegría.$$)
+    
+
+
+Jocular, adj. [dchókiular]`Jocoso, alegre.`Mapagpatawá, masayá.eng_section:Jocular, adj. [dchókiular]
+eng_word:Jocular
+pos:adj:
+
+spanish:Jocoso, alegre.
+spanish_word:Jocoso
+spanish_word:alegre.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jocular$$, $$adj$$,  $$jocoso, alegre.$$)
+    
+
+
+Jocularity, n [dchokiuláriti]`Festividad, jocosidad.`Pagpapatawa, pagsasayá.eng_section:Jocularity, n [dchokiuláriti]
+eng_word:Jocularity
+pos:n:
+
+spanish:Festividad, jocosidad.
+spanish_word:Festividad
+spanish_word:jocosidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jocularity$$, $$n$$,  $$festividad, jocosidad.$$)
+    
+
+
+Jocund, adj. [dchókand]`Alegre, festivo.`Masayá.eng_section:Jocund, adj. [dchókand]
+eng_word:Jocund
+pos:adj:
+
+spanish:Alegre, festivo.
+spanish_word:Alegre
+spanish_word:festivo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jocund$$, $$adj$$,  $$alegre, festivo.$$)
+    
+
+
+Jog, n. [dchog]`Empellon, sacudimiento lijero.`Tabig, tulak.eng_section:Jog, n. [dchog]
+eng_word:Jog
+pos:n:
+
+spanish:Empellon, sacudimiento lijero.
+spanish_word:Empellon
+spanish_phrase:sacudimiento lijero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jog$$, $$n$$,  $$empellon, sacudimiento lijero.$$)
+    
+
+
+Jog, v. [dchog]`Empujar.`Manulak.eng_section:Jog, v. [dchog]
+eng_word:Jog
+pos:v:
+
+spanish:Empujar.
+spanish_word:Empujar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jog$$, $$v$$,  $$empujar.$$)
+    
+
+
+Joggle, v. [dchógl]`Agitarse con movimiento trémulo.`Umalog, kumalog.eng_section:Joggle, v. [dchógl]
+eng_word:Joggle
+pos:v:
+
+spanish:Agitarse con movimiento trémulo.
+spanish_phrase:Agitarse con movimiento trémulo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$joggle$$, $$v$$,  $$agitarse con movimiento trémulo.$$)
+    
+
+
+Join, v. [dchóin]`Juntar, unir; añadir.`Isama, isanib; iakmâ, ikamá, ílangkap; idagdag.eng_section:Join, v. [dchóin]
+eng_word:Join
+pos:v:
+
+spanish:Juntar, unir; añadir.
+spanish_word:Juntar
+spanish_phrase:unir; añadir.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$join$$, $$v$$,  $$juntar, unir; añadir.$$)
+    
+
+
+Joint, n. [dchóint]`Coyuntura.`Kasukasuan.eng_section:Joint, n. [dchóint]
+eng_word:Joint
+pos:n:
+
+spanish:Coyuntura.
+spanish_word:Coyuntura.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$joint$$, $$n$$,  $$coyuntura.$$)
+    
+
+
+Joint, v. [dchóint]`Juntar, agregar.`Sumama, sumanib.eng_section:Joint, v. [dchóint]
+eng_word:Joint
+pos:v:
+
+spanish:Juntar, agregar.
+spanish_word:Juntar
+spanish_word:agregar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$joint$$, $$v$$,  $$juntar, agregar.$$)
+    
+
+
+Jointly, adv. [dchóintli]`Juntamente.`Samasama.eng_section:Jointly, adv. [dchóintli]
+eng_word:Jointly
+pos:adv:
+
+spanish:Juntamente.
+spanish_word:Juntamente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jointly$$, $$adv$$,  $$juntamente.$$)
+    
+
+
+Joist, n. [dchóist]`Viga de bovedilla ó suelo.`Soleras.eng_section:Joist, n. [dchóist]
+eng_word:Joist
+pos:n:
+
+spanish:Viga de bovedilla ó suelo.
+spanish_phrase:Viga de bovedilla ó suelo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$joist$$, $$n$$,  $$viga de bovedilla ó suelo.$$)
+    
+
+
+Joke, n. [dchok]`Chanza, burla.`Birò, tuksó.eng_section:Joke, n. [dchok]
+eng_word:Joke
+pos:n:
+
+spanish:Chanza, burla.
+spanish_word:Chanza
+spanish_word:burla.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$joke$$, $$n$$,  $$chanza, burla.$$)
+    
+
+
+Joke, v. [dchok]`Chancear.`Magbirô, manuksó, mangbadyá.eng_section:Joke, v. [dchok]
+eng_word:Joke
+pos:v:
+
+spanish:Chancear.
+spanish_word:Chancear.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$joke$$, $$v$$,  $$chancear.$$)
+    
+
+
+Joker, n. [dchóker]`Burlon, chancero.`Palabirô, mánunuksó.eng_section:Joker, n. [dchóker]
+eng_word:Joker
+pos:n:
+
+spanish:Burlon, chancero.
+spanish_word:Burlon
+spanish_word:chancero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$joker$$, $$n$$,  $$burlon, chancero.$$)
+    
+
+
+Jollity, n. [dchóliti]`Alegría, regocijo.`Sayá, galak; kasayahan, kagalakan.eng_section:Jollity, n. [dchóliti]
+eng_word:Jollity
+pos:n:
+
+spanish:Alegría, regocijo.
+spanish_word:Alegría
+spanish_word:regocijo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jollity$$, $$n$$,  $$alegría, regocijo.$$)
+    
+
+
+Jolly, adj. [dchóli]`Alegre, festivo.`Masayá, galák.eng_section:Jolly, adj. [dchóli]
+eng_word:Jolly
+pos:adj:
+
+spanish:Alegre, festivo.
+spanish_word:Alegre
+spanish_word:festivo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jolly$$, $$adj$$,  $$alegre, festivo.$$)
+    
+
+
+Jolt, n. [dcholt]`Traqueo.`Putók.eng_section:Jolt, n. [dcholt]
+eng_word:Jolt
+pos:n:
+
+spanish:Traqueo.
+spanish_word:Traqueo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jolt$$, $$n$$,  $$traqueo.$$)
+    
+
+
+Jolt, v. [dcholt]`Traquear.`Pumutok.eng_section:Jolt, v. [dcholt]
+eng_word:Jolt
+pos:v:
+
+spanish:Traquear.
+spanish_word:Traquear.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jolt$$, $$v$$,  $$traquear.$$)
+    
+
+
+Jostle, v. [josl]`Reempujar.`Magtulak.eng_section:Jostle, v. [josl]
+eng_word:Jostle
+pos:v:
+
+spanish:Reempujar.
+spanish_word:Reempujar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jostle$$, $$v$$,  $$reempujar.$$)
+    
+
+
+Jot, n. [dchot]`Jota, tilde, punto.`Punto, tuldok.eng_section:Jot, n. [dchot]
+eng_word:Jot
+pos:n:
+
+spanish:Jota, tilde, punto.
+spanish_word:Jota
+spanish_word:tilde
+spanish_word:punto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jot$$, $$n$$,  $$jota, tilde, punto.$$)
+    
+
+
+Jot, v. [dchot]`Apuntar.`Italâ.eng_section:Jot, v. [dchot]
+eng_word:Jot
+pos:v:
+
+spanish:Apuntar.
+spanish_word:Apuntar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jot$$, $$v$$,  $$apuntar.$$)
+    
+
+
+Journal, n. [dchérnal]`Diario.`Páhayagang, pang-araw-araw.eng_section:Journal, n. [dchérnal]
+eng_word:Journal
+pos:n:
+
+spanish:Diario.
+spanish_word:Diario.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$journal$$, $$n$$,  $$diario.$$)
+    
+
+
+Journalism, n. [dchérnalism]`Periodismo.`Panunulat sa páhayagan.eng_section:Journalism, n. [dchérnalism]
+eng_word:Journalism
+pos:n:
+
+spanish:Periodismo.
+spanish_word:Periodismo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$journalism$$, $$n$$,  $$periodismo.$$)
+    
+
+
+Journalist, n. [dchérnalist]`Periodista, diarista.`Mánunulat sa páhayagan.eng_section:Journalist, n. [dchérnalist]
+eng_word:Journalist
+pos:n:
+
+spanish:Periodista, diarista.
+spanish_word:Periodista
+spanish_word:diarista.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$journalist$$, $$n$$,  $$periodista, diarista.$$)
+    
+
+
+Journey, n. [dchérni]`Jornada, viaje.`Paglalakbay, paglalakad.eng_section:Journey, n. [dchérni]
+eng_word:Journey
+pos:n:
+
+spanish:Jornada, viaje.
+spanish_word:Jornada
+spanish_word:viaje.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$journey$$, $$n$$,  $$jornada, viaje.$$)
+    
+
+
+Journey, v. [dchérni]`Viajar.`Maglakbay.eng_section:Journey, v. [dchérni]
+eng_word:Journey
+pos:v:
+
+spanish:Viajar.
+spanish_word:Viajar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$journey$$, $$v$$,  $$viajar.$$)
+    
+
+
+Journeyman, n. [dchérniman]`Jornalero.`Mang-aaráw.eng_section:Journeyman, n. [dchérniman]
+eng_word:Journeyman
+pos:n:
+
+spanish:Jornalero.
+spanish_word:Jornalero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$journeyman$$, $$n$$,  $$jornalero.$$)
+    
+
+
+Journey-work, n. [dehérniuerk]`Jornal.`Upa.eng_section:Journey-work, n. [dehérniuerk]
+eng_word:Journey-work
+pos:n:
+
+spanish:Jornal.
+spanish_word:Jornal.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$journey-work$$, $$n$$,  $$jornal.$$)
+    
+
+
+Jovial, adj. [dchóvial]`Jovial, festivo.`Masayá.eng_section:Jovial, adj. [dchóvial]
+eng_word:Jovial
+pos:adj:
+
+spanish:Jovial, festivo.
+spanish_word:Jovial
+spanish_word:festivo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jovial$$, $$adj$$,  $$jovial, festivo.$$)
+    
+
+
+Joviality, n. [dchoviáliti]`Jovialidad, festividad.`Sayá.eng_section:Joviality, n. [dchoviáliti]
+eng_word:Joviality
+pos:n:
+
+spanish:Jovialidad, festividad.
+spanish_word:Jovialidad
+spanish_word:festividad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$joviality$$, $$n$$,  $$jovialidad, festividad.$$)
+    
+
+
+Joy, n. [dchoy]`Gozo, júbilo.`Galák, kagalakán.eng_section:Joy, n. [dchoy]
+eng_word:Joy
+pos:n:
+
+spanish:Gozo, júbilo.
+spanish_word:Gozo
+spanish_word:júbilo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$joy$$, $$n$$,  $$gozo, júbilo.$$)
+    
+
+
+Joy, v. [dchoy]`Regocijarse, recrearse.`Magalak, matwâ.eng_section:Joy, v. [dchoy]
+eng_word:Joy
+pos:v:
+
+spanish:Regocijarse, recrearse.
+spanish_word:Regocijarse
+spanish_word:recrearse.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$joy$$, $$v$$,  $$regocijarse, recrearse.$$)
+    
+
+
+Joyous, adj. [dchóias]`Alegre, gozoso.`Galák, masayá.eng_section:Joyous, adj. [dchóias]
+eng_word:Joyous
+pos:adj:
+
+spanish:Alegre, gozoso.
+spanish_word:Alegre
+spanish_word:gozoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$joyous$$, $$adj$$,  $$alegre, gozoso.$$)
+    
+
+
+Joyless, adj. [dchóiles]`Triste, sin alegria.`Mapanglaw, walang kasayahan.eng_section:Joyless, adj. [dchóiles]
+eng_word:Joyless
+pos:adj:
+
+spanish:Triste, sin alegria.
+spanish_word:Triste
+spanish_phrase:sin alegria.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$joyless$$, $$adj$$,  $$triste, sin alegria.$$)
+    
+
+
+Joyfulness, n. [dchóyfulnes]`Alegria, júbilo.`Sayá, galák.eng_section:Joyfulness, n. [dchóyfulnes]
+eng_word:Joyfulness
+pos:n:
+
+spanish:Alegria, júbilo.
+spanish_word:Alegria
+spanish_word:júbilo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$joyfulness$$, $$n$$,  $$alegria, júbilo.$$)
+    
+
+
+Jubilant, adj. [dchiúbilant]`Lleno de júbilo.`Puspos ng kagalakan.eng_section:Jubilant, adj. [dchiúbilant]
+eng_word:Jubilant
+pos:adj:
+
+spanish:Lleno de júbilo.
+spanish_phrase:Lleno de júbilo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jubilant$$, $$adj$$,  $$lleno de júbilo.$$)
+    
+
+
+Jubilation, n. [dchiubilécion]`Júbilo, regocijo.`Kagalakan.eng_section:Jubilation, n. [dchiubilécion]
+eng_word:Jubilation
+pos:n:
+
+spanish:Júbilo, regocijo.
+spanish_word:Júbilo
+spanish_word:regocijo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jubilation$$, $$n$$,  $$júbilo, regocijo.$$)
+    
+
+
+Jubilee, n. [dchiúbili]`Jubileo.`Hubileó, isang pistá ng mga taga Israel.eng_section:Jubilee, n. [dchiúbili]
+eng_word:Jubilee
+pos:n:
+
+spanish:Jubileo.
+spanish_word:Jubileo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jubilee$$, $$n$$,  $$jubileo.$$)
+    
+
+
+Judaical, adj. [dchiudéical]`Judaico.`Nauukol sa mga Hudyó.eng_section:Judaical, adj. [dchiudéical]
+eng_word:Judaical
+pos:adj:
+
+spanish:Judaico.
+spanish_word:Judaico.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$judaical$$, $$adj$$,  $$judaico.$$)
+    
+
+
+Judaism, n. [dchiúdeizm]`Judaismo.`Pananampalataya ng mga Hudyó.eng_section:Judaism, n. [dchiúdeizm]
+eng_word:Judaism
+pos:n:
+
+spanish:Judaismo.
+spanish_word:Judaismo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$judaism$$, $$n$$,  $$judaismo.$$)
+    
+
+
+Judge, n. [dchadch]`Juez.`Hukom.eng_section:Judge, n. [dchadch]
+eng_word:Judge
+pos:n:
+
+spanish:Juez.
+spanish_word:Juez.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$judge$$, $$n$$,  $$juez.$$)
+    
+
+
+Judge, v. [dchadch]`Juzgar.`Humatol, humukom.eng_section:Judge, v. [dchadch]
+eng_word:Judge
+pos:v:
+
+spanish:Juzgar.
+spanish_word:Juzgar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$judge$$, $$v$$,  $$juzgar.$$)
+    
+
+
+Judgment, n. [dchádchment]`Juicio.`Hatol, paghuhukom.eng_section:Judgment, n. [dchádchment]
+eng_word:Judgment
+pos:n:
+
+spanish:Juicio.
+spanish_word:Juicio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$judgment$$, $$n$$,  $$juicio.$$)
+    
+
+
+Judge of Peace, n. [dchadch of piz]`Juez de Paz.`Hukom-tagapamayapà.eng_section:Judge of Peace, n. [dchadch of piz]
+eng_word:Judge of Peace
+pos:n:
+
+spanish:Juez de Paz.
+spanish_phrase:Juez de Paz.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$judge of peace$$, $$n$$,  $$juez de paz.$$)
+    
+
+
+Judicial, adj. [dchiudícial]`Judicial.`Nauukol sa húkuman.eng_section:Judicial, adj. [dchiudícial]
+eng_word:Judicial
+pos:adj:
+
+spanish:Judicial.
+spanish_word:Judicial.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$judicial$$, $$adj$$,  $$judicial.$$)
+    
+
+
+Judiciary, adj. [dchiudícieri]`Judiciario.`Nauukol sa húkuman.eng_section:Judiciary, adj. [dchiudícieri]
+eng_word:Judiciary
+pos:adj:
+
+spanish:Judiciario.
+spanish_word:Judiciario.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$judiciary$$, $$adj$$,  $$judiciario.$$)
+    
+
+
+Judicious, adj. [dchiudícias]`Juicioso, prudente.`Mabait, matalinò.eng_section:Judicious, adj. [dchiudícias]
+eng_word:Judicious
+pos:adj:
+
+spanish:Juicioso, prudente.
+spanish_word:Juicioso
+spanish_word:prudente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$judicious$$, $$adj$$,  $$juicioso, prudente.$$)
+    
+
+
+Jug, n. [dchag]`Jarro.`Sisidlán ng mga bagay na lusaw.eng_section:Jug, n. [dchag]
+eng_word:Jug
+pos:n:
+
+spanish:Jarro.
+spanish_word:Jarro.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jug$$, $$n$$,  $$jarro.$$)
+    
+
+
+Juggle, n. [dchagl]`Juego de manos.`Salamangká.eng_section:Juggle, n. [dchagl]
+eng_word:Juggle
+pos:n:
+
+spanish:Juego de manos.
+spanish_phrase:Juego de manos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$juggle$$, $$n$$,  $$juego de manos.$$)
+    
+
+
+Juggle, v. [dchagl]`Hacer juegos de manos.`Magsalamangká.eng_section:Juggle, v. [dchagl]
+eng_word:Juggle
+pos:v:
+
+spanish:Hacer juegos de manos.
+spanish_phrase:Hacer juegos de manos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$juggle$$, $$v$$,  $$hacer juegos de manos.$$)
+    
+
+
+Juggler, n. [dchágler]`Juglar.`Mánanalamangká, salamangkero.eng_section:Juggler, n. [dchágler]
+eng_word:Juggler
+pos:n:
+
+spanish:Juglar.
+spanish_word:Juglar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$juggler$$, $$n$$,  $$juglar.$$)
+    
+
+
+Juice, n. [dchiús]`Zumo, jugo.`Katás.eng_section:Juice, n. [dchiús]
+eng_word:Juice
+pos:n:
+
+spanish:Zumo, jugo.
+spanish_word:Zumo
+spanish_word:jugo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$juice$$, $$n$$,  $$zumo, jugo.$$)
+    
+
+
+Juiceless, adj. [dchiúsles]`Seco, sin jugo.`Walang katás.eng_section:Juiceless, adj. [dchiúsles]
+eng_word:Juiceless
+pos:adj:
+
+spanish:Seco, sin jugo.
+spanish_word:Seco
+spanish_phrase:sin jugo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$juiceless$$, $$adj$$,  $$seco, sin jugo.$$)
+    
+
+
+Juicy, adj. [dchiúsi]`Jugoso.`Makatás.eng_section:Juicy, adj. [dchiúsi]
+eng_word:Juicy
+pos:adj:
+
+spanish:Jugoso.
+spanish_word:Jugoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$juicy$$, $$adj$$,  $$jugoso.$$)
+    
+
+
+July, n. [dchuláy]`Julio.`Hulyo.eng_section:July, n. [dchuláy]
+eng_word:July
+pos:n:
+
+spanish:Julio.
+spanish_word:Julio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$july$$, $$n$$,  $$julio.$$)
+    
+
+
+Jumble, n. [dchémbl]`Mezcla.`Halò.eng_section:Jumble, n. [dchémbl]
+eng_word:Jumble
+pos:n:
+
+spanish:Mezcla.
+spanish_word:Mezcla.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jumble$$, $$n$$,  $$mezcla.$$)
+    
+
+
+Jumble, v. [dchémbl]`Mezclar.`Ihalò.eng_section:Jumble, v. [dchémbl]
+eng_word:Jumble
+pos:v:
+
+spanish:Mezclar.
+spanish_word:Mezclar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jumble$$, $$v$$,  $$mezclar.$$)
+    
+
+
+Jump, n. [dchamp]`Salto, brinco.`Luksó, lundág.eng_section:Jump, n. [dchamp]
+eng_word:Jump
+pos:n:
+
+spanish:Salto, brinco.
+spanish_word:Salto
+spanish_word:brinco.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jump$$, $$n$$,  $$salto, brinco.$$)
+    
+
+
+Jump, v. [dchamp]`Saltar, brincar.`Lumuksó, lumundag.eng_section:Jump, v. [dchamp]
+eng_word:Jump
+pos:v:
+
+spanish:Saltar, brincar.
+spanish_word:Saltar
+spanish_word:brincar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jump$$, $$v$$,  $$saltar, brincar.$$)
+    
+
+
+Junction, n. [dcúnccion]`Junta, union.`Karugtong, kaanib.eng_section:Junction, n. [dcúnccion]
+eng_word:Junction
+pos:n:
+
+spanish:Junta, union.
+spanish_word:Junta
+spanish_word:union.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$junction$$, $$n$$,  $$junta, union.$$)
+    
+
+
+Juncture, n. [jénccher]`Juntura, coyuntura.`Kaugpong, kasugpong.eng_section:Juncture, n. [jénccher]
+eng_word:Juncture
+pos:n:
+
+spanish:Juntura, coyuntura.
+spanish_word:Juntura
+spanish_word:coyuntura.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$juncture$$, $$n$$,  $$juntura, coyuntura.$$)
+    
+
+
+June, n. [dchun]`Junio.`Hunyo.eng_section:June, n. [dchun]
+eng_word:June
+pos:n:
+
+spanish:Junio.
+spanish_word:Junio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$june$$, $$n$$,  $$junio.$$)
+    
+
+
+Jungle, n. [dchangl]`Matorral.`Sukal ng matataas na damó; gubat.eng_section:Jungle, n. [dchangl]
+eng_word:Jungle
+pos:n:
+
+spanish:Matorral.
+spanish_word:Matorral.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jungle$$, $$n$$,  $$matorral.$$)
+    
+
+
+Junior, adj. [dchúnior]`Más joven.`Lalong batà.eng_section:Junior, adj. [dchúnior]
+eng_word:Junior
+pos:adj:
+
+spanish:Más joven.
+spanish_phrase:Más joven.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$junior$$, $$adj$$,  $$más joven.$$)
+    
+
+
+Junk, n. [dchenk]`Junco.`Talbak.eng_section:Junk, n. [dchenk]
+eng_word:Junk
+pos:n:
+
+spanish:Junco.
+spanish_word:Junco.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$junk$$, $$n$$,  $$junco.$$)
+    
+
+
+Junket, n. [dchénket]`Dulce seco.`Matamís.eng_section:Junket, n. [dchénket]
+eng_word:Junket
+pos:n:
+
+spanish:Dulce seco.
+spanish_phrase:Dulce seco.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$junket$$, $$n$$,  $$dulce seco.$$)
+    
+
+
+Junket, v. [dchénket]`Dar un convite en secreto.`Magpigíng ng lihim.eng_section:Junket, v. [dchénket]
+eng_word:Junket
+pos:v:
+
+spanish:Dar un convite en secreto.
+spanish_phrase:Dar un convite en secreto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$junket$$, $$v$$,  $$dar un convite en secreto.$$)
+    
+
+
+Junta, n. [dchúnta]`Junta, reunion.`Pulong, kapulungan.eng_section:Junta, n. [dchúnta]
+eng_word:Junta
+pos:n:
+
+spanish:Junta, reunion.
+spanish_word:Junta
+spanish_word:reunion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$junta$$, $$n$$,  $$junta, reunion.$$)
+    
+
+
+Juridical, adj. [dchiurídical]`Jurídico, judicial.`Nauukol sa hukuman.eng_section:Juridical, adj. [dchiurídical]
+eng_word:Juridical
+pos:adj:
+
+spanish:Jurídico, judicial.
+spanish_word:Jurídico
+spanish_word:judicial.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$juridical$$, $$adj$$,  $$jurídico, judicial.$$)
+    
+
+
+Jurisdiction, n. [dchiurísdiccion]`Jurisdiccion.`Pook na saklaw.eng_section:Jurisdiction, n. [dchiurísdiccion]
+eng_word:Jurisdiction
+pos:n:
+
+spanish:Jurisdiccion.
+spanish_word:Jurisdiccion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jurisdiction$$, $$n$$,  $$jurisdiccion.$$)
+    
+
+
+Jury, n. [dchiúri]`Jurado.`Tagahatol, inang-palan.eng_section:Jury, n. [dchiúri]
+eng_word:Jury
+pos:n:
+
+spanish:Jurado.
+spanish_word:Jurado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jury$$, $$n$$,  $$jurado.$$)
+    
+
+
+Just, adj. [dchast]`Justo, recto.`Ganap, tapát, matwid.eng_section:Just, adj. [dchast]
+eng_word:Just
+pos:adj:
+
+spanish:Justo, recto.
+spanish_word:Justo
+spanish_word:recto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$just$$, $$adj$$,  $$justo, recto.$$)
+    
+
+
+Just, adv. [dchast]`Justamente, exactamente.`Sukat, ganáp.eng_section:Just, adv. [dchast]
+eng_word:Just
+pos:adv:
+
+spanish:Justamente, exactamente.
+spanish_word:Justamente
+spanish_word:exactamente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$just$$, $$adv$$,  $$justamente, exactamente.$$)
+    
+
+
+Justice, n. [dchástis]`Justicia.`Kaganapan, katwiran, kapangyarihan.eng_section:Justice, n. [dchástis]
+eng_word:Justice
+pos:n:
+
+spanish:Justicia.
+spanish_word:Justicia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$justice$$, $$n$$,  $$justicia.$$)
+    
+
+
+Justifiable, adj. [dchástifaiabl]`Justificable, conforme á razon.`Sang-ayon sa katwiran.eng_section:Justifiable, adj. [dchástifaiabl]
+eng_word:Justifiable
+pos:adj:
+
+spanish:Justificable, conforme á razon.
+spanish_word:Justificable
+spanish_phrase:conforme á razon.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$justifiable$$, $$adj$$,  $$justificable, conforme á razon.$$)
+    
+
+
+Justification, n. [dchastifikécion]`Justificacion.`Pagmamatwid.eng_section:Justification, n. [dchastifikécion]
+eng_word:Justification
+pos:n:
+
+spanish:Justificacion.
+spanish_word:Justificacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$justification$$, $$n$$,  $$justificacion.$$)
+    
+
+
+Justify, v. [dchástifay]`Justificar.`Magbigay matwid; magpatotoo; patotohanan, patunayan.eng_section:Justify, v. [dchástifay]
+eng_word:Justify
+pos:v:
+
+spanish:Justificar.
+spanish_word:Justificar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$justify$$, $$v$$,  $$justificar.$$)
+    
+
+
+Jut, v. [dchat]`Chocar en algo cuando se va corriendo.`Makásagasà, makábanggâ.eng_section:Jut, v. [dchat]
+eng_word:Jut
+pos:v:
+
+spanish:Chocar en algo cuando se va corriendo.
+spanish_phrase:Chocar en algo cuando se va corriendo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$jut$$, $$v$$,  $$chocar en algo cuando se va corriendo.$$)
+    
+
+
+Juvenile, adj. [dchiúvenil]`Juvenil.`Nauukol sa pagkabatà.eng_section:Juvenile, adj. [dchiúvenil]
+eng_word:Juvenile
+pos:adj:
+
+spanish:Juvenil.
+spanish_word:Juvenil.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$juvenile$$, $$adj$$,  $$juvenil.$$)
+    
+
+
+Juvenility, n. [dchiuveníliti]`Mocedad, juventud.`Pagkabatà, kabataan.eng_section:Juvenility, n. [dchiuveníliti]
+eng_word:Juvenility
+pos:n:
+
+spanish:Mocedad, juventud.
+spanish_word:Mocedad
+spanish_word:juventud.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$juvenility$$, $$n$$,  $$mocedad, juventud.$$)
+    
+
+

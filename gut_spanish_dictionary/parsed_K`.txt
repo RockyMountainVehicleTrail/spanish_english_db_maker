@@ -1,0 +1,1186 @@
+K, [ke]`Ka (ka).`K (ka).eng_section:K, [ke]
+eng_word:K
+pos:none
+
+spanish:Ka (ka).
+spanish_phrase:Ka (ka).
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$k$$, $$n$$,  $$ka (ka).$$)
+    
+
+
+Kail, n. [kel]`Berza.`Repolyo.eng_section:Kail, n. [kel]
+eng_word:Kail
+pos:n:
+
+spanish:Berza.
+spanish_word:Berza.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kail$$, $$n$$,  $$berza.$$)
+    
+
+
+Keck, v. [kec]`Querer vomitar, tener nauseas.`Umalibadbad.eng_section:Keck, v. [kec]
+eng_word:Keck
+pos:v:
+
+spanish:Querer vomitar, tener nauseas.
+spanish_phrase:Querer vomitar
+spanish_phrase:tener nauseas.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$keck$$, $$v$$,  $$querer vomitar, tener nauseas.$$)
+    
+
+
+Keel, n. [kil]`Quilla.`Kilya.eng_section:Keel, n. [kil]
+eng_word:Keel
+pos:n:
+
+spanish:Quilla.
+spanish_word:Quilla.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$keel$$, $$n$$,  $$quilla.$$)
+    
+
+
+Keen, adj. [kin]`Afilado, agudo; penetrante; sutil.`Matalas, matulis; matalinò; tuso.eng_section:Keen, adj. [kin]
+eng_word:Keen
+pos:adj:
+
+spanish:Afilado, agudo; penetrante; sutil.
+spanish_word:Afilado
+spanish_phrase:agudo; penetrante; sutil.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$keen$$, $$adj$$,  $$afilado, agudo; penetrante; sutil.$$)
+    
+
+
+Keenness, n. [kínes]`Agudeza, sutileza, perspicacia.`Katalasan, katulisan, katalinuan, katusuhan.eng_section:Keenness, n. [kínes]
+eng_word:Keenness
+pos:n:
+
+spanish:Agudeza, sutileza, perspicacia.
+spanish_word:Agudeza
+spanish_word:sutileza
+spanish_word:perspicacia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$keenness$$, $$n$$,  $$agudeza, sutileza, perspicacia.$$)
+    
+
+
+Keep, v. [kip]`Guardar.`Mag-ingat.eng_section:Keep, v. [kip]
+eng_word:Keep
+pos:v:
+
+spanish:Guardar.
+spanish_word:Guardar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$keep$$, $$v$$,  $$guardar.$$)
+    
+
+
+Keeper, n. [kíper]`Guardían.`Tagapag-ingat.eng_section:Keeper, n. [kíper]
+eng_word:Keeper
+pos:n:
+
+spanish:Guardían.
+spanish_word:Guardían.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$keeper$$, $$n$$,  $$guardían.$$)
+    
+
+
+Keeping, n. [kíping]`Custodia, guarda.`Pag-aalagà, pag-iingat.eng_section:Keeping, n. [kíping]
+eng_word:Keeping
+pos:n:
+
+spanish:Custodia, guarda.
+spanish_word:Custodia
+spanish_word:guarda.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$keeping$$, $$n$$,  $$custodia, guarda.$$)
+    
+
+
+Keepsake, n. [kípsek]`Dádiva, regalo.`Kaloob, bigáy.eng_section:Keepsake, n. [kípsek]
+eng_word:Keepsake
+pos:n:
+
+spanish:Dádiva, regalo.
+spanish_word:Dádiva
+spanish_word:regalo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$keepsake$$, $$n$$,  $$dádiva, regalo.$$)
+    
+
+
+Keg, n. [keg]`Cuñete, barrilito.`Bariles na muntî.eng_section:Keg, n. [keg]
+eng_word:Keg
+pos:n:
+
+spanish:Cuñete, barrilito.
+spanish_word:Cuñete
+spanish_word:barrilito.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$keg$$, $$n$$,  $$cuñete, barrilito.$$)
+    
+
+
+Ken, n. [ken]`Vista.`Tanaw.eng_section:Ken, n. [ken]
+eng_word:Ken
+pos:n:
+
+spanish:Vista.
+spanish_word:Vista.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ken$$, $$n$$,  $$vista.$$)
+    
+
+
+Kennel, n. [kénel]`Perrera.`Kulungan ng aso.eng_section:Kennel, n. [kénel]
+eng_word:Kennel
+pos:n:
+
+spanish:Perrera.
+spanish_word:Perrera.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kennel$$, $$n$$,  $$perrera.$$)
+    
+
+
+Kerchief, n. [kérchif]`Cofia, pañuelo.`Alampay, birang, panyô.eng_section:Kerchief, n. [kérchif]
+eng_word:Kerchief
+pos:n:
+
+spanish:Cofia, pañuelo.
+spanish_word:Cofia
+spanish_word:pañuelo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kerchief$$, $$n$$,  $$cofia, pañuelo.$$)
+    
+
+
+Kernel, n. [kérnel]`Pepita.`Butó ng bunga ng kahoy.eng_section:Kernel, n. [kérnel]
+eng_word:Kernel
+pos:n:
+
+spanish:Pepita.
+spanish_word:Pepita.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kernel$$, $$n$$,  $$pepita.$$)
+    
+
+
+Kettle, n. [ketl]`Caldera.`Kawa.eng_section:Kettle, n. [ketl]
+eng_word:Kettle
+pos:n:
+
+spanish:Caldera.
+spanish_word:Caldera.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kettle$$, $$n$$,  $$caldera.$$)
+    
+
+
+Kettle-drum, n. [kétl-dram]`Timbal, atabal.`Gimbal.eng_section:Kettle-drum, n. [kétl-dram]
+eng_word:Kettle-drum
+pos:n:
+
+spanish:Timbal, atabal.
+spanish_word:Timbal
+spanish_word:atabal.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kettle-drum$$, $$n$$,  $$timbal, atabal.$$)
+    
+
+
+Key, n. [ki]`Llave, clave.`Susì.eng_section:Key, n. [ki]
+eng_word:Key
+pos:n:
+
+spanish:Llave, clave.
+spanish_word:Llave
+spanish_word:clave.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$key$$, $$n$$,  $$llave, clave.$$)
+    
+
+
+Keyhole, n. [kíjol]`Agujero de la llave.`Butas ng susì.eng_section:Keyhole, n. [kíjol]
+eng_word:Keyhole
+pos:n:
+
+spanish:Agujero de la llave.
+spanish_phrase:Agujero de la llave.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$keyhole$$, $$n$$,  $$agujero de la llave.$$)
+    
+
+
+Keystone, n. [kíston]`Llave de un arco ó bóveda.`Batong pangsará ng arkó.eng_section:Keystone, n. [kíston]
+eng_word:Keystone
+pos:n:
+
+spanish:Llave de un arco ó bóveda.
+spanish_phrase:Llave de un arco ó bóveda.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$keystone$$, $$n$$,  $$llave de un arco ó bóveda.$$)
+    
+
+
+Kick, n. [kic]`Puntapié, patada.`Sipà, sikad, tadyak.eng_section:Kick, n. [kic]
+eng_word:Kick
+pos:n:
+
+spanish:Puntapié, patada.
+spanish_word:Puntapié
+spanish_word:patada.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kick$$, $$n$$,  $$puntapié, patada.$$)
+    
+
+
+Kick, v. [kic]`Patear, acocear.`Manipá, sumipà, manikad, manadyak.eng_section:Kick, v. [kic]
+eng_word:Kick
+pos:v:
+
+spanish:Patear, acocear.
+spanish_word:Patear
+spanish_word:acocear.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kick$$, $$v$$,  $$patear, acocear.$$)
+    
+
+
+Kid, n. [kid]`Cabrito.`Batang kambíng.eng_section:Kid, n. [kid]
+eng_word:Kid
+pos:n:
+
+spanish:Cabrito.
+spanish_word:Cabrito.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kid$$, $$n$$,  $$cabrito.$$)
+    
+
+
+Kidnap, v. [kídnap]`Hurtar ó robar niños.`Magnakaw ng batà.eng_section:Kidnap, v. [kídnap]
+eng_word:Kidnap
+pos:v:
+
+spanish:Hurtar ó robar niños.
+spanish_phrase:Hurtar ó robar niños.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kidnap$$, $$v$$,  $$hurtar ó robar niños.$$)
+    
+
+
+Kidney, n. [kídni]`Riñon.`Bató ng katawán.eng_section:Kidney, n. [kídni]
+eng_word:Kidney
+pos:n:
+
+spanish:Riñon.
+spanish_word:Riñon.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kidney$$, $$n$$,  $$riñon.$$)
+    
+
+
+Kilderkin, n. [kílderkin]`Medio barril.`Kalahating barriles.eng_section:Kilderkin, n. [kílderkin]
+eng_word:Kilderkin
+pos:n:
+
+spanish:Medio barril.
+spanish_phrase:Medio barril.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kilderkin$$, $$n$$,  $$medio barril.$$)
+    
+
+
+Kill, v. [kil]`Matar, asesinar.`Pumatay.eng_section:Kill, v. [kil]
+eng_word:Kill
+pos:v:
+
+spanish:Matar, asesinar.
+spanish_word:Matar
+spanish_word:asesinar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kill$$, $$v$$,  $$matar, asesinar.$$)
+    
+
+
+Kiln, n. [kiln]`Horno.`Hurnó.eng_section:Kiln, n. [kiln]
+eng_word:Kiln
+pos:n:
+
+spanish:Horno.
+spanish_word:Horno.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kiln$$, $$n$$,  $$horno.$$)
+    
+
+
+Kiln-dry, v. [kílndray]`Secar ó quemar alguna cosa en horno.`Magsangag.eng_section:Kiln-dry, v. [kílndray]
+eng_word:Kiln-dry
+pos:v:
+
+spanish:Secar ó quemar alguna cosa en horno.
+spanish_phrase:Secar ó quemar alguna cosa en horno.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kiln-dry$$, $$v$$,  $$secar ó quemar alguna cosa en horno.$$)
+    
+
+
+Kimbo, adj. [kímbo]`Encorvado, arqueado.`Baluktot, bakukô.eng_section:Kimbo, adj. [kímbo]
+eng_word:Kimbo
+pos:adj:
+
+spanish:Encorvado, arqueado.
+spanish_word:Encorvado
+spanish_word:arqueado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kimbo$$, $$adj$$,  $$encorvado, arqueado.$$)
+    
+
+
+Kin, n. [kin]`Parentesco, vínculo.`Hinlog, kamag-anak.eng_section:Kin, n. [kin]
+eng_word:Kin
+pos:n:
+
+spanish:Parentesco, vínculo.
+spanish_word:Parentesco
+spanish_word:vínculo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kin$$, $$n$$,  $$parentesco, vínculo.$$)
+    
+
+
+Kind, adj. [káind]`Benévolo, bondadoso, benéfico.`Magandang loob, butihin, mabuting asal.eng_section:Kind, adj. [káind]
+eng_word:Kind
+pos:adj:
+
+spanish:Benévolo, bondadoso, benéfico.
+spanish_word:Benévolo
+spanish_word:bondadoso
+spanish_word:benéfico.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kind$$, $$adj$$,  $$benévolo, bondadoso, benéfico.$$)
+    
+
+
+Kind, n. [káind]`Especie, calidad.`Urì, klase.eng_section:Kind, n. [káind]
+eng_word:Kind
+pos:n:
+
+spanish:Especie, calidad.
+spanish_word:Especie
+spanish_word:calidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kind$$, $$n$$,  $$especie, calidad.$$)
+    
+
+
+Kindle, v. [kíndl]`Encender; inflamar, enardecer.`Magtitis, magsindí; magpaningas.eng_section:Kindle, v. [kíndl]
+eng_word:Kindle
+pos:v:
+
+spanish:Encender; inflamar, enardecer.
+spanish_phrase:Encender; inflamar
+spanish_word:enardecer.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kindle$$, $$v$$,  $$encender; inflamar, enardecer.$$)
+    
+
+
+Kindness, n. [káindnes]`Benevolencia.`Kagandahang-loob, kabutihang ugalì.eng_section:Kindness, n. [káindnes]
+eng_word:Kindness
+pos:n:
+
+spanish:Benevolencia.
+spanish_word:Benevolencia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kindness$$, $$n$$,  $$benevolencia.$$)
+    
+
+
+Kindred, adj. [kíndred]`Emparentado.`Kamag-anak.eng_section:Kindred, adj. [kíndred]
+eng_word:Kindred
+pos:adj:
+
+spanish:Emparentado.
+spanish_word:Emparentado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kindred$$, $$adj$$,  $$emparentado.$$)
+    
+
+
+Kindred, n. [kindred]`Parentesco, parentela, casta.`Kahinlugan, kamag-anakan, angkan.eng_section:Kindred, n. [kindred]
+eng_word:Kindred
+pos:n:
+
+spanish:Parentesco, parentela, casta.
+spanish_word:Parentesco
+spanish_word:parentela
+spanish_word:casta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kindred$$, $$n$$,  $$parentesco, parentela, casta.$$)
+    
+
+
+King, n. [king]`Rey.`Harì.eng_section:King, n. [king]
+eng_word:King
+pos:n:
+
+spanish:Rey.
+spanish_word:Rey.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$king$$, $$n$$,  $$rey.$$)
+    
+
+
+Kingdom, n. [kíngdom]`Reyno.`Kaharian.eng_section:Kingdom, n. [kíngdom]
+eng_word:Kingdom
+pos:n:
+
+spanish:Reyno.
+spanish_word:Reyno.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kingdom$$, $$n$$,  $$reyno.$$)
+    
+
+
+Kingfisher, n. [kíngfisier]`Martin pescador.`Lumbas, isang urì ng ibon.eng_section:Kingfisher, n. [kíngfisier]
+eng_word:Kingfisher
+pos:n:
+
+spanish:Martin pescador.
+spanish_phrase:Martin pescador.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kingfisher$$, $$n$$,  $$martin pescador.$$)
+    
+
+
+Kinglike, adj. [kingláik]`Regio.`Parang harì.eng_section:Kinglike, adj. [kingláik]
+eng_word:Kinglike
+pos:adj:
+
+spanish:Regio.
+spanish_word:Regio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kinglike$$, $$adj$$,  $$regio.$$)
+    
+
+
+Kinsfolk, n. [kínsfolc]`Parentela, parientes.`Kamag-anak, kamag-anakan.eng_section:Kinsfolk, n. [kínsfolc]
+eng_word:Kinsfolk
+pos:n:
+
+spanish:Parentela, parientes.
+spanish_word:Parentela
+spanish_word:parientes.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kinsfolk$$, $$n$$,  $$parentela, parientes.$$)
+    
+
+
+Kinship, n. [kínship]`Parentela.`Kamag-anakan.eng_section:Kinship, n. [kínship]
+eng_word:Kinship
+pos:n:
+
+spanish:Parentela.
+spanish_word:Parentela.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kinship$$, $$n$$,  $$parentela.$$)
+    
+
+
+Kinsman, n. [kínsman]`Pariente.`Kamag-anak.eng_section:Kinsman, n. [kínsman]
+eng_word:Kinsman
+pos:n:
+
+spanish:Pariente.
+spanish_word:Pariente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kinsman$$, $$n$$,  $$pariente.$$)
+    
+
+
+Kinswoman, n. [kinswúman]`Parienta.`Kamag-anak na babae.eng_section:Kinswoman, n. [kinswúman]
+eng_word:Kinswoman
+pos:n:
+
+spanish:Parienta.
+spanish_word:Parienta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kinswoman$$, $$n$$,  $$parienta.$$)
+    
+
+
+Kirk, n. [kerk]`Iglesia.`Simbahan.eng_section:Kirk, n. [kerk]
+eng_word:Kirk
+pos:n:
+
+spanish:Iglesia.
+spanish_word:Iglesia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kirk$$, $$n$$,  $$iglesia.$$)
+    
+
+
+Kirtle, n. [kertl]`Manto, capa.`Balabal.eng_section:Kirtle, n. [kertl]
+eng_word:Kirtle
+pos:n:
+
+spanish:Manto, capa.
+spanish_word:Manto
+spanish_word:capa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kirtle$$, $$n$$,  $$manto, capa.$$)
+    
+
+
+Kiss, n. [kis]`Beso.`Halík.eng_section:Kiss, n. [kis]
+eng_word:Kiss
+pos:n:
+
+spanish:Beso.
+spanish_word:Beso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kiss$$, $$n$$,  $$beso.$$)
+    
+
+
+Kiss, v. [kis]`Besar.`Humalík.eng_section:Kiss, v. [kis]
+eng_word:Kiss
+pos:v:
+
+spanish:Besar.
+spanish_word:Besar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kiss$$, $$v$$,  $$besar.$$)
+    
+
+
+Kit, n. [kit]`Botellon.`Malaking bote.eng_section:Kit, n. [kit]
+eng_word:Kit
+pos:n:
+
+spanish:Botellon.
+spanish_word:Botellon.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kit$$, $$n$$,  $$botellon.$$)
+    
+
+
+Kitchen, n. [kíchen]`Cocina.`Kusinà.eng_section:Kitchen, n. [kíchen]
+eng_word:Kitchen
+pos:n:
+
+spanish:Cocina.
+spanish_word:Cocina.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kitchen$$, $$n$$,  $$cocina.$$)
+    
+
+
+Kite, n. [káit]`Milano; cometa, papelote.`Lawin; bolador.eng_section:Kite, n. [káit]
+eng_word:Kite
+pos:n:
+
+spanish:Milano; cometa, papelote.
+spanish_phrase:Milano; cometa
+spanish_word:papelote.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kite$$, $$n$$,  $$milano; cometa, papelote.$$)
+    
+
+
+Kitten, n. [kitn]`Gatito.`Kutíng.eng_section:Kitten, n. [kitn]
+eng_word:Kitten
+pos:n:
+
+spanish:Gatito.
+spanish_word:Gatito.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kitten$$, $$n$$,  $$gatito.$$)
+    
+
+
+Knack, n. [nac]`Destreza, habilidad.`Katalinuan.eng_section:Knack, n. [nac]
+eng_word:Knack
+pos:n:
+
+spanish:Destreza, habilidad.
+spanish_word:Destreza
+spanish_word:habilidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$knack$$, $$n$$,  $$destreza, habilidad.$$)
+    
+
+
+Knar, n. [nar]`Nudo.`Bukó.eng_section:Knar, n. [nar]
+eng_word:Knar
+pos:n:
+
+spanish:Nudo.
+spanish_word:Nudo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$knar$$, $$n$$,  $$nudo.$$)
+    
+
+
+Knarled, adj. [narld]`Nudoso.`Mabukó.eng_section:Knarled, adj. [narld]
+eng_word:Knarled
+pos:adj:
+
+spanish:Nudoso.
+spanish_word:Nudoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$knarled$$, $$adj$$,  $$nudoso.$$)
+    
+
+
+Knave, n. [nev]`Bribon, pícaro.`Switik, malikot, palamara.eng_section:Knave, n. [nev]
+eng_word:Knave
+pos:n:
+
+spanish:Bribon, pícaro.
+spanish_word:Bribon
+spanish_word:pícaro.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$knave$$, $$n$$,  $$bribon, pícaro.$$)
+    
+
+
+Knavery, n. [néveri]`Pillardia, travesura.`Kalikutan, gawang masamâ.eng_section:Knavery, n. [néveri]
+eng_word:Knavery
+pos:n:
+
+spanish:Pillardia, travesura.
+spanish_word:Pillardia
+spanish_word:travesura.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$knavery$$, $$n$$,  $$pillardia, travesura.$$)
+    
+
+
+Knavish, adj. [névish]`Picaro, travieso.`Malikot, masamâ.eng_section:Knavish, adj. [névish]
+eng_word:Knavish
+pos:adj:
+
+spanish:Picaro, travieso.
+spanish_word:Picaro
+spanish_word:travieso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$knavish$$, $$adj$$,  $$picaro, travieso.$$)
+    
+
+
+Knead, v. [nid]`Amasar.`Magmasa; masahin.eng_section:Knead, v. [nid]
+eng_word:Knead
+pos:v:
+
+spanish:Amasar.
+spanish_word:Amasar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$knead$$, $$v$$,  $$amasar.$$)
+    
+
+
+Kneading-trough, n [níding-trof]`Amasadera.`Pangmasa.eng_section:Kneading-trough, n [níding-trof]
+eng_word:Kneading-trough
+pos:n:
+
+spanish:Amasadera.
+spanish_word:Amasadera.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kneading-trough$$, $$n$$,  $$amasadera.$$)
+    
+
+
+Knee, n. [ni]`Rodilla.`Tuhod.eng_section:Knee, n. [ni]
+eng_word:Knee
+pos:n:
+
+spanish:Rodilla.
+spanish_word:Rodilla.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$knee$$, $$n$$,  $$rodilla.$$)
+    
+
+
+Kneel, v. [nil]`Arrodillarse.`Lumuhod.eng_section:Kneel, v. [nil]
+eng_word:Kneel
+pos:v:
+
+spanish:Arrodillarse.
+spanish_word:Arrodillarse.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$kneel$$, $$v$$,  $$arrodillarse.$$)
+    
+
+
+Knell, n. [nel]`Clamoreo.`Taginting.eng_section:Knell, n. [nel]
+eng_word:Knell
+pos:n:
+
+spanish:Clamoreo.
+spanish_word:Clamoreo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$knell$$, $$n$$,  $$clamoreo.$$)
+    
+
+
+Knickerbockers, n. [níkerbokers]`Calzones de cazador.`Salawal na putol.eng_section:Knickerbockers, n. [níkerbokers]
+eng_word:Knickerbockers
+pos:n:
+
+spanish:Calzones de cazador.
+spanish_phrase:Calzones de cazador.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$knickerbockers$$, $$n$$,  $$calzones de cazador.$$)
+    
+
+
+Knife, n. [náif]`Cuchillo.`Sundang, lanseta.eng_section:Knife, n. [náif]
+eng_word:Knife
+pos:n:
+
+spanish:Cuchillo.
+spanish_word:Cuchillo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$knife$$, $$n$$,  $$cuchillo.$$)
+    
+
+
+Knit, v. [nit]`Enlazar, entretejer, trabajar á punto de aguja.`Manahî, gumanchilyo.eng_section:Knit, v. [nit]
+eng_word:Knit
+pos:v:
+
+spanish:Enlazar, entretejer, trabajar á punto de aguja.
+spanish_word:Enlazar
+spanish_word:entretejer
+spanish_phrase:trabajar á punto de aguja.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$knit$$, $$v$$,  $$enlazar, entretejer, trabajar á punto de aguja.$$)
+    
+
+
+Knitting-needle, n. [níting-nídl]`Aguja de hacer medias de punta.`Pangganchilyo.eng_section:Knitting-needle, n. [níting-nídl]
+eng_word:Knitting-needle
+pos:n:
+
+spanish:Aguja de hacer medias de punta.
+spanish_phrase:Aguja de hacer medias de punta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$knitting-needle$$, $$n$$,  $$aguja de hacer medias de punta.$$)
+    
+
+
+Knob, n. [nob]`Bulto; nudo en la madera; boton de las flores.`Umbók; bukó ng kahoy; búko ng bulaklak.eng_section:Knob, n. [nob]
+eng_word:Knob
+pos:n:
+
+spanish:Bulto; nudo en la madera; boton de las flores.
+spanish_phrase:Bulto; nudo en la madera; boton de las flores.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$knob$$, $$n$$,  $$bulto; nudo en la madera; boton de las flores.$$)
+    
+
+
+Knobby, adj. [nóbi]`Lleno de nudos.`Mabukó.eng_section:Knobby, adj. [nóbi]
+eng_word:Knobby
+pos:adj:
+
+spanish:Lleno de nudos.
+spanish_phrase:Lleno de nudos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$knobby$$, $$adj$$,  $$lleno de nudos.$$)
+    
+
+
+Knock, n. [noc]`Golpe, llamada.`Tuktók, tawag.eng_section:Knock, n. [noc]
+eng_word:Knock
+pos:n:
+
+spanish:Golpe, llamada.
+spanish_word:Golpe
+spanish_word:llamada.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$knock$$, $$n$$,  $$golpe, llamada.$$)
+    
+
+
+Knock, v. [noc]`Tocar, llamar.`Tumuktok, tumawag, patao.eng_section:Knock, v. [noc]
+eng_word:Knock
+pos:v:
+
+spanish:Tocar, llamar.
+spanish_word:Tocar
+spanish_word:llamar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$knock$$, $$v$$,  $$tocar, llamar.$$)
+    
+
+
+Knoll, n. [nol]`Cima de una colina.`Taluktok, tugatog.eng_section:Knoll, n. [nol]
+eng_word:Knoll
+pos:n:
+
+spanish:Cima de una colina.
+spanish_phrase:Cima de una colina.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$knoll$$, $$n$$,  $$cima de una colina.$$)
+    
+
+
+Knot, n. [not]`Nudo, atadura ó ligadura que se hace en cualquier hilo, cuerda ó cinta.`Buhol, talì, talibugsô.eng_section:Knot, n. [not]
+eng_word:Knot
+pos:n:
+
+spanish:Nudo, atadura ó ligadura que se hace en cualquier hilo, cuerda ó cinta.
+spanish_word:Nudo
+spanish_phrase:atadura ó ligadura que se hace en cualquier hilo
+spanish_phrase:cuerda ó cinta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$knot$$, $$n$$,  $$nudo, atadura ó ligadura que se hace en cualquier hilo, cuerda ó cinta.$$)
+    
+
+
+Knot, v. [not]`Anudar.`Ibuhol, italibugsô.eng_section:Knot, v. [not]
+eng_word:Knot
+pos:v:
+
+spanish:Anudar.
+spanish_word:Anudar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$knot$$, $$v$$,  $$anudar.$$)
+    
+
+
+Knotted, adj. [nóted]`Nudoso.`Mabuhól.eng_section:Knotted, adj. [nóted]
+eng_word:Knotted
+pos:adj:
+
+spanish:Nudoso.
+spanish_word:Nudoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$knotted$$, $$adj$$,  $$nudoso.$$)
+    
+
+
+Knotty, adj. [nóti]`Nudoso.`Mabuhól.eng_section:Knotty, adj. [nóti]
+eng_word:Knotty
+pos:adj:
+
+spanish:Nudoso.
+spanish_word:Nudoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$knotty$$, $$adj$$,  $$nudoso.$$)
+    
+
+
+Know, v. [nu]`Saber, conocer.`Makaalam, makakilala.eng_section:Know, v. [nu]
+eng_word:Know
+pos:v:
+
+spanish:Saber, conocer.
+spanish_word:Saber
+spanish_word:conocer.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$know$$, $$v$$,  $$saber, conocer.$$)
+    
+
+
+Knowing, adj. [núing]`Instruido, inteligente, entendido.`Matalinò, maalam, marunong.eng_section:Knowing, adj. [núing]
+eng_word:Knowing
+pos:adj:
+
+spanish:Instruido, inteligente, entendido.
+spanish_word:Instruido
+spanish_word:inteligente
+spanish_word:entendido.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$knowing$$, $$adj$$,  $$instruido, inteligente, entendido.$$)
+    
+
+
+Knowledge, n. [nóledch]`Conocimiento, inteligencia.`Kaalaman, pagkakilala, pagkatalós.eng_section:Knowledge, n. [nóledch]
+eng_word:Knowledge
+pos:n:
+
+spanish:Conocimiento, inteligencia.
+spanish_word:Conocimiento
+spanish_word:inteligencia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$knowledge$$, $$n$$,  $$conocimiento, inteligencia.$$)
+    
+
+
+Knuckle, n. [nákl]`Artejo; nudillo de los dedos.`Bukó ng dalirì.eng_section:Knuckle, n. [nákl]
+eng_word:Knuckle
+pos:n:
+
+spanish:Artejo; nudillo de los dedos.
+spanish_phrase:Artejo; nudillo de los dedos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$knuckle$$, $$n$$,  $$artejo; nudillo de los dedos.$$)
+    
+
+
+Koran, n. [córan]`Alcoran.`Koran ó banal na aklat ng mga moro.eng_section:Koran, n. [córan]
+eng_word:Koran
+pos:n:
+
+spanish:Alcoran.
+spanish_word:Alcoran.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$koran$$, $$n$$,  $$alcoran.$$)
+    
+
+

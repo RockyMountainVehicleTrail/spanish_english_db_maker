@@ -1,0 +1,3480 @@
+Ubiquity, n. [iubícuiti]`Ubicuidad.`Ang pagkakapasa lahat ng dako.eng_section:Ubiquity, n. [iubícuiti]
+eng_word:Ubiquity
+pos:n:
+
+spanish:Ubicuidad.
+spanish_word:Ubicuidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ubiquity$$, $$n$$,  $$ubicuidad.$$)
+    
+
+
+Udder, n. [áder]`Ubre.`Puklô.eng_section:Udder, n. [áder]
+eng_word:Udder
+pos:n:
+
+spanish:Ubre.
+spanish_word:Ubre.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$udder$$, $$n$$,  $$ubre.$$)
+    
+
+
+Ugliness, n. [áglines]`Fealdad, deformidad.`Kapangitan, kasamaan ng anyô.eng_section:Ugliness, n. [áglines]
+eng_word:Ugliness
+pos:n:
+
+spanish:Fealdad, deformidad.
+spanish_word:Fealdad
+spanish_word:deformidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ugliness$$, $$n$$,  $$fealdad, deformidad.$$)
+    
+
+
+Ugly, adj. [ágli]`Feo, disforme, malparecido.`Pangit, masamang anyô.eng_section:Ugly, adj. [ágli]
+eng_word:Ugly
+pos:adj:
+
+spanish:Feo, disforme, malparecido.
+spanish_word:Feo
+spanish_word:disforme
+spanish_word:malparecido.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ugly$$, $$adj$$,  $$feo, disforme, malparecido.$$)
+    
+
+
+Ulcer, n. [úlser]`Úlcera.`Sugat na nagnaknak.eng_section:Ulcer, n. [úlser]
+eng_word:Ulcer
+pos:n:
+
+spanish:Úlcera.
+spanish_word:Úlcera.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ulcer$$, $$n$$,  $$úlcera.$$)
+    
+
+
+Ulcerate, v. [úlseret]`Ulcerar.`Magkasugat ng nagnanaknak.eng_section:Ulcerate, v. [úlseret]
+eng_word:Ulcerate
+pos:v:
+
+spanish:Ulcerar.
+spanish_word:Ulcerar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ulcerate$$, $$v$$,  $$ulcerar.$$)
+    
+
+
+Ulceration, n. [ulserécion]`Ulceracion.`Pagkakasugat ng nagnanaknak.eng_section:Ulceration, n. [ulserécion]
+eng_word:Ulceration
+pos:n:
+
+spanish:Ulceracion.
+spanish_word:Ulceracion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ulceration$$, $$n$$,  $$ulceracion.$$)
+    
+
+
+Ulterior, adj. [ultírior]`Ulterior.`Sa dako pa roon.eng_section:Ulterior, adj. [ultírior]
+eng_word:Ulterior
+pos:adj:
+
+spanish:Ulterior.
+spanish_word:Ulterior.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ulterior$$, $$adj$$,  $$ulterior.$$)
+    
+
+
+Ultimate, adj. [últimet]`Último, final.`Hulí, wakás, katapusan.eng_section:Ultimate, adj. [últimet]
+eng_word:Ultimate
+pos:adj:
+
+spanish:Último, final.
+spanish_word:Último
+spanish_word:final.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ultimate$$, $$adj$$,  $$último, final.$$)
+    
+
+
+Ultimatum, n. [ultimétoem]`Ultimátum, última condicion irrevocable.`Hulíng pasyá na dî na mababago.eng_section:Ultimatum, n. [ultimétoem]
+eng_word:Ultimatum
+pos:n:
+
+spanish:Ultimátum, última condicion irrevocable.
+spanish_word:Ultimátum
+spanish_phrase:última condicion irrevocable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ultimatum$$, $$n$$,  $$ultimátum, última condicion irrevocable.$$)
+    
+
+
+Ultramarine, adj. [ultramarín]`Ultramar.`Sa kabilâ ng dagat.eng_section:Ultramarine, adj. [ultramarín]
+eng_word:Ultramarine
+pos:adj:
+
+spanish:Ultramar.
+spanish_word:Ultramar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ultramarine$$, $$adj$$,  $$ultramar.$$)
+    
+
+
+Ultramontane, adj. [ultramontén]`Ultramontano, extranjero.`Tagaibayo ng dagat, taga ibang lupain.eng_section:Ultramontane, adj. [ultramontén]
+eng_word:Ultramontane
+pos:adj:
+
+spanish:Ultramontano, extranjero.
+spanish_word:Ultramontano
+spanish_word:extranjero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ultramontane$$, $$adj$$,  $$ultramontano, extranjero.$$)
+    
+
+
+Umber, n. [émber]`Umbla, umbra.`Labò, dilím.eng_section:Umber, n. [émber]
+eng_word:Umber
+pos:n:
+
+spanish:Umbla, umbra.
+spanish_word:Umbla
+spanish_word:umbra.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$umber$$, $$n$$,  $$umbla, umbra.$$)
+    
+
+
+Umbrage, n. [émbredch]`Sombra; umbría.`Labò, dilím.eng_section:Umbrage, n. [émbredch]
+eng_word:Umbrage
+pos:n:
+
+spanish:Sombra; umbría.
+spanish_phrase:Sombra; umbría.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$umbrage$$, $$n$$,  $$sombra; umbría.$$)
+    
+
+
+Umbrageous, adj. [embrédches]`Sombrío, umbroso.`Malabò, madilím.eng_section:Umbrageous, adj. [embrédches]
+eng_word:Umbrageous
+pos:adj:
+
+spanish:Sombrío, umbroso.
+spanish_word:Sombrío
+spanish_word:umbroso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$umbrageous$$, $$adj$$,  $$sombrío, umbroso.$$)
+    
+
+
+Umbrella, n. [ambrél-la]`Paraguas; parasol.`Payong.eng_section:Umbrella, n. [ambrél-la]
+eng_word:Umbrella
+pos:n:
+
+spanish:Paraguas; parasol.
+spanish_phrase:Paraguas; parasol.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$umbrella$$, $$n$$,  $$paraguas; parasol.$$)
+    
+
+
+Umpire, n. [ámpair]`Árbitro, arbitrador.`Tagahatol.eng_section:Umpire, n. [ámpair]
+eng_word:Umpire
+pos:n:
+
+spanish:Árbitro, arbitrador.
+spanish_word:Árbitro
+spanish_word:arbitrador.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$umpire$$, $$n$$,  $$árbitro, arbitrador.$$)
+    
+
+
+Unable, adj. [enébl]`Incapaz, imposibilitado.`Walang kaya, walang abot.eng_section:Unable, adj. [enébl]
+eng_word:Unable
+pos:adj:
+
+spanish:Incapaz, imposibilitado.
+spanish_word:Incapaz
+spanish_word:imposibilitado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unable$$, $$adj$$,  $$incapaz, imposibilitado.$$)
+    
+
+
+Unacceptable, adj. [anaccéptabl]`Desagradable.`Nakakayamot, nakaiinip.eng_section:Unacceptable, adj. [anaccéptabl]
+eng_word:Unacceptable
+pos:adj:
+
+spanish:Desagradable.
+spanish_word:Desagradable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unacceptable$$, $$adj$$,  $$desagradable.$$)
+    
+
+
+Unaccommodating, adj. [anakommódeting]`Inconveniente.`Hindî dapat, hindî bagay.eng_section:Unaccommodating, adj. [anakommódeting]
+eng_word:Unaccommodating
+pos:adj:
+
+spanish:Inconveniente.
+spanish_word:Inconveniente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unaccommodating$$, $$adj$$,  $$inconveniente.$$)
+    
+
+
+Unaccompanied, adj. [anacómpanid]`Solo, sin acompañamiento.`Nag-iisá, walang kasama.eng_section:Unaccompanied, adj. [anacómpanid]
+eng_word:Unaccompanied
+pos:adj:
+
+spanish:Solo, sin acompañamiento.
+spanish_word:Solo
+spanish_phrase:sin acompañamiento.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unaccompanied$$, $$adj$$,  $$solo, sin acompañamiento.$$)
+    
+
+
+Unaccomplished, adj. [anacómplisd]`Incompleto, no acabado..`Hindî tapós, hindî lutás.eng_section:Unaccomplished, adj. [anacómplisd]
+eng_word:Unaccomplished
+pos:adj:
+
+spanish:Incompleto, no acabado..
+spanish_word:Incompleto
+spanish_phrase:no acabado..
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unaccomplished$$, $$adj$$,  $$incompleto, no acabado..$$)
+    
+
+
+Unaccountable, adj. [anacáuntabl]`Inexplicable, extraño.`Dî malirip, dî masayod.eng_section:Unaccountable, adj. [anacáuntabl]
+eng_word:Unaccountable
+pos:adj:
+
+spanish:Inexplicable, extraño.
+spanish_word:Inexplicable
+spanish_word:extraño.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unaccountable$$, $$adj$$,  $$inexplicable, extraño.$$)
+    
+
+
+Unaccustomed, adj. [anancástamd]`Desacostumbrado.`Hindî hiratí, hindî gawî.eng_section:Unaccustomed, adj. [anancástamd]
+eng_word:Unaccustomed
+pos:adj:
+
+spanish:Desacostumbrado.
+spanish_word:Desacostumbrado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unaccustomed$$, $$adj$$,  $$desacostumbrado.$$)
+    
+
+
+Unacquainted, adj. [anacuénted]`Desconocido; ignorado.`Hindî kilala.eng_section:Unacquainted, adj. [anacuénted]
+eng_word:Unacquainted
+pos:adj:
+
+spanish:Desconocido; ignorado.
+spanish_phrase:Desconocido; ignorado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unacquainted$$, $$adj$$,  $$desconocido; ignorado.$$)
+    
+
+
+Unaccountable, adj. [anacáuntabl]`Inexplicable.`Dî masayod.eng_section:Unaccountable, adj. [anacáuntabl]
+eng_word:Unaccountable
+pos:adj:
+
+spanish:Inexplicable.
+spanish_word:Inexplicable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unaccountable$$, $$adj$$,  $$inexplicable.$$)
+    
+
+
+Unanimity, n. [iunanímiti]`Unanimidad.`Pagkakaisa.eng_section:Unanimity, n. [iunanímiti]
+eng_word:Unanimity
+pos:n:
+
+spanish:Unanimidad.
+spanish_word:Unanimidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unanimity$$, $$n$$,  $$unanimidad.$$)
+    
+
+
+Unanimous, adj. [iunánimoes]`Unánime.`Magkaisá.eng_section:Unanimous, adj. [iunánimoes]
+eng_word:Unanimous
+pos:adj:
+
+spanish:Unánime.
+spanish_word:Unánime.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unanimous$$, $$adj$$,  $$unánime.$$)
+    
+
+
+Unanswerable, adj. [anánserable]`Incontrovertible, indisputable, incontestable.`Dî masagot, dî matugón.eng_section:Unanswerable, adj. [anánserable]
+eng_word:Unanswerable
+pos:adj:
+
+spanish:Incontrovertible, indisputable, incontestable.
+spanish_word:Incontrovertible
+spanish_word:indisputable
+spanish_word:incontestable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unanswerable$$, $$adj$$,  $$incontrovertible, indisputable, incontestable.$$)
+    
+
+
+Unavoidable, adj. [anavóidabl]`Inevitable.`Dî maiwasan, dî mailagan.eng_section:Unavoidable, adj. [anavóidabl]
+eng_word:Unavoidable
+pos:adj:
+
+spanish:Inevitable.
+spanish_word:Inevitable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unavoidable$$, $$adj$$,  $$inevitable.$$)
+    
+
+
+Unaware, adj. [anawér]`Desatento.`Pabayâ, nakakakalingat.eng_section:Unaware, adj. [anawér]
+eng_word:Unaware
+pos:adj:
+
+spanish:Desatento.
+spanish_word:Desatento.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unaware$$, $$adj$$,  $$desatento.$$)
+    
+
+
+Unawares, adv. [anawérs]`Inadvertídamente; de improviso.`Kaginsaginsa, biglâ.eng_section:Unawares, adv. [anawérs]
+eng_word:Unawares
+pos:adv:
+
+spanish:Inadvertídamente; de improviso.
+spanish_phrase:Inadvertídamente; de improviso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unawares$$, $$adv$$,  $$inadvertídamente; de improviso.$$)
+    
+
+
+Unbecoming, adj. [anbikáming]`Indecente, indecoroso; impropio.`Mahalay, bastos; hindî dapat.eng_section:Unbecoming, adj. [anbikáming]
+eng_word:Unbecoming
+pos:adj:
+
+spanish:Indecente, indecoroso; impropio.
+spanish_word:Indecente
+spanish_phrase:indecoroso; impropio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unbecoming$$, $$adj$$,  $$indecente, indecoroso; impropio.$$)
+    
+
+
+Unbelief, n. [anbilíf]`Incredulidad.`Kawalán ng pananampalataya.eng_section:Unbelief, n. [anbilíf]
+eng_word:Unbelief
+pos:n:
+
+spanish:Incredulidad.
+spanish_word:Incredulidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unbelief$$, $$n$$,  $$incredulidad.$$)
+    
+
+
+Unbeliever, n. [anbilíver]`Incrédulo.`Walang pananampalataya.eng_section:Unbeliever, n. [anbilíver]
+eng_word:Unbeliever
+pos:n:
+
+spanish:Incrédulo.
+spanish_word:Incrédulo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unbeliever$$, $$n$$,  $$incrédulo.$$)
+    
+
+
+Unbending, adj. [anbénding]`Inflexible.`Dî mabaluktok.eng_section:Unbending, adj. [anbénding]
+eng_word:Unbending
+pos:adj:
+
+spanish:Inflexible.
+spanish_word:Inflexible.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unbending$$, $$adj$$,  $$inflexible.$$)
+    
+
+
+Unbind, v. [anbáind]`Desatar.`Kalagin, alisan ng talì.eng_section:Unbind, v. [anbáind]
+eng_word:Unbind
+pos:v:
+
+spanish:Desatar.
+spanish_word:Desatar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unbind$$, $$v$$,  $$desatar.$$)
+    
+
+
+Unbossom, v. [anbósom]`Abrir su pecho á alguno; revelar un secreto.`Maghingá ng nasa sa kalooban, magpahayag ng lihim.eng_section:Unbossom, v. [anbósom]
+eng_word:Unbossom
+pos:v:
+
+spanish:Abrir su pecho á alguno; revelar un secreto.
+spanish_phrase:Abrir su pecho á alguno; revelar un secreto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unbossom$$, $$v$$,  $$abrir su pecho á alguno; revelar un secreto.$$)
+    
+
+
+Unbound, adj. [anbáund]`No encuadernado.`Walang balat ó pasta.eng_section:Unbound, adj. [anbáund]
+eng_word:Unbound
+pos:adj:
+
+spanish:No encuadernado.
+spanish_phrase:No encuadernado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unbound$$, $$adj$$,  $$no encuadernado.$$)
+    
+
+
+Unbred, adj. [anbréd]`Descortés, impolítico.`Bastos, mahalay, walang turò.eng_section:Unbred, adj. [anbréd]
+eng_word:Unbred
+pos:adj:
+
+spanish:Descortés, impolítico.
+spanish_word:Descortés
+spanish_word:impolítico.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unbred$$, $$adj$$,  $$descortés, impolítico.$$)
+    
+
+
+Unbridle, v. [anbráidl]`Desenfrenar.`Kalagín, alisin ang kabesada.eng_section:Unbridle, v. [anbráidl]
+eng_word:Unbridle
+pos:v:
+
+spanish:Desenfrenar.
+spanish_word:Desenfrenar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unbridle$$, $$v$$,  $$desenfrenar.$$)
+    
+
+
+Unburied, adj. [anbérid]`Insepulto.`Hindî nálilibing.eng_section:Unburied, adj. [anbérid]
+eng_word:Unburied
+pos:adj:
+
+spanish:Insepulto.
+spanish_word:Insepulto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unburied$$, $$adj$$,  $$insepulto.$$)
+    
+
+
+Uncertain, adv. [ansérten]`Incierto, dudoso.`Hindî maasahan, álanganin.eng_section:Uncertain, adv. [ansérten]
+eng_word:Uncertain
+pos:adv:
+
+spanish:Incierto, dudoso.
+spanish_word:Incierto
+spanish_word:dudoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$uncertain$$, $$adv$$,  $$incierto, dudoso.$$)
+    
+
+
+Uncertainty, n. [ansértenti]`Incertidumbre, duda.`Aligamgam, pagaalanganin.eng_section:Uncertainty, n. [ansértenti]
+eng_word:Uncertainty
+pos:n:
+
+spanish:Incertidumbre, duda.
+spanish_word:Incertidumbre
+spanish_word:duda.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$uncertainty$$, $$n$$,  $$incertidumbre, duda.$$)
+    
+
+
+Unchangeable, adj. [anchéndchebl]`Inmutable.`Dî nagbabago.eng_section:Unchangeable, adj. [anchéndchebl]
+eng_word:Unchangeable
+pos:adj:
+
+spanish:Inmutable.
+spanish_word:Inmutable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unchangeable$$, $$adj$$,  $$inmutable.$$)
+    
+
+
+Uncharitable, adj. [ancháritabl]`Nada caritativo.`Walang habag, walang awà.eng_section:Uncharitable, adj. [ancháritabl]
+eng_word:Uncharitable
+pos:adj:
+
+spanish:Nada caritativo.
+spanish_phrase:Nada caritativo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$uncharitable$$, $$adj$$,  $$nada caritativo.$$)
+    
+
+
+Uncivil, adj. [ansívil]`Descortés, impolítico.`Lapastangan, walang galang, walang pitagan.eng_section:Uncivil, adj. [ansívil]
+eng_word:Uncivil
+pos:adj:
+
+spanish:Descortés, impolítico.
+spanish_word:Descortés
+spanish_word:impolítico.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$uncivil$$, $$adj$$,  $$descortés, impolítico.$$)
+    
+
+
+Uncivilized, adj. [ansívilaizd]`Salvaje, no civilizado.`Taga gubat, walang kabihasnan.eng_section:Uncivilized, adj. [ansívilaizd]
+eng_word:Uncivilized
+pos:adj:
+
+spanish:Salvaje, no civilizado.
+spanish_word:Salvaje
+spanish_phrase:no civilizado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$uncivilized$$, $$adj$$,  $$salvaje, no civilizado.$$)
+    
+
+
+Uncle, n. [áncl]`Tio.`Amáin, mamà.eng_section:Uncle, n. [áncl]
+eng_word:Uncle
+pos:n:
+
+spanish:Tio.
+spanish_word:Tio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$uncle$$, $$n$$,  $$tio.$$)
+    
+
+
+Unclean, adj. [anclín]`Inmundo, sucio.`Kasuklamsuklam, karimarimarim, salaulà, marungis.eng_section:Unclean, adj. [anclín]
+eng_word:Unclean
+pos:adj:
+
+spanish:Inmundo, sucio.
+spanish_word:Inmundo
+spanish_word:sucio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unclean$$, $$adj$$,  $$inmundo, sucio.$$)
+    
+
+
+Uncleanliness, n. [anclénlines]`Inmundicia, suciedad.`Kasalaulaan, karumihan.eng_section:Uncleanliness, n. [anclénlines]
+eng_word:Uncleanliness
+pos:n:
+
+spanish:Inmundicia, suciedad.
+spanish_word:Inmundicia
+spanish_word:suciedad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$uncleanliness$$, $$n$$,  $$inmundicia, suciedad.$$)
+    
+
+
+Uncomfortable, adj. [ancómfortabl]`Desconsolado, triste.`Dî maaliw, malungkot, mapanlaw.eng_section:Uncomfortable, adj. [ancómfortabl]
+eng_word:Uncomfortable
+pos:adj:
+
+spanish:Desconsolado, triste.
+spanish_word:Desconsolado
+spanish_word:triste.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$uncomfortable$$, $$adj$$,  $$desconsolado, triste.$$)
+    
+
+
+Uncommon, adj. [ancómon]`Raro, extraño, extraordinario.`Dî karaniwan, kaibá, tangì.eng_section:Uncommon, adj. [ancómon]
+eng_word:Uncommon
+pos:adj:
+
+spanish:Raro, extraño, extraordinario.
+spanish_word:Raro
+spanish_word:extraño
+spanish_word:extraordinario.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$uncommon$$, $$adj$$,  $$raro, extraño, extraordinario.$$)
+    
+
+
+Unconscious, adj. [ancóncias]`Inconciente.`Walang diwà, walang ulirat, walang damdam.eng_section:Unconscious, adj. [ancóncias]
+eng_word:Unconscious
+pos:adj:
+
+spanish:Inconciente.
+spanish_word:Inconciente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unconscious$$, $$adj$$,  $$inconciente.$$)
+    
+
+
+Uncontrollable, adj. [ancontrólabl]`Ingobernable, irresistible.`Di mapigil, di masupil.eng_section:Uncontrollable, adj. [ancontrólabl]
+eng_word:Uncontrollable
+pos:adj:
+
+spanish:Ingobernable, irresistible.
+spanish_word:Ingobernable
+spanish_word:irresistible.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$uncontrollable$$, $$adj$$,  $$ingobernable, irresistible.$$)
+    
+
+
+Uncouth, adj. [ancúz]`Extraño, extraordinario.`Kaibá, katwâ.eng_section:Uncouth, adj. [ancúz]
+eng_word:Uncouth
+pos:adj:
+
+spanish:Extraño, extraordinario.
+spanish_word:Extraño
+spanish_word:extraordinario.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$uncouth$$, $$adj$$,  $$extraño, extraordinario.$$)
+    
+
+
+Uncover, v. [ancóver]`Descubrir.`Buksán, alisan ng takip.eng_section:Uncover, v. [ancóver]
+eng_word:Uncover
+pos:v:
+
+spanish:Descubrir.
+spanish_word:Descubrir.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$uncover$$, $$v$$,  $$descubrir.$$)
+    
+
+
+Unction, n. [únccion]`Unción.`Pagpapahid ng langis.eng_section:Unction, n. [únccion]
+eng_word:Unction
+pos:n:
+
+spanish:Unción.
+spanish_word:Unción.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unction$$, $$n$$,  $$unción.$$)
+    
+
+
+Uncultivated, adj. [ankéltiveted]`Inculto.`Hindî nábubungkal ó nabubukid.eng_section:Uncultivated, adj. [ankéltiveted]
+eng_word:Uncultivated
+pos:adj:
+
+spanish:Inculto.
+spanish_word:Inculto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$uncultivated$$, $$adj$$,  $$inculto.$$)
+    
+
+
+Undaunted, adj. [andánted]`Intrépido.`Pangahás.eng_section:Undaunted, adj. [andánted]
+eng_word:Undaunted
+pos:adj:
+
+spanish:Intrépido.
+spanish_word:Intrépido.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$undaunted$$, $$adj$$,  $$intrépido.$$)
+    
+
+
+Undecided, adj. [andisáided]`Indeciso.`Sálawahan, urong-sulóng.eng_section:Undecided, adj. [andisáided]
+eng_word:Undecided
+pos:adj:
+
+spanish:Indeciso.
+spanish_word:Indeciso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$undecided$$, $$adj$$,  $$indeciso.$$)
+    
+
+
+Undeniable, adj. [endináiabl]`Innegable.`Dî máikakailâ, dî maitatangí.eng_section:Undeniable, adj. [endináiabl]
+eng_word:Undeniable
+pos:adj:
+
+spanish:Innegable.
+spanish_word:Innegable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$undeniable$$, $$adj$$,  $$innegable.$$)
+    
+
+
+Under, prep. & adv. [ánder]`Debajo, inferior á.`Nasa ilalim, mababà kaysa....eng_section:Under, prep. & adv. [ánder]
+eng_word:Under
+pos:prep:
+
+spanish:Debajo, inferior á.
+spanish_word:Debajo
+spanish_phrase:inferior á.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$under$$, $$prep$$,  $$debajo, inferior á.$$)
+    
+
+
+Underbid, v. [anderbíd]`Ofrecer por alguna cosa menos de lo que vale.`Tawaran.eng_section:Underbid, v. [anderbíd]
+eng_word:Underbid
+pos:v:
+
+spanish:Ofrecer por alguna cosa menos de lo que vale.
+spanish_phrase:Ofrecer por alguna cosa menos de lo que vale.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$underbid$$, $$v$$,  $$ofrecer por alguna cosa menos de lo que vale.$$)
+    
+
+
+Undergo, v. [andergó]`Sufrir, padecer.`Magtiís, magbatá.eng_section:Undergo, v. [andergó]
+eng_word:Undergo
+pos:v:
+
+spanish:Sufrir, padecer.
+spanish_word:Sufrir
+spanish_word:padecer.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$undergo$$, $$v$$,  $$sufrir, padecer.$$)
+    
+
+
+Underground, n. [ándergraund]`Soterráneo.`Ang nasa ilalim ng lupà.eng_section:Underground, n. [ándergraund]
+eng_word:Underground
+pos:n:
+
+spanish:Soterráneo.
+spanish_word:Soterráneo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$underground$$, $$n$$,  $$soterráneo.$$)
+    
+
+
+Underhand, adv. [anderjénd]`Debajo mano, clandestinamente.`Lihim, patagô.eng_section:Underhand, adv. [anderjénd]
+eng_word:Underhand
+pos:adv:
+
+spanish:Debajo mano, clandestinamente.
+spanish_phrase:Debajo mano
+spanish_word:clandestinamente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$underhand$$, $$adv$$,  $$debajo mano, clandestinamente.$$)
+    
+
+
+Underline, v. [anderlain]`Subrayar.`Guhitan sa ilalim.eng_section:Underline, v. [anderlain]
+eng_word:Underline
+pos:v:
+
+spanish:Subrayar.
+spanish_word:Subrayar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$underline$$, $$v$$,  $$subrayar.$$)
+    
+
+
+Underling, n. [ánderling]`Hombre vil y despreciable.`Taong hamak.eng_section:Underling, n. [ánderling]
+eng_word:Underling
+pos:n:
+
+spanish:Hombre vil y despreciable.
+spanish_phrase:Hombre vil y despreciable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$underling$$, $$n$$,  $$hombre vil y despreciable.$$)
+    
+
+
+Undermine, v. [andermáin]`Minar ó abrir camino por debajo de la tierra.`Humukay ó magbukás ng daan sa ilalim ng lupà.eng_section:Undermine, v. [andermáin]
+eng_word:Undermine
+pos:v:
+
+spanish:Minar ó abrir camino por debajo de la tierra.
+spanish_phrase:Minar ó abrir camino por debajo de la tierra.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$undermine$$, $$v$$,  $$minar ó abrir camino por debajo de la tierra.$$)
+    
+
+
+Undermost, adj. [ándermost]`Ínfimo.`Kábabababaan.eng_section:Undermost, adj. [ándermost]
+eng_word:Undermost
+pos:adj:
+
+spanish:Ínfimo.
+spanish_word:Ínfimo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$undermost$$, $$adj$$,  $$ínfimo.$$)
+    
+
+
+Underneath, adv. [anderníz]`Debajo.`Sa ilalim.eng_section:Underneath, adv. [anderníz]
+eng_word:Underneath
+pos:adv:
+
+spanish:Debajo.
+spanish_word:Debajo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$underneath$$, $$adv$$,  $$debajo.$$)
+    
+
+
+Underrate, v. [anderét]`Desapreciar.`Halagahan ng mababà.eng_section:Underrate, v. [anderét]
+eng_word:Underrate
+pos:v:
+
+spanish:Desapreciar.
+spanish_word:Desapreciar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$underrate$$, $$v$$,  $$desapreciar.$$)
+    
+
+
+Undersell, v. [andersél]`Vender por menos.`Ipagbilí ng walá sa halagá.eng_section:Undersell, v. [andersél]
+eng_word:Undersell
+pos:v:
+
+spanish:Vender por menos.
+spanish_phrase:Vender por menos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$undersell$$, $$v$$,  $$vender por menos.$$)
+    
+
+
+Understand, v. [anderstánd]`Entender, comprender.`Maunawà, máintindihan, máwatasan, márinig, matalastas.eng_section:Understand, v. [anderstánd]
+eng_word:Understand
+pos:v:
+
+spanish:Entender, comprender.
+spanish_word:Entender
+spanish_word:comprender.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$understand$$, $$v$$,  $$entender, comprender.$$)
+    
+
+
+Understanding, n. [anderstánding]`Entendimiento, inteligencia, conocimiento.`Unawà; kaalaman, bait.eng_section:Understanding, n. [anderstánding]
+eng_word:Understanding
+pos:n:
+
+spanish:Entendimiento, inteligencia, conocimiento.
+spanish_word:Entendimiento
+spanish_word:inteligencia
+spanish_word:conocimiento.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$understanding$$, $$n$$,  $$entendimiento, inteligencia, conocimiento.$$)
+    
+
+
+Undertake, v. [anderték]`Emprender, tomar á su cargo, tomar por su cuenta.`Magsagawâ; mangasiwà.eng_section:Undertake, v. [anderték]
+eng_word:Undertake
+pos:v:
+
+spanish:Emprender, tomar á su cargo, tomar por su cuenta.
+spanish_word:Emprender
+spanish_phrase:tomar á su cargo
+spanish_phrase:tomar por su cuenta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$undertake$$, $$v$$,  $$emprender, tomar á su cargo, tomar por su cuenta.$$)
+    
+
+
+Undertaking, n. [andertéking]`Empresa.`Panukalà; pagsasagawâ.eng_section:Undertaking, n. [andertéking]
+eng_word:Undertaking
+pos:n:
+
+spanish:Empresa.
+spanish_word:Empresa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$undertaking$$, $$n$$,  $$empresa.$$)
+    
+
+
+Underwood, n. [ánderwud]`Monte bajo.`Bundok na mababà.eng_section:Underwood, n. [ánderwud]
+eng_word:Underwood
+pos:n:
+
+spanish:Monte bajo.
+spanish_phrase:Monte bajo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$underwood$$, $$n$$,  $$monte bajo.$$)
+    
+
+
+Underwrite, v. [ander-ráit]`Firmar debajo de algun escrito.`Maglagdâ sa ibabâ ng sulat.eng_section:Underwrite, v. [ander-ráit]
+eng_word:Underwrite
+pos:v:
+
+spanish:Firmar debajo de algun escrito.
+spanish_phrase:Firmar debajo de algun escrito.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$underwrite$$, $$v$$,  $$firmar debajo de algun escrito.$$)
+    
+
+
+Undo, v. [andú]`Deshacer, desatar.`Kalasín, kalagin, baguhin.eng_section:Undo, v. [andú]
+eng_word:Undo
+pos:v:
+
+spanish:Deshacer, desatar.
+spanish_word:Deshacer
+spanish_word:desatar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$undo$$, $$v$$,  $$deshacer, desatar.$$)
+    
+
+
+Undoubted, adj. [andáuted]`Indubitado, evidente.`Hindî ipag-aalinlangan, maliwanag.eng_section:Undoubted, adj. [andáuted]
+eng_word:Undoubted
+pos:adj:
+
+spanish:Indubitado, evidente.
+spanish_word:Indubitado
+spanish_word:evidente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$undoubted$$, $$adj$$,  $$indubitado, evidente.$$)
+    
+
+
+Undress, n. [andrés]`Ropa de casa.`Damít na pangbahay.eng_section:Undress, n. [andrés]
+eng_word:Undress
+pos:n:
+
+spanish:Ropa de casa.
+spanish_phrase:Ropa de casa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$undress$$, $$n$$,  $$ropa de casa.$$)
+    
+
+
+Undress, v. [andrés]`Desnudar.`Maghubad, magbihis.eng_section:Undress, v. [andrés]
+eng_word:Undress
+pos:v:
+
+spanish:Desnudar.
+spanish_word:Desnudar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$undress$$, $$v$$,  $$desnudar.$$)
+    
+
+
+Undue, adj. [andiú]`Indebido, ilícito.`Hindî dapat, hindî marapat.eng_section:Undue, adj. [andiú]
+eng_word:Undue
+pos:adj:
+
+spanish:Indebido, ilícito.
+spanish_word:Indebido
+spanish_word:ilícito.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$undue$$, $$adj$$,  $$indebido, ilícito.$$)
+    
+
+
+Undulate, v. [ándiulet]`Ondear.`Umindayon; mag-inalón, pumagaypay.eng_section:Undulate, v. [ándiulet]
+eng_word:Undulate
+pos:v:
+
+spanish:Ondear.
+spanish_word:Ondear.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$undulate$$, $$v$$,  $$ondear.$$)
+    
+
+
+Undulation, n. [andiulécion]`Undulacion.`Indayon.eng_section:Undulation, n. [andiulécion]
+eng_word:Undulation
+pos:n:
+
+spanish:Undulacion.
+spanish_word:Undulacion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$undulation$$, $$n$$,  $$undulacion.$$)
+    
+
+
+Unearth, v. [anérz]`Desenterrar.`Hukayin, ilitaw.eng_section:Unearth, v. [anérz]
+eng_word:Unearth
+pos:v:
+
+spanish:Desenterrar.
+spanish_word:Desenterrar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unearth$$, $$v$$,  $$desenterrar.$$)
+    
+
+
+Uneasy, adj. [anízi]`Inquieto, desasosegado, incómodo.`Dî mápakali, dî mápalagay, balisá.eng_section:Uneasy, adj. [anízi]
+eng_word:Uneasy
+pos:adj:
+
+spanish:Inquieto, desasosegado, incómodo.
+spanish_word:Inquieto
+spanish_word:desasosegado
+spanish_word:incómodo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$uneasy$$, $$adj$$,  $$inquieto, desasosegado, incómodo.$$)
+    
+
+
+Unequal, adj. [anícual]`Desigual.`Kabilán, hindî pantay.eng_section:Unequal, adj. [anícual]
+eng_word:Unequal
+pos:adj:
+
+spanish:Desigual.
+spanish_word:Desigual.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unequal$$, $$adj$$,  $$desigual.$$)
+    
+
+
+Unequalled, adj. [anícuald]`Sin igual, incomparable.`Walang kapara, dî máihahalintulad.eng_section:Unequalled, adj. [anícuald]
+eng_word:Unequalled
+pos:adj:
+
+spanish:Sin igual, incomparable.
+spanish_phrase:Sin igual
+spanish_word:incomparable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unequalled$$, $$adj$$,  $$sin igual, incomparable.$$)
+    
+
+
+Uneven, adj. [anívn]`Desigual; impar; escabroso.`Hindî pantay; gansal, lunes (sa bilang; bakubakô).eng_section:Uneven, adj. [anívn]
+eng_word:Uneven
+pos:adj:
+
+spanish:Desigual; impar; escabroso.
+spanish_phrase:Desigual; impar; escabroso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$uneven$$, $$adj$$,  $$desigual; impar; escabroso.$$)
+    
+
+
+Unexpected, adj. [anecspécted]`Inesperado, inopinado.`Hindî hinihintay, hindî akalaing dárating.eng_section:Unexpected, adj. [anecspécted]
+eng_word:Unexpected
+pos:adj:
+
+spanish:Inesperado, inopinado.
+spanish_word:Inesperado
+spanish_word:inopinado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unexpected$$, $$adj$$,  $$inesperado, inopinado.$$)
+    
+
+
+Unexpectedly, adv. [anecspéctedli]`De repente, inopinadamente.`Biglangbiglâ, kagínsaginsá.eng_section:Unexpectedly, adv. [anecspéctedli]
+eng_word:Unexpectedly
+pos:adv:
+
+spanish:De repente, inopinadamente.
+spanish_phrase:De repente
+spanish_word:inopinadamente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unexpectedly$$, $$adv$$,  $$de repente, inopinadamente.$$)
+    
+
+
+Unfaithful, adj. [anfézful]`Infiel, pérfido, desleal.`Taksíl, lilo, sukab, palamara.eng_section:Unfaithful, adj. [anfézful]
+eng_word:Unfaithful
+pos:adj:
+
+spanish:Infiel, pérfido, desleal.
+spanish_word:Infiel
+spanish_word:pérfido
+spanish_word:desleal.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unfaithful$$, $$adj$$,  $$infiel, pérfido, desleal.$$)
+    
+
+
+Unfasten, v. [anfásn]`Desatar, soltar.`Kalagín, pawalán.eng_section:Unfasten, v. [anfásn]
+eng_word:Unfasten
+pos:v:
+
+spanish:Desatar, soltar.
+spanish_word:Desatar
+spanish_word:soltar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unfasten$$, $$v$$,  $$desatar, soltar.$$)
+    
+
+
+Unfathomable, adj. [anfázemabl]`Insondable.`Dî matarok.eng_section:Unfathomable, adj. [anfázemabl]
+eng_word:Unfathomable
+pos:adj:
+
+spanish:Insondable.
+spanish_word:Insondable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unfathomable$$, $$adj$$,  $$insondable.$$)
+    
+
+
+Unfed, adj. [anféd]`Falto de alimento.`Kulang sa pagkain.eng_section:Unfed, adj. [anféd]
+eng_word:Unfed
+pos:adj:
+
+spanish:Falto de alimento.
+spanish_phrase:Falto de alimento.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unfed$$, $$adj$$,  $$falto de alimento.$$)
+    
+
+
+Unfeeling, adj. [anfíling]`Insensible, cruel.`Walang damdamin, mabagsík.eng_section:Unfeeling, adj. [anfíling]
+eng_word:Unfeeling
+pos:adj:
+
+spanish:Insensible, cruel.
+spanish_word:Insensible
+spanish_word:cruel.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unfeeling$$, $$adj$$,  $$insensible, cruel.$$)
+    
+
+
+Unfilial, adj. [anfílial]`Indigno de un hijo.`Hindî nararapat sa anák.eng_section:Unfilial, adj. [anfílial]
+eng_word:Unfilial
+pos:adj:
+
+spanish:Indigno de un hijo.
+spanish_phrase:Indigno de un hijo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unfilial$$, $$adj$$,  $$indigno de un hijo.$$)
+    
+
+
+Unfinished, adj. [anfínishd]`Incompleto, imperfecto, no acabado.`Hindî tapós, hindî lubos, hindî yarì.eng_section:Unfinished, adj. [anfínishd]
+eng_word:Unfinished
+pos:adj:
+
+spanish:Incompleto, imperfecto, no acabado.
+spanish_word:Incompleto
+spanish_word:imperfecto
+spanish_phrase:no acabado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unfinished$$, $$adj$$,  $$incompleto, imperfecto, no acabado.$$)
+    
+
+
+Unfit, adj. [anfít]`Inepto, incapaz.`Walang kaya, hindî marapat.eng_section:Unfit, adj. [anfít]
+eng_word:Unfit
+pos:adj:
+
+spanish:Inepto, incapaz.
+spanish_word:Inepto
+spanish_word:incapaz.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unfit$$, $$adj$$,  $$inepto, incapaz.$$)
+    
+
+
+Unfold, v. [anfóld]`Desplegar, desdoblar.`Ikadkad, ilatag.eng_section:Unfold, v. [anfóld]
+eng_word:Unfold
+pos:v:
+
+spanish:Desplegar, desdoblar.
+spanish_word:Desplegar
+spanish_word:desdoblar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unfold$$, $$v$$,  $$desplegar, desdoblar.$$)
+    
+
+
+Unfortunate, adj. [anfórchiunet]`Desafortunado, infeliz.`Sawî, masamang kapalaran.eng_section:Unfortunate, adj. [anfórchiunet]
+eng_word:Unfortunate
+pos:adj:
+
+spanish:Desafortunado, infeliz.
+spanish_word:Desafortunado
+spanish_word:infeliz.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unfortunate$$, $$adj$$,  $$desafortunado, infeliz.$$)
+    
+
+
+Unfounded, adj. [anfáunded]`Sin fundamento.`Walang kapararakan.eng_section:Unfounded, adj. [anfáunded]
+eng_word:Unfounded
+pos:adj:
+
+spanish:Sin fundamento.
+spanish_phrase:Sin fundamento.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unfounded$$, $$adj$$,  $$sin fundamento.$$)
+    
+
+
+Unfriendly, adj. [anfréndli]`Nada afable.`Hindî marunong makipagkaibigan.eng_section:Unfriendly, adj. [anfréndli]
+eng_word:Unfriendly
+pos:adj:
+
+spanish:Nada afable.
+spanish_phrase:Nada afable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unfriendly$$, $$adj$$,  $$nada afable.$$)
+    
+
+
+Unfruitful, adj. [anfrútful]`Estéril, infructuoso.`Baóg, karát.eng_section:Unfruitful, adj. [anfrútful]
+eng_word:Unfruitful
+pos:adj:
+
+spanish:Estéril, infructuoso.
+spanish_word:Estéril
+spanish_word:infructuoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unfruitful$$, $$adj$$,  $$estéril, infructuoso.$$)
+    
+
+
+Unfurl, v. [anférl]`Desplegar, extender.`Iladlad, ilatag.eng_section:Unfurl, v. [anférl]
+eng_word:Unfurl
+pos:v:
+
+spanish:Desplegar, extender.
+spanish_word:Desplegar
+spanish_word:extender.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unfurl$$, $$v$$,  $$desplegar, extender.$$)
+    
+
+
+Ungainly, adj. [anguénli]`Zafio, tosco.`Pangit, magaspang.eng_section:Ungainly, adj. [anguénli]
+eng_word:Ungainly
+pos:adj:
+
+spanish:Zafio, tosco.
+spanish_word:Zafio
+spanish_word:tosco.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ungainly$$, $$adj$$,  $$zafio, tosco.$$)
+    
+
+
+Unglue, v. [angliú]`Desencolar.`Bakbakin, tiklapin.eng_section:Unglue, v. [angliú]
+eng_word:Unglue
+pos:v:
+
+spanish:Desencolar.
+spanish_word:Desencolar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unglue$$, $$v$$,  $$desencolar.$$)
+    
+
+
+Ungodly, adj. [angódli]`Impío, irreligioso.`Walang kabanalan, salarín.eng_section:Ungodly, adj. [angódli]
+eng_word:Ungodly
+pos:adj:
+
+spanish:Impío, irreligioso.
+spanish_word:Impío
+spanish_word:irreligioso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ungodly$$, $$adj$$,  $$impío, irreligioso.$$)
+    
+
+
+Ungovernable, adj. [angóvernabl]`Indomable, ingobernable.`Dî masupil, dî mapasukò.eng_section:Ungovernable, adj. [angóvernabl]
+eng_word:Ungovernable
+pos:adj:
+
+spanish:Indomable, ingobernable.
+spanish_word:Indomable
+spanish_word:ingobernable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ungovernable$$, $$adj$$,  $$indomable, ingobernable.$$)
+    
+
+
+Ungrateful, adj. [angrétful]`Desagradecido, ingrato.`Hindî marunong kumilala ng utang na loob.eng_section:Ungrateful, adj. [angrétful]
+eng_word:Ungrateful
+pos:adj:
+
+spanish:Desagradecido, ingrato.
+spanish_word:Desagradecido
+spanish_word:ingrato.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ungrateful$$, $$adj$$,  $$desagradecido, ingrato.$$)
+    
+
+
+Unguent, n. [úngüent]`Ungüento.`Pabango na pangpahid.eng_section:Unguent, n. [úngüent]
+eng_word:Unguent
+pos:n:
+
+spanish:Ungüento.
+spanish_word:Ungüento.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unguent$$, $$n$$,  $$ungüento.$$)
+    
+
+
+Unguarded, adj. [angárded]`Sin guarda.`Walang bantay.eng_section:Unguarded, adj. [angárded]
+eng_word:Unguarded
+pos:adj:
+
+spanish:Sin guarda.
+spanish_phrase:Sin guarda.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unguarded$$, $$adj$$,  $$sin guarda.$$)
+    
+
+
+Unhallowed, adj. [anjálod]`Profano.`Lapastangan.eng_section:Unhallowed, adj. [anjálod]
+eng_word:Unhallowed
+pos:adj:
+
+spanish:Profano.
+spanish_word:Profano.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unhallowed$$, $$adj$$,  $$profano.$$)
+    
+
+
+Unhappiness, n. [anjépines]`Infelicidad, infortunio.`Kasawian, kaabáan.eng_section:Unhappiness, n. [anjépines]
+eng_word:Unhappiness
+pos:n:
+
+spanish:Infelicidad, infortunio.
+spanish_word:Infelicidad
+spanish_word:infortunio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unhappiness$$, $$n$$,  $$infelicidad, infortunio.$$)
+    
+
+
+Unhappy, adj. [anjépi]`Infeliz, desdichado, desafortunado.`Sawî, abâ, masamang kapalaran.eng_section:Unhappy, adj. [anjépi]
+eng_word:Unhappy
+pos:adj:
+
+spanish:Infeliz, desdichado, desafortunado.
+spanish_word:Infeliz
+spanish_word:desdichado
+spanish_word:desafortunado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unhappy$$, $$adj$$,  $$infeliz, desdichado, desafortunado.$$)
+    
+
+
+Unhealthy, adj. [anjélzi]`Enfermizo.`Masasákitin.eng_section:Unhealthy, adj. [anjélzi]
+eng_word:Unhealthy
+pos:adj:
+
+spanish:Enfermizo.
+spanish_word:Enfermizo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unhealthy$$, $$adj$$,  $$enfermizo.$$)
+    
+
+
+Unholy, adj. [anjóli]`Profano, impío.`Lapastangan.eng_section:Unholy, adj. [anjóli]
+eng_word:Unholy
+pos:adj:
+
+spanish:Profano, impío.
+spanish_word:Profano
+spanish_word:impío.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unholy$$, $$adj$$,  $$profano, impío.$$)
+    
+
+
+Uniform, adj. [iúniform]`Uniforme.`Magkakaanyô, magkakaparis, magkakaisá.eng_section:Uniform, adj. [iúniform]
+eng_word:Uniform
+pos:adj:
+
+spanish:Uniforme.
+spanish_word:Uniforme.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$uniform$$, $$adj$$,  $$uniforme.$$)
+    
+
+
+Uniformity, n. [iunifórmiti]`Uniformidad, igualdad.`Pagkakaisang-anyô, pagkakaayon.eng_section:Uniformity, n. [iunifórmiti]
+eng_word:Uniformity
+pos:n:
+
+spanish:Uniformidad, igualdad.
+spanish_word:Uniformidad
+spanish_word:igualdad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$uniformity$$, $$n$$,  $$uniformidad, igualdad.$$)
+    
+
+
+Unintelligible, adj. [anintélidchibl]`Ininteligible.`Hindî máwatasan, hindî máintindihan.eng_section:Unintelligible, adj. [anintélidchibl]
+eng_word:Unintelligible
+pos:adj:
+
+spanish:Ininteligible.
+spanish_word:Ininteligible.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unintelligible$$, $$adj$$,  $$ininteligible.$$)
+    
+
+
+Union, n. [iúnion]`Union, conformidad.`Pagkakáisa, pagkakaayon.eng_section:Union, n. [iúnion]
+eng_word:Union
+pos:n:
+
+spanish:Union, conformidad.
+spanish_word:Union
+spanish_word:conformidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$union$$, $$n$$,  $$union, conformidad.$$)
+    
+
+
+Unique, adj. [iúnic]`Único, uno.`Nag-iisá, bugtong.eng_section:Unique, adj. [iúnic]
+eng_word:Unique
+pos:adj:
+
+spanish:Único, uno.
+spanish_word:Único
+spanish_word:uno.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unique$$, $$adj$$,  $$único, uno.$$)
+    
+
+
+Unison, n. [iúnisan]`Unisonancia.`Pagkakaisang tingig sa tugtugan.eng_section:Unison, n. [iúnisan]
+eng_word:Unison
+pos:n:
+
+spanish:Unisonancia.
+spanish_word:Unisonancia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unison$$, $$n$$,  $$unisonancia.$$)
+    
+
+
+Unit, adj. [iúnit]`Unidad.`Isá.eng_section:Unit, adj. [iúnit]
+eng_word:Unit
+pos:adj:
+
+spanish:Unidad.
+spanish_word:Unidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unit$$, $$adj$$,  $$unidad.$$)
+    
+
+
+Unity, n. [iúniti]`Unidad, union.`Pagkakaisa.eng_section:Unity, n. [iúniti]
+eng_word:Unity
+pos:n:
+
+spanish:Unidad, union.
+spanish_word:Unidad
+spanish_word:union.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unity$$, $$n$$,  $$unidad, union.$$)
+    
+
+
+Universal, adj. [iunivérsal]`Universal.`Nauukol sa sangsinukob.eng_section:Universal, adj. [iunivérsal]
+eng_word:Universal
+pos:adj:
+
+spanish:Universal.
+spanish_word:Universal.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$universal$$, $$adj$$,  $$universal.$$)
+    
+
+
+Universe, n. [iúnivers]`Universo.`Sangsinukob, sangdaigdigan.eng_section:Universe, n. [iúnivers]
+eng_word:Universe
+pos:n:
+
+spanish:Universo.
+spanish_word:Universo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$universe$$, $$n$$,  $$universo.$$)
+    
+
+
+Unjust, adj. [andchást]`Injusto, inicuo.`Hindî banal, masamâ.eng_section:Unjust, adj. [andchást]
+eng_word:Unjust
+pos:adj:
+
+spanish:Injusto, inicuo.
+spanish_word:Injusto
+spanish_word:inicuo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unjust$$, $$adj$$,  $$injusto, inicuo.$$)
+    
+
+
+Unkind, adj. [ancáind]`Nada cortés, áspero.`Bastós, mahalay.eng_section:Unkind, adj. [ancáind]
+eng_word:Unkind
+pos:adj:
+
+spanish:Nada cortés, áspero.
+spanish_phrase:Nada cortés
+spanish_word:áspero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unkind$$, $$adj$$,  $$nada cortés, áspero.$$)
+    
+
+
+Unknown, adj. [annón]`Ignorado, oculto.`Hindî kilala, tagô, lingíd.eng_section:Unknown, adj. [annón]
+eng_word:Unknown
+pos:adj:
+
+spanish:Ignorado, oculto.
+spanish_word:Ignorado
+spanish_word:oculto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unknown$$, $$adj$$,  $$ignorado, oculto.$$)
+    
+
+
+Unlawful, adj. [anlóful]`Ilegítimo, ilícito.`Labag sa kautusan.eng_section:Unlawful, adj. [anlóful]
+eng_word:Unlawful
+pos:adj:
+
+spanish:Ilegítimo, ilícito.
+spanish_word:Ilegítimo
+spanish_word:ilícito.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unlawful$$, $$adj$$,  $$ilegítimo, ilícito.$$)
+    
+
+
+Unlearned, adj. [anlérnd]`Indocto; ignorante.`Walang tuto, walang pinag aralan; hangal.eng_section:Unlearned, adj. [anlérnd]
+eng_word:Unlearned
+pos:adj:
+
+spanish:Indocto; ignorante.
+spanish_phrase:Indocto; ignorante.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unlearned$$, $$adj$$,  $$indocto; ignorante.$$)
+    
+
+
+Unless, conj. [anlés]`Á menos que; si no.`Maliban, kung dî.eng_section:Unless, conj. [anlés]
+eng_word:Unless
+pos:conj:
+
+spanish:Á menos que; si no.
+spanish_phrase:Á menos que; si no.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unless$$, $$conj$$,  $$á menos que; si no.$$)
+    
+
+
+Unlike, adj. [anláik]`Diferente, distinto.`Iba, kaibá.eng_section:Unlike, adj. [anláik]
+eng_word:Unlike
+pos:adj:
+
+spanish:Diferente, distinto.
+spanish_word:Diferente
+spanish_word:distinto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unlike$$, $$adj$$,  $$diferente, distinto.$$)
+    
+
+
+Unlikely, adv. [anláicli]`Improbablemente.`Hindî maaasahan, walang kasiguruhán.eng_section:Unlikely, adv. [anláicli]
+eng_word:Unlikely
+pos:adv:
+
+spanish:Improbablemente.
+spanish_word:Improbablemente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unlikely$$, $$adv$$,  $$improbablemente.$$)
+    
+
+
+Unlimited, adj. [anlímited]`Ilimitado.`Walang hangga.eng_section:Unlimited, adj. [anlímited]
+eng_word:Unlimited
+pos:adj:
+
+spanish:Ilimitado.
+spanish_word:Ilimitado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unlimited$$, $$adj$$,  $$ilimitado.$$)
+    
+
+
+Unload, v. [anlód]`Descargar.`Mag-ibís, maglapag ng dalá ó lulan.eng_section:Unload, v. [anlód]
+eng_word:Unload
+pos:v:
+
+spanish:Descargar.
+spanish_word:Descargar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unload$$, $$v$$,  $$descargar.$$)
+    
+
+
+Unlock, v. [anlóc]`Abrir alguna cerradura.`Buksán ang seradura.eng_section:Unlock, v. [anlóc]
+eng_word:Unlock
+pos:v:
+
+spanish:Abrir alguna cerradura.
+spanish_phrase:Abrir alguna cerradura.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unlock$$, $$v$$,  $$abrir alguna cerradura.$$)
+    
+
+
+Unloose, v. [anlús]`Desatar.`Kalagín.eng_section:Unloose, v. [anlús]
+eng_word:Unloose
+pos:v:
+
+spanish:Desatar.
+spanish_word:Desatar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unloose$$, $$v$$,  $$desatar.$$)
+    
+
+
+Unlucky, adj. [anláki]`Desafortunado, desdichado.`Sawing palad, masamang kapalaran.eng_section:Unlucky, adj. [anláki]
+eng_word:Unlucky
+pos:adj:
+
+spanish:Desafortunado, desdichado.
+spanish_word:Desafortunado
+spanish_word:desdichado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unlucky$$, $$adj$$,  $$desafortunado, desdichado.$$)
+    
+
+
+Unnatural, adj. [annáchural]`Contrario á las leyes de la naturaleza.`Nálalabag sa lakad ng katalagahan.eng_section:Unnatural, adj. [annáchural]
+eng_word:Unnatural
+pos:adj:
+
+spanish:Contrario á las leyes de la naturaleza.
+spanish_phrase:Contrario á las leyes de la naturaleza.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unnatural$$, $$adj$$,  $$contrario á las leyes de la naturaleza.$$)
+    
+
+
+Unnecessary, adj. [annéceseri]`Innecesario.`Hindî kailangan.eng_section:Unnecessary, adj. [annéceseri]
+eng_word:Unnecessary
+pos:adj:
+
+spanish:Innecesario.
+spanish_word:Innecesario.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unnecessary$$, $$adj$$,  $$innecesario.$$)
+    
+
+
+Unneighborly, adj. [annéborli]`Poco atento con sus vecinos.`Hindî marunong makipagkapit-bahay.eng_section:Unneighborly, adj. [annéborli]
+eng_word:Unneighborly
+pos:adj:
+
+spanish:Poco atento con sus vecinos.
+spanish_phrase:Poco atento con sus vecinos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unneighborly$$, $$adj$$,  $$poco atento con sus vecinos.$$)
+    
+
+
+Unnumbered, adj. [annámberd]`Innumerable.`Walang bilang, dî mabilang.eng_section:Unnumbered, adj. [annámberd]
+eng_word:Unnumbered
+pos:adj:
+
+spanish:Innumerable.
+spanish_word:Innumerable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unnumbered$$, $$adj$$,  $$innumerable.$$)
+    
+
+
+Unpack, v. [anpác]`Desempaquetar.`Alisin sa balot.eng_section:Unpack, v. [anpác]
+eng_word:Unpack
+pos:v:
+
+spanish:Desempaquetar.
+spanish_word:Desempaquetar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unpack$$, $$v$$,  $$desempaquetar.$$)
+    
+
+
+Unpalatable, adj. [anpálatabl]`Desabrido.`Matabang, walang lasa.eng_section:Unpalatable, adj. [anpálatabl]
+eng_word:Unpalatable
+pos:adj:
+
+spanish:Desabrido.
+spanish_word:Desabrido.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unpalatable$$, $$adj$$,  $$desabrido.$$)
+    
+
+
+Unparalleled, adj. [anpáraleld]`Sin paralelo.`Walang kapara.eng_section:Unparalleled, adj. [anpáraleld]
+eng_word:Unparalleled
+pos:adj:
+
+spanish:Sin paralelo.
+spanish_phrase:Sin paralelo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unparalleled$$, $$adj$$,  $$sin paralelo.$$)
+    
+
+
+Unpleasant, adj. [anplésant]`Desagradable.`Nakayayamot.eng_section:Unpleasant, adj. [anplésant]
+eng_word:Unpleasant
+pos:adj:
+
+spanish:Desagradable.
+spanish_word:Desagradable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unpleasant$$, $$adj$$,  $$desagradable.$$)
+    
+
+
+Unpolished, adj. [anpólishd]`Tosco, que no está pulido.`Magaspáng, hindî kayás.eng_section:Unpolished, adj. [anpólishd]
+eng_word:Unpolished
+pos:adj:
+
+spanish:Tosco, que no está pulido.
+spanish_word:Tosco
+spanish_phrase:que no está pulido.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unpolished$$, $$adj$$,  $$tosco, que no está pulido.$$)
+    
+
+
+Unprecedented, adj. [anprésidented]`Sin ejemplo.`Walang kahalintulad.eng_section:Unprecedented, adj. [anprésidented]
+eng_word:Unprecedented
+pos:adj:
+
+spanish:Sin ejemplo.
+spanish_phrase:Sin ejemplo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unprecedented$$, $$adj$$,  $$sin ejemplo.$$)
+    
+
+
+Unprepared, adj. [anpripérd]`Desprevenido, desprovisto, no preparado.`Hindî handâ.eng_section:Unprepared, adj. [anpripérd]
+eng_word:Unprepared
+pos:adj:
+
+spanish:Desprevenido, desprovisto, no preparado.
+spanish_word:Desprevenido
+spanish_word:desprovisto
+spanish_phrase:no preparado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unprepared$$, $$adj$$,  $$desprevenido, desprovisto, no preparado.$$)
+    
+
+
+Unprofitable, adj. [anprófitabl]`Inútil, vano.`Walang pakinabang, walang kabuluhan.eng_section:Unprofitable, adj. [anprófitabl]
+eng_word:Unprofitable
+pos:adj:
+
+spanish:Inútil, vano.
+spanish_word:Inútil
+spanish_word:vano.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unprofitable$$, $$adj$$,  $$inútil, vano.$$)
+    
+
+
+Unqualified, adj. [ancuólifaid]`Inhábil, incapaz.`Walang kaya, walang abot.eng_section:Unqualified, adj. [ancuólifaid]
+eng_word:Unqualified
+pos:adj:
+
+spanish:Inhábil, incapaz.
+spanish_word:Inhábil
+spanish_word:incapaz.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unqualified$$, $$adj$$,  $$inhábil, incapaz.$$)
+    
+
+
+Unquestionable, adj. [ancuéschenabl]`Indisputable, indubitable.`Hindî máipakikipagtalo, hindî máipag-aalinlangan.eng_section:Unquestionable, adj. [ancuéschenabl]
+eng_word:Unquestionable
+pos:adj:
+
+spanish:Indisputable, indubitable.
+spanish_word:Indisputable
+spanish_word:indubitable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unquestionable$$, $$adj$$,  $$indisputable, indubitable.$$)
+    
+
+
+Unquiet, adj. [ancuáit]`Inquieto, agitado.`Malikot, magalaw, balisá.eng_section:Unquiet, adj. [ancuáit]
+eng_word:Unquiet
+pos:adj:
+
+spanish:Inquieto, agitado.
+spanish_word:Inquieto
+spanish_word:agitado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unquiet$$, $$adj$$,  $$inquieto, agitado.$$)
+    
+
+
+Unreasonable, adj. [anríznabl]`Desrazonable.`Walâ sa katwiran, hindî katwiran.eng_section:Unreasonable, adj. [anríznabl]
+eng_word:Unreasonable
+pos:adj:
+
+spanish:Desrazonable.
+spanish_word:Desrazonable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unreasonable$$, $$adj$$,  $$desrazonable.$$)
+    
+
+
+Unrest, n. [anrést]`Inquietud.`Kabalisahan, pagkabalisa, kawalán ng paghingá.eng_section:Unrest, n. [anrést]
+eng_word:Unrest
+pos:n:
+
+spanish:Inquietud.
+spanish_word:Inquietud.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unrest$$, $$n$$,  $$inquietud.$$)
+    
+
+
+Unrighteous, adj. [anráichoes]`Injusto, impío.`Hindî banal, makasalanan, masamâ.eng_section:Unrighteous, adj. [anráichoes]
+eng_word:Unrighteous
+pos:adj:
+
+spanish:Injusto, impío.
+spanish_word:Injusto
+spanish_word:impío.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unrighteous$$, $$adj$$,  $$injusto, impío.$$)
+    
+
+
+Unripe, adj. [anráip]`Inmaturo.`Hilaw, bubot, mura.eng_section:Unripe, adj. [anráip]
+eng_word:Unripe
+pos:adj:
+
+spanish:Inmaturo.
+spanish_word:Inmaturo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unripe$$, $$adj$$,  $$inmaturo.$$)
+    
+
+
+Unroll, v. [anról]`Desarrollar.`Ilatag.eng_section:Unroll, v. [anról]
+eng_word:Unroll
+pos:v:
+
+spanish:Desarrollar.
+spanish_word:Desarrollar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unroll$$, $$v$$,  $$desarrollar.$$)
+    
+
+
+Unroof, v. [anrúf]`Destechar.`Alisan ng bubong.eng_section:Unroof, v. [anrúf]
+eng_word:Unroof
+pos:v:
+
+spanish:Destechar.
+spanish_word:Destechar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unroof$$, $$v$$,  $$destechar.$$)
+    
+
+
+Unsafe, adj. [anséf]`Peligroso, no seguro.`May panganib, hindî tiwasay.eng_section:Unsafe, adj. [anséf]
+eng_word:Unsafe
+pos:adj:
+
+spanish:Peligroso, no seguro.
+spanish_word:Peligroso
+spanish_phrase:no seguro.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unsafe$$, $$adj$$,  $$peligroso, no seguro.$$)
+    
+
+
+Unsavory, adj. [ansévori]`Desabrido, insípido.`Matabang, walang lasa.eng_section:Unsavory, adj. [ansévori]
+eng_word:Unsavory
+pos:adj:
+
+spanish:Desabrido, insípido.
+spanish_word:Desabrido
+spanish_word:insípido.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unsavory$$, $$adj$$,  $$desabrido, insípido.$$)
+    
+
+
+Unscrew, v. [anscriú]`Desentornillar.`Alisan ng tornilyo.eng_section:Unscrew, v. [anscriú]
+eng_word:Unscrew
+pos:v:
+
+spanish:Desentornillar.
+spanish_word:Desentornillar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unscrew$$, $$v$$,  $$desentornillar.$$)
+    
+
+
+Unseemly, adj. [ansímli]`Indecente, impropio.`Bastos, mahalay, hindî karapatdapat.eng_section:Unseemly, adj. [ansímli]
+eng_word:Unseemly
+pos:adj:
+
+spanish:Indecente, impropio.
+spanish_word:Indecente
+spanish_word:impropio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unseemly$$, $$adj$$,  $$indecente, impropio.$$)
+    
+
+
+Unseen, adj. [ansín]`Invisible.`Hindî nakikita.eng_section:Unseen, adj. [ansín]
+eng_word:Unseen
+pos:adj:
+
+spanish:Invisible.
+spanish_word:Invisible.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unseen$$, $$adj$$,  $$invisible.$$)
+    
+
+
+Unsettle, v. [ansétl]`Alterar, perturbar.`Galawín, guluhín.eng_section:Unsettle, v. [ansétl]
+eng_word:Unsettle
+pos:v:
+
+spanish:Alterar, perturbar.
+spanish_word:Alterar
+spanish_word:perturbar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unsettle$$, $$v$$,  $$alterar, perturbar.$$)
+    
+
+
+Unsightly, adj. [ansáitli]`Feo, disforme.`Pangit, masamang anyô.eng_section:Unsightly, adj. [ansáitli]
+eng_word:Unsightly
+pos:adj:
+
+spanish:Feo, disforme.
+spanish_word:Feo
+spanish_word:disforme.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unsightly$$, $$adj$$,  $$feo, disforme.$$)
+    
+
+
+Unsociable, adj. [ansóciabl]`Insociable, intratable.`Hindî marunong makipagkapwà.eng_section:Unsociable, adj. [ansóciabl]
+eng_word:Unsociable
+pos:adj:
+
+spanish:Insociable, intratable.
+spanish_word:Insociable
+spanish_word:intratable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unsociable$$, $$adj$$,  $$insociable, intratable.$$)
+    
+
+
+Unsound, adj. [ansáund]`Enfermizo, falta de salud.`Masasakitin, mahinà ang katawan.eng_section:Unsound, adj. [ansáund]
+eng_word:Unsound
+pos:adj:
+
+spanish:Enfermizo, falta de salud.
+spanish_word:Enfermizo
+spanish_phrase:falta de salud.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unsound$$, $$adj$$,  $$enfermizo, falta de salud.$$)
+    
+
+
+Unsuccessful, adj. [ansacsésful]`Infructuoso, desafortunado.`Kulang palad, sawing palad.eng_section:Unsuccessful, adj. [ansacsésful]
+eng_word:Unsuccessful
+pos:adj:
+
+spanish:Infructuoso, desafortunado.
+spanish_word:Infructuoso
+spanish_word:desafortunado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unsuccessful$$, $$adj$$,  $$infructuoso, desafortunado.$$)
+    
+
+
+Unsuitable, adj. [ansiútabl]`Desproporcionado.`Hindî bagay, hindî pareho.eng_section:Unsuitable, adj. [ansiútabl]
+eng_word:Unsuitable
+pos:adj:
+
+spanish:Desproporcionado.
+spanish_word:Desproporcionado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unsuitable$$, $$adj$$,  $$desproporcionado.$$)
+    
+
+
+Untie, v. [antái]`Desatar, desenlazar.`Kalagin, tastasín, hugnusín.eng_section:Untie, v. [antái]
+eng_word:Untie
+pos:v:
+
+spanish:Desatar, desenlazar.
+spanish_word:Desatar
+spanish_word:desenlazar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$untie$$, $$v$$,  $$desatar, desenlazar.$$)
+    
+
+
+Until, adv. [antíl]`Hasta, hasta que.`Hanggang, hanggang sa.eng_section:Until, adv. [antíl]
+eng_word:Until
+pos:adv:
+
+spanish:Hasta, hasta que.
+spanish_word:Hasta
+spanish_phrase:hasta que.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$until$$, $$adv$$,  $$hasta, hasta que.$$)
+    
+
+
+Untimely, adj. [antáimli]`Intempestivo.`Walâ sa panahon.eng_section:Untimely, adj. [antáimli]
+eng_word:Untimely
+pos:adj:
+
+spanish:Intempestivo.
+spanish_word:Intempestivo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$untimely$$, $$adj$$,  $$intempestivo.$$)
+    
+
+
+Unto, prep. [antú]`Á, para, en.`Sa.eng_section:Unto, prep. [antú]
+eng_word:Unto
+pos:prep:
+
+spanish:Á, para, en.
+spanish_word:Á
+spanish_word:para
+spanish_word:en.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unto$$, $$prep$$,  $$á, para, en.$$)
+    
+
+
+Untrue, adj. [antrú]`Falso, incierto.`Sinungaling, hindî totoo.eng_section:Untrue, adj. [antrú]
+eng_word:Untrue
+pos:adj:
+
+spanish:Falso, incierto.
+spanish_word:Falso
+spanish_word:incierto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$untrue$$, $$adj$$,  $$falso, incierto.$$)
+    
+
+
+Unusual, adj. [aniúsiual]`Raro; extraño.`Dî karaniwan, bihirà; kaibá.eng_section:Unusual, adj. [aniúsiual]
+eng_word:Unusual
+pos:adj:
+
+spanish:Raro; extraño.
+spanish_phrase:Raro; extraño.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unusual$$, $$adj$$,  $$raro; extraño.$$)
+    
+
+
+Unutterable, adj. [anáterabl]`Indecible.`Dî masabi.eng_section:Unutterable, adj. [anáterabl]
+eng_word:Unutterable
+pos:adj:
+
+spanish:Indecible.
+spanish_word:Indecible.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unutterable$$, $$adj$$,  $$indecible.$$)
+    
+
+
+Unvail, v. [anvél]`Quitar ó correr el velo.`Mag-alis ng lambong; alisin ó hawiin ang tabing ó takip.eng_section:Unvail, v. [anvél]
+eng_word:Unvail
+pos:v:
+
+spanish:Quitar ó correr el velo.
+spanish_phrase:Quitar ó correr el velo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unvail$$, $$v$$,  $$quitar ó correr el velo.$$)
+    
+
+
+Unwearied, adj. [anwírid]`Infatigable.`Walang pagod, walang pagál.eng_section:Unwearied, adj. [anwírid]
+eng_word:Unwearied
+pos:adj:
+
+spanish:Infatigable.
+spanish_word:Infatigable.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unwearied$$, $$adj$$,  $$infatigable.$$)
+    
+
+
+Unwell, adj. [anwél]`Enfermizo, malo.`May sakít, may damdam, sinasamaan ng katawán.eng_section:Unwell, adj. [anwél]
+eng_word:Unwell
+pos:adj:
+
+spanish:Enfermizo, malo.
+spanish_word:Enfermizo
+spanish_word:malo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unwell$$, $$adj$$,  $$enfermizo, malo.$$)
+    
+
+
+Unwilling, adj. [anwíling]`Desinclinado.`Ayaw.eng_section:Unwilling, adj. [anwíling]
+eng_word:Unwilling
+pos:adj:
+
+spanish:Desinclinado.
+spanish_word:Desinclinado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unwilling$$, $$adj$$,  $$desinclinado.$$)
+    
+
+
+Unwittingly, adj. [anwítingli]`Sin saber.`Walang malay, walâ sa loob.eng_section:Unwittingly, adj. [anwítingli]
+eng_word:Unwittingly
+pos:adj:
+
+spanish:Sin saber.
+spanish_phrase:Sin saber.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unwittingly$$, $$adj$$,  $$sin saber.$$)
+    
+
+
+Unworthy, adj. [anwérzi]`Indigno; vil, bajo.`Dî dapat; hamak.eng_section:Unworthy, adj. [anwérzi]
+eng_word:Unworthy
+pos:adj:
+
+spanish:Indigno; vil, bajo.
+spanish_phrase:Indigno; vil
+spanish_word:bajo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unworthy$$, $$adj$$,  $$indigno; vil, bajo.$$)
+    
+
+
+Unwrap, v. [anráp]`Desenvolver.`Magbukás ng balutan.eng_section:Unwrap, v. [anráp]
+eng_word:Unwrap
+pos:v:
+
+spanish:Desenvolver.
+spanish_word:Desenvolver.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$unwrap$$, $$v$$,  $$desenvolver.$$)
+    
+
+
+Up, adv. & prep. [ap]`Arriba, en lo alto.`Sa itaas.eng_section:Up, adv. & prep. [ap]
+eng_word:Up
+pos:adv:
+
+spanish:Arriba, en lo alto.
+spanish_word:Arriba
+spanish_phrase:en lo alto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$up$$, $$adv$$,  $$arriba, en lo alto.$$)
+    
+
+
+Upbear, v. [apbír]`Sostener en lo alto.`Alalayan sa itaas.eng_section:Upbear, v. [apbír]
+eng_word:Upbear
+pos:v:
+
+spanish:Sostener en lo alto.
+spanish_phrase:Sostener en lo alto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$upbear$$, $$v$$,  $$sostener en lo alto.$$)
+    
+
+
+Upbraid, v. [apbréd]`Echar en cara.`Ipamukhâ.eng_section:Upbraid, v. [apbréd]
+eng_word:Upbraid
+pos:v:
+
+spanish:Echar en cara.
+spanish_phrase:Echar en cara.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$upbraid$$, $$v$$,  $$echar en cara.$$)
+    
+
+
+Uphold, v. [apjóld]`Levantar en alto; sostener, apoyar.`Itaas; alalayan.eng_section:Uphold, v. [apjóld]
+eng_word:Uphold
+pos:v:
+
+spanish:Levantar en alto; sostener, apoyar.
+spanish_phrase:Levantar en alto; sostener
+spanish_word:apoyar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$uphold$$, $$v$$,  $$levantar en alto; sostener, apoyar.$$)
+    
+
+
+Upland, adj. [ápland]`Alto, elevado.`Mataas, matayog.eng_section:Upland, adj. [ápland]
+eng_word:Upland
+pos:adj:
+
+spanish:Alto, elevado.
+spanish_word:Alto
+spanish_word:elevado.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$upland$$, $$adj$$,  $$alto, elevado.$$)
+    
+
+
+Upland, n. [ápland]`País montañoso.`Lupang mataas.eng_section:Upland, n. [ápland]
+eng_word:Upland
+pos:n:
+
+spanish:País montañoso.
+spanish_phrase:País montañoso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$upland$$, $$n$$,  $$país montañoso.$$)
+    
+
+
+Uplift, v. [aplíft]`Levantar en alto.`Itaas, ibangon.eng_section:Uplift, v. [aplíft]
+eng_word:Uplift
+pos:v:
+
+spanish:Levantar en alto.
+spanish_phrase:Levantar en alto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$uplift$$, $$v$$,  $$levantar en alto.$$)
+    
+
+
+Upmost, adj. [ápmost]`Lo mas alto, supremo.`Kátaastaasan.eng_section:Upmost, adj. [ápmost]
+eng_word:Upmost
+pos:adj:
+
+spanish:Lo mas alto, supremo.
+spanish_phrase:Lo mas alto
+spanish_word:supremo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$upmost$$, $$adj$$,  $$lo mas alto, supremo.$$)
+    
+
+
+Upon, prep. [apón]`Sobre, encima.`Sa ibabaw.eng_section:Upon, prep. [apón]
+eng_word:Upon
+pos:prep:
+
+spanish:Sobre, encima.
+spanish_word:Sobre
+spanish_word:encima.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$upon$$, $$prep$$,  $$sobre, encima.$$)
+    
+
+
+Upper, adj. [áper]`Mas alto.`Lalong mataas.eng_section:Upper, adj. [áper]
+eng_word:Upper
+pos:adj:
+
+spanish:Mas alto.
+spanish_phrase:Mas alto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$upper$$, $$adj$$,  $$mas alto.$$)
+    
+
+
+Uppermost, adj. [ápermost]`Lo mas alto, supremo.`Kátaastaasan.eng_section:Uppermost, adj. [ápermost]
+eng_word:Uppermost
+pos:adj:
+
+spanish:Lo mas alto, supremo.
+spanish_phrase:Lo mas alto
+spanish_word:supremo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$uppermost$$, $$adj$$,  $$lo mas alto, supremo.$$)
+    
+
+
+Uppish, adj. [ápish]`Engreido, altivo.`Palalò, mapagmataas.eng_section:Uppish, adj. [ápish]
+eng_word:Uppish
+pos:adj:
+
+spanish:Engreido, altivo.
+spanish_word:Engreido
+spanish_word:altivo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$uppish$$, $$adj$$,  $$engreido, altivo.$$)
+    
+
+
+Uppraise, v. [apréz]`Exaltar.`Ibunyî itaas.eng_section:Uppraise, v. [apréz]
+eng_word:Uppraise
+pos:v:
+
+spanish:Exaltar.
+spanish_word:Exaltar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$uppraise$$, $$v$$,  $$exaltar.$$)
+    
+
+
+Upright, adj. [apráit]`Derecho, recto.`Matwid.eng_section:Upright, adj. [apráit]
+eng_word:Upright
+pos:adj:
+
+spanish:Derecho, recto.
+spanish_word:Derecho
+spanish_word:recto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$upright$$, $$adj$$,  $$derecho, recto.$$)
+    
+
+
+Uprightly, adv. [ápraitli]`Perpendicularmente, derechamente.`Patayô, patwíd.eng_section:Uprightly, adv. [ápraitli]
+eng_word:Uprightly
+pos:adv:
+
+spanish:Perpendicularmente, derechamente.
+spanish_word:Perpendicularmente
+spanish_word:derechamente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$uprightly$$, $$adv$$,  $$perpendicularmente, derechamente.$$)
+    
+
+
+Uproar, n. [ápror]`Tumulto, alboroto.`Kaguló, kaingáy.eng_section:Uproar, n. [ápror]
+eng_word:Uproar
+pos:n:
+
+spanish:Tumulto, alboroto.
+spanish_word:Tumulto
+spanish_word:alboroto.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$uproar$$, $$n$$,  $$tumulto, alboroto.$$)
+    
+
+
+Uproot, v. [aprút]`Desarraigar.`Bunutin.eng_section:Uproot, v. [aprút]
+eng_word:Uproot
+pos:v:
+
+spanish:Desarraigar.
+spanish_word:Desarraigar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$uproot$$, $$v$$,  $$desarraigar.$$)
+    
+
+
+Upset, v. [apsét]`Trastornar.`Guluhín.eng_section:Upset, v. [apsét]
+eng_word:Upset
+pos:v:
+
+spanish:Trastornar.
+spanish_word:Trastornar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$upset$$, $$v$$,  $$trastornar.$$)
+    
+
+
+Upshot, n. [ápshot]`Remate, fin; conclusion.`Dulo, wakás, katapusan.eng_section:Upshot, n. [ápshot]
+eng_word:Upshot
+pos:n:
+
+spanish:Remate, fin; conclusion.
+spanish_word:Remate
+spanish_phrase:fin; conclusion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$upshot$$, $$n$$,  $$remate, fin; conclusion.$$)
+    
+
+
+Upside-down, adv. [apsaiddáun]`De arriba abajo.`Patiwarík.eng_section:Upside-down, adv. [apsaiddáun]
+eng_word:Upside-down
+pos:adv:
+
+spanish:De arriba abajo.
+spanish_phrase:De arriba abajo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$upside-down$$, $$adv$$,  $$de arriba abajo.$$)
+    
+
+
+Upstart, n. [apstárt]`Hombre de fortuna.`Taong mapalad.eng_section:Upstart, n. [apstárt]
+eng_word:Upstart
+pos:n:
+
+spanish:Hombre de fortuna.
+spanish_phrase:Hombre de fortuna.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$upstart$$, $$n$$,  $$hombre de fortuna.$$)
+    
+
+
+Upstart, v. [apstárt]`Levantarse de repente.`Bumangon ng pabiglâ.eng_section:Upstart, v. [apstárt]
+eng_word:Upstart
+pos:v:
+
+spanish:Levantarse de repente.
+spanish_phrase:Levantarse de repente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$upstart$$, $$v$$,  $$levantarse de repente.$$)
+    
+
+
+Upward, adj. [ápward]`Lo que mira ó se dirige hácia arriba..`Dakong itaas.eng_section:Upward, adj. [ápward]
+eng_word:Upward
+pos:adj:
+
+spanish:Lo que mira ó se dirige hácia arriba..
+spanish_phrase:Lo que mira ó se dirige hácia arriba..
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$upward$$, $$adj$$,  $$lo que mira ó se dirige hácia arriba..$$)
+    
+
+
+Upwards, adv. [ápwards]`Hácia arriba.`Sa dakong itaas.eng_section:Upwards, adv. [ápwards]
+eng_word:Upwards
+pos:adv:
+
+spanish:Hácia arriba.
+spanish_phrase:Hácia arriba.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$upwards$$, $$adv$$,  $$hácia arriba.$$)
+    
+
+
+Urban, adj. [úrban]`Urbano.`Nauukol sa bayan.eng_section:Urban, adj. [úrban]
+eng_word:Urban
+pos:adj:
+
+spanish:Urbano.
+spanish_word:Urbano.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$urban$$, $$adj$$,  $$urbano.$$)
+    
+
+
+Urbanity, n. [urbániti]`Urbanidad.`Galang, pitagan, karunungan sa pakikipagkapwà.eng_section:Urbanity, n. [urbániti]
+eng_word:Urbanity
+pos:n:
+
+spanish:Urbanidad.
+spanish_word:Urbanidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$urbanity$$, $$n$$,  $$urbanidad.$$)
+    
+
+
+Urge, v. [ærdch]`Urgir; incitar, estimular.`Pumilit; madaliin; papagmadaliin; ibuyó, udyukan.eng_section:Urge, v. [ærdch]
+eng_word:Urge
+pos:v:
+
+spanish:Urgir; incitar, estimular.
+spanish_phrase:Urgir; incitar
+spanish_word:estimular.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$urge$$, $$v$$,  $$urgir; incitar, estimular.$$)
+    
+
+
+Urgency, n. [úrdchensi]`Urgencia.`Pagmamadalî, kadalian, pangangailangan, pagpilit.eng_section:Urgency, n. [úrdchensi]
+eng_word:Urgency
+pos:n:
+
+spanish:Urgencia.
+spanish_word:Urgencia.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$urgency$$, $$n$$,  $$urgencia.$$)
+    
+
+
+Urgent, adj. [úrdchent]`Urgente.`Mádalian; kailangan.eng_section:Urgent, adj. [úrdchent]
+eng_word:Urgent
+pos:adj:
+
+spanish:Urgente.
+spanish_word:Urgente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$urgent$$, $$adj$$,  $$urgente.$$)
+    
+
+
+Urinal, n. [iúrinal]`Orinal.`Ihían.eng_section:Urinal, n. [iúrinal]
+eng_word:Urinal
+pos:n:
+
+spanish:Orinal.
+spanish_word:Orinal.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$urinal$$, $$n$$,  $$orinal.$$)
+    
+
+
+Urinary, adj. [iúrineri]`Urinario.`Nauukol sa ihì.eng_section:Urinary, adj. [iúrineri]
+eng_word:Urinary
+pos:adj:
+
+spanish:Urinario.
+spanish_word:Urinario.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$urinary$$, $$adj$$,  $$urinario.$$)
+    
+
+
+Urine, n. [iúrin]`Orina.`Ihì.eng_section:Urine, n. [iúrin]
+eng_word:Urine
+pos:n:
+
+spanish:Orina.
+spanish_word:Orina.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$urine$$, $$n$$,  $$orina.$$)
+    
+
+
+Urn, n. [oern]`Urna.`Urna; sisidlan.eng_section:Urn, n. [oern]
+eng_word:Urn
+pos:n:
+
+spanish:Urna.
+spanish_word:Urna.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$urn$$, $$n$$,  $$urna.$$)
+    
+
+
+Us, pron. [as]`Nos, á nosotros.`Sa amin, sa atin.eng_section:Us, pron. [as]
+eng_word:Us
+pos:pron:
+
+spanish:Nos, á nosotros.
+spanish_word:Nos
+spanish_phrase:á nosotros.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$us$$, $$pron$$,  $$nos, á nosotros.$$)
+    
+
+
+Use, n. [ius]`Uso, servicio.`Uso, kaugalian; paggamit.eng_section:Use, n. [ius]
+eng_word:Use
+pos:n:
+
+spanish:Uso, servicio.
+spanish_word:Uso
+spanish_word:servicio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$use$$, $$n$$,  $$uso, servicio.$$)
+    
+
+
+Use, v. [ius]`Usar, emplear.`Gamitin; gumamit.eng_section:Use, v. [ius]
+eng_word:Use
+pos:v:
+
+spanish:Usar, emplear.
+spanish_word:Usar
+spanish_word:emplear.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$use$$, $$v$$,  $$usar, emplear.$$)
+    
+
+
+Useful, adj. [iúsful]`Útil.`Magagamit.eng_section:Useful, adj. [iúsful]
+eng_word:Useful
+pos:adj:
+
+spanish:Útil.
+spanish_word:Útil.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$useful$$, $$adj$$,  $$útil.$$)
+    
+
+
+Usefulness, n. [iúsfulnes]`Utilidad.`Pakinabang; kabuluhan.eng_section:Usefulness, n. [iúsfulnes]
+eng_word:Usefulness
+pos:n:
+
+spanish:Utilidad.
+spanish_word:Utilidad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$usefulness$$, $$n$$,  $$utilidad.$$)
+    
+
+
+Useless, adj. [iúsles]`Inutil.`Walang kabuluhan.eng_section:Useless, adj. [iúsles]
+eng_word:Useless
+pos:adj:
+
+spanish:Inutil.
+spanish_word:Inutil.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$useless$$, $$adj$$,  $$inutil.$$)
+    
+
+
+Usual, adj. [iúsual]`Usual, ordinario, comun.`Karaniwan.eng_section:Usual, adj. [iúsual]
+eng_word:Usual
+pos:adj:
+
+spanish:Usual, ordinario, comun.
+spanish_word:Usual
+spanish_word:ordinario
+spanish_word:comun.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$usual$$, $$adj$$,  $$usual, ordinario, comun.$$)
+    
+
+
+Usurer, n. [iúsiurer]`Usurero.`Ang nagpapatubò.eng_section:Usurer, n. [iúsiurer]
+eng_word:Usurer
+pos:n:
+
+spanish:Usurero.
+spanish_word:Usurero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$usurer$$, $$n$$,  $$usurero.$$)
+    
+
+
+Usurp, v. [iuzérp]`Usurpar.`Manglupig, mangagaw; manggagá, mangamkam.eng_section:Usurp, v. [iuzérp]
+eng_word:Usurp
+pos:v:
+
+spanish:Usurpar.
+spanish_word:Usurpar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$usurp$$, $$v$$,  $$usurpar.$$)
+    
+
+
+Usurpation, n. [iuserpécion]`Usurpación.`Panglulupig, pang-aagaw, pangangamkam, panggagagá.eng_section:Usurpation, n. [iuserpécion]
+eng_word:Usurpation
+pos:n:
+
+spanish:Usurpación.
+spanish_word:Usurpación.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$usurpation$$, $$n$$,  $$usurpación.$$)
+    
+
+
+Utensil, n. [iuténsil]`Utensilio.`Kasangkapan.eng_section:Utensil, n. [iuténsil]
+eng_word:Utensil
+pos:n:
+
+spanish:Utensilio.
+spanish_word:Utensilio.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$utensil$$, $$n$$,  $$utensilio.$$)
+    
+
+
+Utility, n. [iutíliti]`Utilidad, ventaja.`Kabuluhan, kasaysayan, pakinabang.eng_section:Utility, n. [iutíliti]
+eng_word:Utility
+pos:n:
+
+spanish:Utilidad, ventaja.
+spanish_word:Utilidad
+spanish_word:ventaja.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$utility$$, $$n$$,  $$utilidad, ventaja.$$)
+    
+
+
+Utmost, adj. [átmost]`Extremo, sumo.`Káduluduluhan, kátaastaasan.eng_section:Utmost, adj. [átmost]
+eng_word:Utmost
+pos:adj:
+
+spanish:Extremo, sumo.
+spanish_word:Extremo
+spanish_word:sumo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$utmost$$, $$adj$$,  $$extremo, sumo.$$)
+    
+
+
+Utter, adj. [áter]`Exterior, de fuera.`Labás.eng_section:Utter, adj. [áter]
+eng_word:Utter
+pos:adj:
+
+spanish:Exterior, de fuera.
+spanish_word:Exterior
+spanish_phrase:de fuera.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$utter$$, $$adj$$,  $$exterior, de fuera.$$)
+    
+
+
+Utter, v. [áter]`Proferir, pronunciar.`Bumigkas, magbadyá.eng_section:Utter, v. [áter]
+eng_word:Utter
+pos:v:
+
+spanish:Proferir, pronunciar.
+spanish_word:Proferir
+spanish_word:pronunciar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$utter$$, $$v$$,  $$proferir, pronunciar.$$)
+    
+
+
+Utterance, n. [áterans]`Habla, expresion.`Bigkás, badyá, pananalitâ.eng_section:Utterance, n. [áterans]
+eng_word:Utterance
+pos:n:
+
+spanish:Habla, expresion.
+spanish_word:Habla
+spanish_word:expresion.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$utterance$$, $$n$$,  $$habla, expresion.$$)
+    
+
+
+Utterly, adv. [áterli]`Enteramente, totalmente, del todo.`Lubos, buongbuô, pawà.eng_section:Utterly, adv. [áterli]
+eng_word:Utterly
+pos:adv:
+
+spanish:Enteramente, totalmente, del todo.
+spanish_word:Enteramente
+spanish_word:totalmente
+spanish_phrase:del todo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$utterly$$, $$adv$$,  $$enteramente, totalmente, del todo.$$)
+    
+
+
+Uxorious, adj. [oecsórioes]`Gurrumino.`Lalaking talunan ng asawa.eng_section:Uxorious, adj. [oecsórioes]
+eng_word:Uxorious
+pos:adj:
+
+spanish:Gurrumino.
+spanish_word:Gurrumino.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$uxorious$$, $$adj$$,  $$gurrumino.$$)
+    
+
+

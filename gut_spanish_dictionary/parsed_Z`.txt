@@ -1,0 +1,183 @@
+Zeal, n. [zil]`Zelo, fervor.`Sikap, masakit.eng_section:Zeal, n. [zil]
+eng_word:Zeal
+pos:n:
+
+spanish:Zelo, fervor.
+spanish_word:Zelo
+spanish_word:fervor.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$zeal$$, $$n$$,  $$zelo, fervor.$$)
+    
+
+
+Zealot, n. [zílot]`Celador.`Tagapagsikap.eng_section:Zealot, n. [zílot]
+eng_word:Zealot
+pos:n:
+
+spanish:Celador.
+spanish_word:Celador.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$zealot$$, $$n$$,  $$celador.$$)
+    
+
+
+Zealous, adj. [zéloes]`Zeloso.`Masikap, mapagmasakit.eng_section:Zealous, adj. [zéloes]
+eng_word:Zealous
+pos:adj:
+
+spanish:Zeloso.
+spanish_word:Zeloso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$zealous$$, $$adj$$,  $$zeloso.$$)
+    
+
+
+Zealousness, n. [zélesnes]`La propiedad de ser zeloso.`Sikap, masákit.eng_section:Zealousness, n. [zélesnes]
+eng_word:Zealousness
+pos:n:
+
+spanish:La propiedad de ser zeloso.
+spanish_phrase:La propiedad de ser zeloso.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$zealousness$$, $$n$$,  $$la propiedad de ser zeloso.$$)
+    
+
+
+Zenith, n. [zíniz]`Zenit.`Senit; ang tapát ng ulo sa itaas.eng_section:Zenith, n. [zíniz]
+eng_word:Zenith
+pos:n:
+
+spanish:Zenit.
+spanish_word:Zenit.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$zenith$$, $$n$$,  $$zenit.$$)
+    
+
+
+Zephyr, n. [zéfir]`Céfiro.`Hanging palaypalay.eng_section:Zephyr, n. [zéfir]
+eng_word:Zephyr
+pos:n:
+
+spanish:Céfiro.
+spanish_word:Céfiro.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$zephyr$$, $$n$$,  $$céfiro.$$)
+    
+
+
+Zero, n. [zíro]`Zero.`Sero.eng_section:Zero, n. [zíro]
+eng_word:Zero
+pos:n:
+
+spanish:Zero.
+spanish_word:Zero.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$zero$$, $$n$$,  $$zero.$$)
+    
+
+
+Zest, n. [zest]`Siesta.`Kainitan, katanghalian.eng_section:Zest, n. [zest]
+eng_word:Zest
+pos:n:
+
+spanish:Siesta.
+spanish_word:Siesta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$zest$$, $$n$$,  $$siesta.$$)
+    
+
+
+Zinc, n. [zinc]`Zinc.`Siin.eng_section:Zinc, n. [zinc]
+eng_word:Zinc
+pos:n:
+
+spanish:Zinc.
+spanish_word:Zinc.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$zinc$$, $$n$$,  $$zinc.$$)
+    
+
+
+Zodiac, n. [zódiac]`Zodíaco.`Lakad ng araw.eng_section:Zodiac, n. [zódiac]
+eng_word:Zodiac
+pos:n:
+
+spanish:Zodíaco.
+spanish_word:Zodíaco.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$zodiac$$, $$n$$,  $$zodíaco.$$)
+    
+
+
+Zone, n. [zon]`Zona.`Pook.eng_section:Zone, n. [zon]
+eng_word:Zone
+pos:n:
+
+spanish:Zona.
+spanish_word:Zona.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$zone$$, $$n$$,  $$zona.$$)
+    
+
+
+Zoolatry, n. [zoólatri]`El culto y adoracion de los animales.`Pagsamba sa hayop.eng_section:Zoolatry, n. [zoólatri]
+eng_word:Zoolatry
+pos:n:
+
+spanish:El culto y adoracion de los animales.
+spanish_phrase:El culto y adoracion de los animales.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$zoolatry$$, $$n$$,  $$el culto y adoracion de los animales.$$)
+    
+
+
+Zoology, n. [zoólodchi]`Zoología.`Ang kaalaman tungkol sa mga kahoy.eng_section:Zoology, n. [zoólodchi]
+eng_word:Zoology
+pos:n:
+
+spanish:Zoología.
+spanish_word:Zoología.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$zoology$$, $$n$$,  $$zoología.$$)
+    
+
+

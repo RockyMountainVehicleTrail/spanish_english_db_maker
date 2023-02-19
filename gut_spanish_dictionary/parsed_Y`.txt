@@ -1,0 +1,691 @@
+Y, [wai]`Y (i griega).`Y (ya).eng_section:Y, [wai]
+eng_word:Y
+pos:none
+
+spanish:Y (i griega).
+spanish_phrase:Y (i griega).
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$y$$, $$n$$,  $$y (i griega).$$)
+    
+
+
+Yacht, n. [yot]`Yate.`Bangkang ingglés na may layag.eng_section:Yacht, n. [yot]
+eng_word:Yacht
+pos:n:
+
+spanish:Yate.
+spanish_word:Yate.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yacht$$, $$n$$,  $$yate.$$)
+    
+
+
+Yam, n. [yam]`Batata.`Kamoteng dilaw.eng_section:Yam, n. [yam]
+eng_word:Yam
+pos:n:
+
+spanish:Batata.
+spanish_word:Batata.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yam$$, $$n$$,  $$batata.$$)
+    
+
+
+Yankee, n. [yankí]`Natural de los Estados Unidos.`Taga Estados Unidos.eng_section:Yankee, n. [yankí]
+eng_word:Yankee
+pos:n:
+
+spanish:Natural de los Estados Unidos.
+spanish_phrase:Natural de los Estados Unidos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yankee$$, $$n$$,  $$natural de los estados unidos.$$)
+    
+
+
+Yard, n. [yard]`Yarda; corral, patio de una casa.`Yarda, bara; loobán.eng_section:Yard, n. [yard]
+eng_word:Yard
+pos:n:
+
+spanish:Yarda; corral, patio de una casa.
+spanish_phrase:Yarda; corral
+spanish_phrase:patio de una casa.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yard$$, $$n$$,  $$yarda; corral, patio de una casa.$$)
+    
+
+
+Yarn, n. [yarn]`Hilo de lino; estambre.`Hilachá ó hiblá ng lino; estambre.eng_section:Yarn, n. [yarn]
+eng_word:Yarn
+pos:n:
+
+spanish:Hilo de lino; estambre.
+spanish_phrase:Hilo de lino; estambre.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yarn$$, $$n$$,  $$hilo de lino; estambre.$$)
+    
+
+
+Yawn, n. [yon]`Bostezo.`Hikáb.eng_section:Yawn, n. [yon]
+eng_word:Yawn
+pos:n:
+
+spanish:Bostezo.
+spanish_word:Bostezo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yawn$$, $$n$$,  $$bostezo.$$)
+    
+
+
+Yawn, v. [yon]`Bostezar.`Maghikab.eng_section:Yawn, v. [yon]
+eng_word:Yawn
+pos:v:
+
+spanish:Bostezar.
+spanish_word:Bostezar.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yawn$$, $$v$$,  $$bostezar.$$)
+    
+
+
+Ye, pron. [yi]`Vosotros.`Kayó.eng_section:Ye, pron. [yi]
+eng_word:Ye
+pos:pron:
+
+spanish:Vosotros.
+spanish_word:Vosotros.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$ye$$, $$pron$$,  $$vosotros.$$)
+    
+
+
+Yea, adv. [yi]`Sí, ciertamente.`Oo, siyangà.eng_section:Yea, adv. [yi]
+eng_word:Yea
+pos:adv:
+
+spanish:Sí, ciertamente.
+spanish_word:Sí
+spanish_word:ciertamente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yea$$, $$adv$$,  $$sí, ciertamente.$$)
+    
+
+
+Yean, v. [yin]`Parir [la oveja].`Manganak [ang tupa].eng_section:Yean, v. [yin]
+eng_word:Yean
+pos:v:
+
+spanish:Parir [la oveja].
+spanish_phrase:Parir [la oveja].
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yean$$, $$v$$,  $$parir [la oveja].$$)
+    
+
+
+Year, n. [yir]`Año.`Taón.eng_section:Year, n. [yir]
+eng_word:Year
+pos:n:
+
+spanish:Año.
+spanish_word:Año.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$year$$, $$n$$,  $$año.$$)
+    
+
+
+Yearling, n. [yírling]`El animal que tiene un año.`Hayop na íisang taon ang gulang.eng_section:Yearling, n. [yírling]
+eng_word:Yearling
+pos:n:
+
+spanish:El animal que tiene un año.
+spanish_phrase:El animal que tiene un año.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yearling$$, $$n$$,  $$el animal que tiene un año.$$)
+    
+
+
+Yearly, adj. [yírli]`Anual.`Táunan, sangtaunan.eng_section:Yearly, adj. [yírli]
+eng_word:Yearly
+pos:adj:
+
+spanish:Anual.
+spanish_word:Anual.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yearly$$, $$adj$$,  $$anual.$$)
+    
+
+
+Yearly, adv. [yírli]`Anualmente.`Taóntaón.eng_section:Yearly, adv. [yírli]
+eng_word:Yearly
+pos:adv:
+
+spanish:Anualmente.
+spanish_word:Anualmente.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yearly$$, $$adv$$,  $$anualmente.$$)
+    
+
+
+Yearn, v. [yirn]`Compadecerse.`Mahabag, maawà.eng_section:Yearn, v. [yirn]
+eng_word:Yearn
+pos:v:
+
+spanish:Compadecerse.
+spanish_word:Compadecerse.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yearn$$, $$v$$,  $$compadecerse.$$)
+    
+
+
+Yearning, n. [yírning]`Compasión.`Habag, awà.eng_section:Yearning, n. [yírning]
+eng_word:Yearning
+pos:n:
+
+spanish:Compasión.
+spanish_word:Compasión.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yearning$$, $$n$$,  $$compasión.$$)
+    
+
+
+Yeast, n. [yist]`Fermento.`Pangpahilab.eng_section:Yeast, n. [yist]
+eng_word:Yeast
+pos:n:
+
+spanish:Fermento.
+spanish_word:Fermento.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yeast$$, $$n$$,  $$fermento.$$)
+    
+
+
+Yelk, n. [yolk]`Yema de huevo.`Pulá ng itlog.eng_section:Yelk, n. [yolk]
+eng_word:Yelk
+pos:n:
+
+spanish:Yema de huevo.
+spanish_phrase:Yema de huevo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yelk$$, $$n$$,  $$yema de huevo.$$)
+    
+
+
+Yell, n. [yel]`Aullido, alarido.`Kahol, tahol; angal, ungal.eng_section:Yell, n. [yel]
+eng_word:Yell
+pos:n:
+
+spanish:Aullido, alarido.
+spanish_word:Aullido
+spanish_word:alarido.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yell$$, $$n$$,  $$aullido, alarido.$$)
+    
+
+
+Yell, v. [yel]`Aullar, dar alaridos.`Umangal, umungal.eng_section:Yell, v. [yel]
+eng_word:Yell
+pos:v:
+
+spanish:Aullar, dar alaridos.
+spanish_word:Aullar
+spanish_phrase:dar alaridos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yell$$, $$v$$,  $$aullar, dar alaridos.$$)
+    
+
+
+Yellow, adj. [yeló]`Amarillo.`Dilaw, madilaw.eng_section:Yellow, adj. [yeló]
+eng_word:Yellow
+pos:adj:
+
+spanish:Amarillo.
+spanish_word:Amarillo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yellow$$, $$adj$$,  $$amarillo.$$)
+    
+
+
+Yellowish, adj. [yéloish]`Amarillento.`Naninilaw.eng_section:Yellowish, adj. [yéloish]
+eng_word:Yellowish
+pos:adj:
+
+spanish:Amarillento.
+spanish_word:Amarillento.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yellowish$$, $$adj$$,  $$amarillento.$$)
+    
+
+
+Yellowness, n. [yélones]`Amarillez.`Kadilawan, paninilaw.eng_section:Yellowness, n. [yélones]
+eng_word:Yellowness
+pos:n:
+
+spanish:Amarillez.
+spanish_word:Amarillez.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yellowness$$, $$n$$,  $$amarillez.$$)
+    
+
+
+Yelp, v. [yelp]`Latir.`Tumibok.eng_section:Yelp, v. [yelp]
+eng_word:Yelp
+pos:v:
+
+spanish:Latir.
+spanish_word:Latir.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yelp$$, $$v$$,  $$latir.$$)
+    
+
+
+Yerk, n. [yerk]`Ímpetu.`Pusok, kabiglaanan.eng_section:Yerk, n. [yerk]
+eng_word:Yerk
+pos:n:
+
+spanish:Ímpetu.
+spanish_word:Ímpetu.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yerk$$, $$n$$,  $$ímpetu.$$)
+    
+
+
+Yerk, v. [yerk]`Tirar coces un caballo.`Magsikád ó magtatadyak [ang kabayo].eng_section:Yerk, v. [yerk]
+eng_word:Yerk
+pos:v:
+
+spanish:Tirar coces un caballo.
+spanish_phrase:Tirar coces un caballo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yerk$$, $$v$$,  $$tirar coces un caballo.$$)
+    
+
+
+Yes, adv. [yes]`Sí.`Oo, opò.eng_section:Yes, adv. [yes]
+eng_word:Yes
+pos:adv:
+
+spanish:Sí.
+spanish_word:Sí.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yes$$, $$adv$$,  $$sí.$$)
+    
+
+
+Yesterday, adv. [yésterde]`Ayer.`Kahapon.eng_section:Yesterday, adv. [yésterde]
+eng_word:Yesterday
+pos:adv:
+
+spanish:Ayer.
+spanish_word:Ayer.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yesterday$$, $$adv$$,  $$ayer.$$)
+    
+
+
+Yet, adv. [yet]`Ademas, aún.`Sakâ, pa.eng_section:Yet, adv. [yet]
+eng_word:Yet
+pos:adv:
+
+spanish:Ademas, aún.
+spanish_word:Ademas
+spanish_word:aún.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yet$$, $$adv$$,  $$ademas, aún.$$)
+    
+
+
+Yet, conj. [yet]`Con todo, sin embargo.`Gayon man, kahiman.eng_section:Yet, conj. [yet]
+eng_word:Yet
+pos:conj:
+
+spanish:Con todo, sin embargo.
+spanish_phrase:Con todo
+spanish_phrase:sin embargo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yet$$, $$conj$$,  $$con todo, sin embargo.$$)
+    
+
+
+Yield, v. [yild]`Dar, producir; ceder, admitir, condescender.`Magbigay, magbunga; pumayag, pahinuhod.eng_section:Yield, v. [yild]
+eng_word:Yield
+pos:v:
+
+spanish:Dar, producir; ceder, admitir, condescender.
+spanish_word:Dar
+spanish_phrase:producir; ceder
+spanish_word:admitir
+spanish_word:condescender.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yield$$, $$v$$,  $$dar, producir; ceder, admitir, condescender.$$)
+    
+
+
+Yoke, n. [yok]`Yugo, yunta.`Pamatok; atang.eng_section:Yoke, n. [yok]
+eng_word:Yoke
+pos:n:
+
+spanish:Yugo, yunta.
+spanish_word:Yugo
+spanish_word:yunta.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yoke$$, $$n$$,  $$yugo, yunta.$$)
+    
+
+
+Yoke, v. [yok]`Uncir.`Isingkaw.eng_section:Yoke, v. [yok]
+eng_word:Yoke
+pos:v:
+
+spanish:Uncir.
+spanish_word:Uncir.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yoke$$, $$v$$,  $$uncir.$$)
+    
+
+
+Yokemate, n. [yókmet]`Compañero en los trabajos.`Kasama sa pagpapagal.eng_section:Yokemate, n. [yókmet]
+eng_word:Yokemate
+pos:n:
+
+spanish:Compañero en los trabajos.
+spanish_phrase:Compañero en los trabajos.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yokemate$$, $$n$$,  $$compañero en los trabajos.$$)
+    
+
+
+Yolk, n. [yok]`Yema de huevo.`Pulá ng itlog.eng_section:Yolk, n. [yok]
+eng_word:Yolk
+pos:n:
+
+spanish:Yema de huevo.
+spanish_phrase:Yema de huevo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yolk$$, $$n$$,  $$yema de huevo.$$)
+    
+
+
+Yon, adv. [yon]`Allí, alla.`Diyan, doon.eng_section:Yon, adv. [yon]
+eng_word:Yon
+pos:adv:
+
+spanish:Allí, alla.
+spanish_word:Allí
+spanish_word:alla.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yon$$, $$adv$$,  $$allí, alla.$$)
+    
+
+
+Yonder, adv. [yónder]`Allí, alla.`Diyan, doon.eng_section:Yonder, adv. [yónder]
+eng_word:Yonder
+pos:adv:
+
+spanish:Allí, alla.
+spanish_word:Allí
+spanish_word:alla.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yonder$$, $$adv$$,  $$allí, alla.$$)
+    
+
+
+Yore, adv. [yor]`En los tiempos de entonces.`Noong una, noong araw.eng_section:Yore, adv. [yor]
+eng_word:Yore
+pos:adv:
+
+spanish:En los tiempos de entonces.
+spanish_phrase:En los tiempos de entonces.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yore$$, $$adv$$,  $$en los tiempos de entonces.$$)
+    
+
+
+Young, adj. [yoúng]`Joven, mozo.`Batà, binatà.eng_section:Young, adj. [yoúng]
+eng_word:Young
+pos:adj:
+
+spanish:Joven, mozo.
+spanish_word:Joven
+spanish_word:mozo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$young$$, $$adj$$,  $$joven, mozo.$$)
+    
+
+
+Youngish, adj. [yoúnguish]`Mozuelo, tierno.`Batábatâ pa.eng_section:Youngish, adj. [yoúnguish]
+eng_word:Youngish
+pos:adj:
+
+spanish:Mozuelo, tierno.
+spanish_word:Mozuelo
+spanish_word:tierno.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$youngish$$, $$adj$$,  $$mozuelo, tierno.$$)
+    
+
+
+Youngster, n. [yoúngster]`Jovencito, joven.`Binatà.eng_section:Youngster, n. [yoúngster]
+eng_word:Youngster
+pos:n:
+
+spanish:Jovencito, joven.
+spanish_word:Jovencito
+spanish_word:joven.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$youngster$$, $$n$$,  $$jovencito, joven.$$)
+    
+
+
+Your(s), pron. [yur(s)]`Vuestro, os; de Vd., de Vdes.`Iyo, inyo, mo, ninyo.eng_section:Your(s), pron. [yur(s)]
+eng_word:Your(s)
+pos:pron:
+
+spanish:Vuestro, os; de Vd., de Vdes.
+spanish_word:Vuestro
+spanish_phrase:os; de Vd.
+spanish_phrase:de Vdes.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$your(s)$$, $$pron$$,  $$vuestro, os; de vd., de vdes.$$)
+    
+
+
+Yourself, pron. [yúrself]`Tú mismo; Vd. mismo.`Ikaw rin; kayo rin.eng_section:Yourself, pron. [yúrself]
+eng_word:Yourself
+pos:pron:
+
+spanish:Tú mismo; Vd. mismo.
+spanish_phrase:Tú mismo; Vd. mismo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yourself$$, $$pron$$,  $$tú mismo; vd. mismo.$$)
+    
+
+
+Youth, n. [yuz]`Juventud, mocedad.`Pagkabinatà, kabagungtauhan, pagka-bagongtao.eng_section:Youth, n. [yuz]
+eng_word:Youth
+pos:n:
+
+spanish:Juventud, mocedad.
+spanish_word:Juventud
+spanish_word:mocedad.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$youth$$, $$n$$,  $$juventud, mocedad.$$)
+    
+
+
+Youthful, adj. [yúzful]`Juvenil.`Parang binatà, tila bagongtao.eng_section:Youthful, adj. [yúzful]
+eng_word:Youthful
+pos:adj:
+
+spanish:Juvenil.
+spanish_word:Juvenil.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$youthful$$, $$adj$$,  $$juvenil.$$)
+    
+
+
+Yule, n. [yul]`Navidad, tiempo de Pascua.`Paskó.eng_section:Yule, n. [yul]
+eng_word:Yule
+pos:n:
+
+spanish:Navidad, tiempo de Pascua.
+spanish_word:Navidad
+spanish_phrase:tiempo de Pascua.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yule$$, $$n$$,  $$navidad, tiempo de pascua.$$)
+    
+
+
+Yux, n. [yecs]`Hipo.`Sinók.eng_section:Yux, n. [yecs]
+eng_word:Yux
+pos:n:
+
+spanish:Hipo.
+spanish_word:Hipo.
+
+
+INSERT INTO blog_spanishengword
+    (word, pos, spanish_phrase )   VALUES
+    ( $$yux$$, $$n$$,  $$hipo.$$)
+    
+
+
